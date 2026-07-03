@@ -1,0 +1,137 @@
+{
+  "schemaVersion": 1,
+  "countryCode": "NL",
+  "countryName": { "de": "Niederlande", "en": "Netherlands" },
+  "flagEmoji": "🇳🇱",
+  "lastUpdated": "2026-07-03",
+  "verified": false,
+  "verifiedBy": null,
+  "overallStatus": "forbidden",
+  "summary": {
+    "de": "Achtung: In den Niederlanden sind die meisten E-Scooter auf öffentlichen Straßen weiterhin VERBOTEN. Erlaubt sind nur wenige RDW-zugelassene Modelle ('bijzondere bromfiets') mit Versicherung und – seit 1. Juli 2026 ausnahmslos – blauem Kennzeichen. Die geplante allgemeine LEV-Regelung ist erneut verschoben.",
+    "en": "Warning: in the Netherlands most e-scooters remain BANNED from public roads. Only a few RDW-approved models ('bijzondere bromfiets') are allowed, with insurance and – since 1 July 2026 without exception – a blue licence plate. The planned general LEV framework has been postponed again."
+  },
+  "categories": [
+    {
+      "id": "max_speed",
+      "status": "forbidden",
+      "value": { "de": "nur zugelassene Modelle (25 km/h)", "en": "approved models only (25 km/h)" },
+      "details": {
+        "de": "Gewöhnliche E-Scooter (auch in DE/AT legale Modelle) haben keine niederländische Zulassung und dürfen nur auf Privatgelände gefahren werden. Zugelassen sind nur wenige Modelle (laut RDW-Liste, Stand Juli 2026: Selana Alpha, Yedoo Mezeq sowie Kickbike Luxury, Fat Max und Cruise), max. 25 km/h. E-Steps mit reiner Tretunterstützung (ohne Gashebel) gelten als E-Bike und sind ohne Kennzeichen erlaubt. Die RDW führt die Liste der zugelassenen Modelle.",
+        "en": "Ordinary e-scooters (including models legal in DE/AT) have no Dutch approval and may only be used on private property. Only a handful of models are approved (per the RDW list, as of July 2026: Selana Alpha, Yedoo Mezeq, and Kickbike Luxury, Fat Max and Cruise), max. 25 km/h. E-scooters with pedal assistance only (no throttle) count as e-bikes and are allowed without a plate. The RDW maintains the list of approved models."
+      }
+    },
+    {
+      "id": "min_age",
+      "status": "restricted",
+      "value": { "de": "ab 16 (zugelassene Modelle)", "en": "16+ (approved models)" },
+      "details": {
+        "de": "Für zugelassene E-Steps gilt ein Mindestalter von 16 Jahren (Quelle: Rijksoverheid).",
+        "en": "Approved e-scooters require a minimum age of 16 (source: Rijksoverheid)."
+      }
+    },
+    {
+      "id": "helmet",
+      "status": "allowed",
+      "value": { "de": "keine Pflicht", "en": "not required" },
+      "details": {
+        "de": "Für zugelassene E-Steps besteht laut Rijksoverheid derzeit keine Helmpflicht (empfohlen wird ein Helm trotzdem). Im geplanten LEV-Rahmen wird eine Helmpflicht für unter 18-Jährige erwogen – beschlossen ist sie nicht; die Entwürfe der Nutzerregeln sollen laut Kamerbrief vom August 2025 frühestens im Herbst 2026 ins Parlament.",
+        "en": "According to Rijksoverheid there is currently no helmet requirement for approved e-scooters (a helmet is still recommended). A helmet requirement for riders under 18 is being considered for the planned LEV framework, but nothing has been adopted; per an August 2025 letter to parliament, draft user rules are expected in parliament in autumn 2026 at the earliest."
+      }
+    },
+    {
+      "id": "insurance",
+      "status": "restricted",
+      "value": { "de": "Pflicht + Kennzeichen", "en": "required + plate" },
+      "details": {
+        "de": "Zugelassene Modelle brauchen eine Haftpflichtversicherung (WA, Aufkleber am Fahrzeug) und seit 1. Juli 2025 ein blaues Kennzeichen. Die Übergangsfrist für Bestandsfahrzeuge endete am 1. Juli 2026 – seither ist das Kennzeichen ausnahmslos Pflicht. Die Online-Registrierung (18 €) ist nicht mehr möglich; Nachzügler müssen zur RDW-Prüfstelle (ab ca. 116,65 €). Nicht zugelassene Scooter sind nicht versicherbar – Fahren führt zu Bußgeld und ggf. Beschlagnahme.",
+        "en": "Approved models need liability insurance (WA, sticker on the vehicle) and, since 1 July 2025, a blue licence plate. The transition period for existing vehicles ended on 1 July 2026 – the plate is now mandatory without exception. Online registration (€18) is no longer possible; latecomers must visit an RDW inspection station (from about €116.65). Non-approved scooters cannot be insured – riding one leads to fines and possible confiscation."
+      }
+    },
+    {
+      "id": "license",
+      "status": "allowed",
+      "value": { "de": "nicht nötig", "en": "not required" },
+      "details": {
+        "de": "Für zugelassene Modelle ist kein Führerschein nötig (Quelle: Rijksoverheid).",
+        "en": "No driving licence needed for approved models (source: Rijksoverheid)."
+      }
+    },
+    {
+      "id": "alcohol",
+      "status": "restricted",
+      "value": { "de": "0,5 ‰ (0,2 ‰ Fahranfänger)", "en": "0.5 ‰ (0.2 ‰ novices)" },
+      "details": {
+        "de": "Es gelten die allgemeinen niederländischen Grenzen: 0,5 ‰, für Fahranfänger 0,2 ‰. Fahren unter Alkohol- oder Drogeneinfluss ist auch auf dem E-Step verboten.",
+        "en": "General Dutch limits apply: 0.5 ‰, 0.2 ‰ for novice drivers. Riding under the influence of alcohol or drugs is banned on e-scooters too."
+      }
+    },
+    {
+      "id": "where_to_ride",
+      "status": "forbidden",
+      "value": { "de": "öffentlich nur zugelassene Modelle", "en": "public roads: approved models only" },
+      "details": {
+        "de": "Nicht zugelassene E-Scooter dürfen ausschließlich auf Privatgelände gefahren werden. Zugelassene Modelle fahren auf dem Radweg (fietspad bzw. fiets-/bromfietspad); Gehwege sind verboten. Max. 1 Person, keine Handy-/Gerätenutzung während der Fahrt.",
+        "en": "Non-approved e-scooters may only be used on private property. Approved models ride on the bike path (fietspad or fiets-/bromfietspad); sidewalks are banned. Max. 1 person, no phone/device use while riding."
+      }
+    }
+  ],
+  "fines": [
+    {
+      "offense": { "de": "Fahren eines nicht zugelassenen E-Scooters", "en": "Riding a non-approved e-scooter" },
+      "amount": "320 €",
+      "notes": {
+        "de": "Zzgl. 9 € Verwaltungsgebühr; zusätzlich droht die Beschlagnahme des Scooters.",
+        "en": "Plus €9 administrative fee; the scooter may additionally be confiscated."
+      }
+    },
+    {
+      "offense": { "de": "Fahren ohne Kennzeichen (zugelassenes Modell)", "en": "Riding without a licence plate (approved model)" },
+      "amount": "320 €",
+      "notes": {
+        "de": "Seit 1. Juli 2026 wird das Kennzeichen aktiv kontrolliert; beschädigtes/unlesbares Kennzeichen: 130 €.",
+        "en": "Since 1 July 2026 plates are actively enforced; damaged/illegible plate: €130."
+      }
+    },
+    {
+      "offense": { "de": "Fahren ohne Versicherung", "en": "Riding uninsured" },
+      "amount": "500 €",
+      "notes": {
+        "de": "Betrag laut Presseberichten zur Kenteken-Kontrolle (Juli 2026). Die RDW nennt für (bijzondere) Bromfietsen bei Registerkontrolle 480 €. Alle Bußgelder zzgl. 9 € Verwaltungsgebühr.",
+        "en": "Amount per press reports on plate enforcement (July 2026). For (special) mopeds caught via register checks the RDW lists €480. All fines plus a €9 administrative fee."
+      }
+    }
+  ],
+  "sources": [
+    {
+      "title": "Rijksoverheid: Regels voor elektrische steps (e-steps)",
+      "url": "https://www.rijksoverheid.nl/onderwerpen/voertuigen-op-de-weg/bijzondere-bromfiets/elektrische-step",
+      "accessed": "2026-07-03"
+    },
+    {
+      "title": "RDW: Check of uw e-step de weg op mag (zugelassene Modelle, Kenteken)",
+      "url": "https://www.rdw.nl/keuren/kenteken-aanvragen-voor-uw-bijzondere-bromfiets/e-steps",
+      "accessed": "2026-07-03"
+    },
+    {
+      "title": "RDW: Boetebedragen verzekering en APK",
+      "url": "https://www.rdw.nl/paginas/boetebedragen",
+      "accessed": "2026-07-03"
+    },
+    {
+      "title": "Tweede Kamer: Kamerbrief Stand van zaken LEV-kader (28.08.2025, Nutzerregeln frühestens Herbst 2026)",
+      "url": "https://www.tweedekamer.nl/kamerstukken/brieven_regering/detail?id=2025Z15526&did=2025D35883",
+      "accessed": "2026-07-03"
+    },
+    {
+      "title": "Openbaar Ministerie: Boetebase (Bußgeldhöhen)",
+      "url": "https://www2.om.nl/boetebase",
+      "accessed": "2026-07-03"
+    },
+    {
+      "title": "ANWB: E-step zonder kenteken – dit riskeer je (24.06.2026)",
+      "url": "https://www.anwb.nl/juridisch-advies/nieuws/2026/juni/e-steps-kentekenplicht",
+      "accessed": "2026-07-03"
+    }
+  ]
+}

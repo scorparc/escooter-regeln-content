@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 1,
+  "countryCode": "CH",
+  "countryName": { "de": "Schweiz", "en": "Switzerland" },
+  "flagEmoji": "🇨🇭",
+  "lastUpdated": "2026-07-03",
+  "verified": false,
+  "verifiedBy": null,
+  "overallStatus": "restricted",
+  "summary": {
+    "de": "E-Scooter (E-Trottinette) gelten in der Schweiz als Leicht-Motorfahrräder: max. 20 km/h und 500 W, ab 14 mit Ausweis Kat. M, ab 16 ausweisfrei. Es gelten die Verkehrsregeln für Velos; das Licht muss auch tagsüber eingeschaltet sein.",
+    "en": "In Switzerland e-scooters count as light motorised bicycles: max. 20 km/h and 500 W, from age 14 with a category M licence, from 16 without. Bicycle traffic rules apply; lights must be on even during the day."
+  },
+  "categories": [
+    {
+      "id": "max_speed",
+      "status": "restricted",
+      "value": { "de": "20 km/h", "en": "20 km/h" },
+      "details": {
+        "de": "Zulässig sind E-Trottinette mit max. 500 Watt (0,5 kW) Motorleistung und bauartbedingt max. 20 km/h (Art. 18 Bst. b Ziff. 2 VTS). Leistung und Höchstgeschwindigkeit müssen gegen Manipulation geschützt sein. Schnellere oder stärkere Geräte haben keine Strassenzulassung. Zusätzlich sind die allgemeinen und signalisierten Höchstgeschwindigkeiten einzuhalten.",
+        "en": "E-scooters with up to 500 watts (0.5 kW) motor power and a design speed of max. 20 km/h are permitted (Art. 18 let. b no. 2 VTS). Power and top speed must be protected against tampering. Faster or more powerful devices are not approved for public roads. General and signposted speed limits must also be observed."
+      }
+    },
+    {
+      "id": "min_age",
+      "status": "restricted",
+      "value": { "de": "ab 14 (mit Ausweis), ab 16 frei", "en": "14+ (with licence), 16+ free" },
+      "details": {
+        "de": "Ab 14 Jahren nur mit Führerausweis Kategorie M (Mofa-Ausweis), ab 16 Jahren ohne Ausweis (Art. 5 Abs. 2 Bst. d und Art. 6 Abs. 1 Bst. f VZV). Mit kantonaler Bewilligung kann der Kat.-M-Ausweis in Ausnahmefällen schon vor 14 erworben werden. Wer unter 16 ist, darf niemanden mitführen; E-Trottinette sind ohnehin einplätzig.",
+        "en": "From 14 only with a category M (moped) licence, from 16 no licence is required (Art. 5 para. 2 let. d and Art. 6 para. 1 let. f VZV). With cantonal approval the category M licence can exceptionally be obtained before 14. Riders under 16 may not carry anyone; e-scooters are single-seaters anyway."
+      }
+    },
+    {
+      "id": "helmet",
+      "status": "allowed",
+      "value": { "de": "keine Pflicht", "en": "not required" },
+      "details": {
+        "de": "Keine Helmpflicht für E-Trottinette: Fahrzeuge bis 20 km/h sind von der Helmtragpflicht ausgenommen (Art. 3b Abs. 2 VRV). Das ASTRA empfiehlt das Tragen eines Helms.",
+        "en": "No helmet requirement for e-scooters: vehicles up to 20 km/h are exempt from the helmet obligation (Art. 3b para. 2 VRV). The Federal Roads Office (ASTRA) recommends wearing one."
+      }
+    },
+    {
+      "id": "insurance",
+      "status": "allowed",
+      "value": { "de": "kein Schild, keine Vignette", "en": "no plate, no vignette" },
+      "details": {
+        "de": "E-Trottinette (Leicht-Motorfahrräder) brauchen weder Fahrzeugausweis noch Kontrollschild oder Versicherungsvignette (ASTRA-Merkblatt, Stand 1.7.2025). Eine obligatorische Fahrzeugversicherung gibt es nicht; Schäden deckt üblicherweise die Privathaftpflicht – Deckung vorab prüfen.",
+        "en": "E-scooters (light motorised bicycles) need no registration document, number plate or insurance vignette (ASTRA fact sheet, as of 1 July 2025). There is no compulsory vehicle insurance; damage is usually covered by private liability insurance – check your policy."
+      }
+    },
+    {
+      "id": "license",
+      "status": "restricted",
+      "value": { "de": "Kat. M nur für 14–15-Jährige", "en": "cat. M only for ages 14–15" },
+      "details": {
+        "de": "Nur 14- und 15-Jährige brauchen den Mofa-Ausweis (Kategorie M). Ab 16 Jahren ist kein Führerausweis nötig (Art. 5 Abs. 2 Bst. d und Art. 6 Abs. 1 Bst. f VZV).",
+        "en": "Only 14 and 15 year olds need the moped licence (category M). From 16 no licence is needed (Art. 5 para. 2 let. d and Art. 6 para. 1 let. f VZV)."
+      }
+    },
+    {
+      "id": "alcohol",
+      "status": "restricted",
+      "value": { "de": "0,5 ‰", "en": "0.5 ‰" },
+      "details": {
+        "de": "Es gilt die allgemeine Grenze von 0,5 ‰ Blutalkohol (bzw. 0,25 mg/l Atemluft) für Fahrzeugführende. Das strengere Alkoholverbot für Neulenkende auf Probe (praktisch 0,1 ‰) gilt auf Fahrten mit Kategorie-M-Fahrzeugen wie E-Trottinetten ausdrücklich nicht (Art. 2a Abs. 1 Bst. h VRV). Wer fahrunfähig ist, macht sich unabhängig davon strafbar.",
+        "en": "The general limit of 0.5 ‰ blood alcohol (0.25 mg/l breath) for vehicle drivers applies. The stricter alcohol ban for new drivers on probation (effectively 0.1 ‰) explicitly does not apply to rides on category M vehicles such as e-scooters (Art. 2a para. 1 let. h VRV). Riding while unfit to drive is punishable regardless."
+      }
+    },
+    {
+      "id": "where_to_ride",
+      "status": "restricted",
+      "value": { "de": "wie Velo", "en": "like a bicycle" },
+      "details": {
+        "de": "Es gelten die Verkehrsregeln für Velofahrende: Radwege und Radstreifen müssen benutzt werden, sonst Fahrbahn. Trottoirs und Fussgängerflächen sind verboten. Licht ist Pflicht (vorne weiss, hinten rot, fest angebracht) und muss auch am Tag eingeschaltet sein (Art. 30 Abs. 2 VRV). Eine Glocke ist vorgeschrieben; nur eine Person pro Fahrzeug.",
+        "en": "Bicycle traffic rules apply: bike paths and bike lanes must be used, otherwise the road. Sidewalks and pedestrian areas are forbidden. Lights are mandatory (fixed white front, red rear) and must be switched on even during the day (Art. 30 para. 2 VRV). A bell is required; only one person per vehicle."
+      }
+    }
+  ],
+  "fines": [
+    {
+      "offense": { "de": "Fahren auf dem Trottoir", "en": "Riding on the sidewalk" },
+      "amount": "40 CHF",
+      "notes": {
+        "de": "Ordnungsbusse nach Anhang 1 Ziff. 605.1 OBV (Stand 1.1.2025).",
+        "en": "Fixed-penalty fine under Annex 1 no. 605.1 OBV (as of 1 Jan 2025)."
+      }
+    },
+    {
+      "offense": { "de": "Fahren ohne Licht", "en": "Riding without lights" },
+      "amount": "20–60 CHF",
+      "notes": {
+        "de": "Ordnungsbusse nach Anhang 1 Ziff. 604 OBV: tagsüber 20 CHF, nachts auf beleuchteter Strasse 40 CHF, auf unbeleuchteter Strasse 60 CHF.",
+        "en": "Fixed-penalty fine under Annex 1 no. 604 OBV: 20 CHF during the day, 40 CHF at night on lit roads, 60 CHF on unlit roads."
+      }
+    },
+    {
+      "offense": { "de": "Nicht zugelassenes (zu schnelles/zu starkes) Gerät", "en": "Non-approved (too fast/too powerful) device" },
+      "amount": "Anzeige, Busse nach Ermessen",
+      "notes": {
+        "de": "Keine Ordnungsbusse: Fahren eines nicht zugelassenen Geräts auf öffentlichem Grund wird verzeigt, die Busse legt das Gericht bzw. die Staatsanwaltschaft fest.",
+        "en": "No fixed penalty: riding a non-approved device on public roads leads to formal charges; the fine is set by the court or prosecution."
+      }
+    }
+  ],
+  "sources": [
+    {
+      "title": "ASTRA: Vorschriften über langsame E-Bikes, E-Trottinette, E-Roller usw. (Merkblatt, Stand 1. Juli 2025)",
+      "url": "https://www.astra.admin.ch/dam/de/sd-web/0j-sb10OY--z/vorschriften-zulassung-betrieb-motorfahrraeder.pdf",
+      "accessed": "2026-07-03"
+    },
+    {
+      "title": "ASTRA: Vorschriften für Fahrzeuge des Langsamverkehrs",
+      "url": "https://www.astra.admin.ch/de/vorschriften-fuer-fahrzeuge-des-langsamverkehrs",
+      "accessed": "2026-07-03"
+    },
+    {
+      "title": "Fedlex: Verordnung über die technischen Anforderungen an Strassenfahrzeuge (VTS, SR 741.41), Art. 18",
+      "url": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/de",
+      "accessed": "2026-07-03"
+    },
+    {
+      "title": "Fedlex: Ordnungsbussenverordnung (OBV, SR 314.11), Anhang 1 Ziff. 604–605",
+      "url": "https://www.fedlex.admin.ch/eli/cc/2019/93/de",
+      "accessed": "2026-07-03"
+    }
+  ]
+}

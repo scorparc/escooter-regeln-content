@@ -1,0 +1,157 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "escooter-rules.schema.json",
+  "title": "E-Scooter Country Rules (Schema v1)",
+  "description": "Versioniertes Content-Format für Länder-/Stadtregeln. Eine Datei pro Land. Alle nutzersichtbaren Texte sind mehrsprachig (mindestens de + en).",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schemaVersion",
+    "countryCode",
+    "countryName",
+    "flagEmoji",
+    "lastUpdated",
+    "verified",
+    "overallStatus",
+    "summary",
+    "categories",
+    "fines",
+    "sources"
+  ],
+  "properties": {
+    "schemaVersion": {
+      "type": "integer",
+      "const": 1,
+      "description": "Version dieses Schemas. Breaking Changes erhöhen die Zahl; die App prüft Kompatibilität."
+    },
+    "countryCode": {
+      "type": "string",
+      "pattern": "^[A-Z]{2}$",
+      "description": "ISO-3166-1 alpha-2, Großbuchstaben (z. B. DE)."
+    },
+    "countryName": { "$ref": "#/definitions/localizedText" },
+    "flagEmoji": { "type": "string" },
+    "lastUpdated": {
+      "type": "string",
+      "format": "date",
+      "description": "Redaktioneller Stand des Inhalts (wird in der App als \"Stand\" angezeigt)."
+    },
+    "verified": {
+      "type": "boolean",
+      "description": "true erst nach fachlicher/juristischer Prüfung. Bei false zeigt die App einen Entwurfs-Hinweis."
+    },
+    "verifiedBy": {
+      "type": ["string", "null"],
+      "description": "Wer geprüft hat (Name/Rolle), null solange unverifiziert."
+    },
+    "overallStatus": {
+      "$ref": "#/definitions/status",
+      "description": "Gesamt-Ampel des Landes: allowed = erlaubt, restricted = mit Auflagen, forbidden = (weitgehend) verboten."
+    },
+    "summary": {
+      "$ref": "#/definitions/localizedText",
+      "description": "1–3 Sätze Kurzfazit für die Länderkarte."
+    },
+    "categories": {
+      "type": "array",
+      "description": "Quick-Check-Kategorien. IDs sind fest definiert, damit die App Icons/Labels zuordnen kann.",
+      "items": { "$ref": "#/definitions/category" }
+    },
+    "fines": {
+      "type": "array",
+      "items": { "$ref": "#/definitions/fine" }
+    },
+    "cities": {
+      "type": "array",
+      "description": "Optionale Stadt-Details (Pro-Feature). Kategorien überschreiben die Landeswerte nur punktuell.",
+      "items": { "$ref": "#/definitions/city" }
+    },
+    "sources": {
+      "type": "array",
+      "minItems": 1,
+      "items": { "$ref": "#/definitions/source" }
+    }
+  },
+  "definitions": {
+    "localizedText": {
+      "type": "object",
+      "description": "Sprachcode -> Text. de und en sind Pflicht, weitere Sprachen erlaubt.",
+      "required": ["de", "en"],
+      "additionalProperties": { "type": "string" },
+      "properties": {
+        "de": { "type": "string" },
+        "en": { "type": "string" }
+      }
+    },
+    "status": {
+      "type": "string",
+      "enum": ["allowed", "restricted", "forbidden", "unknown"],
+      "description": "Ampel: allowed = grün, restricted = gelb (mit Auflagen), forbidden = rot, unknown = grau."
+    },
+    "categoryId": {
+      "type": "string",
+      "enum": [
+        "max_speed",
+        "min_age",
+        "helmet",
+        "insurance",
+        "license",
+        "alcohol",
+        "where_to_ride"
+      ]
+    },
+    "category": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "status", "value"],
+      "properties": {
+        "id": { "$ref": "#/definitions/categoryId" },
+        "status": { "$ref": "#/definitions/status" },
+        "value": {
+          "$ref": "#/definitions/localizedText",
+          "description": "Kurzwert für die Quick-Check-Kachel, z. B. \"20 km/h\" oder \"ab 14 Jahren\"."
+        },
+        "details": {
+          "$ref": "#/definitions/localizedText",
+          "description": "Ausführliche Erläuterung inkl. Ausnahmen."
+        }
+      }
+    },
+    "fine": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["offense", "amount"],
+      "properties": {
+        "offense": { "$ref": "#/definitions/localizedText" },
+        "amount": {
+          "type": "string",
+          "description": "Betrag als Anzeigetext in Landeswährung, z. B. \"15–30 €\" oder \"bis 500 zł\"."
+        },
+        "notes": { "$ref": "#/definitions/localizedText" }
+      }
+    },
+    "city": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["name", "notes"],
+      "properties": {
+        "name": { "type": "string" },
+        "notes": { "$ref": "#/definitions/localizedText" },
+        "categories": {
+          "type": "array",
+          "items": { "$ref": "#/definitions/category" }
+        }
+      }
+    },
+    "source": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["title", "url", "accessed"],
+      "properties": {
+        "title": { "type": "string" },
+        "url": { "type": "string", "format": "uri" },
+        "accessed": { "type": "string", "format": "date" }
+      }
+    }
+  }
+}

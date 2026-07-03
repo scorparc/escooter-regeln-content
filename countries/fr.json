@@ -1,0 +1,132 @@
+{
+  "schemaVersion": 1,
+  "countryCode": "FR",
+  "countryName": { "de": "Frankreich", "en": "France" },
+  "flagEmoji": "🇫🇷",
+  "lastUpdated": "2026-07-03",
+  "verified": false,
+  "verifiedBy": null,
+  "overallStatus": "restricted",
+  "summary": {
+    "de": "E-Scooter (EDPM) sind in Frankreich erlaubt: max. 25 km/h, ab 14 Jahren, Haftpflichtversicherung ist Pflicht. In Paris sind Leih-Scooter seit 2023 abgeschafft – private Scooter bleiben erlaubt.",
+    "en": "E-scooters (EDPM) are legal in France: max. 25 km/h, from age 14, liability insurance is mandatory. Paris abolished rental scooters in 2023 – private scooters remain legal."
+  },
+  "categories": [
+    {
+      "id": "max_speed",
+      "status": "restricted",
+      "value": { "de": "25 km/h", "en": "25 km/h" },
+      "details": {
+        "de": "Maximal 25 km/h Bauartgeschwindigkeit. Fahren mit einem entdrosselten Scooter über 25 km/h kostet 1.500 € (Ordnungswidrigkeit der 5. Klasse).",
+        "en": "Maximum design speed 25 km/h. Riding a derestricted scooter capable of more than 25 km/h costs €1,500 (5th-class offence)."
+      }
+    },
+    {
+      "id": "min_age",
+      "status": "restricted",
+      "value": { "de": "ab 14 Jahren", "en": "14 years and older" },
+      "details": {
+        "de": "Mindestalter 14 Jahre (seit 1.9.2023 per Dekret Nr. 2023-848 von 12 auf 14 angehoben, Art. R412-43-3 Code de la route).",
+        "en": "Minimum age 14 (raised from 12 to 14 on 1 Sept 2023 by decree no. 2023-848, Art. R412-43-3 of the French traffic code)."
+      }
+    },
+    {
+      "id": "helmet",
+      "status": "restricted",
+      "value": { "de": "innerorts keine Pflicht", "en": "not required in towns" },
+      "details": {
+        "de": "National keine allgemeine Helmpflicht (dringend empfohlen). Ausnahme: Außerorts dürfen Behörden Straßen bis 80 km/h freigeben – dort sind Helm, Warnweste/Reflektoren und Licht auch tagsüber Pflicht (Art. R412-43-1). Nachts und bei schlechter Sicht ist überall Warnweste oder reflektierende Ausrüstung vorgeschrieben. Einzelne Städte (z. B. Nizza) schreiben per kommunalem Erlass einen Helm vor; ein Gesetzentwurf für eine landesweite Helmpflicht war Mitte 2026 noch nicht beschlossen.",
+        "en": "No general national helmet requirement (strongly recommended). Exception: outside built-up areas, authorities may open roads up to 80 km/h – there a helmet, hi-vis vest/reflectors and lights are mandatory even by day (Art. R412-43-1). At night or in poor visibility a hi-vis vest or retro-reflective equipment is required everywhere. Some cities (e.g. Nice) mandate helmets by municipal decree; a bill for a nationwide helmet requirement had not been passed as of mid-2026."
+      }
+    },
+    {
+      "id": "insurance",
+      "status": "restricted",
+      "value": { "de": "Haftpflicht Pflicht", "en": "liability insurance required" },
+      "details": {
+        "de": "Eine Kfz-Haftpflichtversicherung (responsabilité civile) ist gesetzlich vorgeschrieben – auch für Touristen mit eigenem Scooter. Deckung der eigenen Versicherung vorab klären.",
+        "en": "Motor liability insurance (responsabilité civile) is legally required – including for tourists with their own scooter. Check your coverage in advance."
+      }
+    },
+    {
+      "id": "license",
+      "status": "allowed",
+      "value": { "de": "nicht nötig", "en": "not required" },
+      "details": {
+        "de": "Kein Führerschein erforderlich.",
+        "en": "No driving licence required."
+      }
+    },
+    {
+      "id": "alcohol",
+      "status": "restricted",
+      "value": { "de": "0,5 ‰", "en": "0.5 ‰" },
+      "details": {
+        "de": "E-Scooter gelten als Kraftfahrzeuge, daher gelten die allgemeinen Alkoholgrenzen: 0,5 g/l Blut. Zwischen 0,5 und 0,8 g/l droht ein Bußgeld von 135 €, ab 0,8 g/l eine Straftat mit deutlich höheren Strafen. Für Inhaber eines Führerscheins auf Probe gilt die 0,2-g/l-Grenze.",
+        "en": "E-scooters count as motor vehicles, so the general alcohol limits apply: 0.5 g/l blood. Between 0.5 and 0.8 g/l the fine is €135; from 0.8 g/l it is a criminal offence with much heavier penalties. Holders of a probationary driving licence are subject to the 0.2 g/l limit."
+      }
+    },
+    {
+      "id": "where_to_ride",
+      "status": "restricted",
+      "value": { "de": "Radweg, Gehweg verboten", "en": "bike path, sidewalk banned" },
+      "details": {
+        "de": "Innerorts müssen Radwege/Radstreifen benutzt werden; ohne Radweg sind Straßen bis 50 km/h erlaubt, außerdem Fußgängerzonen mit max. 6 km/h. Gehwegfahren ist verboten (135 €), außer die Kommune erlaubt es ausdrücklich – dann Schrittgeschwindigkeit. Außerorts sind nur Grünwege (voies vertes) und Radwege erlaubt; Straßen bis 80 km/h nur, wo Behörden sie freigeben (dann Helm- und Warnwestenpflicht). Nur eine Person, keine Kopfhörer (je 135 €).",
+        "en": "In built-up areas you must use bike paths/lanes; without one, roads up to 50 km/h are allowed, plus pedestrian zones at max. 6 km/h. Riding on sidewalks is banned (€135) unless the municipality explicitly allows it – then walking pace only. Outside built-up areas only greenways (voies vertes) and bike paths are permitted; roads up to 80 km/h only where authorities open them (helmet and hi-vis vest then mandatory). One person only, no headphones (€135 each)."
+      }
+    }
+  ],
+  "fines": [
+    {
+      "offense": { "de": "Fahren auf dem Gehweg", "en": "Riding on the sidewalk" },
+      "amount": "135 €",
+      "notes": { "de": "Ordnungswidrigkeit 4. Klasse", "en": "4th-class offence" }
+    },
+    {
+      "offense": { "de": "Zu zweit fahren", "en": "Riding in pairs" },
+      "amount": "135 €",
+      "notes": { "de": "Ordnungswidrigkeit 4. Klasse (2023 von 35 € erhöht)", "en": "4th-class offence (raised from €35 in 2023)" }
+    },
+    {
+      "offense": { "de": "Kopfhörer beim Fahren", "en": "Wearing headphones while riding" },
+      "amount": "135 €",
+      "notes": { "de": "Ordnungswidrigkeit 4. Klasse", "en": "4th-class offence" }
+    },
+    {
+      "offense": { "de": "Scooter schneller als 25 km/h (entdrosselt)", "en": "Scooter faster than 25 km/h (derestricted)" },
+      "amount": "1.500 €",
+      "notes": { "de": "Ordnungswidrigkeit 5. Klasse", "en": "5th-class offence" }
+    },
+    {
+      "offense": { "de": "Fahren ohne Versicherung", "en": "Riding without insurance" },
+      "amount": "bis 3.750 €",
+      "notes": { "de": "Straftatbestand (Art. L324-2 Code de la route)", "en": "Criminal offence (Art. L324-2 of the French traffic code)" }
+    }
+  ],
+  "cities": [
+    {
+      "name": "Paris",
+      "notes": {
+        "de": "Leih-E-Scooter sind seit September 2023 abgeschafft (Bürgerentscheid). Private E-Scooter dürfen weiter nach den nationalen Regeln gefahren werden; Parken nur auf ausgewiesenen Flächen.",
+        "en": "Rental e-scooters were abolished in September 2023 (public vote). Private e-scooters remain legal under national rules; parking only in designated areas."
+      }
+    }
+  ],
+  "sources": [
+    {
+      "title": "Service-Public.gouv.fr: Trottinette électrique – règles (F308)",
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F308",
+      "accessed": "2026-07-03"
+    },
+    {
+      "title": "Légifrance: Code de la route, Art. R412-43-1 bis R412-43-4 (EDPM)",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000045025526",
+      "accessed": "2026-07-03"
+    },
+    {
+      "title": "Ministère de la Transition écologique: Trottinettes électriques et EDPM – réglementation en vigueur",
+      "url": "https://www.ecologie.gouv.fr/politiques-publiques/trottinettes-electriques-edpm-reglementation-vigueur",
+      "accessed": "2026-07-03"
+    }
+  ]
+}

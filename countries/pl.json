@@ -1,0 +1,140 @@
+{
+  "schemaVersion": 1,
+  "countryCode": "PL",
+  "countryName": { "de": "Polen", "en": "Poland" },
+  "flagEmoji": "🇵🇱",
+  "lastUpdated": "2026-07-03",
+  "verified": false,
+  "verifiedBy": null,
+  "overallStatus": "restricted",
+  "summary": {
+    "de": "E-Scooter (hulajnoga elektryczna) sind in Polen erlaubt: max. 20 km/h, Mindestalter 13 Jahre, unter 18 nur mit Fahrradkarte/Führerschein, Helmpflicht unter 16, sehr niedrige Promillegrenze (0,2 ‰). Radweg hat Vorrang, Gehweg nur ausnahmsweise im Schritttempo.",
+    "en": "E-scooters are legal in Poland: max. 20 km/h, minimum age 13, riders under 18 need a cycling card or licence, helmet required under 16, very low alcohol limit (0.2 ‰). Bike paths first, sidewalks only as an exception at walking pace."
+  },
+  "categories": [
+    {
+      "id": "max_speed",
+      "status": "restricted",
+      "value": { "de": "20 km/h", "en": "20 km/h" },
+      "details": {
+        "de": "Maximal 20 km/h. Auf dem Gehweg (nur ausnahmsweise erlaubt) gilt Schrittgeschwindigkeit.",
+        "en": "Maximum 20 km/h. On sidewalks (only allowed as an exception) walking pace applies."
+      }
+    },
+    {
+      "id": "min_age",
+      "status": "restricted",
+      "value": { "de": "ab 13 (mit Berechtigung), ab 18 frei", "en": "13+ (with permit), 18+ free" },
+      "details": {
+        "de": "Seit 3. März 2026 gilt ein Mindestalter von 13 Jahren (vorher 10). 13–17-Jährige brauchen eine 'karta rowerowa' (Fahrradkarte) oder einen Führerschein der Kategorie AM/A1/B1/T. Ab 18 ist keine Berechtigung nötig. Kinder unter 13 dürfen auf öffentlichen Straßen, Radwegen und Gehwegen gar nicht fahren – auch nicht unter Aufsicht Erwachsener; erlaubt bleibt nur der Wohnbereich (strefa zamieszkania) unter Aufsicht Erwachsener.",
+        "en": "Since 3 March 2026 the minimum age is 13 (previously 10). Ages 13–17 need a 'karta rowerowa' (cycling card) or an AM/A1/B1/T licence. From 18 no permit is required. Children under 13 may not ride on public roads, bike paths or sidewalks at all – not even under adult supervision; only residential zones (strefa zamieszkania) under adult supervision remain allowed."
+      }
+    },
+    {
+      "id": "helmet",
+      "status": "restricted",
+      "value": { "de": "Pflicht unter 16", "en": "required under 16" },
+      "details": {
+        "de": "Seit 3. Juni 2026 gilt eine Helmpflicht für Kinder und Jugendliche unter 16 Jahren – auf E-Scootern, Fahrrädern und UTO, auch auf Radwegen und Gehwegen. Das Ministerium verweist auf Schutzhelme nach Norm PN-EN 1078. Bei Verstößen droht ein Bußgeld bis 100 zł; verantwortlich sind Eltern bzw. Aufsichtspersonen. Ab 16 keine Pflicht, das Tragen wird empfohlen.",
+        "en": "Since 3 June 2026 helmets are mandatory for children and teens under 16 – on e-scooters, bicycles and personal transport devices, including on bike paths and sidewalks. The ministry refers to helmets meeting standard PN-EN 1078. Violations carry a fine of up to 100 zł; parents or guardians are liable. From 16 no requirement; wearing one is recommended."
+      }
+    },
+    {
+      "id": "insurance",
+      "status": "allowed",
+      "value": { "de": "keine Pflicht", "en": "not required" },
+      "details": {
+        "de": "Keine Versicherungspflicht für private E-Scooter. Private Haftpflichtdeckung empfohlen.",
+        "en": "No insurance requirement for private e-scooters. Private liability coverage recommended."
+      }
+    },
+    {
+      "id": "license",
+      "status": "restricted",
+      "value": { "de": "unter 18: karta rowerowa/AM", "en": "under 18: cycling card/AM" },
+      "details": {
+        "de": "Nur Minderjährige (13–17) brauchen die Fahrradkarte (karta rowerowa) oder einen Führerschein der Kategorie AM/A1/B1/T. Erwachsene nicht.",
+        "en": "Only minors (13–17) need the cycling card (karta rowerowa) or an AM/A1/B1/T licence. Adults do not."
+      }
+    },
+    {
+      "id": "alcohol",
+      "status": "restricted",
+      "value": { "de": "0,2 ‰", "en": "0.2 ‰" },
+      "details": {
+        "de": "Sehr streng: 0,2–0,5 ‰ ('stan po użyciu alkoholu') ist eine Ordnungswidrigkeit nach Art. 87 § 2 Kodeks wykroczeń – Bußgeld mind. 1.000 zł. Über 0,5 ‰ ('stan nietrzeźwości', Art. 87 § 1a) drohen mind. 2.500 zł oder Arrest, meist vor Gericht, plus mögliches Fahrverbot für nicht-motorisierte Fahrzeuge (6 Monate bis 3 Jahre). Anders als beim Auto ist es keine Straftat; der Pkw-Führerschein wird dadurch i. d. R. nicht entzogen. Praktisch gilt: gar nicht trinken.",
+        "en": "Very strict: 0.2–0.5 ‰ ('stan po użyciu alkoholu') is an offence under Art. 87 § 2 of the Code of Petty Offences – fine of at least 1,000 zł. Above 0.5 ‰ ('stan nietrzeźwości', Art. 87 § 1a) the minimum is 2,500 zł or detention, usually decided in court, plus a possible ban on riding non-motor vehicles (6 months to 3 years). Unlike driving a car it is not a criminal offence; your car licence is generally not revoked for it. Practically: do not drink at all."
+      }
+    },
+    {
+      "id": "where_to_ride",
+      "status": "restricted",
+      "value": { "de": "Radweg; Fahrbahn bis 30 km/h", "en": "bike path; roads up to 30 km/h" },
+      "details": {
+        "de": "Radwege und Radfahrstreifen sind Pflicht, wenn vorhanden. Fehlen sie, darf auf Fahrbahnen mit Tempolimit bis 30 km/h gefahren werden. Der Gehweg ist nur erlaubt, wenn es keinen Radweg gibt UND die Straße mehr als 30 km/h erlaubt – dann Schrittgeschwindigkeit und Vorrang für Fußgänger. Fußgängerüberwege dürfen nicht fahrend überquert werden. Abstellen auf dem Gehweg nur an ausgewiesenen Stellen bzw. parallel am Gehwegrand mit mind. 1,5 m Restbreite für Fußgänger; falsch abgestellte Scooter können kostenpflichtig entfernt werden.",
+        "en": "Bike paths and lanes are mandatory where available. Without them, roads with a limit up to 30 km/h may be used. Sidewalks are only allowed if there is no bike path AND the road allows more than 30 km/h – then walking pace and pedestrian priority. You must not ride across pedestrian crossings. Parking on sidewalks only in designated spots or parallel at the outer edge leaving at least 1.5 m for pedestrians; badly parked scooters can be removed at the owner's cost."
+      }
+    }
+  ],
+  "fines": [
+    {
+      "offense": { "de": "Verbotswidrig auf dem Gehweg fahren", "en": "Riding on the sidewalk against the rules" },
+      "amount": "200 zł"
+    },
+    {
+      "offense": { "de": "Auf dem Gehweg schneller als Schritttempo / kein Vorrang für Fußgänger", "en": "Exceeding walking pace on the sidewalk / not yielding to pedestrians" },
+      "amount": "300 zł"
+    },
+    {
+      "offense": { "de": "Zu zweit fahren / Person, Tier oder Ladung befördern", "en": "Riding in pairs / carrying a passenger, animal or load" },
+      "amount": "300 zł"
+    },
+    {
+      "offense": { "de": "Fahrt nach Alkohol (0,2–0,5 ‰)", "en": "Riding after drinking (0.2–0.5 ‰)" },
+      "amount": "ab 1.000 zł"
+    },
+    {
+      "offense": { "de": "Fahrt im Rauschzustand (über 0,5 ‰)", "en": "Riding drunk (over 0.5 ‰)" },
+      "amount": "ab 2.500 zł",
+      "notes": {
+        "de": "Ordnungswidrigkeit nach Art. 87 § 1a Kodeks wykroczeń: auch Arrest und Fahrverbot für nicht-motorisierte Fahrzeuge möglich, Entscheidung meist durch das Gericht.",
+        "en": "Petty offence under Art. 87 § 1a of the Code of Petty Offences: detention and a ban on riding non-motor vehicles are also possible, usually decided by a court."
+      }
+    },
+    {
+      "offense": { "de": "Kind/Jugendliche(r) unter 16 ohne Helm (seit 3.6.2026)", "en": "Rider under 16 without a helmet (since 3 June 2026)" },
+      "amount": "bis 100 zł",
+      "notes": {
+        "de": "Verantwortlich sind Eltern bzw. Aufsichtspersonen.",
+        "en": "Parents or guardians are liable."
+      }
+    }
+  ],
+  "sources": [
+    {
+      "title": "Dziennik Ustaw: Ustawa z dnia 17 października 2025 r. o zmianie ustawy – Prawo o ruchu drogowym (Dz.U. 2025 poz. 1676; Mindestalter 13, Helmpflicht unter 16)",
+      "url": "https://dziennikustaw.gov.pl/DU/2025/1676",
+      "accessed": "2026-07-03"
+    },
+    {
+      "title": "gov.pl / Ministerstwo Infrastruktury: Nowe przepisy dotyczące hulajnóg elektrycznych i urządzeń transportu osobistego (Grundregeln 2021)",
+      "url": "https://www.gov.pl/web/infrastruktura/nowe-przepisy-dotyczace-hulajnog-elektrycznych-i-urzadzen-transportu-osobistego",
+      "accessed": "2026-07-03"
+    },
+    {
+      "title": "gov.pl / Ministerstwo Infrastruktury: Obowiązkowe kaski ochronne dla dzieci do 16 roku życia (Helmpflicht ab 3.6.2026)",
+      "url": "https://www.gov.pl/web/infrastruktura/obowiazkowe-kaski-ochronne-dla-dzieci-do-16-roku-zycia",
+      "accessed": "2026-07-03"
+    },
+    {
+      "title": "Policja.pl: Wybrane aspekty zmian przepisów dotyczących bezpieczeństwa ruchu drogowego (Änderungen 2026: Alter, Helm)",
+      "url": "https://policja.pl/pol/aktualnosci/272520,Wybrane-aspekty-zmian-przepisow-dotyczacych-bezpieczenstwa-ruchu-drogowego.html",
+      "accessed": "2026-07-03"
+    },
+    {
+      "title": "Prawo o ruchu drogowym – hulajnoga elektryczna (ISAP, konsolidierte Fassung)",
+      "url": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19970980602",
+      "accessed": "2026-07-03"
+    }
+  ]
+}

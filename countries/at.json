@@ -1,0 +1,154 @@
+{
+  "schemaVersion": 1,
+  "countryCode": "AT",
+  "countryName": { "de": "Österreich", "en": "Austria" },
+  "flagEmoji": "🇦🇹",
+  "lastUpdated": "2026-07-03",
+  "verified": false,
+  "verifiedBy": null,
+  "overallStatus": "restricted",
+  "summary": {
+    "de": "E-Scooter fahren in Österreich weitgehend nach Fahrrad-Regeln (seit 1. Mai 2026 § 68a StVO, davor § 88b): bis 25 km/h und 600 Watt, Radweg statt Gehsteig, keine Versicherungs- oder Führerscheinpflicht. Seit 1. Mai 2026 gelten strengere Regeln: Helmpflicht unter 16, 0,5-Promille-Grenze sowie Blinker- und Klingelpflicht.",
+    "en": "In Austria e-scooters largely follow bicycle rules (Section 68a Road Traffic Act since 1 May 2026, previously Section 88b): up to 25 km/h and 600 watts, bike path instead of sidewalk, no insurance or licence required. Since 1 May 2026 stricter rules apply: helmets under 16, a 0.5 per-mille alcohol limit, plus mandatory indicators and a bell."
+  },
+  "categories": [
+    {
+      "id": "max_speed",
+      "status": "restricted",
+      "value": { "de": "25 km/h", "en": "25 km/h" },
+      "details": {
+        "de": "Erlaubt sind einspurige E-Scooter ohne Sitz mit maximal 600 Watt Leistung und 25 km/h Bauartgeschwindigkeit (§ 2 Abs. 1 Z 22a StVO). Schnellere oder stärkere Geräte gelten als Kraftfahrzeug und brauchen Zulassung. Pflichtausstattung (§ 68a Abs. 5 StVO): Bremse, Klingel/Hupe, Rückstrahler (weiß vorne, rot hinten, gelb seitlich), gelbe Blinker an den Lenkerenden sowie Licht bei Dunkelheit. Die Blinker- und Klingelpflicht gilt seit 1. Mai 2026 ohne Übergangsfrist auch für bereits gekaufte Scooter (36. StVO-Novelle).",
+        "en": "Single-track e-scooters without a seat, with up to 600 watts and a design speed of 25 km/h, are allowed (Section 2(1)(22a) Road Traffic Act). Faster or more powerful vehicles count as motor vehicles and need registration. Mandatory equipment (Section 68a(5) Road Traffic Act): brake, bell/horn, reflectors (white front, red rear, yellow sides), yellow indicators at the handlebar ends, plus lights in darkness. The indicator and bell requirement has applied since 1 May 2026 with no transition period, including for scooters already owned (36th Road Traffic Act amendment)."
+      }
+    },
+    {
+      "id": "min_age",
+      "status": "restricted",
+      "value": { "de": "ab 12 Jahren", "en": "12 years and older" },
+      "details": {
+        "de": "Selbständig fahren ab 12 Jahren. Ausnahme: Kinder mit Radfahrausweis (§ 65 StVO, erhältlich ab 10 Jahren bzw. ab vollendetem 9. Lebensjahr bei Besuch der 4. Schulstufe) dürfen schon früher allein fahren. Ohne Ausweis dürfen Kinder unter 12 auf Straßen mit öffentlichem Verkehr nur unter Aufsicht einer mindestens 16-jährigen Person fahren (§ 68a Abs. 4 StVO). Eine Wohnstraßen-Ausnahme von der Aufsichtspflicht sieht das seit 1. Mai 2026 geltende Recht nicht mehr vor.",
+        "en": "Riding alone is allowed from age 12. Exception: children holding a cycling licence (Section 65 Road Traffic Act, available from age 10, or from age 9 if attending 4th grade) may ride alone earlier. Without it, children under 12 may only ride on public roads under the supervision of a person aged at least 16 (Section 68a(4) Road Traffic Act). The law in force since 1 May 2026 no longer provides a residential-street (Wohnstrasse) exemption from the supervision requirement."
+      }
+    },
+    {
+      "id": "helmet",
+      "status": "restricted",
+      "value": { "de": "Pflicht unter 16", "en": "required under 16" },
+      "details": {
+        "de": "Seit 1. Mai 2026 gilt eine Helmpflicht für alle unter 16 Jahren (§ 68a Abs. 7 StVO; davor nur unter 12). Wer ein Kind unter 12 beaufsichtigt, muss für den Helmgebrauch sorgen. Verstöße des Fahrers fallen in den allgemeinen Strafrahmen bis 726 € (§ 99 Abs. 3 StVO), bestraft werden kann aber erst ab 14 Jahren (Strafmündigkeit). Für alle anderen wird ein Helm empfohlen.",
+        "en": "Since 1 May 2026 helmets are mandatory for everyone under 16 (Section 68a(7) Road Traffic Act; previously only under 12). Anyone supervising a child under 12 must ensure the helmet is worn. Rider violations fall within the general fine range of up to €726 (Section 99(3) Road Traffic Act), but fines are only possible from age 14 (age of administrative criminal responsibility). Recommended for everyone else."
+      }
+    },
+    {
+      "id": "insurance",
+      "status": "allowed",
+      "value": { "de": "keine Pflicht", "en": "not required" },
+      "details": {
+        "de": "Keine Versicherungs- oder Kennzeichenpflicht: E-Scooter bis 600 W/25 km/h gelten nicht als Kraftfahrzeug (§ 1 Abs. 2b KFG). Anders E-Mopeds (Klasse L1e-B): Sie gelten ab 1. Oktober 2026 nicht mehr als Fahrrad und brauchen dann Zulassung, Kennzeichen und Versicherung. Eine private Haftpflichtversicherung, die E-Scooter-Schäden abdeckt, ist dringend empfohlen.",
+        "en": "No insurance or plate requirement: e-scooters up to 600 W/25 km/h do not count as motor vehicles (Section 1(2b) Motor Vehicles Act). E-mopeds (class L1e-B) are different: from 1 October 2026 they no longer count as bicycles and will need registration, plates and insurance. Private liability insurance covering e-scooter damage is strongly recommended."
+      }
+    },
+    {
+      "id": "license",
+      "status": "allowed",
+      "value": { "de": "nicht nötig", "en": "not required" },
+      "details": {
+        "de": "Kein Führerschein erforderlich; E-Scooter sind seit 1. Mai 2026 ausdrücklich vom Führerscheingesetz ausgenommen (§ 1 Abs. 1a Z 5a FSG).",
+        "en": "No driving licence required; since 1 May 2026 e-scooters are explicitly exempt from the Driving Licence Act (Section 1(1a)(5a) FSG)."
+      }
+    },
+    {
+      "id": "alcohol",
+      "status": "restricted",
+      "value": { "de": "0,5 ‰", "en": "0.5 ‰" },
+      "details": {
+        "de": "Seit 1. Mai 2026 gilt für E-Scooter die 0,5-Promille-Grenze (§ 68a Abs. 3 StVO; für Fahrräder und E-Bikes weiterhin 0,8 ‰). Im Bereich 0,5–0,79 ‰ droht eine Geldstrafe bis 726 € (allgemeiner Strafrahmen, § 99 Abs. 3 StVO). Ab 0,8 ‰ gelten die hohen Alkoholstrafen von 800 bis 5.900 € (gestaffelt nach Promillewert, § 99 Abs. 1–1b StVO); auch der Pkw-Führerschein kann bei Alkoholfahrten gefährdet sein.",
+        "en": "Since 1 May 2026 a 0.5 per-mille limit applies to e-scooters (Section 68a(3) Road Traffic Act; bicycles and e-bikes remain at 0.8 ‰). In the 0.5–0.79 ‰ range a fine of up to €726 applies (general fine range, Section 99(3) Road Traffic Act). From 0.8 ‰ the heavy drink-riding fines of €800 to €5,900 apply (tiered by blood alcohol level, Section 99(1)–(1b) Road Traffic Act); a drunk ride can also endanger your car driving licence."
+      }
+    },
+    {
+      "id": "where_to_ride",
+      "status": "restricted",
+      "value": { "de": "wie Fahrrad", "en": "like a bicycle" },
+      "details": {
+        "de": "Es gelten die Verhaltensregeln für Radfahrer (§ 68a Abs. 1 StVO): Radwege und Radfahranlagen nutzen (Benützungspflicht), sonst Fahrbahnen, auf denen Radfahren erlaubt ist. Fahren auf Gehsteigen, Gehwegen und Schutzwegen ist verboten; die frühere Möglichkeit der Behörde, Gehsteigfahren zu erlauben, gibt es seit 1. Mai 2026 nicht mehr. Fußgängerzonen nur, wenn behördlich freigegeben; Wohnstraßen und Begegnungszonen mit angepasster Geschwindigkeit. Außerdem: ausnahmslos nur eine Person pro Scooter, kein Gütertransport (außer kleine Gegenstände in geeignetem Behältnis), keine Anhänger, keine am Lenker aufgehängten Taschen (§ 68a Abs. 2 StVO); Telefonieren nur mit Freisprecheinrichtung.",
+        "en": "Cyclist conduct rules apply (Section 68a(1) Road Traffic Act): use bike paths and cycling infrastructure (mandatory where available), otherwise roads where cycling is allowed. Riding on sidewalks, footpaths and pedestrian crossings is forbidden; the former option for authorities to permit sidewalk riding was abolished on 1 May 2026. Pedestrian zones only where officially permitted; residential streets and shared zones at adapted speed. In addition: strictly one person per scooter, no transport of goods (except small items in a suitable container), no trailers, no bags hung on the handlebars (Section 68a(2) Road Traffic Act); phone use only hands-free."
+      }
+    }
+  ],
+  "fines": [
+    {
+      "offense": { "de": "Fahren am Gehsteig", "en": "Riding on the sidewalk" },
+      "amount": "bis zu 726 €",
+      "notes": {
+        "de": "Gesetzlicher Strafrahmen (§ 99 Abs. 3 StVO, bundesweit einheitlich 7–726 €); in der Praxis meist deutlich niedrigeres Organmandat vor Ort.",
+        "en": "Statutory fine range (Section 99(3) Road Traffic Act, uniform nationwide €7–726); in practice usually a much lower on-the-spot fine."
+      }
+    },
+    {
+      "offense": { "de": "Alkoholfahrt ab 0,8 ‰", "en": "Riding drunk (0.8 ‰ and above)" },
+      "amount": "800–5.900 €",
+      "notes": {
+        "de": "Gestaffelt (§ 99 Abs. 1–1b StVO): 0,8–1,19 ‰ 800–3.700 €; 1,2–1,59 ‰ 1.200–4.400 €; ab 1,6 ‰ 1.600–5.900 €. Seit 1. Mai 2026 liegt die Grenze für E-Scooter bereits bei 0,5 ‰; im Bereich 0,5–0,79 ‰ gilt der allgemeine Strafrahmen bis 726 €.",
+        "en": "Tiered (Section 99(1)–(1b) Road Traffic Act): 0.8–1.19 ‰ €800–3,700; 1.2–1.59 ‰ €1,200–4,400; from 1.6 ‰ €1,600–5,900. Since 1 May 2026 the e-scooter limit is already 0.5 ‰; the 0.5–0.79 ‰ range falls under the general fine range of up to €726."
+      }
+    },
+    {
+      "offense": { "de": "Fahren zu zweit", "en": "Riding in pairs" },
+      "amount": "bis zu 726 €",
+      "notes": {
+        "de": "Ausnahmslos nur eine Person pro E-Scooter erlaubt (§ 68a Abs. 2 StVO, seit 1. Mai 2026); allgemeiner Strafrahmen der StVO (§ 99 Abs. 3).",
+        "en": "Strictly one person per e-scooter (Section 68a(2) Road Traffic Act, since 1 May 2026); general fine range of the Road Traffic Act (Section 99(3))."
+      }
+    },
+    {
+      "offense": { "de": "Helmverstoß (unter 16)", "en": "Helmet violation (under 16)" },
+      "amount": "7–726 €",
+      "notes": {
+        "de": "Strafrahmen nach § 99 Abs. 3 lit. a StVO; tatsächliche Höhe liegt im Ermessen der Behörde. Strafbar erst ab 14 Jahren (Strafmündigkeit); die Verletzung der Aufsichtspflicht beim Helm ist ausdrücklich straffrei gestellt (§ 99 Abs. 6 lit. e StVO).",
+        "en": "Fine range under Section 99(3)(a) Road Traffic Act; the actual amount is at the authority's discretion. Punishable only from age 14 (age of administrative criminal responsibility); a supervisor's failure to ensure helmet use is explicitly exempt from punishment (Section 99(6)(e) Road Traffic Act)."
+      }
+    }
+  ],
+  "cities": [
+    {
+      "name": "Wien",
+      "notes": {
+        "de": "Leih-Scooter dürfen nicht auf Gehsteigen abgestellt werden: vorrangig rot markierte Abstellflächen nutzen (im 100-m-Umkreis solcher Flächen ist anderes Abstellen verboten), sonst am Fahrbahnrand/in Parkspuren. Es gelten Sperrzonen (z. B. um Krankenhäuser und Märkte) und automatische Langsamfahrzonen in Fußgängerzonen und Wohnstraßen.",
+        "en": "Rental scooters must not be parked on sidewalks: use the red-marked parking bays first (other parking is banned within 100 m of such bays), otherwise park at the roadside/in parking lanes. No-go zones apply (e.g. around hospitals and markets) plus automatic slow zones in pedestrian zones and residential streets."
+      }
+    }
+  ],
+  "sources": [
+    {
+      "title": "RIS: BGBl. I Nr. 17/2026 – 36. StVO-Novelle (u. a. neuer § 68a StVO, Entfall § 88b; kundgemacht 23.04.2026)",
+      "url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2026_I_17/BGBLA_2026_I_17.pdf",
+      "accessed": "2026-07-03"
+    },
+    {
+      "title": "RIS: Straßenverkehrsordnung 1960 – geltende Fassung (§§ 65, 68a, 99)",
+      "url": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336",
+      "accessed": "2026-07-03"
+    },
+    {
+      "title": "oesterreich.gv.at: Elektro-Scooter – Rechtliche Situation (Stand 01.05.2026)",
+      "url": "https://www.oesterreich.gv.at/de/themen/mobilitaet/Elektro-Scooter-Quads-und-Co/Seite.610110",
+      "accessed": "2026-07-03"
+    },
+    {
+      "title": "Parlament Österreich: Parlamentskorrespondenz Nr. 245/2026 – Verkehrssicherheitspaket für E-Bikes, E-Scooter und E-Mopeds",
+      "url": "https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0245",
+      "accessed": "2026-07-03"
+    },
+    {
+      "title": "Stadt Wien: E-Scooter, Elektro-Roller und Micro-Scooter – Regeln für das Fahren und Abstellen",
+      "url": "https://www.wien.gv.at/verkehr/scooter-roller-regeln",
+      "accessed": "2026-07-03"
+    },
+    {
+      "title": "ÖAMTC: 36. StVO-Novelle – Welche Neuerungen gelten ab 1. Mai 2026?",
+      "url": "https://www.oeamtc.at/thema/vorschriften-strafen/36-stvo-novelle-welche-neuerungen-gelten-ab-1-mai-2026-86402451",
+      "accessed": "2026-07-03"
+    }
+  ]
+}

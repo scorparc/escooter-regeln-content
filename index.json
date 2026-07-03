@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": 2,
+  "updatedAt": "2026-07-03",
+  "countries": [
+    { "code": "DE", "file": "countries/de.json" },
+    { "code": "AT", "file": "countries/at.json" },
+    { "code": "CH", "file": "countries/ch.json" },
+    { "code": "FR", "file": "countries/fr.json" },
+    { "code": "IT", "file": "countries/it.json" },
+    { "code": "ES", "file": "countries/es.json" },
+    { "code": "NL", "file": "countries/nl.json" },
+    { "code": "PL", "file": "countries/pl.json" }
+  ]
+}

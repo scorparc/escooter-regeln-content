@@ -1,0 +1,166 @@
+{
+  "schemaVersion": 1,
+  "countryCode": "ES",
+  "countryName": { "de": "Spanien", "en": "Spain" },
+  "flagEmoji": "🇪🇸",
+  "lastUpdated": "2026-07-03",
+  "verified": false,
+  "verifiedBy": null,
+  "overallStatus": "restricted",
+  "summary": {
+    "de": "In Spanien gelten nationale DGT-Grundregeln (max. 25 km/h, Gehweg verboten). Seit 02.01.2026 sind Haftpflichtversicherung und DGT-Registrierung Pflicht. Ab 01.10.2026 kommen landesweit Helmpflicht und Mindestalter 15 hinzu; Städte wie Barcelona sind teils strenger.",
+    "en": "Spain has national DGT base rules (max. 25 km/h, sidewalks banned). Since 2 Jan 2026 liability insurance and DGT registration are mandatory. From 1 Oct 2026 a nationwide helmet duty and minimum age 15 apply on top; cities like Barcelona are partly stricter."
+  },
+  "categories": [
+    {
+      "id": "max_speed",
+      "status": "restricted",
+      "value": { "de": "25 km/h", "en": "25 km/h" },
+      "details": {
+        "de": "Persönliche Mobilitätsfahrzeuge (VMP) dürfen bauartbedingt maximal 25 km/h fahren. Seit dem 22.01.2024 dürfen nur noch Geräte mit DGT-Zulassungszertifikat (certificado de circulación, Manual VMP 3.0) verkauft werden. Ältere Geräte ohne Zertifikat dürfen übergangsweise bis zum 22.01.2027 weiterfahren – müssen aber ebenfalls registriert und versichert sein. Danach sind nicht zertifizierte VMP vom Verkehr ausgeschlossen.",
+        "en": "Personal mobility vehicles (VMP) are limited to 25 km/h by design. Since 22 Jan 2024 only devices with a DGT circulation certificate (certificado de circulación, VMP Manual 3.0) may be sold. Older uncertified devices may keep circulating until 22 Jan 2027 as a transition – but must also be registered and insured. After that, uncertified VMPs are banned from circulating."
+      }
+    },
+    {
+      "id": "min_age",
+      "status": "restricted",
+      "value": { "de": "15 national ab 10/2026, Städte teils 16", "en": "15 nationally from 10/2026, some cities 16" },
+      "details": {
+        "de": "Bis 30.09.2026 gibt es kein nationales Mindestalter – es gelten die städtischen Verordnungen (Madrid: 15 Jahre, Ausnahme 10–14 in Begleitung; Barcelona: 16 Jahre, Bußgeld 200 €). Ab dem 01.10.2026 gilt landesweit ein Mindestalter von 15 Jahren (Real Decreto 518/2026, neuer Art. 155 Reglamento General de Circulación). Strengere städtische Regeln wie in Barcelona bleiben zu beachten.",
+        "en": "Until 30 Sep 2026 there is no national minimum age – municipal ordinances apply (Madrid: 15, exception 10–14 accompanied; Barcelona: 16, fine €200). From 1 Oct 2026 a nationwide minimum age of 15 applies (Royal Decree 518/2026, new Art. 155 of the General Traffic Regulation). Stricter city rules such as Barcelona's still need to be observed."
+      }
+    },
+    {
+      "id": "helmet",
+      "status": "restricted",
+      "value": { "de": "Pflicht ab 01.10.2026, teils schon jetzt", "en": "mandatory from 1 Oct 2026, partly already now" },
+      "details": {
+        "de": "Ab dem 01.10.2026 ist ein homologierter/zertifizierter Helm landesweit Pflicht (Real Decreto 518/2026); Verstoß: 200 €. Bis dahin regeln es die Städte: In Barcelona ist der Helm seit Februar 2025 Pflicht (Bußgeld 100 €), in Madrid für unter 18-Jährige und auf bestimmten Spuren. Empfehlung: immer Helm tragen.",
+        "en": "From 1 Oct 2026 a homologated/certified helmet is mandatory nationwide (Royal Decree 518/2026); violation: €200. Until then cities decide: Barcelona requires a helmet since February 2025 (fine €100), Madrid for under-18s and on certain lanes. Recommendation: always wear one."
+      }
+    },
+    {
+      "id": "insurance",
+      "status": "restricted",
+      "value": { "de": "Pflicht seit 02.01.2026 + Registrierung", "en": "required since 2 Jan 2026 + registration" },
+      "details": {
+        "de": "Seit dem 02.01.2026 ist eine Haftpflichtversicherung für 'vehículos personales ligeros' (E-Scooter bis 25 km/h und unter 25 kg bzw. bis 14 km/h über 25 kg) landesweit Pflicht – Rechtsgrundlage: Ley 5/2025 vom 24.07.2025 (Disposición adicional primera). Zusätzlich muss das Gerät im DGT-Register für leichte Personenfahrzeuge eingetragen werden (Real Decreto 52/2026, Register seit Ende Januar 2026) und eine Kennzeichnungsplakette tragen. Fahren ohne Versicherung: ca. 250–800 € Bußgeld. Die Pflicht knüpft an das Fahren auf spanischen Straßen an und betrifft damit auch Touristen mit eigenem Scooter – die Police muss Spanien abdecken; das genaue Verfahren für ausländische Geräte ist offiziell noch nicht klar geregelt.",
+        "en": "Since 2 Jan 2026 liability insurance is mandatory nationwide for 'light personal vehicles' (e-scooters up to 25 km/h and under 25 kg, or up to 14 km/h above 25 kg) – legal basis: Law 5/2025 of 24 July 2025 (first additional provision). The device must also be entered in the DGT registry of light personal vehicles (Royal Decree 52/2026, registry live since late January 2026) and carry an ID sticker. Riding uninsured: fines of roughly €250–800. The duty is tied to riding on Spanish roads and therefore also affects tourists with their own scooter – the policy must cover Spain; the exact procedure for foreign devices is not yet clearly regulated officially."
+      }
+    },
+    {
+      "id": "license",
+      "status": "allowed",
+      "value": { "de": "nicht nötig", "en": "not required" },
+      "details": {
+        "de": "Kein Führerschein erforderlich. Seit 2026 sind aber Registrierung und Versicherung des Geräts Pflicht (siehe Versicherung).",
+        "en": "No driving licence required. Since 2026, however, device registration and insurance are mandatory (see insurance)."
+      }
+    },
+    {
+      "id": "alcohol",
+      "status": "restricted",
+      "value": { "de": "0,5 g/l (0,3 Fahranfänger)", "en": "0.5 g/l (0.3 novices)" },
+      "details": {
+        "de": "Es gelten die gleichen Grenzen wie für Autofahrer: 0,5 g/l Blut (0,25 mg/l Atem), Fahranfänger 0,3 g/l. Bußgelder 500–1.000 €. Auch Drogentests werden durchgeführt.",
+        "en": "Same limits as for car drivers: 0.5 g/l blood (0.25 mg/l breath), novices 0.3 g/l. Fines €500–1,000. Drug tests are also carried out."
+      }
+    },
+    {
+      "id": "where_to_ride",
+      "status": "restricted",
+      "value": { "de": "Stadtstraßen/Radweg, Gehweg verboten", "en": "urban roads/bike path, sidewalk banned" },
+      "details": {
+        "de": "Fahren auf Gehwegen, Autobahnen, Schnellstraßen, Überlandstraßen und in Tunneln ist national verboten; das Real Decreto 518/2026 bestätigt das Gehwegverbot ab 01.10.2026 ausnahmslos. Erlaubt sind Radwege und innerörtliche Straßen gemäß der jeweiligen Stadtverordnung (Barcelona z. B.: Radwege und Straßen mit Tempo 30).",
+        "en": "Riding on sidewalks, motorways, expressways, interurban roads and in tunnels is banned nationally; Royal Decree 518/2026 confirms the sidewalk ban without exceptions from 1 Oct 2026. Bike paths and urban roads are allowed as regulated by each city (Barcelona e.g.: bike lanes and 30 km/h streets)."
+      }
+    }
+  ],
+  "fines": [
+    {
+      "offense": { "de": "Fahren auf dem Gehweg", "en": "Riding on the sidewalk" },
+      "amount": "bis 200 € (je nach Stadt)"
+    },
+    {
+      "offense": { "de": "Handy oder Kopfhörer beim Fahren", "en": "Phone or headphones while riding" },
+      "amount": "200 €"
+    },
+    {
+      "offense": { "de": "Alkoholfahrt", "en": "Riding drunk" },
+      "amount": "500–1.000 €"
+    },
+    {
+      "offense": { "de": "Zu zweit fahren", "en": "Riding in pairs" },
+      "amount": "100 €"
+    },
+    {
+      "offense": { "de": "Fahren ohne Haftpflichtversicherung", "en": "Riding without liability insurance" },
+      "amount": "ca. 250–800 €",
+      "notes": {
+        "de": "Seit 02.01.2026; hinzu kommen Sanktionen bei fehlender Registrierung (ca. 202–610 €).",
+        "en": "Since 2 Jan 2026; additional penalties apply for missing registration (approx. €202–610)."
+      }
+    },
+    {
+      "offense": { "de": "Ohne Helm fahren", "en": "Riding without a helmet" },
+      "amount": "200 € (national ab 01.10.2026)",
+      "notes": {
+        "de": "Bis dahin städtische Bußgelder, z. B. Barcelona 100 €.",
+        "en": "Until then municipal fines apply, e.g. Barcelona €100."
+      }
+    }
+  ],
+  "cities": [
+    {
+      "name": "Barcelona",
+      "notes": {
+        "de": "Neue Verkehrsordnung seit 01.02.2025: Mindestalter 16 (Bußgeld 200 €), Helmpflicht (100 €), Licht vorn/hinten Pflicht, Gehweg verboten, nur Radwege und Tempo-30-Straßen. Mitnahme in Metro/Bus (TMB) weiterhin verboten. Leih-Scooter-Angebot stark reguliert.",
+        "en": "New traffic ordinance since 1 Feb 2025: minimum age 16 (fine €200), helmet mandatory (€100), front/rear lights required, sidewalks banned, only bike lanes and 30 km/h streets. Carrying scooters on metro/bus (TMB) remains banned. Rental market heavily regulated."
+      }
+    },
+    {
+      "name": "Madrid",
+      "notes": {
+        "de": "Mindestalter 15 (10–14 nur in Begleitung Erwachsener, mit Helm); Helmpflicht für unter 18-Jährige und auf bestimmten Spuren. Leih-Scooter-Dienste sind seit Oktober 2023 aus der Stadt verbannt; private Scooter nach DGT- und Stadtregeln (Ordenanza de Movilidad Sostenible) erlaubt.",
+        "en": "Minimum age 15 (10–14 only accompanied by adults, with helmet); helmet mandatory for under-18s and on certain lanes. Rental scooter services have been banned from the city since October 2023; private scooters allowed under DGT and city rules (Ordenanza de Movilidad Sostenible)."
+      }
+    }
+  ],
+  "sources": [
+    {
+      "title": "BOE: Ley 5/2025, de 24 de julio (Versicherungspflicht für vehículos personales ligeros)",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2025-15424",
+      "accessed": "2026-07-03"
+    },
+    {
+      "title": "BOE: Real Decreto 52/2026, de 28 de enero (Registro de Vehículos Personales Ligeros)",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-2140",
+      "accessed": "2026-07-03"
+    },
+    {
+      "title": "BOE: Real Decreto 518/2026, de 24 de junio (Reform Reglamento General de Circulación: Helm, Mindestalter 15)",
+      "url": "https://www.boe.es/eli/es/rd/2026/06/24/518",
+      "accessed": "2026-07-03"
+    },
+    {
+      "title": "DGT: Vehículos de Movilidad Personal (VMP) – Zertifikat, Registrierung, Versicherung",
+      "url": "https://www.dgt.es/nuestros-servicios/tu-vehiculo/vehiculos-de-movilidad-personal-vmp/",
+      "accessed": "2026-07-03"
+    },
+    {
+      "title": "DGT: Nota de prensa – Registro de Vehículos Personales Ligeros (27.01.2026)",
+      "url": "https://www.dgt.es/comunicacion/notas-de-prensa/20260127-trafico-pone-en-marcha-registro-vehiculos-personales-ligeros/",
+      "accessed": "2026-07-03"
+    },
+    {
+      "title": "Ayuntamiento de Madrid: Patinetes eléctricos y otros vehículos de movilidad personal",
+      "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/Movilidad-y-transportes/Patinetes-electricos-y-otros-vehiculos-de-movilidad-personal/?vgnextfmt=default&vgnextoid=b8ba6639e9956610VgnVCM2000001f4a900aRCRD&vgnextchannel=220e31d3b28fe410VgnVCM1000000b205a0aRCRD&idCapitulo=10800343",
+      "accessed": "2026-07-03"
+    },
+    {
+      "title": "Ajuntament de Barcelona: La nova ordenança de circulació ja està en vigor",
+      "url": "https://www.barcelona.cat/mobilitat/ca/actualitat-i-recursos/noticies/la-nova-ordenanca-de-circulacio-ja-esta-en-vigor-1477788",
+      "accessed": "2026-07-03"
+    }
+  ]
+}

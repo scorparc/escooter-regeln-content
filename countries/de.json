@@ -1,0 +1,154 @@
+{
+  "schemaVersion": 1,
+  "countryCode": "DE",
+  "countryName": { "de": "Deutschland", "en": "Germany" },
+  "flagEmoji": "🇩🇪",
+  "lastUpdated": "2026-07-03",
+  "verified": false,
+  "verifiedBy": null,
+  "overallStatus": "restricted",
+  "summary": {
+    "de": "E-Scooter sind in Deutschland erlaubt, aber nur mit Versicherungsplakette und Allgemeiner Betriebserlaubnis (eKFV). Gefahren wird auf Radwegen, sonst auf der Fahrbahn – nie auf dem Gehweg.",
+    "en": "E-scooters are legal in Germany, but only with an insurance sticker and general type approval (eKFV). Ride on bike paths, otherwise on the road – never on the sidewalk."
+  },
+  "categories": [
+    {
+      "id": "max_speed",
+      "status": "restricted",
+      "value": { "de": "20 km/h", "en": "20 km/h" },
+      "details": {
+        "de": "Die bauartbedingte Höchstgeschwindigkeit beträgt 20 km/h. Schnellere Fahrzeuge erhalten keine Betriebserlaubnis und dürfen im öffentlichen Raum nicht gefahren werden. Technisches Frisieren führt zum Erlöschen von Betriebserlaubnis und Versicherungsschutz.",
+        "en": "The maximum design speed is 20 km/h. Faster vehicles are not type-approved and must not be ridden in public. Tuning voids the type approval and insurance cover."
+      }
+    },
+    {
+      "id": "min_age",
+      "status": "restricted",
+      "value": { "de": "ab 14 Jahren", "en": "14 years and older" },
+      "details": {
+        "de": "Das Mindestalter beträgt 14 Jahre (§ 3 eKFV). Es gibt keine Ausnahme mit Begleitung.",
+        "en": "The minimum age is 14 (Section 3 eKFV). There is no exception for supervised riding."
+      }
+    },
+    {
+      "id": "helmet",
+      "status": "allowed",
+      "value": { "de": "keine Pflicht", "en": "not required" },
+      "details": {
+        "de": "Es besteht keine Helmpflicht. Ein Helm wird dringend empfohlen.",
+        "en": "There is no helmet requirement. Wearing a helmet is strongly recommended."
+      }
+    },
+    {
+      "id": "insurance",
+      "status": "restricted",
+      "value": { "de": "Pflicht (Plakette)", "en": "required (sticker)" },
+      "details": {
+        "de": "Haftpflichtversicherung ist Pflicht. Der Nachweis ist die aufgeklebte Versicherungsplakette, die jährlich (Versicherungsjahr ab 1. März) erneuert werden muss. Ohne gültige Plakette drohen Bußgeld und Haftungsrisiken.",
+        "en": "Liability insurance is mandatory, proven by the adhesive insurance sticker, renewed annually (insurance year starts 1 March). Riding without a valid sticker risks a fine and personal liability."
+      }
+    },
+    {
+      "id": "license",
+      "status": "allowed",
+      "value": { "de": "nicht nötig", "en": "not required" },
+      "details": {
+        "de": "Es ist kein Führerschein und keine Prüfbescheinigung erforderlich.",
+        "en": "No driving licence or test certificate is required."
+      }
+    },
+    {
+      "id": "alcohol",
+      "status": "restricted",
+      "value": { "de": "0,5 ‰ (0,0 ‰ unter 21)", "en": "0.5 ‰ (0.0 ‰ under 21)" },
+      "details": {
+        "de": "Es gelten die gleichen Promillegrenzen wie beim Autofahren: ab 0,5 ‰ Ordnungswidrigkeit (Bußgeld, Fahrverbot, Punkte), ab 1,1 ‰ Straftat. Ab 0,3 ‰ kann bei Ausfallerscheinungen bereits eine Straftat vorliegen. Für Fahranfänger in der Probezeit und unter 21 gilt 0,0 ‰.",
+        "en": "The same alcohol limits as for driving a car apply: from 0.5 ‰ it is an administrative offence (fine, driving ban, points), from 1.1 ‰ a criminal offence. From 0.3 ‰ with impaired driving it can already be criminal. Novice drivers and riders under 21 must stay at 0.0 ‰."
+      }
+    },
+    {
+      "id": "where_to_ride",
+      "status": "restricted",
+      "value": { "de": "Radweg, sonst Fahrbahn", "en": "bike path, else road" },
+      "details": {
+        "de": "Gefahren werden muss auf baulich angelegten Radwegen, Radfahrstreifen und in Fahrradstraßen (§ 10 eKFV). Gibt es keine, ist die Fahrbahn zu nutzen; innerorts sind auch verkehrsberuhigte Bereiche erlaubt, außerorts zusätzlich der Seitenstreifen. Gehwege, Fußgängerzonen und Einbahnstraßen entgegen der Fahrtrichtung sind tabu, außer Zusatzschilder erlauben es. Nur eine Person pro Roller, kein Anhänger, einzeln hintereinander fahren. Ab 1. März 2027 werden die Verhaltensregeln an den Radverkehr angeglichen (u. a. Grünpfeil, Nebeneinanderfahren, Freigabe durch Zusatzzeichen \"Radverkehr frei\").",
+        "en": "You must use structurally separated bike paths, bike lanes and bicycle streets (Section 10 eKFV). Where none exist, use the road; traffic-calmed zones are also allowed in town, and the hard shoulder outside built-up areas. Sidewalks, pedestrian zones and one-way streets against traffic are off-limits unless signs explicitly allow it. One person per scooter, no trailers, ride in single file. From 1 March 2027 the conduct rules will be aligned with bicycle traffic (including green-arrow turns, riding side by side, and access where \"bicycles permitted\" signs apply)."
+      }
+    }
+  ],
+  "fines": [
+    {
+      "offense": { "de": "Fahren auf dem Gehweg", "en": "Riding on the sidewalk" },
+      "amount": "15–30 €",
+      "notes": {
+        "de": "Höhere Bußgelder sind beschlossen und gelten ab 1. März 2027.",
+        "en": "Higher fines have been adopted and take effect on 1 March 2027."
+      }
+    },
+    {
+      "offense": { "de": "Fahren ohne gültige Versicherungsplakette", "en": "Riding without a valid insurance sticker" },
+      "amount": "40 €",
+      "notes": {
+        "de": "Fahren ganz ohne Versicherungsschutz ist eine Straftat (§ 6 PflVG).",
+        "en": "Riding without any insurance cover at all is a criminal offence (Section 6 PflVG)."
+      }
+    },
+    {
+      "offense": { "de": "Rote Ampel missachtet", "en": "Running a red light" },
+      "amount": "60–180 €",
+      "notes": { "de": "Plus 1 Punkt in Flensburg.", "en": "Plus 1 point on the driving record." }
+    },
+    {
+      "offense": { "de": "Zu zweit auf einem E-Scooter", "en": "Two people on one e-scooter" },
+      "amount": "10 €",
+      "notes": {
+        "de": "Höhere Bußgelder sind beschlossen und gelten ab 1. März 2027.",
+        "en": "Higher fines have been adopted and take effect on 1 March 2027."
+      }
+    },
+    {
+      "offense": { "de": "Handy am Lenker benutzt", "en": "Using a phone while riding" },
+      "amount": "100 €",
+      "notes": { "de": "Plus 1 Punkt in Flensburg.", "en": "Plus 1 point on the driving record." }
+    },
+    {
+      "offense": { "de": "Fahrt mit 0,5–1,09 ‰", "en": "Riding with 0.5–1.09 ‰ BAC" },
+      "amount": "ab 500 €",
+      "notes": {
+        "de": "Zusätzlich 1 Monat Fahrverbot und 2 Punkte; ab 1,1 ‰ Straftat.",
+        "en": "Plus a 1-month driving ban and 2 points; from 1.1 ‰ it is a criminal offence."
+      }
+    }
+  ],
+  "cities": [
+    {
+      "name": "Berlin",
+      "notes": {
+        "de": "Leih-Scooter dürfen in weiten Teilen der Innenstadt nur auf markierten Flächen abgestellt werden; Sperrzonen u. a. an Sehenswürdigkeiten. Für Privat-Scooter gelten die normalen Bundesregeln.",
+        "en": "Rental scooters may only be parked in marked areas in much of the inner city; no-go zones around major sights. Private scooters follow the normal federal rules."
+      }
+    }
+  ],
+  "sources": [
+    {
+      "title": "Elektrokleinstfahrzeuge-Verordnung (eKFV), Volltext – gesetze-im-internet.de (zuletzt geändert 30.01.2026)",
+      "url": "https://www.gesetze-im-internet.de/ekfv/BJNR075610019.html",
+      "accessed": "2026-07-03"
+    },
+    {
+      "title": "BMV: FAQ Elektrokleinstfahrzeuge-Verordnung",
+      "url": "https://www.bmv.de/SharedDocs/DE/Artikel/StV/Strassenverkehr/elektrokleinstfahrzeuge-verordnung-faq.html",
+      "accessed": "2026-07-03"
+    },
+    {
+      "title": "BMV: FAQ zur Novelle der Elektrokleinstfahrzeuge-Verordnung (verkündet 06.02.2026)",
+      "url": "https://www.bmv.de/SharedDocs/DE/Artikel/StV/Strassenverkehr/elektrokleinstfahrzeuge-verordnung-faq-novelle.html",
+      "accessed": "2026-07-03"
+    },
+    {
+      "title": "ADAC: E-Scooter – Regeln, Bußgelder plus geplante Neuregelungen",
+      "url": "https://www.adac.de/rund-ums-fahrzeug/elektromobilitaet/e-kleinstfahrzeuge/e-scooter/",
+      "accessed": "2026-07-03"
+    }
+  ]
+}

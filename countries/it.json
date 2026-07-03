@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "countryCode": "IT",
+  "countryName": { "de": "Italien", "en": "Italy" },
+  "flagEmoji": "🇮🇹",
+  "lastUpdated": "2026-07-03",
+  "verified": false,
+  "verifiedBy": null,
+  "overallStatus": "restricted",
+  "summary": {
+    "de": "Italien hat mit der Reform des Codice della Strada (Legge 177/2024) stark verschärft: Helmpflicht für alle seit 14.12.2024, Kennzeichenpflicht (targhino) seit 17.05.2026, Versicherungspflicht ab 16.07.2026. Max. 20 km/h, ab 14 Jahren, nur innerorts.",
+    "en": "Italy tightened its rules with the Highway Code reform (Law 177/2024): helmets for all since 14 Dec 2024, plate requirement (targhino) since 17 May 2026, insurance mandatory from 16 July 2026. Max. 20 km/h, from age 14, urban areas only."
+  },
+  "categories": [
+    {
+      "id": "max_speed",
+      "status": "restricted",
+      "value": { "de": "20 km/h (6 km/h in Fußgängerzonen)", "en": "20 km/h (6 km/h in pedestrian areas)" },
+      "details": {
+        "de": "Maximal 20 km/h; in Fußgängerbereichen, wo das Fahren erlaubt ist, gilt 6 km/h. Verstöße kosten 50–250 €.",
+        "en": "Maximum 20 km/h; 6 km/h in pedestrian areas where riding is permitted. Violations cost €50–250."
+      }
+    },
+    {
+      "id": "min_age",
+      "status": "restricted",
+      "value": { "de": "ab 14 Jahren", "en": "14 years and older" },
+      "details": {
+        "de": "Mindestalter 14 Jahre.",
+        "en": "Minimum age 14."
+      }
+    },
+    {
+      "id": "helmet",
+      "status": "restricted",
+      "value": { "de": "Pflicht für alle", "en": "required for everyone" },
+      "details": {
+        "de": "Seit 14.12.2024 (Inkrafttreten der Legge 177/2024) gilt Helmpflicht für alle Altersgruppen – nicht mehr nur für Minderjährige. Ein normkonformer Fahrradhelm (UNI EN 1078) genügt. Bußgeld ohne Helm: 50–250 €.",
+        "en": "Since 14 Dec 2024 (entry into force of Law 177/2024) helmets are mandatory for all ages – no longer just for minors. A standard-compliant bicycle helmet (UNI EN 1078) is sufficient. Fine for riding without a helmet: €50–250."
+      }
+    },
+    {
+      "id": "insurance",
+      "status": "restricted",
+      "value": { "de": "Kennzeichen seit 17.05.2026, Versicherung ab 16.07.2026", "en": "plate since 17 May 2026, insurance from 16 July 2026" },
+      "details": {
+        "de": "Kennzeichenpflicht (contrassegno/targhino) ist seit 17.05.2026 in Kraft (MIT-Durchführungsdekret Nr. 110 vom 06.03.2026, Antragsplattform seit 18.03.2026 auf dem Portale dell'Automobilista). Das Kennzeichen ist an den Codice fiscale des Halters gebunden (nicht ans Fahrzeug), kostet ca. 35 € gesamt (8,66 € Plakette + Gebühren) und erfordert SPID/CIE; Nicht-EU-Bürger brauchen eine Aufenthaltserlaubnis. Für Touristen mit eigenem, im Ausland gekauftem Scooter gibt es keine bekannte Sonderregelung – die Nutzung ist damit faktisch ungeklärt/riskant. Die Haftpflichtversicherung (RC) wird zum 16.07.2026 Pflicht (per Rundschreiben vom 17.04.2026 verschoben, war ursprünglich mit dem Kennzeichen geplant); Kosten ca. 25–150 €/Jahr, Abschluss setzt das Kennzeichen voraus. Bußgeld ohne Kennzeichen bzw. ohne Versicherung: je 100–400 €. Bei Sharing-Diensten ist der Betreiber verantwortlich.",
+        "en": "The plate requirement (contrassegno/'targhino') has been in force since 17 May 2026 (MIT implementing decree No. 110 of 6 March 2026; application platform live since 18 March 2026 on the Portale dell'Automobilista). The plate is tied to the owner's Italian tax code (not the vehicle), costs about €35 in total (€8.66 sticker plus fees) and requires SPID/CIE; non-EU citizens need a residence permit. There is no known provision for tourists bringing their own scooter from abroad – using one is effectively unresolved/risky. Third-party liability insurance becomes mandatory on 16 July 2026 (postponed by circular of 17 April 2026; originally planned together with the plate); cost approx. €25–150/year, and a policy requires the plate. Fine for riding without a plate or without insurance: €100–400 each. For sharing services the operator is responsible."
+      }
+    },
+    {
+      "id": "license",
+      "status": "allowed",
+      "value": { "de": "nicht nötig", "en": "not required" },
+      "details": {
+        "de": "Kein Führerschein erforderlich.",
+        "en": "No driving licence required."
+      }
+    },
+    {
+      "id": "alcohol",
+      "status": "restricted",
+      "value": { "de": "0,5 ‰", "en": "0.5 ‰" },
+      "details": {
+        "de": "Es gilt die allgemeine Grenze von 0,5 g/l (0,0 für Fahranfänger und unter 21). Verstöße werden wie bei Kfz geahndet.",
+        "en": "The general limit of 0.5 g/l applies (0.0 for novice drivers and under-21s). Violations are penalised as for motor vehicles."
+      }
+    },
+    {
+      "id": "where_to_ride",
+      "status": "restricted",
+      "value": { "de": "nur innerorts, Gehweg verboten", "en": "urban areas only, sidewalk banned" },
+      "details": {
+        "de": "Erlaubt auf Radwegen und innerörtlichen Straßen mit Tempolimit bis 50 km/h. Gehwege sind verboten (nur Schieben erlaubt), ebenso Fahren gegen die Fahrtrichtung und Personen-/Tiertransport. Außerorts ist das Fahren verboten. Nachts und bei schlechter Sicht sind Licht und Warnweste/reflektierende Kleidung Pflicht. Der Scooter braucht Blinker und Bremsen an beiden Rädern (für Bestandsfahrzeuge seit 01.01.2024 Pflicht); nicht konforme oder frisierte Scooter: 200–800 € plus mögliche Beschlagnahme.",
+        "en": "Allowed on bike paths and urban roads with a speed limit up to 50 km/h. Sidewalks are banned (walking the scooter is allowed), as are riding against traffic and carrying passengers or animals. Riding outside built-up areas is prohibited. At night and in poor visibility, lights and a hi-vis/reflective vest are mandatory. Scooters need indicators and brakes on both wheels (mandatory for existing vehicles since 1 Jan 2024); non-compliant or tampered scooters: €200–800 plus possible confiscation."
+      }
+    }
+  ],
+  "fines": [
+    {
+      "offense": { "de": "Fahren ohne Helm", "en": "Riding without a helmet" },
+      "amount": "50–250 €"
+    },
+    {
+      "offense": { "de": "Fahren auf dem Gehweg", "en": "Riding on the sidewalk" },
+      "amount": "50–250 €"
+    },
+    {
+      "offense": { "de": "Zu zweit fahren", "en": "Riding in pairs" },
+      "amount": "50–250 €"
+    },
+    {
+      "offense": { "de": "Fahren ohne Kennzeichen (contrassegno)", "en": "Riding without a plate (contrassegno)" },
+      "amount": "100–400 €",
+      "notes": {
+        "de": "Pflicht seit 17.05.2026.",
+        "en": "Mandatory since 17 May 2026."
+      }
+    },
+    {
+      "offense": { "de": "Fahren ohne Versicherung", "en": "Riding without insurance" },
+      "amount": "100–400 €",
+      "notes": {
+        "de": "Pflicht ab 16.07.2026.",
+        "en": "Mandatory from 16 July 2026."
+      }
+    },
+    {
+      "offense": { "de": "Nicht konformer/frisierter Scooter (z. B. >0,5 kW, entdrosselt)", "en": "Non-compliant/tampered scooter (e.g. >0.5 kW, derestricted)" },
+      "amount": "200–800 €",
+      "notes": {
+        "de": "Zusätzlich mögliche Beschlagnahme.",
+        "en": "Plus possible confiscation."
+      }
+    },
+    {
+      "offense": { "de": "Falsches Parken", "en": "Illegal parking" },
+      "amount": "41–168 €"
+    }
+  ],
+  "cities": [
+    {
+      "name": "Mailand",
+      "notes": {
+        "de": "Strenge Kontrollen; drei Sharing-Anbieter (Lime, Dott, Bird) mit auf ca. 6.000 Fahrzeuge reduzierter Flotte, Parkzonen und Sperrbereichen. Kennzeichen- und Versicherungspflicht gilt auch für Leih-Scooter (Betreiber verantwortlich); im Mai 2026 mussten Sharing-Scooter ohne Kennzeichen zeitweise stillgelegt werden.",
+        "en": "Strict enforcement; three sharing operators (Lime, Dott, Bird) with a fleet cut to about 6,000 vehicles, parking zones and restricted areas. The plate and insurance requirements also apply to rental scooters (operator responsible); in May 2026 sharing scooters without plates were temporarily grounded."
+      }
+    },
+    {
+      "name": "Rom",
+      "notes": {
+        "de": "Sharing über Lime, Dott und Bird mit stadtweiten Kontingenten (Obergrenzen im Zentrum, Mindestflotten in Außenbezirken) und Pflicht-Parkzonen; Abstellen auf Gehwegen nur in markierten Flächen. Für Jahresabo-Inhaber des ÖPNV gibt es Vergünstigungen.",
+        "en": "Sharing via Lime, Dott and Bird with citywide quotas (caps in the centre, minimum fleets in outer districts) and mandatory parking zones; parking on sidewalks only in marked areas. Discounts exist for annual public transport pass holders."
+      }
+    }
+  ],
+  "sources": [
+    {
+      "title": "Normattiva: Legge 25 novembre 2024, n. 177 (Riforma Codice della Strada)",
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2024-11-25;177",
+      "accessed": "2026-07-03"
+    },
+    {
+      "title": "MIT: Monopattini elettrici, 50 mila contrassegni già rilasciati (Kennzeichenpflicht ab 17.05.2026)",
+      "url": "https://www.mit.gov.it/comunicazione/news/monopattini-elettrici-il-mit-50-mila-contrassegni-gia-rilasciati",
+      "accessed": "2026-07-03"
+    },
+    {
+      "title": "MIMIT: Assicurazione monopattini – obbligo RC dal 16 luglio 2026",
+      "url": "https://www.mimit.gov.it/it/mercato-e-consumatori/tutela-del-consumatore/assicurazioni/monopattini",
+      "accessed": "2026-07-03"
+    },
+    {
+      "title": "Portale dell'Automobilista: Monopattini – Contrassegno identificativo",
+      "url": "https://www.ilportaledellautomobilista.it/web/portale-automobilista/monopattini-contrassegno-identificativo",
+      "accessed": "2026-07-03"
+    },
+    {
+      "title": "Roma Servizi per la Mobilità: Nuovo Codice della Strada – cosa cambia per i monopattini",
+      "url": "https://romamobilita.it/primo-piano/nuovo-codice-della-strada-cosa-cambia-per-luso-dei-monopattini-elettrici/",
+      "accessed": "2026-07-03"
+    }
+  ]
+}
