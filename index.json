@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "contentVersion": 3,
+  "contentVersion": 4,
   "updatedAt": "2026-07-03",
   "countries": [
     { "code": "DE", "file": "countries/de.json" },
