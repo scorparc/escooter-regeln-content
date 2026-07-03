@@ -134,6 +134,15 @@
       }
     }
   ],
+  "upcomingChanges": [
+    {
+      "effectiveDate": "2026-07-16",
+      "summary": {
+        "de": "Die Haftpflicht-Versicherungspflicht für private E-Scooter tritt in Kraft. Ohne Versicherung drohen dann Bußgelder; vor Reiseantritt Versicherungsnachweis klären.",
+        "en": "Mandatory liability insurance for private e-scooters takes effect. Riding uninsured will then be fined; sort out proof of insurance before travelling."
+      }
+    }
+  ],
   "sources": [
     {
       "title": "Normattiva: Legge 25 novembre 2024, n. 177 (Riforma Codice della Strada)",

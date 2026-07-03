@@ -129,6 +129,15 @@
       }
     }
   ],
+  "upcomingChanges": [
+    {
+      "effectiveDate": "2027-03-01",
+      "summary": {
+        "de": "Die eKFV-Novelle (Februar 2026) tritt in Kraft: angepasste Verhaltensregeln und höhere Bußgelder für E-Scooter-Verstöße.",
+        "en": "The eKFV amendment (February 2026) takes effect: updated conduct rules and higher fines for e-scooter violations."
+      }
+    }
+  ],
   "sources": [
     {
       "title": "Elektrokleinstfahrzeuge-Verordnung (eKFV), Volltext – gesetze-im-internet.de (zuletzt geändert 30.01.2026)",

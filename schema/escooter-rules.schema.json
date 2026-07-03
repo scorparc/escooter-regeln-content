@@ -66,6 +66,11 @@
       "description": "Optionale Stadt-Details (Pro-Feature). Kategorien überschreiben die Landeswerte nur punktuell.",
       "items": { "$ref": "#/definitions/city" }
     },
+    "upcomingChanges": {
+      "type": "array",
+      "description": "Bereits beschlossene, aber noch nicht in Kraft getretene Regeländerungen. Anzeige mit Stichtag; Basis für spätere Push-Benachrichtigungen (Pro).",
+      "items": { "$ref": "#/definitions/upcomingChange" }
+    },
     "sources": {
       "type": "array",
       "minItems": 1,
@@ -128,6 +133,19 @@
           "description": "Betrag als Anzeigetext in Landeswährung, z. B. \"15–30 €\" oder \"bis 500 zł\"."
         },
         "notes": { "$ref": "#/definitions/localizedText" }
+      }
+    },
+    "upcomingChange": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["effectiveDate", "summary"],
+      "properties": {
+        "effectiveDate": {
+          "type": "string",
+          "format": "date",
+          "description": "Datum, ab dem die Änderung gilt."
+        },
+        "summary": { "$ref": "#/definitions/localizedText" }
       }
     },
     "city": {
