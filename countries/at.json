@@ -3,9 +3,10 @@
   "countryCode": "AT",
   "countryName": { "de": "Österreich", "en": "Austria" },
   "flagEmoji": "🇦🇹",
-  "lastUpdated": "2026-07-03",
-  "verified": false,
-  "verifiedBy": null,
+  "lastUpdated": "2026-08-22",
+  "verified": true,
+  "verifiedBy": "Marc Neumann",
+  "verifiedDate": "2026-08-22",
   "overallStatus": "restricted",
   "summary": {
     "de": "E-Scooter fahren in Österreich weitgehend nach Fahrrad-Regeln (seit 1. Mai 2026 § 68a StVO, davor § 88b): bis 25 km/h und 600 Watt, Radweg statt Gehsteig, keine Versicherungs- oder Führerscheinpflicht. Seit 1. Mai 2026 gelten strengere Regeln: Helmpflicht unter 16, 0,5-Promille-Grenze sowie Blinker- und Klingelpflicht.",
@@ -149,6 +150,16 @@
       "title": "ÖAMTC: 36. StVO-Novelle – Welche Neuerungen gelten ab 1. Mai 2026?",
       "url": "https://www.oeamtc.at/thema/vorschriften-strafen/36-stvo-novelle-welche-neuerungen-gelten-ab-1-mai-2026-86402451",
       "accessed": "2026-07-03"
+    },
+    {
+      "title": "RIS: § 13 VStG (Mindest-Geldstrafe 7 €)",
+      "url": "https://www.ris.bka.gv.at/eli/bgbl/1991/52/P13/NOR40024044",
+      "accessed": "2026-08-22"
+    },
+    {
+      "title": "RIS: § 4 VStG (Verwaltungsstrafmündigkeit ab 14 Jahren)",
+      "url": "https://www.ris.bka.gv.at/eli/bgbl/1991/52/P4/NOR40034169",
+      "accessed": "2026-08-22"
     }
   ]
 }

@@ -3,9 +3,10 @@
   "countryCode": "FR",
   "countryName": { "de": "Frankreich", "en": "France" },
   "flagEmoji": "🇫🇷",
-  "lastUpdated": "2026-07-03",
-  "verified": false,
-  "verifiedBy": null,
+  "lastUpdated": "2026-08-22",
+  "verified": true,
+  "verifiedBy": "Marc Neumann",
+  "verifiedDate": "2026-08-22",
   "overallStatus": "restricted",
   "summary": {
     "de": "E-Scooter (EDPM) sind in Frankreich erlaubt: max. 25 km/h, ab 14 Jahren, Haftpflichtversicherung ist Pflicht. In Paris sind Leih-Scooter seit 2023 abgeschafft – private Scooter bleiben erlaubt.",
@@ -35,8 +36,8 @@
       "status": "restricted",
       "value": { "de": "innerorts keine Pflicht", "en": "not required in towns" },
       "details": {
-        "de": "National keine allgemeine Helmpflicht (dringend empfohlen). Ausnahme: Außerorts dürfen Behörden Straßen bis 80 km/h freigeben – dort sind Helm, Warnweste/Reflektoren und Licht auch tagsüber Pflicht (Art. R412-43-1). Nachts und bei schlechter Sicht ist überall Warnweste oder reflektierende Ausrüstung vorgeschrieben. Einzelne Städte (z. B. Nizza) schreiben per kommunalem Erlass einen Helm vor; ein Gesetzentwurf für eine landesweite Helmpflicht war Mitte 2026 noch nicht beschlossen.",
-        "en": "No general national helmet requirement (strongly recommended). Exception: outside built-up areas, authorities may open roads up to 80 km/h – there a helmet, hi-vis vest/reflectors and lights are mandatory even by day (Art. R412-43-1). At night or in poor visibility a hi-vis vest or retro-reflective equipment is required everywhere. Some cities (e.g. Nice) mandate helmets by municipal decree; a bill for a nationwide helmet requirement had not been passed as of mid-2026."
+        "de": "National keine allgemeine Helmpflicht (dringend empfohlen). Ausnahme: Außerorts dürfen Behörden Straßen bis 80 km/h freigeben – dort sind Helm, Warnweste/Reflektoren und Licht auch tagsüber Pflicht (Art. R412-43-1). Nachts und bei schlechter Sicht ist überall Warnweste oder reflektierende Ausrüstung vorgeschrieben. Manche Städte empfehlen ausdrücklich einen Helm (z. B. Nizza); eine kommunal verpflichtende Helmregel ließ sich nicht belegen. Ein Gesetzentwurf für eine landesweite Helmpflicht war Mitte 2026 noch nicht beschlossen.",
+        "en": "No general national helmet requirement (strongly recommended). Exception: outside built-up areas, authorities may open roads up to 80 km/h – there a helmet, hi-vis vest/reflectors and lights are mandatory even by day (Art. R412-43-1). At night or in poor visibility a hi-vis vest or retro-reflective equipment is required everywhere. Some cities (e.g. Nice) explicitly recommend a helmet; a municipal rule making it mandatory could not be verified. A bill for a nationwide helmet requirement had not been passed as of mid-2026."
       }
     },
     {
@@ -127,6 +128,16 @@
       "title": "Ministère de la Transition écologique: Trottinettes électriques et EDPM – réglementation en vigueur",
       "url": "https://www.ecologie.gouv.fr/politiques-publiques/trottinettes-electriques-edpm-reglementation-vigueur",
       "accessed": "2026-07-03"
+    },
+    {
+      "title": "Légifrance: Art. R234-1 Code de la route (Alkoholgrenze 0,5 g/l)",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038954545",
+      "accessed": "2026-08-22"
+    },
+    {
+      "title": "Légifrance: Art. L211-1 Code des assurances (Haftpflichtversicherungspflicht)",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048523650",
+      "accessed": "2026-08-22"
     }
   ]
 }

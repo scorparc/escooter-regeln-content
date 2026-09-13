@@ -3,13 +3,14 @@
   "countryCode": "IT",
   "countryName": { "de": "Italien", "en": "Italy" },
   "flagEmoji": "🇮🇹",
-  "lastUpdated": "2026-07-03",
-  "verified": false,
-  "verifiedBy": null,
+  "lastUpdated": "2026-08-22",
+  "verified": true,
+  "verifiedBy": "Marc Neumann",
+  "verifiedDate": "2026-08-22",
   "overallStatus": "restricted",
   "summary": {
-    "de": "Italien hat mit der Reform des Codice della Strada (Legge 177/2024) stark verschärft: Helmpflicht für alle seit 14.12.2024, Kennzeichenpflicht (targhino) seit 17.05.2026, Versicherungspflicht ab 16.07.2026. Max. 20 km/h, ab 14 Jahren, nur innerorts.",
-    "en": "Italy tightened its rules with the Highway Code reform (Law 177/2024): helmets for all since 14 Dec 2024, plate requirement (targhino) since 17 May 2026, insurance mandatory from 16 July 2026. Max. 20 km/h, from age 14, urban areas only."
+    "de": "Italien hat mit der Reform des Codice della Strada (Legge 177/2024) stark verschärft: Helmpflicht für alle seit 14.12.2024, Kennzeichenpflicht (targhino) seit 17.05.2026, Versicherungspflicht seit 16.07.2026. Max. 20 km/h, ab 14 Jahren, nur innerorts.",
+    "en": "Italy tightened its rules with the Highway Code reform (Law 177/2024): helmets for all since 14 Dec 2024, plate requirement (targhino) since 17 May 2026, insurance mandatory since 16 July 2026. Max. 20 km/h, from age 14, urban areas only."
   },
   "categories": [
     {
@@ -42,10 +43,10 @@
     {
       "id": "insurance",
       "status": "restricted",
-      "value": { "de": "Kennzeichen seit 17.05.2026, Versicherung ab 16.07.2026", "en": "plate since 17 May 2026, insurance from 16 July 2026" },
+      "value": { "de": "Kennzeichen seit 17.05.2026, Versicherung seit 16.07.2026", "en": "plate since 17 May 2026, insurance since 16 July 2026" },
       "details": {
-        "de": "Kennzeichenpflicht (contrassegno/targhino) ist seit 17.05.2026 in Kraft (MIT-Durchführungsdekret Nr. 110 vom 06.03.2026, Antragsplattform seit 18.03.2026 auf dem Portale dell'Automobilista). Das Kennzeichen ist an den Codice fiscale des Halters gebunden (nicht ans Fahrzeug), kostet ca. 35 € gesamt (8,66 € Plakette + Gebühren) und erfordert SPID/CIE; Nicht-EU-Bürger brauchen eine Aufenthaltserlaubnis. Für Touristen mit eigenem, im Ausland gekauftem Scooter gibt es keine bekannte Sonderregelung – die Nutzung ist damit faktisch ungeklärt/riskant. Die Haftpflichtversicherung (RC) wird zum 16.07.2026 Pflicht (per Rundschreiben vom 17.04.2026 verschoben, war ursprünglich mit dem Kennzeichen geplant); Kosten ca. 25–150 €/Jahr, Abschluss setzt das Kennzeichen voraus. Bußgeld ohne Kennzeichen bzw. ohne Versicherung: je 100–400 €. Bei Sharing-Diensten ist der Betreiber verantwortlich.",
-        "en": "The plate requirement (contrassegno/'targhino') has been in force since 17 May 2026 (MIT implementing decree No. 110 of 6 March 2026; application platform live since 18 March 2026 on the Portale dell'Automobilista). The plate is tied to the owner's Italian tax code (not the vehicle), costs about €35 in total (€8.66 sticker plus fees) and requires SPID/CIE; non-EU citizens need a residence permit. There is no known provision for tourists bringing their own scooter from abroad – using one is effectively unresolved/risky. Third-party liability insurance becomes mandatory on 16 July 2026 (postponed by circular of 17 April 2026; originally planned together with the plate); cost approx. €25–150/year, and a policy requires the plate. Fine for riding without a plate or without insurance: €100–400 each. For sharing services the operator is responsible."
+        "de": "Kennzeichenpflicht (contrassegno/targhino) ist seit 17.05.2026 in Kraft (MIT-Durchführungsdekret Nr. 110 vom 06.03.2026, Antragsplattform seit 18.03.2026 auf dem Portale dell'Automobilista). Das Kennzeichen ist an den Codice fiscale des Halters gebunden (nicht ans Fahrzeug), kostet ca. 35 € gesamt (8,66 € Plakette + Gebühren) und erfordert SPID/CIE; Nicht-EU-Bürger brauchen eine Aufenthaltserlaubnis. Für Touristen mit eigenem, im Ausland gekauftem Scooter gibt es keine bekannte Sonderregelung – die Nutzung ist damit faktisch ungeklärt/riskant. Die Haftpflichtversicherung (RC) ist seit 16.07.2026 Pflicht (per Rundschreiben vom 17.04.2026 auf dieses Datum gelegt, ursprünglich mit dem Kennzeichen geplant); der Abschluss setzt das Kennzeichen voraus. Bußgeld ohne Kennzeichen bzw. ohne Versicherung: je 100–400 €. Bei Sharing-Diensten ist der Betreiber verantwortlich.",
+        "en": "The plate requirement (contrassegno/'targhino') has been in force since 17 May 2026 (MIT implementing decree No. 110 of 6 March 2026; application platform live since 18 March 2026 on the Portale dell'Automobilista). The plate is tied to the owner's Italian tax code (not the vehicle), costs about €35 in total (€8.66 sticker plus fees) and requires SPID/CIE; non-EU citizens need a residence permit. There is no known provision for tourists bringing their own scooter from abroad – using one is effectively unresolved/risky. Third-party liability insurance (RC) has been mandatory since 16 July 2026 (set to that date by circular of 17 April 2026; originally planned together with the plate); taking out a policy requires the plate. Fine for riding without a plate or without insurance: €100–400 each. For sharing services the operator is responsible."
       }
     },
     {
@@ -101,8 +102,8 @@
       "offense": { "de": "Fahren ohne Versicherung", "en": "Riding without insurance" },
       "amount": "100–400 €",
       "notes": {
-        "de": "Pflicht ab 16.07.2026.",
-        "en": "Mandatory from 16 July 2026."
+        "de": "Pflicht seit 16.07.2026.",
+        "en": "Mandatory since 16 July 2026."
       }
     },
     {
@@ -134,20 +135,12 @@
       }
     }
   ],
-  "upcomingChanges": [
-    {
-      "effectiveDate": "2026-07-16",
-      "summary": {
-        "de": "Die Haftpflicht-Versicherungspflicht für private E-Scooter tritt in Kraft. Ohne Versicherung drohen dann Bußgelder; vor Reiseantritt Versicherungsnachweis klären.",
-        "en": "Mandatory liability insurance for private e-scooters takes effect. Riding uninsured will then be fined; sort out proof of insurance before travelling."
-      }
-    }
-  ],
+  "upcomingChanges": [],
   "sources": [
     {
-      "title": "Normattiva: Legge 25 novembre 2024, n. 177 (Riforma Codice della Strada)",
-      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2024-11-25;177",
-      "accessed": "2026-07-03"
+      "title": "Gazzetta Ufficiale: Legge 25 novembre 2024, n. 177 (Riforma Codice della Strada, Volltext)",
+      "url": "https://www.gazzettaufficiale.it/eli/id/2024/11/29/24G00199/SG",
+      "accessed": "2026-08-22"
     },
     {
       "title": "MIT: Monopattini elettrici, 50 mila contrassegni già rilasciati (Kennzeichenpflicht ab 17.05.2026)",
@@ -155,9 +148,9 @@
       "accessed": "2026-07-03"
     },
     {
-      "title": "MIMIT: Assicurazione monopattini – obbligo RC dal 16 luglio 2026",
-      "url": "https://www.mimit.gov.it/it/mercato-e-consumatori/tutela-del-consumatore/assicurazioni/monopattini",
-      "accessed": "2026-07-03"
+      "title": "MIMIT/MIT: Circolare obbligo assicurativo monopattini 2026 (RC seit 16.07.2026)",
+      "url": "https://www.mimit.gov.it/images/stories/normativa/allegati/Circolare_obbligo_assicurativo_monopattini_2026_-nf.pdf",
+      "accessed": "2026-08-22"
     },
     {
       "title": "Portale dell'Automobilista: Monopattini – Contrassegno identificativo",

@@ -3,9 +3,10 @@
   "countryCode": "ES",
   "countryName": { "de": "Spanien", "en": "Spain" },
   "flagEmoji": "🇪🇸",
-  "lastUpdated": "2026-07-03",
-  "verified": false,
-  "verifiedBy": null,
+  "lastUpdated": "2026-08-22",
+  "verified": true,
+  "verifiedBy": "Marc Neumann",
+  "verifiedDate": "2026-08-22",
   "overallStatus": "restricted",
   "summary": {
     "de": "In Spanien gelten nationale DGT-Grundregeln (max. 25 km/h, Gehweg verboten). Seit 02.01.2026 sind Haftpflichtversicherung und DGT-Registrierung Pflicht. Ab 01.10.2026 kommen landesweit Helmpflicht und Mindestalter 15 hinzu; Städte wie Barcelona sind teils strenger.",
@@ -79,7 +80,11 @@
   "fines": [
     {
       "offense": { "de": "Fahren auf dem Gehweg", "en": "Riding on the sidewalk" },
-      "amount": "bis 200 € (je nach Stadt)"
+      "amount": "je nach Stadt, z. B. Barcelona 500 €",
+      "notes": {
+        "de": "Kommunal geregelt und stark unterschiedlich; Barcelona sanktioniert das Fahren auf dem Gehweg seit der Verkehrsordnung von 2025 mit 500 €.",
+        "en": "Set locally and highly variable; Barcelona has fined riding on the sidewalk €500 since its 2025 traffic ordinance."
+      }
     },
     {
       "offense": { "de": "Handy oder Kopfhörer beim Fahren", "en": "Phone or headphones while riding" },
@@ -97,8 +102,8 @@
       "offense": { "de": "Fahren ohne Haftpflichtversicherung", "en": "Riding without liability insurance" },
       "amount": "ca. 250–800 €",
       "notes": {
-        "de": "Seit 02.01.2026; hinzu kommen Sanktionen bei fehlender Registrierung (ca. 202–610 €).",
-        "en": "Since 2 Jan 2026; additional penalties apply for missing registration (approx. €202–610)."
+        "de": "Praktisch durchsetzbar seit Registerstart 30.01.2026. Das Fehlen der Pflichtversicherung selbst wird laut DGT mit 202–610 € sanktioniert; das tatsächliche Fahren ohne Versicherung mit ca. 250–800 €.",
+        "en": "Practically enforceable since the registry went live on 30 Jan 2026. Lacking the mandatory insurance itself carries €202–610 per the DGT; actually riding uninsured carries roughly €250–800."
       }
     },
     {
@@ -121,8 +126,8 @@
     {
       "name": "Madrid",
       "notes": {
-        "de": "Mindestalter 15 (10–14 nur in Begleitung Erwachsener, mit Helm); Helmpflicht für unter 18-Jährige und auf bestimmten Spuren. Leih-Scooter-Dienste sind seit Oktober 2023 aus der Stadt verbannt; private Scooter nach DGT- und Stadtregeln (Ordenanza de Movilidad Sostenible) erlaubt.",
-        "en": "Minimum age 15 (10–14 only accompanied by adults, with helmet); helmet mandatory for under-18s and on certain lanes. Rental scooter services have been banned from the city since October 2023; private scooters allowed under DGT and city rules (Ordenanza de Movilidad Sostenible)."
+        "de": "Mindestalter 15 (10–14 nur in Begleitung Erwachsener, mit Helm); Helmpflicht für unter 18-Jährige und auf bestimmten Spuren. Die Betreiber-Genehmigungen für Leih-Scooter wurden am 05.09.2024 widerrufen; die Anbieter mussten ihre Fahrzeuge ab Oktober 2024 entfernen (2023 war das Jahr der Genehmigung, nicht des Verbots). Private Scooter nach DGT- und Stadtregeln (Ordenanza de Movilidad Sostenible) erlaubt.",
+        "en": "Minimum age 15 (10–14 only accompanied by adults, with helmet); helmet mandatory for under-18s and on certain lanes. The rental operators' permits were revoked on 5 Sep 2024 and providers had to remove their vehicles from October 2024 (2023 was the year of authorisation, not of the ban). Private scooters allowed under DGT and city rules (Ordenanza de Movilidad Sostenible)."
       }
     }
   ],
@@ -130,8 +135,8 @@
     {
       "effectiveDate": "2026-10-01",
       "summary": {
-        "de": "Landesweit gilt dann: Mindestalter 15 Jahre und allgemeine Helmpflicht für E-Scooter (RD 518/2026) – unabhängig von den städtischen Regeln.",
-        "en": "Nationwide from then on: minimum age 15 and a general helmet requirement for e-scooters (RD 518/2026) – regardless of city rules."
+        "de": "Landesweit (RD 518/2026): Mindestalter 15, Helmpflicht, bei Nacht/schlechter Sicht Licht oder Reflexelement (aus 150 m sichtbar), Handzeichen, Gehweg- und VAO-Verbot, kein Fahren auf Autobahn/Autovía/außerorts/Stadttunneln. Beleuchtung immer eingeschaltet; dauerhaftes Tagfahrlicht erst ab 01.10.2027.",
+        "en": "Nationwide (RD 518/2026): minimum age 15, mandatory helmet, light or reflective element at night/poor visibility (visible from 150 m), hand signals, sidewalk and pedestrian-zone ban, no riding on motorways/expressways/interurban roads/city tunnels. Lights always on; permanent daytime running light only from 1 Oct 2027."
       }
     }
   ],
@@ -147,9 +152,19 @@
       "accessed": "2026-07-03"
     },
     {
-      "title": "BOE: Real Decreto 518/2026, de 24 de junio (Reform Reglamento General de Circulación: Helm, Mindestalter 15)",
-      "url": "https://www.boe.es/eli/es/rd/2026/06/24/518",
-      "accessed": "2026-07-03"
+      "title": "BOE: Real Decreto 518/2026 (Reform Reglamento General de Circulación: Helm, Mindestalter 15, Licht ab 2027)",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-13889",
+      "accessed": "2026-08-22"
+    },
+    {
+      "title": "Ajuntament de Barcelona: Sancions Ordenança de Circulació 2025 (Gehweg 500 €)",
+      "url": "https://www.barcelona.cat/mobilitat/sites/default/files/2025-02/SancionsOrdenancaCirculacio2025_CAT.pdf",
+      "accessed": "2026-08-22"
+    },
+    {
+      "title": "Ayuntamiento de Madrid: Revocación de autorizaciones de patinetes de alquiler (05.09.2024)",
+      "url": "https://diario.madrid.es/blog/notas-de-prensa/madrid-revoca-las-autorizaciones-de-patinetes-de-alquiler-y-ya-no-podran-circular-por-sus-calles/",
+      "accessed": "2026-08-22"
     },
     {
       "title": "DGT: Vehículos de Movilidad Personal (VMP) – Zertifikat, Registrierung, Versicherung",

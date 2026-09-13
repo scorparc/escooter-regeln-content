@@ -3,9 +3,10 @@
   "countryCode": "CH",
   "countryName": { "de": "Schweiz", "en": "Switzerland" },
   "flagEmoji": "🇨🇭",
-  "lastUpdated": "2026-07-03",
-  "verified": false,
-  "verifiedBy": null,
+  "lastUpdated": "2026-08-22",
+  "verified": true,
+  "verifiedBy": "Marc Neumann",
+  "verifiedDate": "2026-08-22",
   "overallStatus": "restricted",
   "summary": {
     "de": "E-Scooter (E-Trottinette) gelten in der Schweiz als Leicht-Motorfahrräder: max. 20 km/h und 500 W, ab 14 mit Ausweis Kat. M, ab 16 ausweisfrei. Es gelten die Verkehrsregeln für Velos; das Licht muss auch tagsüber eingeschaltet sein.",
@@ -122,6 +123,21 @@
       "title": "Fedlex: Ordnungsbussenverordnung (OBV, SR 314.11), Anhang 1 Ziff. 604–605",
       "url": "https://www.fedlex.admin.ch/eli/cc/2019/93/de",
       "accessed": "2026-07-03"
+    },
+    {
+      "title": "Fedlex: Verkehrszulassungsverordnung (VZV, SR 741.51) – Mindestalter, Kat. M",
+      "url": "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/de",
+      "accessed": "2026-08-22"
+    },
+    {
+      "title": "Fedlex: Verkehrsregelnverordnung (VRV, SR 741.11) – Helm, Licht, Verhalten",
+      "url": "https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/de",
+      "accessed": "2026-08-22"
+    },
+    {
+      "title": "Fedlex: Verordnung über Alkoholgrenzwerte im Strassenverkehr (SR 741.13) – 0,5 ‰",
+      "url": "https://www.fedlex.admin.ch/eli/cc/2015/297/de",
+      "accessed": "2026-08-22"
     }
   ]
 }

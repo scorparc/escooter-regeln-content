@@ -3,9 +3,10 @@
   "countryCode": "PL",
   "countryName": { "de": "Polen", "en": "Poland" },
   "flagEmoji": "🇵🇱",
-  "lastUpdated": "2026-07-03",
-  "verified": false,
-  "verifiedBy": null,
+  "lastUpdated": "2026-08-22",
+  "verified": true,
+  "verifiedBy": "Marc Neumann",
+  "verifiedDate": "2026-08-22",
   "overallStatus": "restricted",
   "summary": {
     "de": "E-Scooter (hulajnoga elektryczna) sind in Polen erlaubt: max. 20 km/h, Mindestalter 13 Jahre, unter 18 nur mit Fahrradkarte/Führerschein, Helmpflicht unter 16, sehr niedrige Promillegrenze (0,2 ‰). Radweg hat Vorrang, Gehweg nur ausnahmsweise im Schritttempo.",
@@ -135,6 +136,21 @@
       "title": "Prawo o ruchu drogowym – hulajnoga elektryczna (ISAP, konsolidierte Fassung)",
       "url": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19970980602",
       "accessed": "2026-07-03"
+    },
+    {
+      "title": "Dziennik Ustaw: Kodeks wykroczeń (Art. 87 – Alkohol; Grundlage der Bußgelder)",
+      "url": "https://www.dziennikustaw.gov.pl/D2025000073401.pdf",
+      "accessed": "2026-08-22"
+    },
+    {
+      "title": "Dziennik Ustaw: Taryfikator mandatów (amtlicher Bußgeldtarif)",
+      "url": "https://dziennikustaw.gov.pl/D2021000248401.pdf",
+      "accessed": "2026-08-22"
+    },
+    {
+      "title": "Rzecznik Finansowy: keine gesonderte OC-Pflichtversicherung für E-Scooter (hulajnoga)",
+      "url": "https://rf.gov.pl/nowe-przepisy-podwyzszaja-minimalny-wiek-uzytkownikow-e-hulajnog-do-13-roku-zycia/",
+      "accessed": "2026-08-22"
     }
   ]
 }

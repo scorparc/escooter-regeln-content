@@ -3,9 +3,10 @@
   "countryCode": "DE",
   "countryName": { "de": "Deutschland", "en": "Germany" },
   "flagEmoji": "🇩🇪",
-  "lastUpdated": "2026-07-03",
-  "verified": false,
-  "verifiedBy": null,
+  "lastUpdated": "2026-08-22",
+  "verified": true,
+  "verifiedBy": "Marc Neumann",
+  "verifiedDate": "2026-08-22",
   "overallStatus": "restricted",
   "summary": {
     "de": "E-Scooter sind in Deutschland erlaubt, aber nur mit Versicherungsplakette und Allgemeiner Betriebserlaubnis (eKFV). Gefahren wird auf Radwegen, sonst auf der Fahrbahn – nie auf dem Gehweg.",
@@ -133,8 +134,8 @@
     {
       "effectiveDate": "2027-03-01",
       "summary": {
-        "de": "Die eKFV-Novelle (Februar 2026) tritt in Kraft: angepasste Verhaltensregeln und höhere Bußgelder für E-Scooter-Verstöße.",
-        "en": "The eKFV amendment (February 2026) takes effect: updated conduct rules and higher fines for e-scooter violations."
+        "de": "Die restlichen Teile der eKFV-Novelle treten in Kraft: an den Radverkehr angeglichene Verhaltensregeln und höhere Bußgelder. (Die technischen Vorgaben aus Artikel 1 gelten bereits seit 01.04.2026.)",
+        "en": "The remaining parts of the eKFV amendment take effect: conduct rules aligned with bicycle traffic and higher fines. (The technical requirements from Article 1 have applied since 1 April 2026.)"
       }
     }
   ],
@@ -158,6 +159,11 @@
       "title": "ADAC: E-Scooter – Regeln, Bußgelder plus geplante Neuregelungen",
       "url": "https://www.adac.de/rund-ums-fahrzeug/elektromobilitaet/e-kleinstfahrzeuge/e-scooter/",
       "accessed": "2026-07-03"
+    },
+    {
+      "title": "Deutscher Bundestag: Beschluss zur Halterhaftung bei Elektrokleinstfahrzeugen (09.07.2026, Bundesrat ausstehend)",
+      "url": "https://www.bundestag.de/dokumente/textarchiv/2026/kw28-de-elektrokleinstfahrzeuge-1192562",
+      "accessed": "2026-08-22"
     }
   ]
 }

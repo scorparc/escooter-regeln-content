@@ -1,15 +1,53 @@
-{
-  "schemaVersion": 1,
-  "contentVersion": 4,
-  "updatedAt": "2026-07-03",
-  "countries": [
-    { "code": "DE", "file": "countries/de.json" },
-    { "code": "AT", "file": "countries/at.json" },
-    { "code": "CH", "file": "countries/ch.json" },
-    { "code": "FR", "file": "countries/fr.json" },
-    { "code": "IT", "file": "countries/it.json" },
-    { "code": "ES", "file": "countries/es.json" },
-    { "code": "NL", "file": "countries/nl.json" },
-    { "code": "PL", "file": "countries/pl.json" }
-  ]
+﻿{
+    "schemaVersion":  1,
+    "contentVersion":  5,
+    "updatedAt":  "2026-08-22",
+    "countries":  [
+                      {
+                          "code":  "DE",
+                          "file":  "countries/de.json"
+                      },
+                      {
+                          "code":  "AT",
+                          "file":  "countries/at.json"
+                      },
+                      {
+                          "code":  "CH",
+                          "file":  "countries/ch.json"
+                      },
+                      {
+                          "code":  "FR",
+                          "file":  "countries/fr.json"
+                      },
+                      {
+                          "code":  "IT",
+                          "file":  "countries/it.json"
+                      },
+                      {
+                          "code":  "ES",
+                          "file":  "countries/es.json"
+                      },
+                      {
+                          "code":  "NL",
+                          "file":  "countries/nl.json"
+                      },
+                      {
+                          "code":  "PL",
+                          "file":  "countries/pl.json"
+                      }
+                  ],
+    "snapshot":  {
+                     "revision":  "116f29eed6c34a3747110b5be6fa82ec303815b0",
+                     "baseUrl":  "https://raw.githubusercontent.com/scorparc/escooter-regeln-content/116f29eed6c34a3747110b5be6fa82ec303815b0/versions/5",
+                     "hashes":  {
+                                    "countries/de.json":  "977fb19443f76be9bea26651da7c0824d94d1fdcfe5698f1ebc3134072798cff",
+                                    "countries/at.json":  "9383c3b45001075b4026fff3a717caf843906ee7407d0717f689fa38ef3c8262",
+                                    "countries/ch.json":  "81bce9bb640d028d6bef9a7424ab94c7a2a8cd29ae5662e197ce99bc7a285b1e",
+                                    "countries/fr.json":  "d8b77d2ff101967af52933398bde7290a12240e667c05e4d576a6d3c21becfb5",
+                                    "countries/it.json":  "73281cff7dc84fd686569e16d695bae16ec613a7c21b6f1cec479c6afa3048f7",
+                                    "countries/es.json":  "c357a9226d6f96eff0ca43b633e9c7903f9746540da68d84598588448b685b57",
+                                    "countries/nl.json":  "2032439042a6272ed7f5f08d33bdd160e9cd75eae59afaf771e981bdd773d3b4",
+                                    "countries/pl.json":  "8fb10b4d8dd5163fe3c434c9faf73bac4e204f6356aa9f294b58ed099c08b6d7"
+                                }
+                 }
 }

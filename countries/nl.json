@@ -3,22 +3,23 @@
   "countryCode": "NL",
   "countryName": { "de": "Niederlande", "en": "Netherlands" },
   "flagEmoji": "🇳🇱",
-  "lastUpdated": "2026-07-03",
-  "verified": false,
-  "verifiedBy": null,
-  "overallStatus": "forbidden",
+  "lastUpdated": "2026-08-22",
+  "verified": true,
+  "verifiedBy": "Marc Neumann",
+  "verifiedDate": "2026-08-22",
+  "overallStatus": "restricted",
   "summary": {
-    "de": "Achtung: In den Niederlanden sind die meisten E-Scooter auf öffentlichen Straßen weiterhin VERBOTEN. Erlaubt sind nur wenige RDW-zugelassene Modelle ('bijzondere bromfiets') mit Versicherung und – seit 1. Juli 2026 ausnahmslos – blauem Kennzeichen. Die geplante allgemeine LEV-Regelung ist erneut verschoben.",
-    "en": "Warning: in the Netherlands most e-scooters remain BANNED from public roads. Only a few RDW-approved models ('bijzondere bromfiets') are allowed, with insurance and – since 1 July 2026 without exception – a blue licence plate. The planned general LEV framework has been postponed again."
+    "de": "Achtung: In den Niederlanden dürfen nur wenige RDW-zugelassene Modelle ('bijzondere bromfiets') öffentlich fahren – mit Versicherung und, seit 1. Juli 2026 ausnahmslos, blauem Kennzeichen. Die meisten gängigen E-Scooter haben keine Zulassung und sind damit nur auf Privatgelände erlaubt. Die geplante allgemeine LEV-Regelung ist erneut verschoben.",
+    "en": "Warning: in the Netherlands only a few RDW-approved models ('bijzondere bromfiets') may be ridden in public – with insurance and, since 1 July 2026 without exception, a blue licence plate. Most common e-scooters are not approved and may therefore only be used on private property. The planned general LEV framework has been postponed again."
   },
   "categories": [
     {
       "id": "max_speed",
-      "status": "forbidden",
+      "status": "restricted",
       "value": { "de": "nur zugelassene Modelle (25 km/h)", "en": "approved models only (25 km/h)" },
       "details": {
-        "de": "Gewöhnliche E-Scooter (auch in DE/AT legale Modelle) haben keine niederländische Zulassung und dürfen nur auf Privatgelände gefahren werden. Zugelassen sind nur wenige Modelle (laut RDW-Liste, Stand Juli 2026: Selana Alpha, Yedoo Mezeq sowie Kickbike Luxury, Fat Max und Cruise), max. 25 km/h. E-Steps mit reiner Tretunterstützung (ohne Gashebel) gelten als E-Bike und sind ohne Kennzeichen erlaubt. Die RDW führt die Liste der zugelassenen Modelle.",
-        "en": "Ordinary e-scooters (including models legal in DE/AT) have no Dutch approval and may only be used on private property. Only a handful of models are approved (per the RDW list, as of July 2026: Selana Alpha, Yedoo Mezeq, and Kickbike Luxury, Fat Max and Cruise), max. 25 km/h. E-scooters with pedal assistance only (no throttle) count as e-bikes and are allowed without a plate. The RDW maintains the list of approved models."
+        "de": "Gewöhnliche E-Scooter (auch in DE/AT legale Modelle) haben keine niederländische Zulassung und dürfen nur auf Privatgelände gefahren werden. Zugelassen sind nur wenige Modelle (laut RDW-Liste, Stand August 2026: Yedoo Mezeq, Kickbike Luxury, Kickbike Fat Max, Kickbike Cruise, Selana Alpha sowie Pure Air6 Pro+ suspension NL), max. 25 km/h. E-Steps mit reiner Tretunterstützung (ohne Gashebel) gelten als E-Bike und sind ohne Kennzeichen erlaubt. Die RDW führt die Liste der zugelassenen Modelle.",
+        "en": "Ordinary e-scooters (including models legal in DE/AT) have no Dutch approval and may only be used on private property. Only a handful of models are approved (per the RDW list, as of August 2026: Yedoo Mezeq, Kickbike Luxury, Kickbike Fat Max, Kickbike Cruise, Selana Alpha and Pure Air6 Pro+ suspension NL), max. 25 km/h. E-scooters with pedal assistance only (no throttle) count as e-bikes and are allowed without a plate. The RDW maintains the list of approved models."
       }
     },
     {
@@ -68,7 +69,7 @@
     },
     {
       "id": "where_to_ride",
-      "status": "forbidden",
+      "status": "restricted",
       "value": { "de": "öffentlich nur zugelassene Modelle", "en": "public roads: approved models only" },
       "details": {
         "de": "Nicht zugelassene E-Scooter dürfen ausschließlich auf Privatgelände gefahren werden. Zugelassene Modelle fahren auf dem Radweg (fietspad bzw. fiets-/bromfietspad); Gehwege sind verboten. Max. 1 Person, keine Handy-/Gerätenutzung während der Fahrt.",
@@ -95,10 +96,10 @@
     },
     {
       "offense": { "de": "Fahren ohne Versicherung", "en": "Riding uninsured" },
-      "amount": "500 €",
+      "amount": "480 €",
       "notes": {
-        "de": "Betrag laut Presseberichten zur Kenteken-Kontrolle (Juli 2026). Die RDW nennt für (bijzondere) Bromfietsen bei Registerkontrolle 480 €. Alle Bußgelder zzgl. 9 € Verwaltungsgebühr.",
-        "en": "Amount per press reports on plate enforcement (July 2026). For (special) mopeds caught via register checks the RDW lists €480. All fines plus a €9 administrative fee."
+        "de": "Amtlicher RDW/CJIB-Betrag für eine nicht WA-versicherte Brom-/Snorfiets (gilt entsprechend für zugelassene bijzondere Bromfietsen/LEV); zzgl. 9 € Verwaltungsgebühr.",
+        "en": "Official RDW/CJIB amount for an uninsured (WA) moped/light moped (applies accordingly to approved special mopeds/LEVs); plus a €9 administrative fee."
       }
     }
   ],
@@ -114,9 +115,14 @@
       "accessed": "2026-07-03"
     },
     {
-      "title": "RDW: Boetebedragen verzekering en APK",
+      "title": "RDW: Boetebedragen verzekering en APK (Brom-/Snorfiets ohne Versicherung 480 €)",
       "url": "https://www.rdw.nl/paginas/boetebedragen",
-      "accessed": "2026-07-03"
+      "accessed": "2026-08-22"
+    },
+    {
+      "title": "Openbaar Ministerie: Feitenboekje 2026 (Bußgeldbeträge)",
+      "url": "https://www.om.nl/site/binaries/site-content/collections/documents/mulderbundel/map/map/mulderbundel-2026/Feitenboekje%2B2026.pdf",
+      "accessed": "2026-08-22"
     },
     {
       "title": "Tweede Kamer: Kamerbrief Stand van zaken LEV-kader (28.08.2025, Nutzerregeln frühestens Herbst 2026)",
