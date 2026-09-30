@@ -3,14 +3,14 @@
   "countryCode": "ES",
   "countryName": { "de": "Spanien", "en": "Spain" },
   "flagEmoji": "🇪🇸",
-  "lastUpdated": "2026-08-22",
+  "lastUpdated": "2026-10-01",
   "verified": true,
   "verifiedBy": "Marc Neumann",
-  "verifiedDate": "2026-08-22",
+  "verifiedDate": "2026-10-01",
   "overallStatus": "restricted",
   "summary": {
-    "de": "In Spanien gelten nationale DGT-Grundregeln (max. 25 km/h, Gehweg verboten). Seit 02.01.2026 sind Haftpflichtversicherung und DGT-Registrierung Pflicht. Ab 01.10.2026 kommen landesweit Helmpflicht und Mindestalter 15 hinzu; Städte wie Barcelona sind teils strenger.",
-    "en": "Spain has national DGT base rules (max. 25 km/h, sidewalks banned). Since 2 Jan 2026 liability insurance and DGT registration are mandatory. From 1 Oct 2026 a nationwide helmet duty and minimum age 15 apply on top; cities like Barcelona are partly stricter."
+    "de": "In Spanien gelten nationale DGT-Grundregeln (max. 25 km/h, Gehweg verboten). Seit 02.01.2026 sind Haftpflichtversicherung und DGT-Registrierung Pflicht. Seit 01.10.2026 gelten landesweit Helmpflicht und Mindestalter 15; Städte wie Barcelona sind teils strenger.",
+    "en": "Spain has national DGT base rules (max. 25 km/h, sidewalks banned). Since 2 Jan 2026 liability insurance and DGT registration are mandatory. Since 1 Oct 2026 a nationwide helmet duty and minimum age 15 apply; cities like Barcelona are partly stricter."
   },
   "categories": [
     {
@@ -25,19 +25,19 @@
     {
       "id": "min_age",
       "status": "restricted",
-      "value": { "de": "15 national ab 10/2026, Städte teils 16", "en": "15 nationally from 10/2026, some cities 16" },
+      "value": { "de": "15 national, Städte teils 16", "en": "15 nationally, some cities 16" },
       "details": {
-        "de": "Bis 30.09.2026 gibt es kein nationales Mindestalter – es gelten die städtischen Verordnungen (Madrid: 15 Jahre, Ausnahme 10–14 in Begleitung; Barcelona: 16 Jahre, Bußgeld 200 €). Ab dem 01.10.2026 gilt landesweit ein Mindestalter von 15 Jahren (Real Decreto 518/2026, neuer Art. 155 Reglamento General de Circulación). Strengere städtische Regeln wie in Barcelona bleiben zu beachten.",
-        "en": "Until 30 Sep 2026 there is no national minimum age – municipal ordinances apply (Madrid: 15, exception 10–14 accompanied; Barcelona: 16, fine €200). From 1 Oct 2026 a nationwide minimum age of 15 applies (Royal Decree 518/2026, new Art. 155 of the General Traffic Regulation). Stricter city rules such as Barcelona's still need to be observed."
+        "de": "Landesweit gilt ein Mindestalter von 15 Jahren (Real Decreto 518/2026, Art. 155 Reglamento General de Circulación). Strengere städtische Regeln wie in Barcelona (16 Jahre, Bußgeld 200 €) bleiben zu beachten.",
+        "en": "A nationwide minimum age of 15 applies (Royal Decree 518/2026, Art. 155 of the General Traffic Regulation). Stricter city rules such as Barcelona's (age 16, fine €200) still need to be observed."
       }
     },
     {
       "id": "helmet",
       "status": "restricted",
-      "value": { "de": "Pflicht ab 01.10.2026, teils schon jetzt", "en": "mandatory from 1 Oct 2026, partly already now" },
+      "value": { "de": "Pflicht", "en": "mandatory" },
       "details": {
-        "de": "Ab dem 01.10.2026 ist ein homologierter/zertifizierter Helm landesweit Pflicht (Real Decreto 518/2026); Verstoß: 200 €. Bis dahin regeln es die Städte: In Barcelona ist der Helm seit Februar 2025 Pflicht (Bußgeld 100 €), in Madrid für unter 18-Jährige und auf bestimmten Spuren. Empfehlung: immer Helm tragen.",
-        "en": "From 1 Oct 2026 a homologated/certified helmet is mandatory nationwide (Royal Decree 518/2026); violation: €200. Until then cities decide: Barcelona requires a helmet since February 2025 (fine €100), Madrid for under-18s and on certain lanes. Recommendation: always wear one."
+        "de": "Ein homologierter/zertifizierter Helm ist landesweit Pflicht (Real Decreto 518/2026); Verstoß: 200 €. In Barcelona galt bereits seit Februar 2025 eine kommunale Helmpflicht (Bußgeld 100 €). Empfehlung: immer Helm tragen.",
+        "en": "A homologated/certified helmet is mandatory nationwide (Royal Decree 518/2026); violation: €200. Barcelona already had a municipal helmet requirement from February 2025 (fine €100). Recommendation: always wear one."
       }
     },
     {
@@ -72,8 +72,8 @@
       "status": "restricted",
       "value": { "de": "Stadtstraßen/Radweg, Gehweg verboten", "en": "urban roads/bike path, sidewalk banned" },
       "details": {
-        "de": "Fahren auf Gehwegen, Autobahnen, Schnellstraßen, Überlandstraßen und in Tunneln ist national verboten; das Real Decreto 518/2026 bestätigt das Gehwegverbot ab 01.10.2026 ausnahmslos. Erlaubt sind Radwege und innerörtliche Straßen gemäß der jeweiligen Stadtverordnung (Barcelona z. B.: Radwege und Straßen mit Tempo 30).",
-        "en": "Riding on sidewalks, motorways, expressways, interurban roads and in tunnels is banned nationally; Royal Decree 518/2026 confirms the sidewalk ban without exceptions from 1 Oct 2026. Bike paths and urban roads are allowed as regulated by each city (Barcelona e.g.: bike lanes and 30 km/h streets)."
+        "de": "Fahren auf Gehwegen, Autobahnen, Schnellstraßen, Überlandstraßen und in Tunneln ist national verboten; das Real Decreto 518/2026 bestätigt das Gehwegverbot ausnahmslos. Erlaubt sind Radwege und innerörtliche Straßen gemäß der jeweiligen Stadtverordnung (Barcelona z. B.: Radwege und Straßen mit Tempo 30). Beim Abbiegen sind Handzeichen zu geben. Zwischen Sonnenuntergang und Sonnenaufgang sowie bei meteorologisch oder umweltbedingt deutlich schlechter Sicht ist mindestens ein Licht- oder Reflexelement zu verwenden, das aus mindestens 150 m sichtbar ist. VMP dürfen VAO-Spuren (Fahrspuren für mehrfach besetzte Fahrzeuge) nicht benutzen.",
+        "en": "Riding on sidewalks, motorways, expressways, interurban roads and in tunnels is banned nationally; Royal Decree 518/2026 confirms the sidewalk ban without exceptions. Bike paths and urban roads are allowed as regulated by each city (Barcelona e.g.: bike lanes and 30 km/h streets). Drivers must give hand signals when turning. Between sunset and sunrise, and in weather or environmental conditions that significantly reduce visibility, at least one light or reflective element visible from at least 150 m must be used. VMPs may not use VAO lanes (high-occupancy vehicle lanes)."
       }
     }
   ],
@@ -108,10 +108,10 @@
     },
     {
       "offense": { "de": "Ohne Helm fahren", "en": "Riding without a helmet" },
-      "amount": "200 € (national ab 01.10.2026)",
+      "amount": "200 € (national)",
       "notes": {
-        "de": "Bis dahin städtische Bußgelder, z. B. Barcelona 100 €.",
-        "en": "Until then municipal fines apply, e.g. Barcelona €100."
+        "de": "Barcelona hatte bereits vor der nationalen Regel eine kommunale Helmpflicht (100 €).",
+        "en": "Barcelona already had a municipal helmet requirement before the national rule (€100)."
       }
     }
   ],
@@ -126,17 +126,17 @@
     {
       "name": "Madrid",
       "notes": {
-        "de": "Mindestalter 15 (10–14 nur in Begleitung Erwachsener, mit Helm); Helmpflicht für unter 18-Jährige und auf bestimmten Spuren. Die Betreiber-Genehmigungen für Leih-Scooter wurden am 05.09.2024 widerrufen; die Anbieter mussten ihre Fahrzeuge ab Oktober 2024 entfernen (2023 war das Jahr der Genehmigung, nicht des Verbots). Private Scooter nach DGT- und Stadtregeln (Ordenanza de Movilidad Sostenible) erlaubt.",
-        "en": "Minimum age 15 (10–14 only accompanied by adults, with helmet); helmet mandatory for under-18s and on certain lanes. The rental operators' permits were revoked on 5 Sep 2024 and providers had to remove their vehicles from October 2024 (2023 was the year of authorisation, not of the ban). Private scooters allowed under DGT and city rules (Ordenanza de Movilidad Sostenible)."
+        "de": "Für Madrid gelten das nationale Mindestalter von 15 Jahren und die nationale Helmpflicht. Die Betreiber-Genehmigungen für Leih-Scooter wurden am 05.09.2024 widerrufen; die Anbieter mussten ihre Fahrzeuge ab Oktober 2024 entfernen (2023 war das Jahr der Genehmigung, nicht des Verbots). Private Scooter nach DGT- und Stadtregeln (Ordenanza de Movilidad Sostenible) erlaubt.",
+        "en": "Madrid is subject to the national minimum age of 15 and the national helmet requirement. The rental operators' permits were revoked on 5 Sep 2024 and providers had to remove their vehicles from October 2024 (2023 was the year of authorisation, not of the ban). Private scooters allowed under DGT and city rules (Ordenanza de Movilidad Sostenible)."
       }
     }
   ],
   "upcomingChanges": [
     {
-      "effectiveDate": "2026-10-01",
+      "effectiveDate": "2027-10-01",
       "summary": {
-        "de": "Landesweit (RD 518/2026): Mindestalter 15, Helmpflicht, bei Nacht/schlechter Sicht Licht oder Reflexelement (aus 150 m sichtbar), Handzeichen, Gehweg- und VAO-Verbot, kein Fahren auf Autobahn/Autovía/außerorts/Stadttunneln. Beleuchtung immer eingeschaltet; dauerhaftes Tagfahrlicht erst ab 01.10.2027.",
-        "en": "Nationwide (RD 518/2026): minimum age 15, mandatory helmet, light or reflective element at night/poor visibility (visible from 150 m), hand signals, sidewalk and pedestrian-zone ban, no riding on motorways/expressways/interurban roads/city tunnels. Lights always on; permanent daytime running light only from 1 Oct 2027."
+        "de": "Dauerhaftes Tagfahrlicht wird für VMP vorgeschrieben (Real Decreto 518/2026).",
+        "en": "Permanent daytime running lights become mandatory for VMPs (Royal Decree 518/2026)."
       }
     }
   ],

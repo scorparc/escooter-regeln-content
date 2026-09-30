@@ -3,10 +3,10 @@
   "countryCode": "AT",
   "countryName": { "de": "Österreich", "en": "Austria" },
   "flagEmoji": "🇦🇹",
-  "lastUpdated": "2026-08-22",
+  "lastUpdated": "2026-10-01",
   "verified": true,
   "verifiedBy": "Marc Neumann",
-  "verifiedDate": "2026-08-22",
+  "verifiedDate": "2026-10-01",
   "overallStatus": "restricted",
   "summary": {
     "de": "E-Scooter fahren in Österreich weitgehend nach Fahrrad-Regeln (seit 1. Mai 2026 § 68a StVO, davor § 88b): bis 25 km/h und 600 Watt, Radweg statt Gehsteig, keine Versicherungs- oder Führerscheinpflicht. Seit 1. Mai 2026 gelten strengere Regeln: Helmpflicht unter 16, 0,5-Promille-Grenze sowie Blinker- und Klingelpflicht.",
@@ -45,8 +45,8 @@
       "status": "allowed",
       "value": { "de": "keine Pflicht", "en": "not required" },
       "details": {
-        "de": "Keine Versicherungs- oder Kennzeichenpflicht: E-Scooter bis 600 W/25 km/h gelten nicht als Kraftfahrzeug (§ 1 Abs. 2b KFG). Anders E-Mopeds (Klasse L1e-B): Sie gelten ab 1. Oktober 2026 nicht mehr als Fahrrad und brauchen dann Zulassung, Kennzeichen und Versicherung. Eine private Haftpflichtversicherung, die E-Scooter-Schäden abdeckt, ist dringend empfohlen.",
-        "en": "No insurance or plate requirement: e-scooters up to 600 W/25 km/h do not count as motor vehicles (Section 1(2b) Motor Vehicles Act). E-mopeds (class L1e-B) are different: from 1 October 2026 they no longer count as bicycles and will need registration, plates and insurance. Private liability insurance covering e-scooter damage is strongly recommended."
+        "de": "Keine Versicherungs- oder Kennzeichenpflicht: E-Scooter bis 600 W/25 km/h gelten nicht als Kraftfahrzeug (§ 1 Abs. 2b KFG). Anders E-Mopeds (Klasse L1e-B): Sie gelten seit 1. Oktober 2026 nicht mehr als Fahrrad und brauchen Zulassung, Kennzeichen und Versicherung. Eine private Haftpflichtversicherung, die E-Scooter-Schäden abdeckt, ist dringend empfohlen.",
+        "en": "No insurance or plate requirement: e-scooters up to 600 W/25 km/h do not count as motor vehicles (Section 1(2b) Motor Vehicles Act). E-mopeds (class L1e-B) are different: since 1 October 2026 they no longer count as bicycles and need registration, plates and insurance. Private liability insurance covering e-scooter damage is strongly recommended."
       }
     },
     {
