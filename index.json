@@ -37,8 +37,8 @@
                       }
                   ],
     "snapshot":  {
-                     "revision":  "e7bf8922323f8cdc19521c178426f846f836d4a4",
-                     "baseUrl":  "https://raw.githubusercontent.com/scorparc/escooter-regeln-content/e7bf8922323f8cdc19521c178426f846f836d4a4/versions/6",
+                     "revision":  "59876aa9f876ec5e14428176bb180cfc1a0c240a",
+                     "baseUrl":  "https://raw.githubusercontent.com/scorparc/escooter-regeln-content/59876aa9f876ec5e14428176bb180cfc1a0c240a/versions/6",
                      "hashes":  {
                                     "countries/de.json":  "977fb19443f76be9bea26651da7c0824d94d1fdcfe5698f1ebc3134072798cff",
                                     "countries/at.json":  "9c40dea790bdab41b211fa0f5fba3038c121ca4d2035ea9086c9f081fd365395",
