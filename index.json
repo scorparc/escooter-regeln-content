@@ -1,0 +1,53 @@
+{
+    "schemaVersion":  1,
+    "contentVersion":  6,
+    "updatedAt":  "2026-10-01",
+    "countries":  [
+                      {
+                          "code":  "DE",
+                          "file":  "countries/de.json"
+                      },
+                      {
+                          "code":  "AT",
+                          "file":  "countries/at.json"
+                      },
+                      {
+                          "code":  "CH",
+                          "file":  "countries/ch.json"
+                      },
+                      {
+                          "code":  "FR",
+                          "file":  "countries/fr.json"
+                      },
+                      {
+                          "code":  "IT",
+                          "file":  "countries/it.json"
+                      },
+                      {
+                          "code":  "ES",
+                          "file":  "countries/es.json"
+                      },
+                      {
+                          "code":  "NL",
+                          "file":  "countries/nl.json"
+                      },
+                      {
+                          "code":  "PL",
+                          "file":  "countries/pl.json"
+                      }
+                  ],
+    "snapshot":  {
+                     "revision":  "e7bf8922323f8cdc19521c178426f846f836d4a4",
+                     "baseUrl":  "https://raw.githubusercontent.com/scorparc/escooter-regeln-content/e7bf8922323f8cdc19521c178426f846f836d4a4/versions/6",
+                     "hashes":  {
+                                    "countries/de.json":  "977fb19443f76be9bea26651da7c0824d94d1fdcfe5698f1ebc3134072798cff",
+                                    "countries/at.json":  "9c40dea790bdab41b211fa0f5fba3038c121ca4d2035ea9086c9f081fd365395",
+                                    "countries/ch.json":  "81bce9bb640d028d6bef9a7424ab94c7a2a8cd29ae5662e197ce99bc7a285b1e",
+                                    "countries/fr.json":  "d8b77d2ff101967af52933398bde7290a12240e667c05e4d576a6d3c21becfb5",
+                                    "countries/it.json":  "73281cff7dc84fd686569e16d695bae16ec613a7c21b6f1cec479c6afa3048f7",
+                                    "countries/es.json":  "6b0c9cca549ecca38a29627c4f0244e8262101442a7234e317d919d651fb58a2",
+                                    "countries/nl.json":  "2032439042a6272ed7f5f08d33bdd160e9cd75eae59afaf771e981bdd773d3b4",
+                                    "countries/pl.json":  "8fb10b4d8dd5163fe3c434c9faf73bac4e204f6356aa9f294b58ed099c08b6d7"
+                                }
+                 }
+}
