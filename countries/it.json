@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "countryCode": "IT",
-  "countryName": { "de": "Italien", "en": "Italy" },
+  "countryName": { "de": "Italien", "en": "Italy", "fr": "Italie", "it": "Italia", "es": "Italia" },
   "flagEmoji": "🇮🇹",
   "lastUpdated": "2026-10-20",
   "verified": true,
@@ -10,112 +10,145 @@
   "overallStatus": "restricted",
   "summary": {
     "de": "Italien hat mit der Reform des Codice della Strada (Legge 177/2024) stark verschärft: Helmpflicht für alle seit 14.12.2024, Kennzeichenpflicht (targhino) seit 17.05.2026, Versicherungspflicht seit 16.07.2026. Max. 20 km/h, ab 14 Jahren, nur innerorts.",
-    "en": "Italy tightened its rules with the Highway Code reform (Law 177/2024): helmets for all since 14 Dec 2024, plate requirement (targhino) since 17 May 2026, insurance mandatory since 16 July 2026. Max. 20 km/h, from age 14, urban areas only."
+    "en": "Italy tightened its rules with the Highway Code reform (Law 177/2024): helmets for all since 14 Dec 2024, plate requirement (targhino) since 17 May 2026, insurance mandatory since 16 July 2026. Max. 20 km/h, from age 14, urban areas only.",
+    "fr": "L’Italie a durci le Codice della Strada (Legge 177/2024) : casque pour tous depuis le 14.12.2024, plaque (targhino) depuis le 17.05.2026, assurance depuis le 16.07.2026. Max. 20 km/h, dès 14 ans, uniquement en agglomération.",
+    "it": "L’Italia ha inasprito il Codice della Strada (Legge 177/2024): casco per tutti dal 14.12.2024, contrassegno (targhino) dal 17.05.2026, assicurazione dal 16.07.2026. Max. 20 km/h, dai 14 anni, solo nei centri abitati.",
+    "es": "Italia endureció el Codice della Strada (Legge 177/2024): casco para todos desde el 14.12.2024, placa (targhino) desde el 17.05.2026 y seguro desde el 16.07.2026. Máx. 20 km/h, desde los 14 años, solo en poblado."
   },
   "categories": [
     {
       "id": "max_speed",
       "status": "restricted",
-      "value": { "de": "20 km/h (6 km/h in Fußgängerzonen)", "en": "20 km/h (6 km/h in pedestrian areas)" },
+      "value": { "de": "20 km/h (6 km/h in Fußgängerzonen)", "en": "20 km/h (6 km/h in pedestrian areas)", "fr": "20 km/h (6 km/h en zone piétonne)", "it": "20 km/h (6 km/h in aree pedonali)", "es": "20 km/h (6 km/h en zonas peatonales)" },
       "details": {
         "de": "Maximal 20 km/h; in Fußgängerbereichen, wo das Fahren erlaubt ist, gilt 6 km/h. Verstöße kosten 50–250 €.",
-        "en": "Maximum 20 km/h; 6 km/h in pedestrian areas where riding is permitted. Violations cost €50–250."
+        "en": "Maximum 20 km/h; 6 km/h in pedestrian areas where riding is permitted. Violations cost €50–250.",
+        "fr": "Maximum 20 km/h ; dans les zones piétonnes où la circulation est admise, limite de 6 km/h. Infractions : 50–250 €.",
+        "it": "Massimo 20 km/h; nelle aree pedonali dove è consentito circolare il limite è 6 km/h. Sanzioni: 50–250 €.",
+        "es": "Máximo 20 km/h; en zonas peatonales donde se permite circular rige 6 km/h. Infracciones: 50–250 €."
       }
     },
     {
       "id": "min_age",
       "status": "restricted",
-      "value": { "de": "ab 14 Jahren", "en": "14 years and older" },
+      "value": { "de": "ab 14 Jahren", "en": "14 years and older", "fr": "Dès 14 ans", "it": "Dai 14 anni", "es": "Desde los 14 años" },
       "details": {
         "de": "Mindestalter 14 Jahre.",
-        "en": "Minimum age 14."
+        "en": "Minimum age 14.",
+        "fr": "Âge minimal : 14 ans.",
+        "it": "Età minima: 14 anni.",
+        "es": "Edad mínima: 14 años."
       }
     },
     {
       "id": "helmet",
       "status": "restricted",
-      "value": { "de": "Pflicht für alle", "en": "required for everyone" },
+      "value": { "de": "Pflicht für alle", "en": "required for everyone", "fr": "Obligatoire pour tous", "it": "Obbligatorio per tutti", "es": "Obligatorio para todos" },
       "details": {
         "de": "Seit 14.12.2024 (Inkrafttreten der Legge 177/2024) gilt Helmpflicht für alle Altersgruppen – nicht mehr nur für Minderjährige. Ein normkonformer Fahrradhelm (UNI EN 1078) genügt. Bußgeld ohne Helm: 50–250 €.",
-        "en": "Since 14 Dec 2024 (entry into force of Law 177/2024) helmets are mandatory for all ages – no longer just for minors. A standard-compliant bicycle helmet (UNI EN 1078) is sufficient. Fine for riding without a helmet: €50–250."
+        "en": "Since 14 Dec 2024 (entry into force of Law 177/2024) helmets are mandatory for all ages – no longer just for minors. A standard-compliant bicycle helmet (UNI EN 1078) is sufficient. Fine for riding without a helmet: €50–250.",
+        "fr": "Depuis le 14.12.2024 (entrée en vigueur de la Legge 177/2024), casque pour tous les âges, plus seulement les mineurs. Un casque de vélo conforme (UNI EN 1078) suffit. Sans casque : 50–250 €.",
+        "it": "Dal 14.12.2024 (entrata in vigore della Legge 177/2024) il casco è obbligatorio a ogni età, non più solo per i minorenni. Basta un casco da bici conforme (UNI EN 1078). Senza casco: 50–250 €.",
+        "es": "Desde el 14.12.2024 (entrada en vigor de la Legge 177/2024), casco obligatorio a cualquier edad, no solo menores. Basta casco de bicicleta conforme (UNI EN 1078). Sin casco: 50–250 €."
       }
     },
     {
       "id": "insurance",
       "status": "restricted",
-      "value": { "de": "Kennzeichen seit 17.05.2026, Versicherung seit 16.07.2026", "en": "plate since 17 May 2026, insurance since 16 July 2026" },
+      "value": { "de": "Kennzeichen + Versicherung Pflicht", "en": "Plate + insurance required", "fr": "Plaque + assurance obligatoires", "it": "Targa e assicurazione obbligatorie", "es": "Placa y seguro obligatorios" },
       "details": {
         "de": "Kennzeichenpflicht (contrassegno/targhino) ist seit 17.05.2026 in Kraft (MIT-Durchführungsdekret Nr. 110 vom 06.03.2026, Antragsplattform seit 18.03.2026 auf dem Portale dell'Automobilista). Das Kennzeichen ist an den Codice fiscale des Halters gebunden (nicht ans Fahrzeug), kostet ca. 35 € gesamt (8,66 € Plakette + Gebühren) und erfordert SPID/CIE; Nicht-EU-Bürger brauchen eine Aufenthaltserlaubnis. Für Touristen mit eigenem, im Ausland gekauftem Scooter gibt es keine bekannte Sonderregelung – die Nutzung ist damit faktisch ungeklärt/riskant. Die Haftpflichtversicherung (RC) ist seit 16.07.2026 Pflicht (per Rundschreiben vom 17.04.2026 auf dieses Datum gelegt, ursprünglich mit dem Kennzeichen geplant); der Abschluss setzt das Kennzeichen voraus. Bußgeld ohne Kennzeichen bzw. ohne Versicherung: je 100–400 €. Bei Sharing-Diensten ist der Betreiber verantwortlich.",
-        "en": "The plate requirement (contrassegno/'targhino') has been in force since 17 May 2026 (MIT implementing decree No. 110 of 6 March 2026; application platform live since 18 March 2026 on the Portale dell'Automobilista). The plate is tied to the owner's Italian tax code (not the vehicle), costs about €35 in total (€8.66 sticker plus fees) and requires SPID/CIE; non-EU citizens need a residence permit. There is no known provision for tourists bringing their own scooter from abroad – using one is effectively unresolved/risky. Third-party liability insurance (RC) has been mandatory since 16 July 2026 (set to that date by circular of 17 April 2026; originally planned together with the plate); taking out a policy requires the plate. Fine for riding without a plate or without insurance: €100–400 each. For sharing services the operator is responsible."
+        "en": "The plate requirement (contrassegno/'targhino') has been in force since 17 May 2026 (MIT implementing decree No. 110 of 6 March 2026; application platform live since 18 March 2026 on the Portale dell'Automobilista). The plate is tied to the owner's Italian tax code (not the vehicle), costs about €35 in total (€8.66 sticker plus fees) and requires SPID/CIE; non-EU citizens need a residence permit. There is no known provision for tourists bringing their own scooter from abroad – using one is effectively unresolved/risky. Third-party liability insurance (RC) has been mandatory since 16 July 2026 (set to that date by circular of 17 April 2026; originally planned together with the plate); taking out a policy requires the plate. Fine for riding without a plate or without insurance: €100–400 each. For sharing services the operator is responsible.",
+        "fr": "Plaque (contrassegno/targhino) obligatoire depuis le 17.05.2026 (décret MIT n° 110 du 06.03.2026 ; plateforme sur Portale dell’Automobilista depuis le 18.03.2026). Liée au Codice fiscale du propriétaire, pas au véhicule ; environ 35 € au total (vignette 8,66 € plus frais), SPID/CIE exigé ; titre de séjour pour les non-UE. Aucune exception connue pour les touristes avec une trottinette achetée à l’étranger : usage incertain/risqué. Assurance RC obligatoire depuis le 16.07.2026, date fixée par circulaire du 17.04.2026, initialement prévue avec la plaque ; celle-ci est requise pour s’assurer. Sans plaque ou assurance : 100–400 € chacune. En location partagée, l’opérateur est responsable.",
+        "it": "Contrassegno/targhino obbligatorio dal 17.05.2026 (decreto attuativo MIT n. 110 del 06.03.2026; piattaforma sul Portale dell’Automobilista dal 18.03.2026). È legato al Codice fiscale del proprietario, non al veicolo; costa circa 35 € totali (8,66 € contrassegno più oneri) e richiede SPID/CIE; per cittadini extra-UE serve permesso di soggiorno. Nessuna deroga nota per turisti con monopattino acquistato all’estero: uso incerto/rischioso. RC obbligatoria dal 16.07.2026, fissato dalla circolare del 17.04.2026, inizialmente previsto insieme al contrassegno; per stipularla serve il contrassegno. Senza contrassegno o assicurazione: 100–400 € ciascuno. Nello sharing risponde il gestore.",
+        "es": "Placa (contrassegno/targhino) obligatoria desde el 17.05.2026 (decreto MIT n.º 110 de 06.03.2026; plataforma en Portale dell’Automobilista desde el 18.03.2026). Ligada al Codice fiscale del titular, no al vehículo; unos 35 € en total (8,66 € distintivo más tasas), exige SPID/CIE; no comunitarios necesitan permiso de residencia. Sin excepción conocida para turistas con patinete comprado fuera: uso incierto/arriesgado. RC obligatoria desde el 16.07.2026, fijado por circular de 17.04.2026, inicialmente prevista junto a la placa; se necesita placa para contratarla. Sin placa o seguro: 100–400 € cada uno. En uso compartido responde el operador."
       }
     },
     {
       "id": "license",
       "status": "allowed",
-      "value": { "de": "nicht nötig", "en": "not required" },
+      "value": { "de": "nicht nötig", "en": "not required", "fr": "Non nécessaire", "it": "Non necessaria", "es": "No necesario" },
       "details": {
         "de": "Kein Führerschein erforderlich.",
-        "en": "No driving licence required."
+        "en": "No driving licence required.",
+        "fr": "Aucun permis de conduire nécessaire.",
+        "it": "Non serve la patente.",
+        "es": "No se necesita permiso de conducir."
       }
     },
     {
       "id": "alcohol",
       "status": "restricted",
-      "value": { "de": "0,5 ‰", "en": "0.5 ‰" },
+      "value": { "de": "0,5 ‰", "en": "0.5 ‰", "fr": "0,5 ‰", "it": "0,5 ‰", "es": "0,5 ‰" },
       "details": {
         "de": "Es gilt die allgemeine Grenze von 0,5 g/l (0,0 für Fahranfänger und unter 21). Verstöße werden wie bei Kfz geahndet.",
-        "en": "The general limit of 0.5 g/l applies (0.0 for novice drivers and under-21s). Violations are penalised as for motor vehicles."
+        "en": "The general limit of 0.5 g/l applies (0.0 for novice drivers and under-21s). Violations are penalised as for motor vehicles.",
+        "fr": "Limite générale de 0,5 g/l (0,0 pour débutants et moins de 21 ans). Infractions sanctionnées comme pour les véhicules à moteur.",
+        "it": "Limite generale di 0,5 g/l (0,0 per neopatentati e minori di 21 anni). Le violazioni sono sanzionate come per i veicoli a motore.",
+        "es": "Límite general de 0,5 g/l (0,0 para noveles y menores de 21). Las infracciones se sancionan como las de vehículos de motor."
       }
     },
     {
       "id": "where_to_ride",
       "status": "restricted",
-      "value": { "de": "nur innerorts, Gehweg verboten", "en": "urban areas only, sidewalk banned" },
+      "value": { "de": "nur innerorts, Gehweg verboten", "en": "urban areas only, sidewalk banned", "fr": "En ville ; trottoir interdit", "it": "Solo in città; marciapiede vietato", "es": "Solo en poblado; acera prohibida" },
       "details": {
         "de": "Erlaubt auf Radwegen und innerörtlichen Straßen mit Tempolimit bis 50 km/h. Gehwege sind verboten (nur Schieben erlaubt), ebenso Fahren gegen die Fahrtrichtung und Personen-/Tiertransport. Außerorts ist das Fahren verboten. Nachts und bei schlechter Sicht sind Licht und Warnweste/reflektierende Kleidung Pflicht. Der Scooter braucht Blinker und Bremsen an beiden Rädern (für Bestandsfahrzeuge seit 01.01.2024 Pflicht); nicht konforme oder frisierte Scooter: 200–800 € plus mögliche Beschlagnahme.",
-        "en": "Allowed on bike paths and urban roads with a speed limit up to 50 km/h. Sidewalks are banned (walking the scooter is allowed), as are riding against traffic and carrying passengers or animals. Riding outside built-up areas is prohibited. At night and in poor visibility, lights and a hi-vis/reflective vest are mandatory. Scooters need indicators and brakes on both wheels (mandatory for existing vehicles since 1 Jan 2024); non-compliant or tampered scooters: €200–800 plus possible confiscation."
+        "en": "Allowed on bike paths and urban roads with a speed limit up to 50 km/h. Sidewalks are banned (walking the scooter is allowed), as are riding against traffic and carrying passengers or animals. Riding outside built-up areas is prohibited. At night and in poor visibility, lights and a hi-vis/reflective vest are mandatory. Scooters need indicators and brakes on both wheels (mandatory for existing vehicles since 1 Jan 2024); non-compliant or tampered scooters: €200–800 plus possible confiscation.",
+        "fr": "Pistes cyclables et rues urbaines limitées à 50 km/h admises. Trottoirs interdits (pousser autorisé), tout comme contresens et transport de personnes/animaux. Hors agglomération interdit. Nuit/faible visibilité : feux et gilet réfléchissant obligatoires. Clignotants et freins sur les deux roues (parc existant depuis le 01.01.2024). Non-conformité/débridage : 200–800 € et saisie possible.",
+        "it": "Consentiti piste ciclabili e strade urbane con limite fino a 50 km/h. Vietati marciapiedi (consentito spingere), contromano e trasporto di persone/animali. Fuori città vietato. Di notte/con scarsa visibilità luci e gilet/indumenti riflettenti obbligatori. Servono frecce e freni su entrambe le ruote (mezzi esistenti dal 01.01.2024). Mezzi non conformi/manomessi: 200–800 € e possibile sequestro.",
+        "es": "Permitidos carriles bici y calles urbanas limitadas a 50 km/h. Prohibidas aceras (se permite empujar), contramano y transporte de personas/animales. Fuera de poblado prohibido. De noche/con poca visibilidad, luces y chaleco/ropa reflectante. Intermitentes y frenos en ambas ruedas (vehículos existentes desde el 01.01.2024). No conformes/manipulados: 200–800 € y posible incautación."
       }
     }
   ],
   "fines": [
     {
-      "offense": { "de": "Fahren ohne Helm", "en": "Riding without a helmet" },
+      "offense": { "de": "Fahren ohne Helm", "en": "Riding without a helmet", "fr": "Rouler sans casque", "it": "Guidare senza casco", "es": "Circular sin casco" },
       "amount": "50–250 €"
     },
     {
-      "offense": { "de": "Fahren auf dem Gehweg", "en": "Riding on the sidewalk" },
+      "offense": { "de": "Fahren auf dem Gehweg", "en": "Riding on the sidewalk", "fr": "Circuler sur le trottoir", "it": "Circolare sul marciapiede", "es": "Circular por la acera" },
       "amount": "50–250 €"
     },
     {
-      "offense": { "de": "Zu zweit fahren", "en": "Riding in pairs" },
+      "offense": { "de": "Zu zweit fahren", "en": "Riding in pairs", "fr": "Rouler à deux", "it": "Viaggiare in due", "es": "Circular dos personas" },
       "amount": "50–250 €"
     },
     {
-      "offense": { "de": "Fahren ohne Kennzeichen (contrassegno)", "en": "Riding without a plate (contrassegno)" },
+      "offense": { "de": "Fahren ohne Kennzeichen (contrassegno)", "en": "Riding without a plate (contrassegno)", "fr": "Rouler sans plaque (contrassegno)", "it": "Guidare senza contrassegno", "es": "Circular sin placa (contrassegno)" },
       "amount": "100–400 €",
       "notes": {
         "de": "Pflicht seit 17.05.2026.",
-        "en": "Mandatory since 17 May 2026."
+        "en": "Mandatory since 17 May 2026.",
+        "fr": "Obligatoire depuis le 17.05.2026.",
+        "it": "Obbligatorio dal 17.05.2026.",
+        "es": "Obligatoria desde el 17.05.2026."
       }
     },
     {
-      "offense": { "de": "Fahren ohne Versicherung", "en": "Riding without insurance" },
+      "offense": { "de": "Fahren ohne Versicherung", "en": "Riding without insurance", "fr": "Rouler sans assurance", "it": "Guidare senza assicurazione", "es": "Circular sin seguro" },
       "amount": "100–400 €",
       "notes": {
         "de": "Pflicht seit 16.07.2026.",
-        "en": "Mandatory since 16 July 2026."
+        "en": "Mandatory since 16 July 2026.",
+        "fr": "Obligatoire depuis le 16.07.2026.",
+        "it": "Obbligatoria dal 16.07.2026.",
+        "es": "Obligatorio desde el 16.07.2026."
       }
     },
     {
-      "offense": { "de": "Nicht konformer/frisierter Scooter (z. B. >0,5 kW, entdrosselt)", "en": "Non-compliant/tampered scooter (e.g. >0.5 kW, derestricted)" },
+      "offense": { "de": "Nicht konformer/frisierter Scooter (z. B. >0,5 kW, entdrosselt)", "en": "Non-compliant/tampered scooter (e.g. >0.5 kW, derestricted)", "fr": "Trottinette non conforme/débridée (p. ex. >0,5 kW)", "it": "Monopattino non conforme/manomesso (es. >0,5 kW, sbloccato)", "es": "Patinete no conforme/manipulado (p. ej. >0,5 kW, deslimitado)" },
       "amount": "200–800 €",
       "notes": {
         "de": "Zusätzlich mögliche Beschlagnahme.",
-        "en": "Plus possible confiscation."
+        "en": "Plus possible confiscation.",
+        "fr": "Saisie possible en plus.",
+        "it": "Inoltre possibile sequestro.",
+        "es": "Además, posible incautación."
       }
     },
     {
-      "offense": { "de": "Falsches Parken", "en": "Illegal parking" },
+      "offense": { "de": "Falsches Parken", "en": "Illegal parking", "fr": "Stationnement irrégulier", "it": "Sosta irregolare", "es": "Estacionamiento indebido" },
       "amount": "41–168 €"
     }
   ],
@@ -124,22 +157,34 @@
       "name": "Milan",
       "notes": {
         "de": "Leihroller nur auf den vom Anbieter ausgewiesenen Fahrrad- und Motorrad-Abstellflächen zurückgeben. Zusätzlich gelten die nationalen Regeln (Helm, Kennzeichen, Versicherung).",
-        "en": "Return rental scooters only in the bicycle and motorcycle parking areas designated by the provider. National rules (helmet, plate, insurance) also apply."
+        "en": "Return rental scooters only in the bicycle and motorcycle parking areas designated by the provider. National rules (helmet, plate, insurance) also apply.",
+        "fr": "Rends les locations uniquement dans les places vélos et motos désignées par l’opérateur. Les règles nationales s’appliquent aussi : casque, plaque et assurance.",
+        "it": "Riconsegna i noleggi solo nelle aree di sosta per bici e moto indicate dal gestore. Valgono inoltre le regole nazionali: casco, contrassegno e assicurazione.",
+        "es": "Devuelve el alquiler solo en zonas de estacionamiento de bicicletas y motos indicadas por el operador. También rigen las normas nacionales: casco, placa y seguro."
       },
       "nameLocalized": {
         "de": "Mailand",
-        "en": "Milan"
+        "en": "Milan",
+        "fr": "Milan",
+        "it": "Milano",
+        "es": "Milán"
       }
     },
     {
       "name": "Rome",
       "notes": {
         "de": "Sharing über Lime, Dott und Bird mit stadtweiten Kontingenten (Obergrenzen im Zentrum, Mindestflotten in Außenbezirken) und Pflicht-Parkzonen; Abstellen auf Gehwegen nur in markierten Flächen. Für Jahresabo-Inhaber des ÖPNV gibt es Vergünstigungen.",
-        "en": "Sharing via Lime, Dott and Bird with citywide quotas (caps in the centre, minimum fleets in outer districts) and mandatory parking zones; parking on sidewalks only in marked areas. Discounts exist for annual public transport pass holders."
+        "en": "Sharing via Lime, Dott and Bird with citywide quotas (caps in the centre, minimum fleets in outer districts) and mandatory parking zones; parking on sidewalks only in marked areas. Discounts exist for annual public transport pass holders.",
+        "fr": "Locations Lime, Dott et Bird avec quotas urbains (plafonds au centre, flottes minimales en périphérie) et stationnement obligatoire en zones dédiées ; trottoirs seulement aux places marquées. Réductions pour titulaires d’un abonnement annuel aux transports.",
+        "it": "Sharing Lime, Dott e Bird con contingenti cittadini (massimi in centro, flotte minime in periferia) e zone di sosta obbligatorie; sui marciapiedi solo negli spazi segnati. Agevolazioni per abbonati annuali al trasporto pubblico.",
+        "es": "Alquiler Lime, Dott y Bird con cupos urbanos (máximos en el centro, flotas mínimas en periferia) y zonas de aparcamiento obligatorias; en aceras solo en espacios marcados. Descuentos para abonados anuales al transporte público."
       },
       "nameLocalized": {
         "de": "Rom",
-        "en": "Rome"
+        "en": "Rome",
+        "fr": "Rome",
+        "it": "Roma",
+        "es": "Roma"
       }
     }
   ],

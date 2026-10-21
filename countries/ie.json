@@ -3,7 +3,10 @@
   "countryCode": "IE",
   "countryName": {
     "de": "Irland",
-    "en": "Ireland"
+    "en": "Ireland",
+    "fr": "Irlande",
+    "it": "Irlanda",
+    "es": "Irlanda"
   },
   "flagEmoji": "🇮🇪",
   "lastUpdated": "2026-10-21",
@@ -13,7 +16,10 @@
   "overallStatus": "restricted",
   "summary": {
     "de": "Ab 18 Jahren, bis 20 km/h, 400 W und 25 kg. Helm und Warnkleidung sind Pflicht. Keine Gehwege, Fußgängerzonen oder Passagiere; für zulässige Roller weder Führerschein noch Pflichtversicherung.",
-    "en": "Age 18+, up to 20 km/h, 400 W and 25 kg. Helmets and high-visibility clothing are required. No pavements, pedestrian areas or passengers; compliant scooters need neither a licence nor compulsory insurance."
+    "en": "Age 18+, up to 20 km/h, 400 W and 25 kg. Helmets and high-visibility clothing are required. No pavements, pedestrian areas or passengers; compliant scooters need neither a licence nor compulsory insurance.",
+    "fr": "Dès 18 ans, jusqu’à 20 km/h, 400 W et 25 kg. Casque et vêtement haute visibilité obligatoires. Pas de trottoirs, zones piétonnes ou passagers ; ni permis ni assurance obligatoire pour les trottinettes conformes.",
+    "it": "Dai 18 anni, fino a 20 km/h, 400 W e 25 kg. Casco e abbigliamento ad alta visibilità obbligatori. Vietati marciapiedi, zone pedonali e passeggeri; per i monopattini conformi non servono patente né assicurazione obbligatoria.",
+    "es": "Desde los 18 años, hasta 20 km/h, 400 W y 25 kg. Casco y ropa de alta visibilidad obligatorios. Sin aceras, zonas peatonales ni pasajeros; los patinetes conformes no necesitan permiso ni seguro obligatorio."
   },
   "categories": [
     {
@@ -21,11 +27,17 @@
       "status": "restricted",
       "value": {
         "de": "20 km/h; 400 W; max. 25 kg",
-        "en": "20 km/h; 400 W; max. 25 kg"
+        "en": "20 km/h; 400 W; max. 25 kg",
+        "fr": "20 km/h ; 400 W ; max. 25 kg",
+        "it": "20 km/h; 400 W; max. 25 kg",
+        "es": "20 km/h; 400 W; máx. 25 kg"
       },
       "details": {
         "de": "Höchstens 20 km/h Bauart- und Fahrgeschwindigkeit, 400 W Dauerleistung und 25 kg einschließlich Batterie. Sitzlose Bauart, Räder mindestens 200 mm und weitere Ausrüstungsvorgaben beachten.",
-        "en": "Design and riding speed at most 20 km/h, 400 W continuous power and 25 kg including battery. No seat; wheels at least 200 mm and other equipment requirements apply."
+        "en": "Design and riding speed at most 20 km/h, 400 W continuous power and 25 kg including battery. No seat; wheels at least 200 mm and other equipment requirements apply.",
+        "fr": "Vitesse de construction et de circulation maximale de 20 km/h, puissance continue de 400 W et poids de 25 kg, batterie comprise. Sans siège, roues d’au moins 200 mm ; respecte aussi les autres exigences d’équipement.",
+        "it": "Velocità di costruzione e di marcia massima di 20 km/h, potenza continua di 400 W e peso di 25 kg inclusa la batteria. Senza sedile, ruote di almeno 200 mm e ulteriori requisiti di dotazione da rispettare.",
+        "es": "Máximo 20 km/h de diseño y circulación, 400 W de potencia continua y 25 kg incluida la batería. Sin asiento, ruedas de al menos 200 mm y demás requisitos de equipamiento."
       }
     },
     {
@@ -33,11 +45,17 @@
       "status": "restricted",
       "value": {
         "de": "Ab 18 Jahren",
-        "en": "18 years and older"
+        "en": "18 years and older",
+        "fr": "Dès 18 ans",
+        "it": "Dai 18 anni",
+        "es": "Desde los 18 años"
       },
       "details": {
         "de": "Im öffentlichen Verkehr müssen Fahrer mindestens 18 sein. Eine Begleitung ersetzt das Mindestalter nicht.",
-        "en": "Riders in public traffic must be at least 18. Supervision does not replace the minimum age."
+        "en": "Riders in public traffic must be at least 18. Supervision does not replace the minimum age.",
+        "fr": "Sur la voie publique, les conducteurs doivent avoir au moins 18 ans. Être accompagné ne dispense pas de cet âge minimal.",
+        "it": "Nel traffico pubblico devi avere almeno 18 anni. Essere accompagnato non sostituisce l’età minima.",
+        "es": "En vías públicas, los conductores deben tener al menos 18 años. El acompañamiento no sustituye la edad mínima."
       }
     },
     {
@@ -45,11 +63,17 @@
       "status": "restricted",
       "value": {
         "de": "Helm und Warnkleidung Pflicht",
-        "en": "Helmet and high-vis required"
+        "en": "Helmet and high-vis required",
+        "fr": "Casque et haute visibilité obligatoires",
+        "it": "Casco e alta visibilità obbligatori",
+        "es": "Casco y alta visibilidad obligatorios"
       },
       "details": {
         "de": "Einen fest geschlossenen Helm und gesicherte Warnkleidung tragen. Die Warnkleidung muss mindestens Vorder- und Rückseite des Oberkörpers bedecken.",
-        "en": "Wear a securely fastened helmet and secured high-visibility clothing. It must cover at least the front and back of the torso."
+        "en": "Wear a securely fastened helmet and secured high-visibility clothing. It must cover at least the front and back of the torso.",
+        "fr": "Porte un casque correctement attaché et un vêtement haute visibilité bien fixé. Celui-ci doit couvrir au moins l’avant et l’arrière du torse.",
+        "it": "Indossa un casco ben allacciato e abbigliamento ad alta visibilità fissato saldamente. Deve coprire almeno la parte anteriore e posteriore del busto.",
+        "es": "Lleva casco bien abrochado y ropa de alta visibilidad bien sujeta. Debe cubrir al menos la parte delantera y trasera del torso."
       }
     },
     {
@@ -57,11 +81,17 @@
       "status": "allowed",
       "value": {
         "de": "Keine Pflicht für zulässige Roller",
-        "en": "No duty for compliant scooters"
+        "en": "No duty for compliant scooters",
+        "fr": "Pas d’obligation si conforme",
+        "it": "Nessun obbligo se conforme",
+        "es": "Sin obligación si es conforme"
       },
       "details": {
         "de": "Für die beschriebene zulässige Klasse sind weder Pflichtversicherung noch Zulassung oder Steuer nötig. Private Haftpflichtdeckung trotzdem prüfen.",
-        "en": "The compliant class described needs no compulsory insurance, registration or tax. Still check private liability cover."
+        "en": "The compliant class described needs no compulsory insurance, registration or tax. Still check private liability cover.",
+        "fr": "La catégorie conforme décrite ne nécessite ni assurance obligatoire, ni immatriculation, ni taxe. Vérifie tout de même ta responsabilité civile privée.",
+        "it": "Per la categoria conforme descritta non servono assicurazione obbligatoria, immatricolazione o tassa. Verifica comunque la copertura di responsabilità civile privata.",
+        "es": "La categoría conforme descrita no necesita seguro obligatorio, matriculación ni impuesto. Comprueba aun así la cobertura de responsabilidad civil privada."
       }
     },
     {
@@ -69,11 +99,17 @@
       "status": "allowed",
       "value": {
         "de": "Nicht nötig",
-        "en": "Not required"
+        "en": "Not required",
+        "fr": "Non nécessaire",
+        "it": "Non necessaria",
+        "es": "No necesario"
       },
       "details": {
         "de": "Für die beschriebene zulässige Rollerklasse ist kein Führerschein nötig.",
-        "en": "No driving licence is needed for the compliant scooter class described."
+        "en": "No driving licence is needed for the compliant scooter class described.",
+        "fr": "Aucun permis n’est nécessaire pour la catégorie de trottinettes conformes décrite.",
+        "it": "Non serve la patente per la categoria di monopattini conformi descritta.",
+        "es": "No se necesita permiso para la categoría de patinetes conformes descrita."
       }
     },
     {
@@ -81,11 +117,17 @@
       "status": "restricted",
       "value": {
         "de": "Keine Fahrt unter Einfluss",
-        "en": "No riding under the influence"
+        "en": "No riding under the influence",
+        "fr": "Pas de conduite sous influence",
+        "it": "Non guidare sotto l’effetto",
+        "es": "No conducir bajo los efectos"
       },
       "details": {
         "de": "Nicht unter Alkohol- oder Drogeneinfluss fahren. Es drohen Gerichtsverfahren und bis zu 2.000 € Strafe.",
-        "en": "Do not ride under the influence of alcohol or drugs. Court proceedings and fines of up to €2,000 are possible."
+        "en": "Do not ride under the influence of alcohol or drugs. Court proceedings and fines of up to €2,000 are possible.",
+        "fr": "Ne conduis pas sous l’emprise de l’alcool ou de drogues. Tu risques des poursuites judiciaires et jusqu’à 2.000 € d’amende.",
+        "it": "Non guidare sotto l’effetto di alcol o droghe. Rischi un procedimento giudiziario e una multa fino a 2.000 €.",
+        "es": "No conduzcas bajo los efectos del alcohol o las drogas. Puedes afrontar un proceso judicial y hasta 2.000 € de multa."
       }
     },
     {
@@ -93,11 +135,17 @@
       "status": "restricted",
       "value": {
         "de": "Links; Rad-/Busspuren und Straßen",
-        "en": "Keep left; cycle/bus lanes, roads"
+        "en": "Keep left; cycle/bus lanes, roads",
+        "fr": "À gauche ; voies cycles/bus et routes",
+        "it": "A sinistra; ciclabili, bus e strade",
+        "es": "Izquierda; carriles bici/bus y vías"
       },
       "details": {
         "de": "Links fahren; Rad- und Busspuren sowie zulässige Straßen nutzen. Gehwege, Fußgängerbereiche und Autobahnen sind verboten. Keine Passagiere oder Güter; Verkehrszeichen und Ampeln beachten.",
-        "en": "Keep left; use cycle and bus lanes and permitted roads. No footpaths, pedestrian areas or motorways. No passengers or goods; obey signs and signals."
+        "en": "Keep left; use cycle and bus lanes and permitted roads. No footpaths, pedestrian areas or motorways. No passengers or goods; obey signs and signals.",
+        "fr": "Roule à gauche ; utilise les voies cyclables et de bus et les routes autorisées. Trottoirs, zones piétonnes et autoroutes interdits. Aucun passager ni marchandise ; respecte les panneaux et les feux.",
+        "it": "Circola a sinistra; usa corsie ciclabili, corsie bus e strade consentite. Vietati marciapiedi, aree pedonali e autostrade. Niente passeggeri o merci; rispetta segnali e semafori.",
+        "es": "Circula por la izquierda; usa carriles bici y bus y vías permitidas. Se prohíben aceras, zonas peatonales y autopistas. Sin pasajeros ni mercancías; respeta señales y semáforos."
       }
     }
   ],
@@ -105,14 +153,20 @@
     {
       "offense": {
         "de": "Ohne Helm oder Warnkleidung fahren",
-        "en": "Riding without a helmet or high-visibility clothing"
+        "en": "Riding without a helmet or high-visibility clothing",
+        "fr": "Rouler sans casque ou vêtement haute visibilité",
+        "it": "Guidare senza casco o abbigliamento ad alta visibilità",
+        "es": "Circular sin casco o ropa de alta visibilidad"
       },
       "amount": "100 €"
     },
     {
       "offense": {
         "de": "Unter Einfluss von Alkohol oder Drogen fahren",
-        "en": "Riding under the influence of alcohol or drugs"
+        "en": "Riding under the influence of alcohol or drugs",
+        "fr": "Conduire sous l’emprise de l’alcool ou de drogues",
+        "it": "Guidare sotto l’effetto di alcol o droghe",
+        "es": "Conducir bajo los efectos del alcohol o las drogas"
       },
       "amount": "max. 2.000 €"
     }

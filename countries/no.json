@@ -1,69 +1,69 @@
 {
   "schemaVersion": 1,
   "countryCode": "NO",
-  "countryName": { "de": "Norwegen", "en": "Norway" },
+  "countryName": { "de": "Norwegen", "en": "Norway", "fr": "Norvège", "it": "Norvegia", "es": "Noruega" },
   "flagEmoji": "🇳🇴",
   "lastUpdated": "2026-10-21",
   "verified": true,
   "verifiedBy": "Marc Neumann",
   "verifiedDate": "2026-10-21",
   "overallStatus": "restricted",
-  "summary": { "de": "Ab 12, höchstens 20 km/h und Haftpflichtversicherung auch für Privatroller. Helm unter 15 und Alkoholgrenze 0,2 ‰. Auf Gehwegen nur ohne Gefahr oder Behinderung für Fußgänger.", "en": "Age 12+, at most 20 km/h and liability insurance even for private scooters. Helmets under 15 and a 0.2 ‰ alcohol limit. Pavements only without endangering or obstructing pedestrians." },
+  "summary": { "de": "Ab 12, höchstens 20 km/h und Haftpflichtversicherung auch für Privatroller. Helm unter 15 und Alkoholgrenze 0,2 ‰. Auf Gehwegen nur ohne Gefahr oder Behinderung für Fußgänger.", "en": "Age 12+, at most 20 km/h and liability insurance even for private scooters. Helmets under 15 and a 0.2 ‰ alcohol limit. Pavements only without endangering or obstructing pedestrians.", "fr": "Dès 12 ans, au maximum 20 km/h et assurance responsabilité civile, même pour les trottinettes privées. Casque avant 15 ans et limite d’alcool de 0,2 ‰. Sur les trottoirs, sans danger ni gêne pour les piétons.", "it": "Dai 12 anni, massimo 20 km/h e assicurazione di responsabilità civile anche per i monopattini privati. Casco sotto i 15 anni e limite alcolico di 0,2 ‰. Sui marciapiedi solo senza pericolo o intralcio per i pedoni.", "es": "Desde los 12 años, máximo 20 km/h y seguro de responsabilidad civil también para patinetes privados. Casco antes de los 15 años y límite de alcohol de 0,2 ‰. En aceras, solo sin peligro ni molestias para los peatones." },
   "categories": [
     {
       "id": "max_speed",
       "status": "restricted",
-      "value": { "de": "20 km/h", "en": "20 km/h" },
-      "details": { "de": "Der Roller muss bauartbedingt auf 20 km/h begrenzt sein. Technische Anforderungen der Klasse kleine elektrische Kraftfahrzeuge beachten.", "en": "The scooter must be limited by design to 20 km/h. Observe the technical requirements for small electric motor vehicles." }
+      "value": { "de": "20 km/h", "en": "20 km/h", "fr": "20 km/h", "it": "20 km/h", "es": "20 km/h" },
+      "details": { "de": "Der Roller muss bauartbedingt auf 20 km/h begrenzt sein. Technische Anforderungen der Klasse kleine elektrische Kraftfahrzeuge beachten.", "en": "The scooter must be limited by design to 20 km/h. Observe the technical requirements for small electric motor vehicles.", "fr": "La trottinette doit être limitée par construction à 20 km/h. Respecte les exigences techniques de la catégorie des petits véhicules électriques à moteur.", "it": "Il monopattino deve essere limitato per costruzione a 20 km/h. Rispetta i requisiti tecnici della categoria dei piccoli veicoli elettrici a motore.", "es": "El patinete debe estar limitado por diseño a 20 km/h. Respeta los requisitos técnicos de la categoría de pequeños vehículos eléctricos de motor." }
     },
     {
       "id": "min_age",
       "status": "restricted",
-      "value": { "de": "Ab 12 Jahren", "en": "12 years and older" },
-      "details": { "de": "Gesetzliches Mindestalter 12 Jahre. Vermieter können höhere Altersgrenzen verlangen.", "en": "The statutory minimum age is 12. Rental operators may require a higher age." }
+      "value": { "de": "Ab 12 Jahren", "en": "12 years and older", "fr": "Dès 12 ans", "it": "Dai 12 anni", "es": "Desde los 12 años" },
+      "details": { "de": "Gesetzliches Mindestalter 12 Jahre. Vermieter können höhere Altersgrenzen verlangen.", "en": "The statutory minimum age is 12. Rental operators may require a higher age.", "fr": "Âge minimal légal : 12 ans. Les loueurs peuvent imposer un âge plus élevé.", "it": "Età minima legale: 12 anni. I noleggiatori possono richiedere un’età superiore.", "es": "Edad mínima legal: 12 años. Los arrendadores pueden exigir una edad superior." }
     },
     {
       "id": "helmet",
       "status": "restricted",
-      "value": { "de": "Pflicht unter 15", "en": "Mandatory under 15" },
-      "details": { "de": "Kinder unter 15 müssen einen Helm tragen. Für alle anderen wird er empfohlen.", "en": "Children under 15 must wear a helmet. It is recommended for everyone else." }
+      "value": { "de": "Pflicht unter 15", "en": "Mandatory under 15", "fr": "Obligatoire avant 15 ans", "it": "Obbligatorio sotto i 15 anni", "es": "Obligatorio antes de los 15 años" },
+      "details": { "de": "Kinder unter 15 müssen einen Helm tragen. Für alle anderen wird er empfohlen.", "en": "Children under 15 must wear a helmet. It is recommended for everyone else.", "fr": "Les enfants de moins de 15 ans doivent porter un casque. Il est recommandé pour tous les autres.", "it": "I minori di 15 anni devono indossare il casco. Per tutti gli altri è consigliato.", "es": "Los menores de 15 años deben llevar casco. Se recomienda para los demás." }
     },
     {
       "id": "insurance",
       "status": "restricted",
-      "value": { "de": "Haftpflicht ist Pflicht", "en": "Liability insurance required" },
-      "details": { "de": "Privat- und Mietroller brauchen Haftpflichtversicherung. Bei ausländischen Policen die Gültigkeit für Norwegen bestätigen lassen.", "en": "Both private and rental scooters need liability insurance. Confirm that foreign policies cover use in Norway." }
+      "value": { "de": "Haftpflicht ist Pflicht", "en": "Liability insurance required", "fr": "Responsabilité civile obligatoire", "it": "Responsabilità civile obbligatoria", "es": "Responsabilidad civil obligatoria" },
+      "details": { "de": "Privat- und Mietroller brauchen Haftpflichtversicherung. Bei ausländischen Policen die Gültigkeit für Norwegen bestätigen lassen.", "en": "Both private and rental scooters need liability insurance. Confirm that foreign policies cover use in Norway.", "fr": "Les trottinettes privées et de location doivent être assurées en responsabilité civile. Fais confirmer la validité des contrats étrangers en Norvège.", "it": "I monopattini privati e a noleggio richiedono un’assicurazione di responsabilità civile. Fai confermare la validità delle polizze estere in Norvegia.", "es": "Los patinetes privados y de alquiler necesitan seguro de responsabilidad civil. Confirma que las pólizas extranjeras sean válidas en Noruega." }
     },
     {
       "id": "license",
       "status": "allowed",
-      "value": { "de": "Nicht nötig", "en": "Not required" },
-      "details": { "de": "Für die beschriebene zulässige Rollerklasse ist kein Führerschein nötig.", "en": "No driving licence is needed for the compliant scooter class described." }
+      "value": { "de": "Nicht nötig", "en": "Not required", "fr": "Non nécessaire", "it": "Non necessaria", "es": "No necesario" },
+      "details": { "de": "Für die beschriebene zulässige Rollerklasse ist kein Führerschein nötig.", "en": "No driving licence is needed for the compliant scooter class described.", "fr": "Aucun permis n’est nécessaire pour la catégorie de trottinettes conformes décrite.", "it": "Non serve la patente per la categoria di monopattini conformi descritta.", "es": "No se necesita permiso para la categoría de patinetes conformes descrita." }
     },
     {
       "id": "alcohol",
       "status": "restricted",
-      "value": { "de": "Höchstens 0,2 ‰", "en": "At most 0.2 ‰" },
-      "details": { "de": "Es gilt die allgemeine Alkoholgrenze von 0,2 ‰. Auch andere berauschende Mittel oder Fahruntüchtigkeit schließen eine Fahrt aus.", "en": "The general alcohol limit of 0.2 ‰ applies. Other intoxicants or inability to ride safely also rule out riding." }
+      "value": { "de": "Höchstens 0,2 ‰", "en": "At most 0.2 ‰", "fr": "Au maximum 0,2 ‰", "it": "Al massimo 0,2 ‰", "es": "Como máximo 0,2 ‰" },
+      "details": { "de": "Es gilt die allgemeine Alkoholgrenze von 0,2 ‰. Auch andere berauschende Mittel oder Fahruntüchtigkeit schließen eine Fahrt aus.", "en": "The general alcohol limit of 0.2 ‰ applies. Other intoxicants or inability to ride safely also rule out riding.", "fr": "La limite générale d’alcool de 0,2 ‰ s’applique. Les autres substances intoxicantes ou l’inaptitude à conduire excluent aussi tout trajet.", "it": "Si applica il limite alcolico generale di 0,2 ‰. Anche altre sostanze inebrianti o l’incapacità di guidare escludono la guida.", "es": "Se aplica el límite general de alcohol de 0,2 ‰. Otras sustancias intoxicantes o la incapacidad para conducir también impiden circular." }
     },
     {
       "id": "where_to_ride",
       "status": "restricted",
-      "value": { "de": "Radweg, Straße; Gehweg bedingt", "en": "Cycle path, road; pavement limits" },
-      "details": { "de": "Radwege und zulässige Straßen nutzen. Auf Gehwegen nur ohne Gefahr oder Behinderung; bei dichtem Fußverkehr absteigen. Nicht auf Autobahnen oder bei Radverkehrsverbot; keine Passagiere.", "en": "Use cycle paths and permitted roads. On pavements do not endanger or obstruct pedestrians; dismount in crowds. No motorways or roads banning cycles; no passengers." }
+      "value": { "de": "Radweg, Straße; Gehweg bedingt", "en": "Cycle path, road; pavement limits", "fr": "Piste, route ; trottoir sous conditions", "it": "Ciclabile, strada; marciapiede limitato", "es": "Carril bici, calzada; acera limitada" },
+      "details": { "de": "Radwege und zulässige Straßen nutzen. Auf Gehwegen nur ohne Gefahr oder Behinderung; bei dichtem Fußverkehr absteigen. Nicht auf Autobahnen oder bei Radverkehrsverbot; keine Passagiere.", "en": "Use cycle paths and permitted roads. On pavements do not endanger or obstruct pedestrians; dismount in crowds. No motorways or roads banning cycles; no passengers.", "fr": "Utilise les pistes cyclables et les routes autorisées. Sur les trottoirs, sans danger ni gêne ; descends si les piétons sont nombreux. Pas d’autoroutes ni de voies interdites aux cycles ; aucun passager.", "it": "Usa piste ciclabili e strade consentite. Sui marciapiedi solo senza pericolo o intralcio; scendi se ci sono molti pedoni. Vietate autostrade e strade interdette alle biciclette; niente passeggeri.", "es": "Usa carriles bici y vías permitidas. En aceras, sin peligro ni molestias; bájate si hay muchos peatones. No uses autopistas ni vías prohibidas a bicicletas; sin pasajeros." }
     }
   ],
   "fines": [
     {
-      "offense": { "de": "Behinderndes oder verbotenes Parken", "en": "Obstructive or prohibited parking" },
+      "offense": { "de": "Behinderndes oder verbotenes Parken", "en": "Obstructive or prohibited parking", "fr": "Stationnement gênant ou interdit", "it": "Sosta d’intralcio o vietata", "es": "Estacionamiento molesto o prohibido" },
       "amount": "900 NOK"
     }
   ],
   "cities": [
     {
       "name": "Oslo",
-      "nameLocalized": { "de": "Oslo", "en": "Oslo" },
-      "notes": { "de": "Sharing ist zwischen 23 und 5 Uhr geschlossen. Für Mietroller gelten digitale Fahr-, Park- und Langsamfahrzonen; Karte prüfen. Das ist kein nächtliches Fahrverbot für Privatroller.", "en": "Sharing closes between 23:00 and 05:00. Rentals have digital no-riding, no-parking and slow zones; check the map. This is not a night-time riding ban for private scooters." }
+      "nameLocalized": { "de": "Oslo", "en": "Oslo", "fr": "Oslo", "it": "Oslo", "es": "Oslo" },
+      "notes": { "de": "Sharing ist zwischen 23 und 5 Uhr geschlossen. Für Mietroller gelten digitale Fahr-, Park- und Langsamfahrzonen; Karte prüfen. Das ist kein nächtliches Fahrverbot für Privatroller.", "en": "Sharing closes between 23:00 and 05:00. Rentals have digital no-riding, no-parking and slow zones; check the map. This is not a night-time riding ban for private scooters.", "fr": "Le service partagé ferme entre 23 et 5 heures. Les locations ont des zones numériques de circulation, stationnement et ralentissement ; vérifie la carte. Ce n’est pas une interdiction nocturne pour les trottinettes privées.", "it": "Il servizio condiviso chiude tra le 23 e le 5. Per il noleggio valgono zone digitali di circolazione, sosta e rallentamento; controlla la mappa. Non è un divieto notturno per i monopattini privati.", "es": "El servicio compartido cierra entre las 23 y las 5. El alquiler tiene zonas digitales de circulación, estacionamiento y velocidad reducida; consulta el mapa. No es una prohibición nocturna para patinetes privados." }
     }
   ],
   "upcomingChanges": [],

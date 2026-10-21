@@ -3,7 +3,10 @@
   "countryCode": "GR",
   "countryName": {
     "de": "Griechenland",
-    "en": "Greece"
+    "en": "Greece",
+    "fr": "Grèce",
+    "it": "Grecia",
+    "es": "Grecia"
   },
   "flagEmoji": "🇬🇷",
   "lastUpdated": "2026-10-21",
@@ -13,7 +16,10 @@
   "overallStatus": "restricted",
   "summary": {
     "de": "Seit Juli 2026 gilt für gewöhnliche E-Tretroller (EPHO): Mindestalter 17, Helm- und Versicherungspflicht, Ausweis und Versicherungsnachweis mitführen. Radwege nutzen, nicht auf Gehwegen fahren.",
-    "en": "Since July 2026, ordinary e-scooters (EPHO) require riders to be 17 or older, a helmet and insurance; carry ID and proof of insurance. Use cycle lanes and keep off pavements."
+    "en": "Since July 2026, ordinary e-scooters (EPHO) require riders to be 17 or older, a helmet and insurance; carry ID and proof of insurance. Use cycle lanes and keep off pavements.",
+    "fr": "Depuis juillet 2026, pour les trottinettes ordinaires (EPHO) : âge minimal 17 ans, casque et assurance obligatoires, pièce d’identité et justificatif d’assurance à emporter. Utilise les pistes cyclables, pas les trottoirs.",
+    "it": "Da luglio 2026, per i monopattini ordinari (EPHO): età minima 17 anni, casco e assicurazione obbligatori; porta documento e prova assicurativa. Usa le ciclabili, non i marciapiedi.",
+    "es": "Desde julio de 2026, para patinetes normales (EPHO): edad mínima 17 años, casco y seguro obligatorios; lleva identificación y justificante de seguro. Usa carriles bici, no aceras."
   },
   "categories": [
     {
@@ -21,11 +27,17 @@
       "status": "restricted",
       "value": {
         "de": "EPHO bis 25 km/h",
-        "en": "EPHO up to 25 km/h"
+        "en": "EPHO up to 25 km/h",
+        "fr": "EPHO jusqu’à 25 km/h",
+        "it": "EPHO fino a 25 km/h",
+        "es": "EPHO hasta 25 km/h"
       },
       "details": {
         "de": "Die hier behandelte EPHO-Klasse umfasst übliche elektrische Tretroller bis 25 km/h. Schnellere Geräte fallen nicht unter diese Orientierung; aktuelle Polizeikontrollen erfassen fehlende Geschwindigkeitsbegrenzer. Lokale und streckenbezogene Beschränkungen beachten.",
-        "en": "This guidance concerns ordinary EPHO e-scooters up to 25 km/h. Faster devices are outside its scope; current police checks target missing speed limiters. Observe local and route-specific restrictions."
+        "en": "This guidance concerns ordinary EPHO e-scooters up to 25 km/h. Faster devices are outside its scope; current police checks target missing speed limiters. Observe local and route-specific restrictions.",
+        "fr": "La catégorie EPHO décrite couvre les trottinettes ordinaires jusqu’à 25 km/h. Les modèles plus rapides en sont exclus ; les contrôles actuels visent l’absence de limiteur. Respecte les restrictions locales et propres au parcours.",
+        "it": "La categoria EPHO descritta comprende monopattini ordinari fino a 25 km/h. I più veloci sono esclusi; i controlli attuali verificano i limitatori mancanti. Rispetta limiti locali e del percorso.",
+        "es": "La categoría EPHO descrita cubre patinetes normales hasta 25 km/h. Los más rápidos quedan fuera; los controles actuales comprueban limitadores ausentes. Respeta restricciones locales y de cada ruta."
       }
     },
     {
@@ -33,11 +45,17 @@
       "status": "restricted",
       "value": {
         "de": "Ab 17 Jahren",
-        "en": "17 years and older"
+        "en": "17 years and older",
+        "fr": "Dès 17 ans",
+        "it": "Dai 17 anni",
+        "es": "Desde los 17 años"
       },
       "details": {
         "de": "Seit der Gesetzesänderung vom Juli 2026 (Gesetz 5322/2026) gilt für gewöhnliche E-Tretroller ein Mindestalter von 17 Jahren. Verkauf und Vermietung an Jüngere sind verboten; die Polizei kontrolliert das.",
-        "en": "Since the July 2026 amendment (Law 5322/2026), ordinary e-scooters have a minimum age of 17. Selling or renting to younger people is prohibited; police enforce this."
+        "en": "Since the July 2026 amendment (Law 5322/2026), ordinary e-scooters have a minimum age of 17. Selling or renting to younger people is prohibited; police enforce this.",
+        "fr": "Depuis la réforme de juillet 2026 (loi 5322/2026), âge minimal de 17 ans pour les trottinettes ordinaires. Vente et location aux plus jeunes interdites ; la police contrôle.",
+        "it": "Dalla modifica di luglio 2026 (legge 5322/2026) età minima 17 anni per monopattini ordinari. Vietate vendita e noleggio ai più giovani; la polizia controlla.",
+        "es": "Desde la reforma de julio de 2026 (ley 5322/2026), edad mínima 17 años para patinetes normales. Venta y alquiler a menores prohibidos; la policía controla."
       }
     },
     {
@@ -45,11 +63,17 @@
       "status": "restricted",
       "value": {
         "de": "Pflicht",
-        "en": "Mandatory"
+        "en": "Mandatory",
+        "fr": "Obligatoire",
+        "it": "Obbligatorio",
+        "es": "Obligatorio"
       },
       "details": {
         "de": "Ein zugelassener, korrekt geschlossener Helm ist für gewöhnliche EPHO Pflicht. Aktuelle Polizeimitteilungen bestätigen die Durchsetzung. Sonderregeln für Behinderten-Mobilitätshilfen sind nicht auf normale Privat- oder Mietroller übertragbar.",
-        "en": "An approved, properly fastened helmet is mandatory for ordinary EPHO. Current police notices confirm enforcement. Exemptions for disability mobility aids do not transfer to ordinary private or rental scooters."
+        "en": "An approved, properly fastened helmet is mandatory for ordinary EPHO. Current police notices confirm enforcement. Exemptions for disability mobility aids do not transfer to ordinary private or rental scooters.",
+        "fr": "Casque homologué et correctement attaché obligatoire pour les EPHO ordinaires. Les communiqués actuels de police confirment les contrôles. Les exceptions pour aides à la mobilité des personnes handicapées ne s’appliquent pas aux trottinettes privées ou louées ordinaires.",
+        "it": "Casco omologato e ben allacciato obbligatorio per gli EPHO ordinari. Le comunicazioni attuali della polizia confermano i controlli. Le deroghe per ausili di mobilità per disabili non valgono per normali monopattini privati o a noleggio.",
+        "es": "Casco homologado y bien abrochado obligatorio para EPHO normales. Los comunicados policiales actuales confirman su control. Las excepciones de ayudas de movilidad para discapacitados no se aplican a patinetes normales privados o de alquiler."
       }
     },
     {
@@ -57,11 +81,17 @@
       "status": "restricted",
       "value": {
         "de": "Pflicht; Nachweis mitführen",
-        "en": "Mandatory; carry proof"
+        "en": "Mandatory; carry proof",
+        "fr": "Obligatoire ; emporte le justificatif",
+        "it": "Obbligatoria; porta la prova",
+        "es": "Obligatorio; lleva justificante"
       },
       "details": {
         "de": "Halter müssen eine Haftpflichtversicherung haben (mind. 50.000 € je Schadensfall); beim Fahren Ausweis und Versicherungsnachweis mitführen. Bei Leihrollern gilt die Flottenpolice des Anbieters, der Nachweis kann in der App erfolgen. Ob eine ausländische Police für einen mitgebrachten Privatroller anerkannt wird, vorab beim Versicherer klären.",
-        "en": "Owners must hold liability insurance (at least €50,000 per incident); carry ID and proof of insurance when riding. Rental scooters are covered by the provider's fleet policy, with proof shown in the app. Check with your insurer in advance whether a foreign policy covers a private scooter you bring."
+        "en": "Owners must hold liability insurance (at least €50,000 per incident); carry ID and proof of insurance when riding. Rental scooters are covered by the provider's fleet policy, with proof shown in the app. Check with your insurer in advance whether a foreign policy covers a private scooter you bring.",
+        "fr": "Le détenteur doit avoir une RC d’au moins 50.000 € par sinistre ; emporte identité et preuve d’assurance. En location, police de flotte du loueur, justificatif possible dans l’application. Fais confirmer avant le trajet l’acceptation d’une police étrangère pour ta trottinette privée apportée.",
+        "it": "Il proprietario/detentore deve avere RC di almeno 50.000 € per sinistro; porta documento e prova assicurativa. A noleggio vale la polizza flotta del gestore, dimostrabile nell’app. Chiedi prima all’assicuratore se è riconosciuta una polizza estera per il monopattino privato che porti.",
+        "es": "El titular debe tener RC de al menos 50.000 € por siniestro; lleva identificación y prueba del seguro. En alquiler vale la póliza de flota, justificable en la app. Consulta antes al asegurador si se reconoce una póliza extranjera para tu patinete privado."
       }
     },
     {
@@ -69,29 +99,41 @@
       "status": "allowed",
       "value": {
         "de": "EPHO: Ausweis statt Führerschein",
-        "en": "EPHO: carry ID, no driving licence"
+        "en": "EPHO: carry ID, no driving licence",
+        "fr": "EPHO : identité, pas de permis",
+        "it": "EPHO: documento, non patente",
+        "es": "EPHO: identificación, no permiso"
       },
       "details": {
         "de": "Für gewöhnliche EPHO nennt die spezielle Dokumentenregel Ausweis und Versicherungsnachweis, nicht einen Pkw-/Motorradführerschein. Schnellere oder anders eingestufte Fahrzeuge sind nicht erfasst. Die Registrierung ist eine separate, vor Nutzung zu prüfende Frage.",
-        "en": "The specific document rule for ordinary EPHO calls for ID and insurance proof rather than a car/motorcycle licence. Faster or differently classified vehicles are outside this statement. Registration is a separate matter to check before riding."
+        "en": "The specific document rule for ordinary EPHO calls for ID and insurance proof rather than a car/motorcycle licence. Faster or differently classified vehicles are outside this statement. Registration is a separate matter to check before riding.",
+        "fr": "Pour les EPHO ordinaires, la règle spécifique exige identité et preuve d’assurance, pas un permis auto/moto. Les véhicules plus rapides ou autrement classés sont exclus. L’enregistrement est une question distincte à vérifier avant de rouler.",
+        "it": "Per gli EPHO ordinari la regola documentale richiede documento e prova assicurativa, non patente auto/moto. Mezzi più veloci o diversamente classificati sono esclusi. La registrazione è distinta e da verificare prima della guida.",
+        "es": "Para EPHO normales, la regla documental exige identificación y seguro, no permiso de coche/moto. Los más rápidos o de otra categoría quedan fuera. El registro es una cuestión aparte que debes comprobar antes de circular."
       }
     },
     {
       "id": "alcohol",
       "status": "restricted",
-      "value": { "de": "Unter 0,5 ‰", "en": "Below 0.5 ‰" },
-      "details": { "de": "Für Straßenfahrzeuge gilt ab 0,5 g/l Blut oder 0,25 mg/l Atemluft das Alkoholverbot (KOK Art. 46). Auch EPHO fallen darunter. Bei Beeinträchtigung nicht fahren; am sichersten alkoholfrei.", "en": "For road vehicles, the alcohol prohibition applies from 0.5 g/l blood or 0.25 mg/l breath (KOK Article 46). EPHO are included. Do not ride when impaired; riding sober is safest." }
+      "value": { "de": "Unter 0,5 ‰", "en": "Below 0.5 ‰", "fr": "Moins de 0,5 ‰", "it": "Meno di 0,5 ‰", "es": "Menos de 0,5 ‰" },
+      "details": { "de": "Für Straßenfahrzeuge gilt ab 0,5 g/l Blut oder 0,25 mg/l Atemluft das Alkoholverbot (KOK Art. 46). Auch EPHO fallen darunter. Bei Beeinträchtigung nicht fahren; am sichersten alkoholfrei.", "en": "For road vehicles, the alcohol prohibition applies from 0.5 g/l blood or 0.25 mg/l breath (KOK Article 46). EPHO are included. Do not ride when impaired; riding sober is safest.", "fr": "Pour les véhicules routiers, interdiction d’alcool dès 0,5 g/l de sang ou 0,25 mg/l d’air expiré (KOK art. 46), EPHO compris. Ne roule pas si tes capacités sont altérées ; le plus sûr est sans alcool.", "it": "Per veicoli stradali divieto di alcol da 0,5 g/l nel sangue o 0,25 mg/l nell’aria espirata (KOK art. 46), inclusi EPHO. Non guidare con capacità alterate; più sicuro senza alcol.", "es": "En vehículos viales, prohibición de alcohol desde 0,5 g/l en sangre o 0,25 mg/l en aire (KOK art. 46), incluidos EPHO. No conduzcas con facultades alteradas; lo más seguro es sin alcohol." }
     },
     {
       "id": "where_to_ride",
       "status": "restricted",
       "value": {
         "de": "Radwege; kein Gehweg",
-        "en": "Cycle lanes; no pavements"
+        "en": "Cycle lanes; no pavements",
+        "fr": "Pistes cyclables ; pas de trottoir",
+        "it": "Piste ciclabili; niente marciapiedi",
+        "es": "Carriles bici; no aceras"
       },
       "details": {
         "de": "Vorhandene Rad- bzw. Mopedspuren müssen genutzt werden (Gesetz 5322/2026). Gehwege sind tabu. Verbotsschilder und örtliche Abstellflächen für Leihroller beachten.",
-        "en": "Available cycle or moped lanes must be used (Law 5322/2026). Pavements are off-limits. Observe prohibition signs and local parking areas for rental scooters."
+        "en": "Available cycle or moped lanes must be used (Law 5322/2026). Pavements are off-limits. Observe prohibition signs and local parking areas for rental scooters.",
+        "fr": "Utilise les voies cyclables ou pour cyclomoteurs présentes (loi 5322/2026). Trottoirs interdits. Respecte les panneaux d’interdiction et places de stationnement locales des locations.",
+        "it": "Usa le corsie ciclabili o per ciclomotori presenti (legge 5322/2026). Vietati marciapiedi. Rispetta divieti e aree locali di sosta dei noleggi.",
+        "es": "Usa los carriles bici o de ciclomotores existentes (ley 5322/2026). Aceras prohibidas. Respeta señales de prohibición y zonas locales de aparcamiento de alquiler."
       }
     }
   ],
@@ -99,12 +141,18 @@
     {
       "offense": {
         "de": "Gewöhnliches EPHO ohne vorgeschriebene Versicherung",
-        "en": "Ordinary EPHO without required insurance"
+        "en": "Ordinary EPHO without required insurance",
+        "fr": "EPHO ordinaire sans assurance obligatoire",
+        "it": "EPHO ordinario senza assicurazione obbligatoria",
+        "es": "EPHO normal sin seguro obligatorio"
       },
       "amount": "250 €",
       "notes": {
         "de": "Gesetz 5322/2026; Versicherungspflicht trifft Halter bzw. Besitzer.",
-        "en": "Law 5322/2026; the insurance duty lies with the owner or keeper."
+        "en": "Law 5322/2026; the insurance duty lies with the owner or keeper.",
+        "fr": "Loi 5322/2026 ; l’obligation d’assurance incombe au détenteur ou propriétaire.",
+        "it": "Legge 5322/2026; obbligo assicurativo a carico del proprietario o detentore.",
+        "es": "Ley 5322/2026; el seguro corresponde al titular o propietario."
       }
     }
   ],
@@ -113,11 +161,17 @@
       "name": "Athens",
       "nameLocalized": {
         "de": "Athen",
-        "en": "Athens"
+        "en": "Athens",
+        "fr": "Athènes",
+        "it": "Atene",
+        "es": "Atenas"
       },
       "notes": {
         "de": "Seit August 2026 gibt es ausgewiesene Abstellplätze für Leihroller genehmigter Anbieter; 10 % sind für private Roller reserviert. Gehwege freihalten und Beschilderung beachten.",
-        "en": "Since August 2026 there are designated parking spaces for licensed rental scooters; 10% are reserved for private scooters. Keep pavements clear and follow the signs."
+        "en": "Since August 2026 there are designated parking spaces for licensed rental scooters; 10% are reserved for private scooters. Keep pavements clear and follow the signs.",
+        "fr": "Depuis août 2026, places réservées aux locations d’opérateurs autorisés ; 10 % pour les trottinettes privées. Laisse les trottoirs libres et respecte les panneaux.",
+        "it": "Da agosto 2026 spazi di sosta per noleggi autorizzati; il 10 % è riservato ai monopattini privati. Lascia liberi i marciapiedi e rispetta i segnali.",
+        "es": "Desde agosto de 2026 hay plazas para alquileres de operadores autorizados; el 10 % se reserva a privados. Deja libres las aceras y respeta las señales."
       }
     }
   ],

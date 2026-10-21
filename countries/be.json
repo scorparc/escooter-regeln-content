@@ -3,7 +3,10 @@
   "countryCode": "BE",
   "countryName": {
     "de": "Belgien",
-    "en": "Belgium"
+    "en": "Belgium",
+    "fr": "Belgique",
+    "it": "Belgio",
+    "es": "Bélgica"
   },
   "flagEmoji": "🇧🇪",
   "lastUpdated": "2026-10-21",
@@ -13,7 +16,10 @@
   "overallStatus": "restricted",
   "summary": {
     "de": "Zulässige E-Tretroller fahren höchstens 25 km/h, grundsätzlich ab 16 Jahren nach Fahrradregeln und nicht auf Gehwegen. Seit 01.09.2026 ist bei bauartbedingt mehr als 20 km/h ein Helm Pflicht – auch wenn langsamer gefahren wird.",
-    "en": "Compliant e-scooters are limited to 25 km/h, generally for riders aged 16 or over, following bicycle rules and keeping off pavements. Since 1 September 2026, a helmet is mandatory for design speeds above 20 km/h, even when riding more slowly."
+    "en": "Compliant e-scooters are limited to 25 km/h, generally for riders aged 16 or over, following bicycle rules and keeping off pavements. Since 1 September 2026, a helmet is mandatory for design speeds above 20 km/h, even when riding more slowly.",
+    "fr": "Trottinettes conformes : maximum 25 km/h, en principe dès 16 ans selon les règles cyclistes, jamais sur trottoir. Depuis le 01.09.2026, casque obligatoire si la vitesse par construction dépasse 20 km/h, même en roulant moins vite.",
+    "it": "Monopattini conformi: massimo 25 km/h, di norma dai 16 anni secondo le regole ciclistiche, non sui marciapiedi. Dal 01.09.2026 casco obbligatorio se la velocità di costruzione supera 20 km/h, anche guidando più piano.",
+    "es": "Patinetes conformes: máximo 25 km/h, por norma desde los 16 años según normas ciclistas y sin aceras. Desde el 01.09.2026, casco obligatorio si la velocidad de diseño supera 20 km/h, aunque circules más despacio."
   },
   "categories": [
     {
@@ -21,11 +27,17 @@
       "status": "restricted",
       "value": {
         "de": "Max. 25 km/h",
-        "en": "Max. 25 km/h"
+        "en": "Max. 25 km/h",
+        "fr": "Max. 25 km/h",
+        "it": "Max. 25 km/h",
+        "es": "Máx. 25 km/h"
       },
       "details": {
         "de": "Die Bauart darf höchstens 25 km/h ermöglichen. Ein gedrosselter Fahrmodus macht ein schnelleres Fahrzeug nicht zulässig. Bei Sharing-Fahrzeugen und örtlichen Zonen können niedrigere Limits gelten.",
-        "en": "The design speed must not exceed 25 km/h. A restricted riding mode does not make a faster vehicle compliant. Shared scooters and local zones can have lower limits."
+        "en": "The design speed must not exceed 25 km/h. A restricted riding mode does not make a faster vehicle compliant. Shared scooters and local zones can have lower limits.",
+        "fr": "La construction ne doit pas permettre plus de 25 km/h. Un mode bridé ne rend pas conforme un véhicule plus rapide. Des limites inférieures peuvent s’appliquer aux locations et zones locales.",
+        "it": "La costruzione non deve consentire oltre 25 km/h. Una modalità limitata non rende conforme un mezzo più veloce. Per sharing e zone locali possono valere limiti inferiori.",
+        "es": "El diseño no debe permitir superar 25 km/h. Un modo limitado no hace conforme un vehículo más rápido. Alquileres y zonas locales pueden tener límites menores."
       }
     },
     {
@@ -33,11 +45,17 @@
       "status": "restricted",
       "value": {
         "de": "Ab 16; örtliche Ausnahmen",
-        "en": "16+; limited area exceptions"
+        "en": "16+; limited area exceptions",
+        "fr": "Dès 16 ans ; exceptions locales",
+        "it": "Dai 16; eccezioni locali",
+        "es": "Desde 16; excepciones locales"
       },
       "details": {
         "de": "Grundsätzlich ab 16 Jahren. Ausnahmen bestehen u. a. in entsprechend freigegebenen Wohn-/Begegnungs-, Spiel-, Fußgänger- und reservierten Bereichen. Die Ausnahme ist keine Freigabe für normale Straßen oder verbotene Gehwege. Mietanbieter können ein höheres Alter verlangen.",
-        "en": "Generally 16 or over. Exceptions exist in appropriately permitted residential/meeting, play, pedestrian and reserved areas. These exceptions do not authorise ordinary road riding or prohibited pavement riding. Rental providers may set a higher age."
+        "en": "Generally 16 or over. Exceptions exist in appropriately permitted residential/meeting, play, pedestrian and reserved areas. These exceptions do not authorise ordinary road riding or prohibited pavement riding. Rental providers may set a higher age.",
+        "fr": "En principe dès 16 ans. Exceptions dans certains espaces résidentiels/de rencontre, de jeu, piétons et réservés autorisés. Ce n’est pas une autorisation sur rues ordinaires ou trottoirs interdits. Les loueurs peuvent exiger un âge supérieur.",
+        "it": "Di norma dai 16 anni. Eccezioni in aree residenziali/condivise, di gioco, pedonali e riservate appositamente autorizzate. Non consentono strade normali o marciapiedi vietati. I noleggiatori possono imporre un’età maggiore.",
+        "es": "Por norma desde los 16 años. Excepciones en zonas residenciales/compartidas, de juego, peatonales y reservadas autorizadas. No permiten vías normales ni aceras prohibidas. Los operadores pueden exigir mayor edad."
       }
     },
     {
@@ -45,29 +63,41 @@
       "status": "restricted",
       "value": {
         "de": "Pflicht bei Bauart über 20 km/h",
-        "en": "Mandatory for design speed >20 km/h"
+        "en": "Mandatory for design speed >20 km/h",
+        "fr": "Obligatoire si construction >20 km/h",
+        "it": "Obbligo se costruzione >20 km/h",
+        "es": "Obligatorio si diseño >20 km/h"
       },
       "details": {
         "de": "Seit 01.09.2026 müssen Fahrer von motorisierten Fortbewegungsgeräten mit bauartbedingter Höchstgeschwindigkeit über 20 km/h einen geeigneten Helm tragen. Die tatsächlich gewählte Geschwindigkeit ist unerheblich. Bei echter Bauartgrenze bis 20 km/h bleibt er empfohlen; das kann Sharing-Roller betreffen. Ausnahme für ausschließlich mobilitätseingeschränkten Personen dienende Geräte.",
-        "en": "Since 1 September 2026, riders of motorised mobility devices with a design speed above 20 km/h must wear an appropriate helmet. Actual riding speed is irrelevant. For devices genuinely limited by design to 20 km/h, a helmet remains recommended; this can include shared scooters. Devices exclusively intended for people with reduced mobility are exempt."
+        "en": "Since 1 September 2026, riders of motorised mobility devices with a design speed above 20 km/h must wear an appropriate helmet. Actual riding speed is irrelevant. For devices genuinely limited by design to 20 km/h, a helmet remains recommended; this can include shared scooters. Devices exclusively intended for people with reduced mobility are exempt.",
+        "fr": "Depuis le 01.09.2026, casque adapté obligatoire si la vitesse par construction dépasse 20 km/h, quelle que soit la vitesse choisie. Si la limite réelle de construction est de 20 km/h ou moins, casque conseillé ; cela peut concerner les locations. Exception pour les appareils exclusivement destinés aux personnes à mobilité réduite.",
+        "it": "Dal 01.09.2026 casco idoneo obbligatorio se la velocità di costruzione supera 20 km/h, indipendentemente dalla velocità scelta. Se il limite reale di costruzione è fino a 20 km/h, casco consigliato; può riguardare lo sharing. Esenti i mezzi destinati esclusivamente a persone con mobilità ridotta.",
+        "es": "Desde el 01.09.2026, casco adecuado obligatorio si la velocidad de diseño supera 20 km/h, sin importar la velocidad elegida. Si el límite real de diseño es hasta 20 km/h, se recomienda; puede afectar al alquiler. Exentos los equipos destinados exclusivamente a personas con movilidad reducida."
       }
     },
     {
       "id": "insurance",
       "status": "restricted",
-      "value": { "de": "Bis 25 kg/25 km/h keine Pflicht", "en": "Up to 25 kg/25 km/h exempt" },
-      "details": { "de": "Bis 25 km/h und 25 kg einschließlich Batterie keine Kfz-Haftpflichtpflicht. Bei schwereren üblichen Rollern über 6 km/h kann sie nötig sein. Für gewöhnliche zugelassene Tretroller ist kein Kennzeichen nötig; private Haftpflichtdeckung prüfen.", "en": "Up to 25 km/h and 25 kg including battery, motor insurance is not compulsory. Heavier ordinary scooters above 6 km/h may require it. Ordinary compliant kick scooters need no registration plate; check private liability cover." }
+      "value": { "de": "Bis 25 kg/25 km/h keine Pflicht", "en": "Up to 25 kg/25 km/h exempt", "fr": "Jusqu’à 25 kg/25 km/h : exempt", "it": "Fino a 25 kg/25 km/h: esente", "es": "Hasta 25 kg/25 km/h: exento" },
+      "details": { "de": "Bis 25 km/h und 25 kg einschließlich Batterie keine Kfz-Haftpflichtpflicht. Bei schwereren üblichen Rollern über 6 km/h kann sie nötig sein. Für gewöhnliche zugelassene Tretroller ist kein Kennzeichen nötig; private Haftpflichtdeckung prüfen.", "en": "Up to 25 km/h and 25 kg including battery, motor insurance is not compulsory. Heavier ordinary scooters above 6 km/h may require it. Ordinary compliant kick scooters need no registration plate; check private liability cover.", "fr": "Jusqu’à 25 km/h et 25 kg batterie comprise, pas de RC automobile obligatoire. Les trottinettes ordinaires plus lourdes dépassant 6 km/h peuvent y être soumises. Pas de plaque pour les trottinettes ordinaires conformes ; vérifie ta RC privée.", "it": "Fino a 25 km/h e 25 kg inclusa batteria, nessun obbligo RC auto. Per monopattini ordinari più pesanti oltre 6 km/h può servire. Nessuna targa per quelli ordinari conformi; verifica la RC privata.", "es": "Hasta 25 km/h y 25 kg incluida batería, sin RC de vehículos obligatoria. Los patinetes normales más pesados que superen 6 km/h pueden necesitarla. Sin placa para patinetes normales conformes; revisa tu RC privada." }
     },
     {
       "id": "license",
       "status": "allowed",
       "value": {
         "de": "Für übliche Roller kein Führerschein",
-        "en": "No licence for ordinary scooters"
+        "en": "No licence for ordinary scooters",
+        "fr": "Pas de permis pour modèles ordinaires",
+        "it": "Nessuna patente per modelli ordinari",
+        "es": "Sin permiso para modelos normales"
       },
       "details": {
         "de": "Für die übliche, zulässige Fahrzeugklasse bis 25 km/h wird kein Führerschein verlangt. Schnellere oder anders eingestufte Fahrzeuge sind davon nicht erfasst und dürfen nicht einfach als E-Tretroller genutzt werden. Anbieterbedingungen zusätzlich prüfen.",
-        "en": "No driving licence is required for the ordinary compliant class up to 25 km/h. Faster or differently classified vehicles are outside this statement and cannot simply be used as e-scooters. Check provider terms as well."
+        "en": "No driving licence is required for the ordinary compliant class up to 25 km/h. Faster or differently classified vehicles are outside this statement and cannot simply be used as e-scooters. Check provider terms as well.",
+        "fr": "Pas de permis pour la catégorie ordinaire conforme jusqu’à 25 km/h. Les véhicules plus rapides ou autrement classés ne sont pas couverts et ne peuvent pas simplement être utilisés comme trottinettes. Vérifie aussi les conditions du loueur.",
+        "it": "Nessuna patente per la categoria ordinaria conforme fino a 25 km/h. Mezzi più veloci o diversamente classificati non sono compresi e non possono essere usati semplicemente come monopattini. Verifica anche le condizioni del gestore.",
+        "es": "No se exige permiso a la categoría normal conforme hasta 25 km/h. Los vehículos más rápidos o de otra categoría quedan fuera y no pueden usarse sin más como patinetes. Comprueba también condiciones del operador."
       }
     },
     {
@@ -75,11 +105,17 @@
       "status": "restricted",
       "value": {
         "de": "Unter 0,5 ‰",
-        "en": "Below 0.5 ‰"
+        "en": "Below 0.5 ‰",
+        "fr": "Moins de 0,5 ‰",
+        "it": "Meno di 0,5 ‰",
+        "es": "Menos de 0,5 ‰"
       },
       "details": {
         "de": "Die Polizei nennt für E-Tretroller 0,5 g/l als Alkoholgrenze. Auch sonstige Fahruntüchtigkeit ist zu vermeiden; die Scooter-Nutzung ist kein Ausweg aus den Regeln zum Fahren unter Einfluss.",
-        "en": "Police guidance gives 0.5 g/l as the alcohol threshold for e-scooters. Other impairment must also be avoided; using a scooter is not an exemption from drink-driving rules."
+        "en": "Police guidance gives 0.5 g/l as the alcohol threshold for e-scooters. Other impairment must also be avoided; using a scooter is not an exemption from drink-driving rules.",
+        "fr": "La police indique un seuil de 0,5 g/l pour les trottinettes. Évite aussi toute autre incapacité à conduire ; la trottinette ne dispense pas des règles de conduite sous influence.",
+        "it": "La polizia indica un limite di 0,5 g/l per i monopattini. Evita anche altre condizioni d’incapacità alla guida; il monopattino non esenta dalle regole sulla guida sotto l’effetto di sostanze.",
+        "es": "La policía indica un límite de 0,5 g/l para patinetes. Evita también cualquier otra incapacidad; usar patinete no exime de las normas de conducción bajo los efectos."
       }
     },
     {
@@ -87,24 +123,35 @@
       "status": "restricted",
       "value": {
         "de": "Radweg/Fahrbahn; Gehweg verboten",
-        "en": "Cycle path/road; no pavements"
+        "en": "Cycle path/road; no pavements",
+        "fr": "Piste/chaussée ; trottoir interdit",
+        "it": "Ciclabile/carreggiata; no marciapiedi",
+        "es": "Carril bici/calzada; no aceras"
       },
       "details": {
         "de": "Es gelten Fahrradregeln: Radverkehrsflächen bzw. zulässige Fahrbahn nutzen. Gehwege sind für gewöhnliche E-Tretroller auch im Schritttempo verboten. Fußgängerbereiche nur bei Freigabe, mit Vorrang und Schrittgeschwindigkeit; bei dichtem Fußverkehr absteigen. Kein Passagier. Bei Sharing zusätzlich Dropzones und örtliche Betriebsgrenzen beachten.",
-        "en": "Bicycle rules apply: use cycling infrastructure or the permitted carriageway. Ordinary e-scooters may not use pavements even at walking speed. Pedestrian areas require permission, pedestrian priority and walking pace; dismount in dense crowds. No passenger. Shared scooters also have drop zones and local operating conditions."
+        "en": "Bicycle rules apply: use cycling infrastructure or the permitted carriageway. Ordinary e-scooters may not use pavements even at walking speed. Pedestrian areas require permission, pedestrian priority and walking pace; dismount in dense crowds. No passenger. Shared scooters also have drop zones and local operating conditions.",
+        "fr": "Règles cyclistes : infrastructures cyclables ou chaussée autorisée. Trottoirs interdits même au pas. Espaces piétons seulement si autorisés, au pas et priorité piétonne ; descends dans la foule. Aucun passager. Pour les locations, respecte aussi dropzones et limites locales de service.",
+        "it": "Regole ciclistiche: ciclabili o carreggiata consentita. Marciapiedi vietati anche a passo d’uomo. Aree pedonali solo se autorizzate, al passo e con precedenza ai pedoni; scendi nella folla. Nessun passeggero. Per lo sharing rispetta anche dropzone e limiti operativi locali.",
+        "es": "Normas ciclistas: vías ciclistas o calzada permitida. Aceras prohibidas incluso al paso. Zonas peatonales solo autorizadas, al paso y con prioridad peatonal; bájate si hay mucha gente. Sin pasajeros. En alquiler, respeta además dropzones y límites de servicio locales."
       }
     }
   ],
   "fines": [
     {
-      "offense": { "de": "Ohne Helm bei Bauart über 20 km/h", "en": "No helmet with design speed above 20 km/h" },
+      "offense": { "de": "Ohne Helm bei Bauart über 20 km/h", "en": "No helmet with design speed above 20 km/h", "fr": "Sans casque si construction >20 km/h", "it": "Senza casco se costruzione >20 km/h", "es": "Sin casco si diseño >20 km/h" },
       "amount": "64 €",
-      "notes": { "de": "Zuzüglich Verwaltungsgebühr.", "en": "Plus administrative charge." }
+      "notes": { "de": "Zuzüglich Verwaltungsgebühr.", "en": "Plus administrative charge.", "fr": "Plus frais administratifs.", "it": "Più spese amministrative.", "es": "Más gastos administrativos." }
     },
     {
-      "offense": { "de": "Rote Ampel missachten", "en": "Ignoring a red light" },
+      "offense": { "de": "Rote Ampel missachten", "en": "Ignoring a red light", "fr": "Ne pas respecter un feu rouge", "it": "Passare con il rosso", "es": "Saltarse un semáforo en rojo" },
       "amount": "191 €",
-      "notes": { "de": "Sofortzahlung zuzüglich Verwaltungsgebühr; gerichtliche Strafen können abweichen.", "en": "Immediate payment plus administrative charge; court penalties may differ." }
+      "notes": { "de": "Sofortzahlung zuzüglich Verwaltungsgebühr; gerichtliche Strafen können abweichen.", "en": "Immediate payment plus administrative charge; court penalties may differ.", "fr": "Perception immédiate plus frais administratifs ; les peines judiciaires peuvent différer.", "it": "Pagamento immediato più spese amministrative; le sanzioni giudiziarie possono essere diverse.", "es": "Pago inmediato más gastos administrativos; las sanciones judiciales pueden variar." }
+    },
+    {
+      "offense": { "de": "Alkohol: 0,22 bis unter 0,35 mg/l Atemluft", "en": "Alcohol: 0.22 to below 0.35 mg/l breath", "fr": "Alcool : 0,22 à moins de 0,35 mg/l d’air expiré", "it": "Alcol: da 0,22 a meno di 0,35 mg/l nell’aria espirata", "es": "Alcohol: de 0,22 a menos de 0,35 mg/l en aire" },
+      "amount": "197 €",
+      "notes": { "de": "Mögliche Sofortzahlung nach dem Verkehrstarif ab 01.07.2026, zuzüglich Verwaltungsgebühr. Gerichtliche Sanktionen können abweichen.", "en": "Possible immediate payment under the traffic tariff from 01.07.2026, plus administrative charge. Court penalties may differ.", "fr": "Perception immédiate possible selon le tarif routier du 01.07.2026, plus frais administratifs. Les sanctions judiciaires peuvent différer.", "it": "Possibile pagamento immediato secondo la tariffa stradale dal 01.07.2026, più spese amministrative. Le sanzioni giudiziarie possono differire.", "es": "Posible pago inmediato según tarifa vial desde el 01.07.2026, más gastos administrativos. Las sanciones judiciales pueden variar." }
     }
   ],
   "cities": [
@@ -112,22 +159,34 @@
       "name": "Brussels",
       "nameLocalized": {
         "de": "Brüssel",
-        "en": "Brussels"
+        "en": "Brussels",
+        "fr": "Bruxelles",
+        "it": "Bruxelles",
+        "es": "Bruselas"
       },
       "notes": {
         "de": "Leihroller nur in Dropzones abstellen; Geofencing drosselt sie in Fußgängerbereichen auf 8 km/h. Dort trotzdem Schrittgeschwindigkeit und Vorrang für Fußgänger, bei Andrang absteigen.",
-        "en": "Park rental scooters only in drop zones; geofencing limits them to 8 km/h in pedestrian areas. Still ride at walking pace there, give pedestrians priority and dismount in crowds."
+        "en": "Park rental scooters only in drop zones; geofencing limits them to 8 km/h in pedestrian areas. Still ride at walking pace there, give pedestrians priority and dismount in crowds.",
+        "fr": "Stationne les locations uniquement dans les dropzones ; géorepérage à 8 km/h en zone piétonne. Respecte malgré tout l’allure du pas et la priorité piétonne ; descends en cas d’affluence.",
+        "it": "Parcheggia i noleggi solo nelle dropzone; geofencing a 8 km/h nelle aree pedonali. Rispetta comunque il passo d’uomo e la precedenza ai pedoni; scendi se affollato.",
+        "es": "Aparca los alquileres solo en dropzones; geolocalización a 8 km/h en zonas peatonales. Aun así, circula al paso y da prioridad a peatones; bájate si hay mucha gente."
       }
     },
     {
       "name": "Antwerp",
       "nameLocalized": {
         "de": "Antwerpen",
-        "en": "Antwerp"
+        "en": "Antwerp",
+        "fr": "Anvers",
+        "it": "Anversa",
+        "es": "Amberes"
       },
       "notes": {
         "de": "Seit 01.07.2025 dürfen Sharing-Roller innerhalb der Leien nur in ausgewiesenen Dropzones zurückgegeben werden. Die No-Park-Zone betrifft das Abstellen außerhalb dieser Flächen, nicht automatisch ein Fahrverbot. Aktuelle Karte/Anbieter-App beachten.",
-        "en": "Since 1 July 2025, shared scooters inside the Leien may only be returned in designated drop zones. The no-parking zone prohibits parking outside those locations; it is not automatically a riding ban. Check the current city map/provider app."
+        "en": "Since 1 July 2025, shared scooters inside the Leien may only be returned in designated drop zones. The no-parking zone prohibits parking outside those locations; it is not automatically a riding ban. Check the current city map/provider app.",
+        "fr": "Depuis le 01.07.2025, restitution des locations à l’intérieur des Leien uniquement en dropzones. La zone sans stationnement interdit de se garer ailleurs, pas automatiquement de circuler. Consulte carte actuelle/application.",
+        "it": "Dal 01.07.2025 i noleggi all’interno dei Leien si riconsegnano solo nelle dropzone. Il divieto di sosta riguarda gli altri spazi, non automaticamente la guida. Consulta mappa aggiornata/app.",
+        "es": "Desde el 01.07.2025, devolución dentro de los Leien solo en dropzones. La zona sin aparcamiento prohíbe estacionar fuera, no automáticamente circular. Consulta mapa actualizado/app."
       }
     }
   ],

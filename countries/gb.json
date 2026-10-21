@@ -1,64 +1,75 @@
 {
   "schemaVersion": 1,
   "countryCode": "GB",
-  "countryName": { "de": "Großbritannien", "en": "Great Britain" },
+  "countryName": { "de": "Großbritannien", "en": "Great Britain", "fr": "Grande-Bretagne", "it": "Gran Bretagna", "es": "Gran Bretaña" },
   "flagEmoji": "🇬🇧",
   "lastUpdated": "2026-10-21",
   "verified": true,
   "verifiedBy": "Marc Neumann",
   "verifiedDate": "2026-10-21",
   "overallStatus": "forbidden",
-  "summary": { "de": "Privatroller sind auf öffentlichen Straßen, Gehwegen und in Parks verboten. Nur genehmigte Mietroller-Trials in England erlauben eine begrenzte Nutzung mit gültigem Führerschein. Die Trials laufen derzeit bis Mai 2028.", "en": "Private scooters are prohibited on public roads, pavements and in parks. Only authorised rental trials in England allow limited use with a valid driving licence. The trials currently run until May 2028." },
+  "summary": { "de": "Privatroller sind auf öffentlichen Straßen, Gehwegen und in Parks verboten. Nur genehmigte Mietroller-Trials in England erlauben eine begrenzte Nutzung mit gültigem Führerschein. Die Trials laufen derzeit bis Mai 2028.", "en": "Private scooters are prohibited on public roads, pavements and in parks. Only authorised rental trials in England allow limited use with a valid driving licence. The trials currently run until May 2028.", "fr": "Les trottinettes privées sont interdites sur routes publiques, trottoirs et dans les parcs. Seuls les essais de location autorisés en Angleterre permettent un usage limité avec permis valide. Ils se poursuivent actuellement jusqu’en mai 2028.", "it": "I monopattini privati sono vietati su strade pubbliche, marciapiedi e nei parchi. Solo le sperimentazioni di noleggio autorizzate in Inghilterra consentono un uso limitato con patente valida. Attualmente proseguono fino a maggio 2028.", "es": "Los patinetes privados están prohibidos en vías públicas, aceras y parques. Solo las pruebas de alquiler autorizadas en Inglaterra permiten un uso limitado con permiso válido. Actualmente siguen hasta mayo de 2028." },
   "categories": [
     {
       "id": "max_speed",
       "status": "restricted",
-      "value": { "de": "Trials: bis 15,5 mph (25 km/h)", "en": "Trials: up to 15.5 mph (25 km/h)" },
-      "details": { "de": "Nur zugelassene Trial-Mietroller: höchstens 15,5 mph, örtlich weniger. Das ist keine Freigabe für Privatroller.", "en": "Authorised trial rentals only: at most 15.5 mph, lower locally. This does not authorise private scooters." }
+      "value": { "de": "Trials: bis 15,5 mph (25 km/h)", "en": "Trials: up to 15.5 mph (25 km/h)", "fr": "Essais : max. 15,5 mph (25 km/h)", "it": "Trial: max. 15,5 mph (25 km/h)", "es": "Pruebas: máx. 15,5 mph (25 km/h)" },
+      "details": { "de": "Nur zugelassene Trial-Mietroller: höchstens 15,5 mph, örtlich weniger. Das ist keine Freigabe für Privatroller.", "en": "Authorised trial rentals only: at most 15.5 mph, lower locally. This does not authorise private scooters.", "fr": "Uniquement les locations d’essai autorisées : maximum 15,5 mph, moins localement. Cela n’autorise pas les trottinettes privées.", "it": "Solo monopattini a noleggio autorizzati nei trial: massimo 15,5 mph, localmente meno. Non è un’autorizzazione per i monopattini privati.", "es": "Solo alquileres de pruebas autorizados: máximo 15,5 mph, menos según la zona. No autoriza los patinetes privados." }
     },
     {
       "id": "min_age",
       "status": "restricted",
-      "value": { "de": "Trials: Alter und Lizenz prüfen", "en": "Trials: check age and licence" },
-      "details": { "de": "Trial-Mietroller setzen eine gültige Fahrerlaubnis voraus. Das Mindestalter zusätzlich beim Betreiber prüfen; in London mindestens 18.", "en": "Trial rentals require a valid driving licence. Also check the operator's minimum age; at least 18 in London." }
+      "value": { "de": "Trials: Alter und Lizenz prüfen", "en": "Trials: check age and licence", "fr": "Essais : vérifie âge et permis", "it": "Trial: verifica età e patente", "es": "Pruebas: comprueba edad y permiso" },
+      "details": { "de": "Trial-Mietroller setzen eine gültige Fahrerlaubnis voraus. Das Mindestalter zusätzlich beim Betreiber prüfen; in London mindestens 18.", "en": "Trial rentals require a valid driving licence. Also check the operator's minimum age; at least 18 in London.", "fr": "Les locations d’essai exigent un permis valide. Vérifie aussi l’âge minimal auprès du loueur ; à Londres, au moins 18 ans.", "it": "I noleggi nei trial richiedono una patente valida. Verifica anche l’età minima presso il gestore; a Londra almeno 18 anni.", "es": "El alquiler en pruebas exige permiso válido. Comprueba también la edad mínima del operador; en Londres, al menos 18 años." }
     },
     {
       "id": "helmet",
       "status": "allowed",
-      "value": { "de": "Trials: empfohlen", "en": "Trials: recommended" },
-      "details": { "de": "Für genehmigte Trial-Mietroller ist ein Fahrradhelm empfohlen, aber nicht gesetzlich vorgeschrieben. Betreiberbedingungen beachten.", "en": "Cycle helmets are recommended but not legally required for authorised trial rentals. Check operator terms." }
+      "value": { "de": "Trials: empfohlen", "en": "Trials: recommended", "fr": "Essais : recommandé", "it": "Trial: consigliato", "es": "Pruebas: recomendado" },
+      "details": { "de": "Für genehmigte Trial-Mietroller ist ein Fahrradhelm empfohlen, aber nicht gesetzlich vorgeschrieben. Betreiberbedingungen beachten.", "en": "Cycle helmets are recommended but not legally required for authorised trial rentals. Check operator terms.", "fr": "Pour les locations d’essai autorisées, le casque de vélo est recommandé mais pas légalement obligatoire. Respecte les conditions du loueur.", "it": "Per i noleggi autorizzati nei trial il casco da bicicletta è consigliato, ma non obbligatorio per legge. Rispetta le condizioni del gestore.", "es": "En alquileres de pruebas autorizadas se recomienda casco de bicicleta, pero no es obligatorio por ley. Respeta las condiciones del operador." }
     },
     {
       "id": "insurance",
       "status": "restricted",
-      "value": { "de": "Trials: über den Vermieter", "en": "Trials: provided by operator" },
-      "details": { "de": "Der Betreiber eines genehmigten Trials stellt Kfz-Haftpflichtversicherung. Eine eigene Police erlaubt keine öffentliche Nutzung eines Privatrollers.", "en": "An authorised trial operator provides third-party motor insurance. A private policy does not permit public use of a private scooter." }
+      "value": { "de": "Trials: über den Vermieter", "en": "Trials: provided by operator", "fr": "Essais : fournie par le loueur", "it": "Trial: fornita dal noleggiatore", "es": "Pruebas: la proporciona el operador" },
+      "details": { "de": "Der Betreiber eines genehmigten Trials stellt Kfz-Haftpflichtversicherung. Eine eigene Police erlaubt keine öffentliche Nutzung eines Privatrollers.", "en": "An authorised trial operator provides third-party motor insurance. A private policy does not permit public use of a private scooter.", "fr": "L’opérateur d’un essai autorisé fournit l’assurance responsabilité civile automobile. Ta propre assurance n’autorise pas l’usage public d’une trottinette privée.", "it": "Il gestore di un trial autorizzato fornisce l’assicurazione RC auto. Una tua polizza non consente l’uso pubblico di un monopattino privato.", "es": "El operador de una prueba autorizada proporciona seguro de responsabilidad civil de vehículos. Una póliza propia no permite usar un patinete privado en público." }
     },
     {
       "id": "license",
       "status": "restricted",
-      "value": { "de": "Trials: gültiger Führerschein", "en": "Trials: valid driving licence" },
-      "details": { "de": "UK-Lizenz mindestens provisional mit Q-Berechtigung; AM, A oder B umfasst Q. Geeignete volle EU-/EWR-Lizenzen werden anerkannt. Ausländische Lernführerscheine reichen nicht; andere Auslandslizenzen unterliegen weiteren Bedingungen.", "en": "A UK licence must be at least provisional with category Q; AM, A or B includes Q. Suitable full EU/EEA licences are accepted. Foreign learner permits are not sufficient; other foreign licences have further conditions." }
+      "value": { "de": "Trials: gültiger Führerschein", "en": "Trials: valid driving licence", "fr": "Essais : permis valide", "it": "Trial: patente valida", "es": "Pruebas: permiso válido" },
+      "details": { "de": "UK-Lizenz mindestens provisional mit Q-Berechtigung; AM, A oder B umfasst Q. Geeignete volle EU-/EWR-Lizenzen werden anerkannt. Ausländische Lernführerscheine reichen nicht; andere Auslandslizenzen unterliegen weiteren Bedingungen.", "en": "A UK licence must be at least provisional with category Q; AM, A or B includes Q. Suitable full EU/EEA licences are accepted. Foreign learner permits are not sufficient; other foreign licences have further conditions.", "fr": "Permis britannique au moins provisional avec catégorie Q ; AM, A ou B inclut Q. Les permis définitifs UE/EEE appropriés sont reconnus. Les permis d’apprentissage étrangers ne suffisent pas ; les autres permis étrangers ont des conditions supplémentaires.", "it": "Patente UK almeno provisional con abilitazione Q; AM, A o B include Q. Sono riconosciute le patenti UE/SEE complete idonee. I permessi esteri per allievi non bastano; altre patenti estere hanno ulteriori condizioni.", "es": "Permiso británico al menos provisional con categoría Q; AM, A o B incluye Q. Se reconocen permisos definitivos UE/EEE adecuados. No bastan permisos extranjeros de aprendizaje; otros permisos extranjeros tienen más condiciones." }
     },
     {
       "id": "alcohol",
       "status": "restricted",
-      "value": { "de": "Trials: nicht unter Einfluss", "en": "Trials: no intoxicated riding" },
-      "details": { "de": "Für Trial-Mietroller gelten Alkohol- und Drogendelikte. Alkoholfrei fahren; die Mietroller-Nutzung ist keine Ausnahme vom Verkehrsrecht.", "en": "Drink- and drug-driving offences apply to trial rentals. Ride sober; rental scooters are not exempt from traffic law." }
+      "value": { "de": "Trials: nicht unter Einfluss", "en": "Trials: no intoxicated riding", "fr": "Essais : pas sous influence", "it": "Trial: niente guida sotto l’effetto", "es": "Pruebas: no circular bajo los efectos" },
+      "details": { "de": "Für Trial-Mietroller gelten Alkohol- und Drogendelikte. Alkoholfrei fahren; die Mietroller-Nutzung ist keine Ausnahme vom Verkehrsrecht.", "en": "Drink- and drug-driving offences apply to trial rentals. Ride sober; rental scooters are not exempt from traffic law.", "fr": "Les délits liés à l’alcool et aux drogues s’appliquent aux locations d’essai. Roule sans alcool ; ces locations ne dérogent pas au droit routier.", "it": "Ai noleggi nei trial si applicano i reati per alcol e droghe. Guida senza alcol; il noleggio non esenta dalle norme stradali.", "es": "Los delitos de alcohol y drogas se aplican al alquiler en pruebas. Circula sin alcohol; el alquiler no está exento de la normativa vial." }
     },
     {
       "id": "where_to_ride",
       "status": "forbidden",
-      "value": { "de": "Privat verboten; Trials begrenzt", "en": "Private banned; limited trials" },
-      "details": { "de": "Privatroller nicht auf öffentlichen Straßen, Gehwegen oder in Parks fahren. Nur genehmigte Trial-Mietroller dürfen im Trialgebiet auf freigegebenen Straßen und Radwegen fahren. Keine Gehwege oder Autobahnen.", "en": "Do not ride private scooters on public roads, pavements or in parks. Only authorised trial rentals may use permitted roads and cycle routes within trial areas. No pavements or motorways." }
+      "value": { "de": "Privat verboten; Trials begrenzt", "en": "Private banned; limited trials", "fr": "Privé interdit ; essais limités", "it": "Privati vietati; trial limitati", "es": "Privados prohibidos; pruebas limitadas" },
+      "details": { "de": "Privatroller nicht auf öffentlichen Straßen, Gehwegen oder in Parks fahren. Nur genehmigte Trial-Mietroller dürfen im Trialgebiet auf freigegebenen Straßen und Radwegen fahren. Keine Gehwege oder Autobahnen.", "en": "Do not ride private scooters on public roads, pavements or in parks. Only authorised trial rentals may use permitted roads and cycle routes within trial areas. No pavements or motorways.", "fr": "Ne roule pas avec une trottinette privée sur routes publiques, trottoirs ou dans les parcs. Seules les locations d’essai autorisées peuvent emprunter routes et voies cyclables admises dans la zone d’essai. Ni trottoirs ni autoroutes.", "it": "Non usare monopattini privati su strade pubbliche, marciapiedi o nei parchi. Solo i noleggi autorizzati nei trial possono usare strade e ciclabili consentite nell’area del trial. Niente marciapiedi o autostrade.", "es": "No uses patinetes privados en vías públicas, aceras ni parques. Solo los alquileres de pruebas autorizadas pueden usar vías y carriles bici permitidos dentro del área de prueba. Sin aceras ni autopistas." }
     }
   ],
-  "fines": [],
+  "fines": [
+    {
+      "offense": { "de": "Privatroller auf öffentlicher Straße ohne Versicherung", "en": "Private scooter on a public road without insurance", "fr": "Trottinette privée sur voie publique sans assurance", "it": "Monopattino privato su strada pubblica senza assicurazione", "es": "Patinete privado en vía pública sin seguro" },
+      "amount": "300 GBP",
+      "notes": { "de": "Mögliche Fixed Penalty plus 6 Punkte; Beschlagnahme möglich. Vorgehen unterscheidet sich je Polizeibezirk; Gericht kann anders entscheiden.", "en": "Possible fixed penalty plus 6 points; seizure possible. Enforcement varies by police force; courts may impose different penalties.", "fr": "Amende forfaitaire possible et 6 points ; saisie possible. Pratique variable selon la police ; décision judiciaire parfois différente.", "it": "Possibile sanzione fissa e 6 punti; possibile sequestro. Prassi diversa per polizia; il giudice può decidere diversamente.", "es": "Posible multa fija y 6 puntos; posible incautación. La actuación varía según policía; el tribunal puede resolver de otro modo." }
+    },
+    {
+      "offense": { "de": "Fahren ohne passende Fahrerlaubnis", "en": "Riding without the correct driving licence", "fr": "Conduire sans le permis adapté", "it": "Guidare senza patente adatta", "es": "Circular sin el permiso adecuado" },
+      "amount": "100 GBP",
+      "notes": { "de": "Mögliche Fixed Penalty plus 3–6 Punkte. Das Bezahlen erlaubt keine weitere öffentliche Nutzung eines Privatrollers.", "en": "Possible fixed penalty plus 3–6 points. Payment does not permit further public use of a private scooter.", "fr": "Amende forfaitaire possible et 3–6 points. Payer n’autorise pas à continuer à utiliser une trottinette privée en public.", "it": "Possibile sanzione fissa e 3–6 punti. Pagare non consente di continuare a usare un monopattino privato in pubblico.", "es": "Posible multa fija y 3–6 puntos. Pagar no permite seguir usando un patinete privado en público." }
+    }
+  ],
   "cities": [
     {
       "name": "London",
-      "nameLocalized": { "de": "London", "en": "London" },
-      "notes": { "de": "Nur genehmigte Trial-Mietroller in teilnehmenden Gebieten: ab 18 mit gültiger Fahrerlaubnis, höchstens 12,5 mph (20 km/h). Privatroller bleiben im öffentlichen Raum verboten; Rückgabezonen beachten.", "en": "Only authorised trial rentals in participating areas: age 18+ with a valid licence, at most 12.5 mph (20 km/h). Private scooters remain prohibited in public; observe return zones." }
+      "nameLocalized": { "de": "London", "en": "London", "fr": "Londres", "it": "Londra", "es": "Londres" },
+      "notes": { "de": "Nur genehmigte Trial-Mietroller in teilnehmenden Gebieten: ab 18 mit gültiger Fahrerlaubnis, höchstens 12,5 mph (20 km/h). Privatroller bleiben im öffentlichen Raum verboten; Rückgabezonen beachten.", "en": "Only authorised trial rentals in participating areas: age 18+ with a valid licence, at most 12.5 mph (20 km/h). Private scooters remain prohibited in public; observe return zones.", "fr": "Uniquement les locations d’essai autorisées dans les zones participantes : dès 18 ans avec permis valide, maximum 12,5 mph (20 km/h). Les trottinettes privées restent interdites dans l’espace public ; respecte les zones de restitution.", "it": "Solo noleggi autorizzati nei trial nelle aree aderenti: dai 18 anni con patente valida, massimo 12,5 mph (20 km/h). I privati restano vietati nello spazio pubblico; rispetta le zone di riconsegna.", "es": "Solo alquileres de pruebas autorizadas en áreas participantes: desde los 18 años con permiso válido, máximo 12,5 mph (20 km/h). Los privados siguen prohibidos en espacios públicos; respeta las zonas de devolución." }
     }
   ],
   "upcomingChanges": [],
@@ -81,6 +92,16 @@
     {
       "title": "TfL: London Trial, Sicherheitsanforderungen",
       "url": "https://tfl.gov.uk/cdn/static/cms/documents/london-e-scooter-trial-safety-mitigations.pdf",
+      "accessed": "2026-10-21"
+    },
+    {
+      "title": "Metropolitan Police: Penalties and offences for e-scooters (300/100 GBP)",
+      "url": "https://www.met.police.uk/advice/advice-and-information/rs/road-safety/advice-escooters/",
+      "accessed": "2026-10-21"
+    },
+    {
+      "title": "GOV.UK: Driving without insurance (300 GBP, 6 points)",
+      "url": "https://www.gov.uk/vehicle-insurance/driving-without-insurance",
       "accessed": "2026-10-21"
     }
   ]

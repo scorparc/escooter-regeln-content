@@ -1,0 +1,116 @@
+{
+  "schemaVersion": 1,
+  "countryCode": "SI",
+  "countryName": { "de": "Slowenien", "en": "Slovenia", "fr": "Slovénie", "it": "Slovenia", "es": "Eslovenia" },
+  "flagEmoji": "🇸🇮",
+  "lastUpdated": "2026-10-21",
+  "verified": true,
+  "verifiedBy": "Marc Neumann",
+  "verifiedDate": "2026-10-21",
+  "overallStatus": "restricted",
+  "summary": { "de": "Ab dem Kalenderjahr des 15. Geburtstags, bis 25 km/h, Helm unter 18. Radflächen nutzen; ohne Radweg nur innerorts auf Straßen bis 50 km/h. Fußgängerbereiche nur im Schritttempo.", "en": "From the calendar year of the 15th birthday, up to 25 km/h, helmets under 18. Use cycling facilities; without them, only urban roads limited to 50 km/h. Walking speed in pedestrian areas.", "fr": "Dès l’année civile du 15e anniversaire, jusqu’à 25 km/h, casque avant 18 ans. Utilise les voies cyclables ; sinon uniquement en agglomération sur routes jusqu’à 50 km/h. Zones piétonnes au pas seulement.", "it": "Dall’anno solare del 15° compleanno, fino a 25 km/h, casco sotto i 18 anni. Usa le ciclabili; se mancano, solo strade urbane fino a 50 km/h. Aree pedonali solo a passo d’uomo.", "es": "Desde el año natural del 15.º cumpleaños, hasta 25 km/h, casco antes de los 18 años. Usa vías ciclistas; si no hay, solo calles urbanas hasta 50 km/h. Zonas peatonales solo al paso." },
+  "categories": [
+    {
+      "id": "max_speed",
+      "status": "restricted",
+      "value": { "de": "25 km/h; höchstens 80 cm breit", "en": "25 km/h; at most 80 cm wide", "fr": "25 km/h ; largeur max. 80 cm", "it": "25 km/h; larghezza max. 80 cm", "es": "25 km/h; anchura máx. 80 cm" },
+      "details": { "de": "Bauartbedingt höchstens 25 km/h und höchstens 80 cm Breite. Schnellere Geräte sind nicht als leichte Motorfahrzeuge im Straßenverkehr zugelassen.", "en": "Design speed at most 25 km/h and width at most 80 cm. Faster devices are not permitted in traffic as light motor vehicles.", "fr": "Construction limitée à 25 km/h et largeur de 80 cm au maximum. Les appareils plus rapides ne sont pas admis comme véhicules légers à moteur en circulation.", "it": "Costruzione limitata a 25 km/h e larghezza massima 80 cm. I mezzi più rapidi non sono ammessi nel traffico come veicoli leggeri a motore.", "es": "Diseño máximo de 25 km/h y anchura máxima de 80 cm. Los más rápidos no están autorizados como vehículos ligeros de motor en circulación." }
+    },
+    {
+      "id": "min_age",
+      "status": "restricted",
+      "value": { "de": "Ab 15 (Kalenderjahr)", "en": "15+ (calendar year)", "fr": "Dès 15 ans (année civile)", "it": "Dai 15 anni (anno solare)", "es": "Desde 15 años (año natural)" },
+      "details": { "de": "Seit 28.02.2026 gilt die Altersgrenze 15 statt der früheren Radfahrausweis-Ausnahme. Die Altersvoraussetzung ist bereits ab Beginn des Kalenderjahrs erfüllt, in dem du 15 wirst. Mietanbieter können höhere Grenzen setzen.", "en": "Since 28.02.2026 the age limit is 15, replacing the former cycling-card exception. The age condition is met from the start of the calendar year in which you turn 15. Rental operators may set higher limits.", "fr": "Depuis le 28.02.2026, limite d’âge de 15 ans remplaçant l’ancienne exception de carte cycliste. La condition est remplie dès le début de l’année civile où tu atteins 15 ans. Les loueurs peuvent imposer plus.", "it": "Dal 28.02.2026 limite di 15 anni al posto della precedente eccezione del patentino ciclistico. Il requisito è soddisfatto dall’inizio dell’anno solare in cui compi 15 anni. I gestori possono fissare limiti maggiori.", "es": "Desde el 28.02.2026 rige el límite de 15 años en vez de la antigua excepción de tarjeta ciclista. Se cumple desde el inicio del año natural en que cumples 15. Los operadores pueden exigir más edad." }
+    },
+    {
+      "id": "helmet",
+      "status": "restricted",
+      "value": { "de": "Pflicht unter 18", "en": "Mandatory under 18", "fr": "Obligatoire avant 18 ans", "it": "Obbligatorio sotto i 18 anni", "es": "Obligatorio antes de los 18 años" },
+      "details": { "de": "Unter 18 einen Fahrradhelm tragen. Für Erwachsene wird ein Helm empfohlen.", "en": "Wear a cycle helmet if under 18. Helmets are recommended for adults.", "fr": "Avant 18 ans, porte un casque de vélo. Conseillé pour les adultes.", "it": "Sotto i 18 anni indossa un casco da bici. Consigliato per gli adulti.", "es": "Antes de los 18 años lleva casco de bicicleta. Recomendado para adultos." }
+    },
+    {
+      "id": "insurance",
+      "status": "restricted",
+      "value": { "de": "Gewicht und Bauart prüfen", "en": "Check weight and design speed", "fr": "Vérifie poids et construction", "it": "Verifica peso e costruzione", "es": "Comprueba peso y diseño" },
+      "details": { "de": "Kfz-Haftpflicht greift bei Bauart über 25 km/h oder mehr als 25 kg und über 14 km/h. Bis 25 kg und 25 km/h fällt ein üblicher Roller nicht darunter. Eine Police legalisiert kein nicht straßenzulässiges Gerät; private Haftpflichtdeckung prüfen.", "en": "Motor liability cover applies above 25 km/h design speed, or above 25 kg and 14 km/h. An ordinary scooter up to 25 kg and 25 km/h falls outside this rule. Insurance does not legalise a device unfit for road use; check private liability cover.", "fr": "RC automobile si construction supérieure à 25 km/h ou poids supérieur à 25 kg avec plus de 14 km/h. Une trottinette ordinaire jusqu’à 25 kg et 25 km/h n’entre pas dans cette règle. Une police ne légalise pas un appareil interdit sur route ; vérifie ta RC privée.", "it": "RC auto oltre 25 km/h di costruzione oppure oltre 25 kg e oltre 14 km/h. Un monopattino ordinario fino a 25 kg e 25 km/h non vi rientra. Una polizza non legalizza un mezzo non ammesso su strada; verifica la RC privata.", "es": "RC de vehículos si supera 25 km/h de diseño o pesa más de 25 kg y supera 14 km/h. Un patinete normal hasta 25 kg y 25 km/h queda fuera de esa norma. Una póliza no legaliza un equipo no apto para vía pública; comprueba RC privada." }
+    },
+    {
+      "id": "license",
+      "status": "allowed",
+      "value": { "de": "Für zulässige Klasse nicht nötig", "en": "Not needed for compliant class", "fr": "Catégorie conforme : non nécessaire", "it": "Categoria conforme: non necessaria", "es": "Categoría conforme: no necesario" },
+      "details": { "de": "Für E-Tretroller der zulässigen Klasse ist kein Führerschein erforderlich. Die gesetzliche Altersgrenze bleibt einzuhalten; schnellere oder anders eingestufte Fahrzeuge sind davon nicht erfasst.", "en": "No licence is required for compliant e-scooters. The statutory age rule still applies; faster or differently classified vehicles are not covered.", "fr": "Pas de permis pour les trottinettes conformes. L’âge légal reste à respecter ; modèles plus rapides ou autrement classés exclus.", "it": "Nessuna patente per monopattini conformi. Resta da rispettare l’età legale; esclusi i più veloci o classificati diversamente.", "es": "Sin permiso para patinetes conformes. Sigue rigiendo la edad legal; no abarca más rápidos o de otra categoría." }
+    },
+    {
+      "id": "alcohol",
+      "status": "unknown",
+      "value": { "de": "Grenze unklar – alkoholfrei fahren", "en": "Limit unclear – ride sober", "fr": "Seuil incertain ; roule sans alcool", "it": "Limite incerto; guida senza alcol", "es": "Límite incierto; circula sin alcohol" },
+      "details": { "de": "Die genaue gesetzliche Promillegrenze konnten wir nicht sicher klären. Alkoholfrei fahren; auch bei sonstiger Beeinträchtigung nicht fahren.", "en": "We could not reliably establish the exact statutory alcohol limit. Ride sober and do not ride when otherwise impaired.", "fr": "Nous n’avons pas pu établir le seuil légal exact. Roule sans alcool et ne conduis pas non plus si tes capacités sont autrement altérées.", "it": "Non abbiamo chiarito il limite legale esatto. Guida senza alcol e non guidare neppure con altre alterazioni delle capacità.", "es": "No hemos aclarado el límite legal exacto. Circula sin alcohol y tampoco conduzcas con otras alteraciones de facultades." }
+    },
+    {
+      "id": "where_to_ride",
+      "status": "restricted",
+      "value": { "de": "Radweg; innerorts Straße bis 50", "en": "Cycle paths; urban roads up to 50", "fr": "Piste ; rues urbaines jusqu’à 50", "it": "Ciclabile; strade urbane fino a 50", "es": "Carril bici; calles urbanas hasta 50" },
+      "details": { "de": "Radflächen nutzen; fehlen sie oder sind sie unbenutzbar, am rechten Fahrbahnrand innerorts bei Straßenlimit bis 50 km/h fahren. In Fußgängerbereichen höchstens Schritttempo, ohne Fußgänger zu gefährden.", "en": "Use cycling facilities; if absent or unusable, use the right edge of urban carriageways limited to 50 km/h. In pedestrian areas ride no faster than walking pace without endangering pedestrians.", "fr": "Utilise les voies cyclables ; absentes ou impraticables, roule à droite de la chaussée en agglomération, avec limite routière jusqu’à 50 km/h. En zone piétonne, au pas sans mettre les piétons en danger.", "it": "Usa le ciclabili; se assenti o impraticabili, al margine destro della carreggiata nei centri abitati con limite fino a 50 km/h. Nelle aree pedonali al passo senza pericolo per i pedoni.", "es": "Usa vías ciclistas; si faltan o son impracticables, por el borde derecho de la calzada en poblado con límite de hasta 50 km/h. En zonas peatonales al paso sin peligro para peatones." }
+    }
+  ],
+  "fines": [
+    {
+      "offense": { "de": "Unzulässige Fahrfläche oder fehlendes Pflichtlicht", "en": "Wrong riding area or missing required lights", "fr": "Surface interdite ou feux obligatoires absents", "it": "Area vietata o luci obbligatorie mancanti", "es": "Superficie prohibida o falta de luces obligatorias" },
+      "amount": "40 €"
+    },
+    {
+      "offense": { "de": "Bauart schneller als 25 km/h oder breiter als 80 cm", "en": "Design speed above 25 km/h or width above 80 cm", "fr": "Construction dépassant 25 km/h ou largeur supérieure à 80 cm", "it": "Costruzione oltre 25 km/h o larghezza oltre 80 cm", "es": "Diseño superior a 25 km/h o anchura mayor de 80 cm" },
+      "amount": "250 €"
+    }
+  ],
+  "cities": [
+    {
+      "name": "Ljubljana",
+      "nameLocalized": { "de": "Ljubljana", "en": "Ljubljana", "fr": "Ljubljana", "it": "Lubiana", "es": "Liubliana" },
+      "notes": { "de": "In Fußgängerbereichen der Innenstadt höchstens Schritttempo fahren und Fußgängern Vorrang lassen. Bei Andrang absteigen und schieben.", "en": "In city-centre pedestrian areas ride no faster than walking pace and give pedestrians priority. Dismount and walk in crowds.", "fr": "Dans les espaces piétons du centre, roule au pas et laisse la priorité aux piétons. Descends et pousse en cas d’affluence.", "it": "Nelle aree pedonali del centro vai al passo e dai precedenza ai pedoni. Se affollato, scendi e spingi.", "es": "En zonas peatonales del centro circula al paso y da prioridad a peatones. Si hay mucha gente, bájate y empuja." }
+    }
+  ],
+  "upcomingChanges": [],
+  "sources": [
+    {
+      "title": "Policija: Safe with e-scooter (aktuelle Altersangabe 15)",
+      "url": "https://www.policija.si/eng/prevention/traffic-safety/safe-with-e-scooter",
+      "accessed": "2026-10-21"
+    },
+    {
+      "title": "Policija: Regeln vom 11.07.2025 (abweichende Altersangaben)",
+      "url": "https://www.policija.si/medijsko-sredisce/sporocila-za-javnost/sporocila-za-javnost-gpue/125355-naj-bo-voznja-z-e-skiroji-varna",
+      "accessed": "2026-10-21"
+    },
+    {
+      "title": "Ljubljana: Verkehrssicherheit September 2026",
+      "url": "https://www.ljubljana.si/sl/aktualno/novice/etm-2026-preventivna-akcija-ranljivi-udelezenci-v-prometu",
+      "accessed": "2026-10-21"
+    },
+    {
+      "title": "PISRS: ZVoz-1G, Uradni list 16/2026, Nr. 588, Art. 1–2 (Altersgrenze; PDF S. 24)",
+      "url": "https://pisrs.si/api/uradni-list/objava/u2026016.pdf",
+      "accessed": "2026-10-21"
+    },
+    {
+      "title": "AVP: E-skiroji (Kalenderjahr, Helm, Flächen und Ausrüstung)",
+      "url": "https://www.avp-rs.si/varnost-v-prometu/e-skiroji/",
+      "accessed": "2026-10-21"
+    },
+    {
+      "title": "PISRS: ZOZP, Art. 1a und 15 (Versicherung, konsolidiert)",
+      "url": "https://pisrs.si/api/datoteke/integracije/358096268",
+      "accessed": "2026-10-21"
+    },
+    {
+      "title": "eUprava: Gesetzesbegründung beschreibt E-Tretroller als führerscheinfrei",
+      "url": "https://e-uprava.gov.si/.download/edem/datoteka?disposition=attachment&file=522785",
+      "accessed": "2026-10-21"
+    },
+    {
+      "title": "PISRS: ZPrCP, Art. 97a Abs. 9–10 (Fahrflächen, Licht, Bauart-Bußgelder)",
+      "url": "https://pisrs.si/api/datoteke/integracije/481362968",
+      "accessed": "2026-10-21"
+    }
+  ]
+}

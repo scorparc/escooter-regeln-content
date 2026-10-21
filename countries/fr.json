@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "countryCode": "FR",
-  "countryName": { "de": "Frankreich", "en": "France" },
+  "countryName": { "de": "Frankreich", "en": "France", "fr": "France", "it": "Francia", "es": "Francia" },
   "flagEmoji": "🇫🇷",
   "lastUpdated": "2026-10-20",
   "verified": true,
@@ -10,98 +10,122 @@
   "overallStatus": "restricted",
   "summary": {
     "de": "E-Scooter (EDPM) sind in Frankreich erlaubt: max. 25 km/h, ab 14 Jahren, Haftpflichtversicherung ist Pflicht. In Paris sind Leih-Scooter seit 2023 abgeschafft – private Scooter bleiben erlaubt.",
-    "en": "E-scooters (EDPM) are legal in France: max. 25 km/h, from age 14, liability insurance is mandatory. Paris abolished rental scooters in 2023 – private scooters remain legal."
+    "en": "E-scooters (EDPM) are legal in France: max. 25 km/h, from age 14, liability insurance is mandatory. Paris abolished rental scooters in 2023 – private scooters remain legal.",
+    "fr": "Les trottinettes électriques (EDPM) sont autorisées en France : max. 25 km/h, dès 14 ans, assurance responsabilité civile obligatoire. Paris a supprimé les locations depuis 2023 ; les trottinettes privées restent autorisées.",
+    "it": "In Francia i monopattini elettrici (EDPM) sono consentiti: max. 25 km/h, dai 14 anni, assicurazione RC obbligatoria. Parigi ha eliminato i noleggi dal 2023; i monopattini privati restano consentiti.",
+    "es": "En Francia se permiten patinetes eléctricos (EDPM): máx. 25 km/h, desde los 14 años y seguro RC obligatorio. París eliminó los alquileres desde 2023; los privados siguen permitidos."
   },
   "categories": [
     {
       "id": "max_speed",
       "status": "restricted",
-      "value": { "de": "25 km/h", "en": "25 km/h" },
+      "value": { "de": "25 km/h", "en": "25 km/h", "fr": "25 km/h", "it": "25 km/h", "es": "25 km/h" },
       "details": {
         "de": "Maximal 25 km/h Bauartgeschwindigkeit. Fahren mit einem entdrosselten Scooter über 25 km/h kostet 1.500 € (Ordnungswidrigkeit der 5. Klasse).",
-        "en": "Maximum design speed 25 km/h. Riding a derestricted scooter capable of more than 25 km/h costs €1,500 (5th-class offence)."
+        "en": "Maximum design speed 25 km/h. Riding a derestricted scooter capable of more than 25 km/h costs €1,500 (5th-class offence).",
+        "fr": "Vitesse maximale par construction de 25 km/h. Rouler avec une trottinette débridée dépassant 25 km/h coûte 1.500 € (contravention de 5e classe).",
+        "it": "Velocità massima di costruzione di 25 km/h. Guidare un monopattino sbloccato oltre 25 km/h costa 1.500 € (illecito di 5a classe).",
+        "es": "Velocidad máxima de diseño de 25 km/h. Circular con un patinete deslimitado que supere 25 km/h cuesta 1.500 € (infracción de 5.ª clase)."
       }
     },
     {
       "id": "min_age",
       "status": "restricted",
-      "value": { "de": "ab 14 Jahren", "en": "14 years and older" },
+      "value": { "de": "ab 14 Jahren", "en": "14 years and older", "fr": "Dès 14 ans", "it": "Dai 14 anni", "es": "Desde los 14 años" },
       "details": {
         "de": "Mindestalter 14 Jahre (seit 1.9.2023 per Dekret Nr. 2023-848 von 12 auf 14 angehoben, Art. R412-43-3 Code de la route).",
-        "en": "Minimum age 14 (raised from 12 to 14 on 1 Sept 2023 by decree no. 2023-848, Art. R412-43-3 of the French traffic code)."
+        "en": "Minimum age 14 (raised from 12 to 14 on 1 Sept 2023 by decree no. 2023-848, Art. R412-43-3 of the French traffic code).",
+        "fr": "Âge minimal : 14 ans (depuis le 1.9.2023, décret n° 2023-848 : relèvement de 12 à 14 ans, art. R412-43-3 Code de la route).",
+        "it": "Età minima 14 anni (dal 1.9.2023 innalzata con decreto n. 2023-848 da 12 a 14, art. R412-43-3 Code de la route).",
+        "es": "Edad mínima de 14 años (desde el 1.9.2023, elevada por decreto n.º 2023-848 de 12 a 14, art. R412-43-3 Code de la route)."
       }
     },
     {
       "id": "helmet",
       "status": "restricted",
-      "value": { "de": "innerorts keine Pflicht", "en": "not required in towns" },
+      "value": { "de": "innerorts keine Pflicht", "en": "not required in towns", "fr": "Non obligatoire en agglomération", "it": "Non obbligatorio nei centri abitati", "es": "No obligatorio en poblado" },
       "details": {
         "de": "National keine allgemeine Helmpflicht (dringend empfohlen). Ausnahme: Außerorts dürfen Behörden Straßen bis 80 km/h freigeben – dort sind Helm, Warnweste/Reflektoren und Licht auch tagsüber Pflicht (Art. R412-43-1). Nachts und bei schlechter Sicht ist überall Warnweste oder reflektierende Ausrüstung vorgeschrieben. Manche Städte empfehlen ausdrücklich einen Helm (z. B. Nizza); eine kommunal verpflichtende Helmregel ließ sich nicht belegen. Ein Gesetzentwurf für eine landesweite Helmpflicht war Mitte 2026 noch nicht beschlossen.",
-        "en": "No general national helmet requirement (strongly recommended). Exception: outside built-up areas, authorities may open roads up to 80 km/h – there a helmet, hi-vis vest/reflectors and lights are mandatory even by day (Art. R412-43-1). At night or in poor visibility a hi-vis vest or retro-reflective equipment is required everywhere. Some cities (e.g. Nice) explicitly recommend a helmet; a municipal rule making it mandatory could not be verified. A bill for a nationwide helmet requirement had not been passed as of mid-2026."
+        "en": "No general national helmet requirement (strongly recommended). Exception: outside built-up areas, authorities may open roads up to 80 km/h – there a helmet, hi-vis vest/reflectors and lights are mandatory even by day (Art. R412-43-1). At night or in poor visibility a hi-vis vest or retro-reflective equipment is required everywhere. Some cities (e.g. Nice) explicitly recommend a helmet; a municipal rule making it mandatory could not be verified. A bill for a nationwide helmet requirement had not been passed as of mid-2026.",
+        "fr": "Pas d’obligation nationale générale de casque (vivement conseillé). Exception : hors agglomération, sur routes jusqu’à 80 km/h ouvertes par l’autorité, casque, gilet/réflecteurs et feux même de jour (art. R412-43-1). Partout, la nuit ou par faible visibilité : gilet ou équipement réfléchissant. Des villes comme Nice conseillent le casque ; aucune obligation municipale n’a pu être établie. Le projet national n’était pas adopté à la mi-2026.",
+        "it": "Nessun obbligo nazionale generale di casco (fortemente consigliato). Eccezione: fuori città su strade fino a 80 km/h autorizzate, casco, gilet/riflettenti e luci anche di giorno (art. R412-43-1). Ovunque di notte o con scarsa visibilità: gilet o dotazione riflettente. Città come Nizza consigliano il casco; non è stato accertato un obbligo comunale. La proposta nazionale non era approvata a metà 2026.",
+        "es": "Sin obligación nacional general de casco (muy recomendado). Excepción: fuera de poblado, en vías de hasta 80 km/h autorizadas, casco, chaleco/reflectantes y luces también de día (art. R412-43-1). De noche o con poca visibilidad, chaleco o equipo reflectante en todas partes. Ciudades como Niza recomiendan casco; no se pudo acreditar una obligación municipal. La propuesta nacional no estaba aprobada a mediados de 2026."
       }
     },
     {
       "id": "insurance",
       "status": "restricted",
-      "value": { "de": "Haftpflicht Pflicht", "en": "liability insurance required" },
+      "value": { "de": "Haftpflicht Pflicht", "en": "liability insurance required", "fr": "Responsabilité civile obligatoire", "it": "Responsabilità civile obbligatoria", "es": "Responsabilidad civil obligatoria" },
       "details": {
         "de": "Eine Kfz-Haftpflichtversicherung (responsabilité civile) ist gesetzlich vorgeschrieben – auch für Touristen mit eigenem Scooter. Deckung der eigenen Versicherung vorab klären.",
-        "en": "Motor liability insurance (responsabilité civile) is legally required – including for tourists with their own scooter. Check your coverage in advance."
+        "en": "Motor liability insurance (responsabilité civile) is legally required – including for tourists with their own scooter. Check your coverage in advance.",
+        "fr": "L’assurance responsabilité civile automobile est légalement obligatoire, aussi pour les touristes avec leur propre trottinette. Vérifie ta couverture avant le trajet.",
+        "it": "L’assicurazione RC auto è obbligatoria per legge anche per i turisti con il proprio monopattino. Verifica prima la copertura della tua polizza.",
+        "es": "El seguro de responsabilidad civil de vehículos es obligatorio por ley, también para turistas con su propio patinete. Comprueba antes tu cobertura."
       }
     },
     {
       "id": "license",
       "status": "allowed",
-      "value": { "de": "nicht nötig", "en": "not required" },
+      "value": { "de": "nicht nötig", "en": "not required", "fr": "Non nécessaire", "it": "Non necessaria", "es": "No necesario" },
       "details": {
         "de": "Kein Führerschein erforderlich.",
-        "en": "No driving licence required."
+        "en": "No driving licence required.",
+        "fr": "Aucun permis de conduire nécessaire.",
+        "it": "Non serve la patente.",
+        "es": "No se necesita permiso de conducir."
       }
     },
     {
       "id": "alcohol",
       "status": "restricted",
-      "value": { "de": "0,5 ‰", "en": "0.5 ‰" },
+      "value": { "de": "0,5 ‰", "en": "0.5 ‰", "fr": "0,5 ‰", "it": "0,5 ‰", "es": "0,5 ‰" },
       "details": {
         "de": "E-Scooter gelten als Kraftfahrzeuge, daher gelten die allgemeinen Alkoholgrenzen: 0,5 g/l Blut. Zwischen 0,5 und 0,8 g/l droht ein Bußgeld von 135 €, ab 0,8 g/l eine Straftat mit deutlich höheren Strafen. Für Inhaber eines Führerscheins auf Probe gilt die 0,2-g/l-Grenze.",
-        "en": "E-scooters count as motor vehicles, so the general alcohol limits apply: 0.5 g/l blood. Between 0.5 and 0.8 g/l the fine is €135; from 0.8 g/l it is a criminal offence with much heavier penalties. Holders of a probationary driving licence are subject to the 0.2 g/l limit."
+        "en": "E-scooters count as motor vehicles, so the general alcohol limits apply: 0.5 g/l blood. Between 0.5 and 0.8 g/l the fine is €135; from 0.8 g/l it is a criminal offence with much heavier penalties. Holders of a probationary driving licence are subject to the 0.2 g/l limit.",
+        "fr": "Les trottinettes sont des véhicules à moteur : limite générale de 0,5 g/l de sang. Entre 0,5 et 0,8 g/l, amende de 135 € ; dès 0,8 g/l, délit avec peines nettement plus lourdes. Pour les titulaires d’un permis probatoire, limite de 0,2 g/l.",
+        "it": "I monopattini sono veicoli a motore: limite generale di 0,5 g/l nel sangue. Tra 0,5 e 0,8 g/l multa di 135 €; da 0,8 g/l reato con pene molto più elevate. Per chi ha una patente in prova vale il limite di 0,2 g/l.",
+        "es": "Los patinetes son vehículos de motor: límite general de 0,5 g/l en sangre. Entre 0,5 y 0,8 g/l, multa de 135 €; desde 0,8 g/l, delito con penas mucho mayores. Para titulares de permiso en periodo de prueba: 0,2 g/l."
       }
     },
     {
       "id": "where_to_ride",
       "status": "restricted",
-      "value": { "de": "Radweg, Gehweg verboten", "en": "bike path, sidewalk banned" },
+      "value": { "de": "Radweg, Gehweg verboten", "en": "bike path, sidewalk banned", "fr": "Piste cyclable ; trottoir interdit", "it": "Ciclabile; marciapiede vietato", "es": "Carril bici; acera prohibida" },
       "details": {
         "de": "Innerorts müssen Radwege/Radstreifen benutzt werden; ohne Radweg sind Straßen bis 50 km/h erlaubt, außerdem Fußgängerzonen mit max. 6 km/h. Gehwegfahren ist verboten (135 €), außer die Kommune erlaubt es ausdrücklich – dann Schrittgeschwindigkeit. Außerorts sind nur Grünwege (voies vertes) und Radwege erlaubt; Straßen bis 80 km/h nur, wo Behörden sie freigeben (dann Helm- und Warnwestenpflicht). Nur eine Person, keine Kopfhörer (je 135 €).",
-        "en": "In built-up areas you must use bike paths/lanes; without one, roads up to 50 km/h are allowed, plus pedestrian zones at max. 6 km/h. Riding on sidewalks is banned (€135) unless the municipality explicitly allows it – then walking pace only. Outside built-up areas only greenways (voies vertes) and bike paths are permitted; roads up to 80 km/h only where authorities open them (helmet and hi-vis vest then mandatory). One person only, no headphones (€135 each)."
+        "en": "In built-up areas you must use bike paths/lanes; without one, roads up to 50 km/h are allowed, plus pedestrian zones at max. 6 km/h. Riding on sidewalks is banned (€135) unless the municipality explicitly allows it – then walking pace only. Outside built-up areas only greenways (voies vertes) and bike paths are permitted; roads up to 80 km/h only where authorities open them (helmet and hi-vis vest then mandatory). One person only, no headphones (€135 each).",
+        "fr": "En ville, pistes/bandes cyclables obligatoires ; à défaut, routes jusqu’à 50 km/h et zones piétonnes à max. 6 km/h. Trottoir interdit (135 €), sauf autorisation communale : au pas. Hors agglomération, voies vertes et pistes cyclables uniquement ; routes jusqu’à 80 km/h sur autorisation (casque et gilet obligatoires). Une personne, pas d’écouteurs (135 € chacun).",
+        "it": "In città usa piste/corsie ciclabili; se mancano, strade fino a 50 km/h e zone pedonali a max. 6 km/h. Marciapiede vietato (135 €), salvo autorizzazione comunale: a passo d’uomo. Fuori città solo voies vertes e ciclabili; strade fino a 80 km/h se autorizzate (casco e gilet obbligatori). Una persona, niente cuffie (135 € ciascuno).",
+        "es": "En poblado son obligatorios los carriles/pistas bici; sin ellos, vías de hasta 50 km/h y zonas peatonales a máx. 6 km/h. Acera prohibida (135 €), salvo autorización municipal: al paso. Fuera de poblado solo voies vertes y vías ciclistas; carreteras de hasta 80 km/h si se autorizan (casco y chaleco). Una persona, sin auriculares (135 € cada infracción)."
       }
     }
   ],
   "fines": [
     {
-      "offense": { "de": "Fahren auf dem Gehweg", "en": "Riding on the sidewalk" },
+      "offense": { "de": "Fahren auf dem Gehweg", "en": "Riding on the sidewalk", "fr": "Circuler sur le trottoir", "it": "Circolare sul marciapiede", "es": "Circular por la acera" },
       "amount": "135 €",
-      "notes": { "de": "Ordnungswidrigkeit 4. Klasse", "en": "4th-class offence" }
+      "notes": { "de": "Ordnungswidrigkeit 4. Klasse", "en": "4th-class offence", "fr": "Contravention de 4e classe", "it": "Illecito di 4a classe", "es": "Infracción de 4.ª clase" }
     },
     {
-      "offense": { "de": "Zu zweit fahren", "en": "Riding in pairs" },
+      "offense": { "de": "Zu zweit fahren", "en": "Riding in pairs", "fr": "Rouler à deux", "it": "Viaggiare in due", "es": "Circular dos personas" },
       "amount": "135 €",
-      "notes": { "de": "Ordnungswidrigkeit 4. Klasse (2023 von 35 € erhöht)", "en": "4th-class offence (raised from €35 in 2023)" }
+      "notes": { "de": "Ordnungswidrigkeit 4. Klasse (2023 von 35 € erhöht)", "en": "4th-class offence (raised from €35 in 2023)", "fr": "Contravention de 4e classe (relevée en 2023 de 35 €)", "it": "Illecito di 4a classe (aumentato nel 2023 da 35 €)", "es": "Infracción de 4.ª clase (elevada en 2023 desde 35 €)" }
     },
     {
-      "offense": { "de": "Kopfhörer beim Fahren", "en": "Wearing headphones while riding" },
+      "offense": { "de": "Kopfhörer beim Fahren", "en": "Wearing headphones while riding", "fr": "Porter des écouteurs en roulant", "it": "Indossare cuffie durante la guida", "es": "Llevar auriculares al circular" },
       "amount": "135 €",
-      "notes": { "de": "Ordnungswidrigkeit 4. Klasse", "en": "4th-class offence" }
+      "notes": { "de": "Ordnungswidrigkeit 4. Klasse", "en": "4th-class offence", "fr": "Contravention de 4e classe", "it": "Illecito di 4a classe", "es": "Infracción de 4.ª clase" }
     },
     {
-      "offense": { "de": "Scooter schneller als 25 km/h (entdrosselt)", "en": "Scooter faster than 25 km/h (derestricted)" },
+      "offense": { "de": "Scooter schneller als 25 km/h (entdrosselt)", "en": "Scooter faster than 25 km/h (derestricted)", "fr": "Trottinette dépassant 25 km/h (débridée)", "it": "Monopattino oltre 25 km/h (sbloccato)", "es": "Patinete superior a 25 km/h (deslimitado)" },
       "amount": "1.500 €",
-      "notes": { "de": "Ordnungswidrigkeit 5. Klasse", "en": "5th-class offence" }
+      "notes": { "de": "Ordnungswidrigkeit 5. Klasse", "en": "5th-class offence", "fr": "Contravention de 5e classe", "it": "Illecito di 5a classe", "es": "Infracción de 5.ª clase" }
     },
     {
-      "offense": { "de": "Fahren ohne Versicherung", "en": "Riding without insurance" },
+      "offense": { "de": "Fahren ohne Versicherung", "en": "Riding without insurance", "fr": "Rouler sans assurance", "it": "Guidare senza assicurazione", "es": "Circular sin seguro" },
       "amount": "bis 3.750 €",
-      "notes": { "de": "Straftatbestand (Art. L324-2 Code de la route)", "en": "Criminal offence (Art. L324-2 of the French traffic code)" }
+      "notes": { "de": "Straftatbestand (Art. L324-2 Code de la route)", "en": "Criminal offence (Art. L324-2 of the French traffic code)", "fr": "Délit (art. L324-2 Code de la route)", "it": "Reato (art. L324-2 Code de la route)", "es": "Delito (art. L324-2 Code de la route)" }
     }
   ],
   "cities": [
@@ -109,11 +133,17 @@
       "name": "Paris",
       "notes": {
         "de": "Sharing-Tretroller wurden zum 01.09.2023 abgeschafft; private Roller sind davon nicht pauschal betroffen. Seit August 2026 gelten in Paris und der Petite Couronne zusätzliche Helm- und Sichtbarkeitspflichten. Abstellen darf Fußgänger nicht behindern; aktuelle Beschilderung und lokale Vorgaben beachten.",
-        "en": "Shared kick scooters were removed from service on 1 September 2023; private scooters are not generally banned by that decision. Since August 2026, Paris and the Petite Couronne have additional helmet and visibility requirements. Parking must not obstruct pedestrians; follow current signs and local rules."
+        "en": "Shared kick scooters were removed from service on 1 September 2023; private scooters are not generally banned by that decision. Since August 2026, Paris and the Petite Couronne have additional helmet and visibility requirements. Parking must not obstruct pedestrians; follow current signs and local rules.",
+        "fr": "Locations supprimées au 01.09.2023, sans interdiction générale des trottinettes privées. Depuis août 2026, casque et visibilité renforcés à Paris et en Petite Couronne. Ne gêne pas les piétons en stationnant ; respecte panneaux et règles locales.",
+        "it": "Noleggi aboliti dal 01.09.2023, senza divieto generale per i privati. Da agosto 2026 obblighi aggiuntivi di casco e visibilità a Parigi e nella Petite Couronne. Non intralciare i pedoni parcheggiando; rispetta segnali e norme locali.",
+        "es": "El alquiler se eliminó el 01.09.2023, sin prohibición general de los privados. Desde agosto de 2026 hay más obligaciones de casco y visibilidad en París y Petite Couronne. No obstaculices a peatones al aparcar; respeta señales y normas locales."
       },
       "nameLocalized": {
         "de": "Paris",
-        "en": "Paris"
+        "en": "Paris",
+        "fr": "Paris",
+        "it": "Parigi",
+        "es": "París"
       },
       "categories": [
         {
@@ -121,11 +151,17 @@
           "status": "restricted",
           "value": {
             "de": "Pflicht in Paris/Petite Couronne",
-            "en": "Mandatory in Paris/Petite Couronne"
+            "en": "Mandatory in Paris/Petite Couronne",
+            "fr": "Obligatoire à Paris/Petite Couronne",
+            "it": "Obbligatorio a Parigi/Petite Couronne",
+            "es": "Obligatorio en París/Petite Couronne"
           },
           "details": {
             "de": "Zusätzliche lokale Pflicht aus dem Arrêté 2026-00969 vom 07.08.2026: Helm und retroreflektierende Ausrüstung auf öffentlichen Verkehrsflächen. Die Stadt Paris und Service-Public bestätigen die Regel; sie ist nicht mit der allgemeinen französischen Innerortsregel gleichzusetzen.",
-            "en": "Additional local requirement under Order 2026-00969 of 7 August 2026: helmet and retroreflective equipment on public roads. Paris city and Service-Public confirm it; do not confuse this with the general French urban rule."
+            "en": "Additional local requirement under Order 2026-00969 of 7 August 2026: helmet and retroreflective equipment on public roads. Paris city and Service-Public confirm it; do not confuse this with the general French urban rule.",
+            "fr": "Obligation locale supplémentaire de l’Arrêté 2026-00969 du 07.08.2026 : casque et équipement rétroréfléchissant sur les voies publiques. Paris et Service-Public confirment la règle ; elle ne correspond pas à la règle nationale générale en agglomération.",
+            "it": "Obbligo locale aggiuntivo dell’Arrêté 2026-00969 del 07.08.2026: casco ed equipaggiamento retroriflettente sulle aree di traffico pubblico. Parigi e Service-Public confermano la regola; non coincide con quella nazionale generale nei centri abitati.",
+            "es": "Obligación local adicional del Arrêté 2026-00969 de 07.08.2026: casco y equipo retrorreflectante en vías públicas. París y Service-Public confirman la norma; no equivale a la regla nacional general en poblado."
           }
         }
       ]

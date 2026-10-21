@@ -1,73 +1,73 @@
 {
   "schemaVersion": 1,
   "countryCode": "SE",
-  "countryName": { "de": "Schweden", "en": "Sweden" },
+  "countryName": { "de": "Schweden", "en": "Sweden", "fr": "Suède", "it": "Svezia", "es": "Suecia" },
   "flagEmoji": "🇸🇪",
   "lastUpdated": "2026-10-21",
   "verified": true,
   "verifiedBy": "Marc Neumann",
   "verifiedDate": "2026-10-21",
   "overallStatus": "restricted",
-  "summary": { "de": "Fahrradregeln nur bis 20 km/h und 250 W Dauerleistung. Helm unter 15, keine Passagiere und keine Gehwegfahrt. Für schwere Roller kann eine Versicherung nötig sein.", "en": "Cycling rules apply only up to 20 km/h and 250 W continuous power. Helmets under 15, no passengers and no pavement riding. Heavy scooters may need insurance." },
+  "summary": { "de": "Fahrradregeln nur bis 20 km/h und 250 W Dauerleistung. Helm unter 15, keine Passagiere und keine Gehwegfahrt. Für schwere Roller kann eine Versicherung nötig sein.", "en": "Cycling rules apply only up to 20 km/h and 250 W continuous power. Helmets under 15, no passengers and no pavement riding. Heavy scooters may need insurance.", "fr": "Règles cyclistes uniquement jusqu’à 20 km/h et 250 W continus. Casque avant 15 ans, aucun passager et pas de trottoir. Une assurance peut être nécessaire pour les trottinettes lourdes.", "it": "Regole ciclistiche solo fino a 20 km/h e 250 W continui. Casco sotto i 15 anni, niente passeggeri né marciapiedi. I monopattini pesanti possono richiedere un’assicurazione.", "es": "Normas ciclistas solo hasta 20 km/h y 250 W continuos. Casco antes de los 15 años, sin pasajeros ni aceras. Los patinetes pesados pueden necesitar seguro." },
   "categories": [
     {
       "id": "max_speed",
       "status": "restricted",
-      "value": { "de": "20 km/h; max. 250 W", "en": "20 km/h; max. 250 W" },
-      "details": { "de": "Nur bis 20 km/h und 250 W Dauerleistung gilt der Roller als Fahrrad. Schnellere oder stärkere Geräte sind nicht nach Fahrradregeln im öffentlichen Verkehr zulässig.", "en": "Only scooters up to 20 km/h and 250 W continuous power count as bicycles. Faster or more powerful devices cannot use public traffic under cycling rules." }
+      "value": { "de": "20 km/h; max. 250 W", "en": "20 km/h; max. 250 W", "fr": "20 km/h ; max. 250 W", "it": "20 km/h; max. 250 W", "es": "20 km/h; máx. 250 W" },
+      "details": { "de": "Nur bis 20 km/h und 250 W Dauerleistung gilt der Roller als Fahrrad. Schnellere oder stärkere Geräte sind nicht nach Fahrradregeln im öffentlichen Verkehr zulässig.", "en": "Only scooters up to 20 km/h and 250 W continuous power count as bicycles. Faster or more powerful devices cannot use public traffic under cycling rules.", "fr": "La trottinette n’est assimilée à un vélo que jusqu’à 20 km/h et 250 W continus. Les modèles plus rapides ou puissants ne peuvent pas circuler sur la voie publique selon les règles cyclistes.", "it": "Il monopattino è equiparato alla bicicletta solo fino a 20 km/h e 250 W continui. I mezzi più veloci o potenti non possono circolare nel traffico pubblico secondo le regole ciclistiche.", "es": "Solo se considera bicicleta hasta 20 km/h y 250 W continuos. Los modelos más rápidos o potentes no pueden circular en vías públicas conforme a las normas ciclistas." }
     },
     {
       "id": "min_age",
       "status": "unknown",
-      "value": { "de": "Keine feste Altersgrenze bekannt", "en": "No fixed minimum age confirmed" },
-      "details": { "de": "Eine allgemeine gesetzliche Altersgrenze konnten wir nicht sicher klären. Mietanbieter können ein Mindestalter verlangen; Bedingungen vor der Fahrt prüfen.", "en": "We could not reliably confirm a general statutory minimum age. Rental operators may set an age limit; check their terms before riding." }
+      "value": { "de": "Keine feste Altersgrenze bekannt", "en": "No fixed minimum age confirmed", "fr": "Pas d’âge minimal fixe confirmé", "it": "Nessuna età minima fissa nota", "es": "Sin edad mínima fija confirmada" },
+      "details": { "de": "Eine allgemeine gesetzliche Altersgrenze konnten wir nicht sicher klären. Mietanbieter können ein Mindestalter verlangen; Bedingungen vor der Fahrt prüfen.", "en": "We could not reliably confirm a general statutory minimum age. Rental operators may set an age limit; check their terms before riding.", "fr": "Nous n’avons pas pu établir avec certitude l’âge minimal légal général. Les loueurs peuvent imposer un âge minimal ; vérifie leurs conditions avant de rouler.", "it": "Non siamo riusciti a chiarire con certezza l’età minima legale generale. I noleggiatori possono fissare un’età minima; verifica le condizioni prima di partire.", "es": "No hemos podido aclarar con certeza la edad mínima legal general. Los operadores de alquiler pueden fijar una; comprueba sus condiciones antes de circular." }
     },
     {
       "id": "helmet",
       "status": "restricted",
-      "value": { "de": "Pflicht unter 15", "en": "Mandatory under 15" },
-      "details": { "de": "Unter 15 ist ein Helm vorgeschrieben. Für ältere Fahrer wird er empfohlen.", "en": "A helmet is required for riders under 15. It is recommended for older riders." }
+      "value": { "de": "Pflicht unter 15", "en": "Mandatory under 15", "fr": "Obligatoire avant 15 ans", "it": "Obbligatorio sotto i 15 anni", "es": "Obligatorio antes de los 15 años" },
+      "details": { "de": "Unter 15 ist ein Helm vorgeschrieben. Für ältere Fahrer wird er empfohlen.", "en": "A helmet is required for riders under 15. It is recommended for older riders.", "fr": "Le casque est obligatoire avant 15 ans. Il est recommandé pour les conducteurs plus âgés.", "it": "Il casco è obbligatorio sotto i 15 anni. Per i conducenti più grandi è consigliato.", "es": "El casco es obligatorio antes de los 15 años. Se recomienda para conductores mayores." }
     },
     {
       "id": "insurance",
       "status": "restricted",
-      "value": { "de": "Gewicht und Bauart prüfen", "en": "Check weight and design speed" },
-      "details": { "de": "Pflicht bei mehr als 20 km/h oder bei mehr als 25 kg und mehr als 14 km/h. Versicherungsnachweis mitführen; eine Police macht einen nicht straßenzulässigen Roller nicht legal.", "en": "Required above 20 km/h, or above 25 kg combined with more than 14 km/h. Carry proof; insurance does not make a non-compliant scooter road-legal." }
+      "value": { "de": "Gewicht und Bauart prüfen", "en": "Check weight and design speed", "fr": "Vérifie poids et construction", "it": "Verifica peso e costruzione", "es": "Comprueba peso y diseño" },
+      "details": { "de": "Pflicht bei mehr als 20 km/h oder bei mehr als 25 kg und mehr als 14 km/h. Versicherungsnachweis mitführen; eine Police macht einen nicht straßenzulässigen Roller nicht legal.", "en": "Required above 20 km/h, or above 25 kg combined with more than 14 km/h. Carry proof; insurance does not make a non-compliant scooter road-legal.", "fr": "Obligatoire au-delà de 20 km/h ou de 25 kg avec plus de 14 km/h. Emporte le justificatif ; une assurance ne rend pas légale une trottinette non autorisée sur route.", "it": "Obbligatoria oltre 20 km/h oppure oltre 25 kg e oltre 14 km/h. Porta la prova della copertura; una polizza non rende legale un monopattino non ammesso su strada.", "es": "Obligatorio si supera 20 km/h o si pesa más de 25 kg y supera 14 km/h. Lleva el justificante; una póliza no legaliza un patinete no autorizado en carretera." }
     },
     {
       "id": "license",
       "status": "allowed",
-      "value": { "de": "Nicht nötig", "en": "Not required" },
-      "details": { "de": "Für die beschriebene zulässige Rollerklasse ist kein Führerschein nötig.", "en": "No driving licence is needed for the compliant scooter class described." }
+      "value": { "de": "Nicht nötig", "en": "Not required", "fr": "Non nécessaire", "it": "Non necessaria", "es": "No necesario" },
+      "details": { "de": "Für die beschriebene zulässige Rollerklasse ist kein Führerschein nötig.", "en": "No driving licence is needed for the compliant scooter class described.", "fr": "Aucun permis n’est nécessaire pour la catégorie de trottinettes conformes décrite.", "it": "Non serve la patente per la categoria di monopattini conformi descritta.", "es": "No se necesita permiso para la categoría de patinetes conformes descrita." }
     },
     {
       "id": "alcohol",
       "status": "restricted",
-      "value": { "de": "Nicht beeinträchtigt fahren", "en": "Do not ride while impaired" },
-      "details": { "de": "Für E-Scooter der Fahrradklasse gibt es keine feste Promillegrenze; wer durch Alkohol beeinträchtigt ist, darf aber nicht fahren. Am sichersten nüchtern fahren.", "en": "There is no fixed alcohol limit for bicycle-class e-scooters, but you must not ride while impaired by alcohol. Riding sober is safest." }
+      "value": { "de": "Nicht beeinträchtigt fahren", "en": "Do not ride while impaired", "fr": "Ne roule pas avec facultés altérées", "it": "Non guidare con capacità alterate", "es": "No conduzcas con facultades alteradas" },
+      "details": { "de": "Für E-Scooter der Fahrradklasse gibt es keine feste Promillegrenze; wer durch Alkohol beeinträchtigt ist, darf aber nicht fahren. Am sichersten nüchtern fahren.", "en": "There is no fixed alcohol limit for bicycle-class e-scooters, but you must not ride while impaired by alcohol. Riding sober is safest.", "fr": "Les trottinettes assimilées aux vélos n’ont pas de limite fixe d’alcoolémie, mais tu ne dois pas rouler si l’alcool altère tes capacités. Le plus sûr est de rester sobre.", "it": "Per i monopattini equiparati alle biciclette non esiste un limite alcolemico fisso, ma non puoi guidare se l’alcol altera le tue capacità. È più sicuro guidare sobri.", "es": "Los patinetes de categoría bicicleta no tienen un límite fijo de alcoholemia, pero no puedes circular si el alcohol altera tus facultades. Lo más seguro es circular sobrio." }
     },
     {
       "id": "where_to_ride",
       "status": "restricted",
-      "value": { "de": "Radwege; keine Gehwege", "en": "Cycle paths; no pavements" },
-      "details": { "de": "Radwege bevorzugen, sonst zulässige Fahrbahn nach Fahrradregeln. Gehwege sind tabu. Auf Geh- und Radwegen nur an vorgesehenen Abstellplätzen parken; keine Passagiere.", "en": "Prefer cycle paths, otherwise use permitted carriageways under cycling rules. No pavements. On footpaths and cycle paths park only in designated facilities; no passengers." }
+      "value": { "de": "Radwege; keine Gehwege", "en": "Cycle paths; no pavements", "fr": "Pistes cyclables ; pas de trottoirs", "it": "Piste ciclabili; niente marciapiedi", "es": "Carriles bici; no aceras" },
+      "details": { "de": "Radwege bevorzugen, sonst zulässige Fahrbahn nach Fahrradregeln. Gehwege sind tabu. Auf Geh- und Radwegen nur an vorgesehenen Abstellplätzen parken; keine Passagiere.", "en": "Prefer cycle paths, otherwise use permitted carriageways under cycling rules. No pavements. On footpaths and cycle paths park only in designated facilities; no passengers.", "fr": "Privilégie les pistes cyclables, sinon les chaussées autorisées selon les règles cyclistes. Pas de trottoirs. Sur les voies piétonnes et cyclables, stationne uniquement aux emplacements prévus ; aucun passager.", "it": "Preferisci le piste ciclabili, altrimenti usa la carreggiata consentita secondo le regole ciclistiche. Niente marciapiedi. Su percorsi pedonali e ciclabili parcheggia solo negli spazi previsti; niente passeggeri.", "es": "Prioriza carriles bici; en su defecto, calzadas permitidas por las normas ciclistas. No uses aceras. En vías peatonales y ciclistas aparca solo en espacios previstos; sin pasajeros." }
     }
   ],
   "fines": [
     {
-      "offense": { "de": "Passagier mitnehmen", "en": "Carrying a passenger" },
+      "offense": { "de": "Passagier mitnehmen", "en": "Carrying a passenger", "fr": "Transporter un passager", "it": "Trasportare un passeggero", "es": "Llevar un pasajero" },
       "amount": "500 SEK"
     },
     {
-      "offense": { "de": "Rote Ampel missachten", "en": "Ignoring a red light" },
+      "offense": { "de": "Rote Ampel missachten", "en": "Ignoring a red light", "fr": "Ne pas respecter un feu rouge", "it": "Passare con il rosso", "es": "Saltarse un semáforo en rojo" },
       "amount": "1.500 SEK"
     }
   ],
   "cities": [
     {
       "name": "Stockholm",
-      "nameLocalized": { "de": "Stockholm", "en": "Stockholm" },
-      "notes": { "de": "Mietroller an Parkfeldern oder Fahrradständern abstellen. Rückgabe ist u. a. in Gamla stan weitgehend ausgeschlossen; Anbieterkarte beachten. An manchen Plätzen gilt automatisch Schrittgeschwindigkeit.", "en": "Park rentals in parking bays or cycle racks. Return is excluded in much of Gamla stan and other areas; check the provider map. Some locations automatically enforce walking speed." }
+      "nameLocalized": { "de": "Stockholm", "en": "Stockholm", "fr": "Stockholm", "it": "Stoccolma", "es": "Estocolmo" },
+      "notes": { "de": "Mietroller an Parkfeldern oder Fahrradständern abstellen. Rückgabe ist u. a. in Gamla stan weitgehend ausgeschlossen; Anbieterkarte beachten. An manchen Plätzen gilt automatisch Schrittgeschwindigkeit.", "en": "Park rentals in parking bays or cycle racks. Return is excluded in much of Gamla stan and other areas; check the provider map. Some locations automatically enforce walking speed.", "fr": "Stationne les locations dans les emplacements ou arceaux à vélos. La restitution est largement exclue notamment à Gamla stan ; consulte la carte du loueur. Certains lieux imposent automatiquement l’allure du pas.", "it": "Parcheggia i noleggi negli spazi o nelle rastrelliere. La riconsegna è in gran parte esclusa, tra l’altro a Gamla stan; consulta la mappa del gestore. In alcuni luoghi è imposta automaticamente la velocità del passo.", "es": "Aparca los de alquiler en plazas o aparcabicis. La devolución está ampliamente excluida, entre otros sitios, en Gamla stan; consulta el mapa. En algunos lugares se impone automáticamente el paso de peatón." }
     }
   ],
   "upcomingChanges": [],
