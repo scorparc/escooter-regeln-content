@@ -1,0 +1,167 @@
+{
+  "schemaVersion": 1,
+  "countryCode": "GR",
+  "countryName": {
+    "de": "Griechenland",
+    "en": "Greece"
+  },
+  "flagEmoji": "🇬🇷",
+  "lastUpdated": "2026-10-21",
+  "verified": true,
+  "verifiedBy": "Marc Neumann",
+  "verifiedDate": "2026-10-21",
+  "overallStatus": "restricted",
+  "summary": {
+    "de": "Seit Juli 2026 gilt für gewöhnliche E-Tretroller (EPHO): Mindestalter 17, Helm- und Versicherungspflicht, Ausweis und Versicherungsnachweis mitführen. Radwege nutzen, nicht auf Gehwegen fahren.",
+    "en": "Since July 2026, ordinary e-scooters (EPHO) require riders to be 17 or older, a helmet and insurance; carry ID and proof of insurance. Use cycle lanes and keep off pavements."
+  },
+  "categories": [
+    {
+      "id": "max_speed",
+      "status": "restricted",
+      "value": {
+        "de": "EPHO bis 25 km/h",
+        "en": "EPHO up to 25 km/h"
+      },
+      "details": {
+        "de": "Die hier behandelte EPHO-Klasse umfasst übliche elektrische Tretroller bis 25 km/h. Schnellere Geräte fallen nicht unter diese Orientierung; aktuelle Polizeikontrollen erfassen fehlende Geschwindigkeitsbegrenzer. Lokale und streckenbezogene Beschränkungen beachten.",
+        "en": "This guidance concerns ordinary EPHO e-scooters up to 25 km/h. Faster devices are outside its scope; current police checks target missing speed limiters. Observe local and route-specific restrictions."
+      }
+    },
+    {
+      "id": "min_age",
+      "status": "restricted",
+      "value": {
+        "de": "Ab 17 Jahren",
+        "en": "17 years and older"
+      },
+      "details": {
+        "de": "Seit der Gesetzesänderung vom Juli 2026 (Gesetz 5322/2026) gilt für gewöhnliche E-Tretroller ein Mindestalter von 17 Jahren. Verkauf und Vermietung an Jüngere sind verboten; die Polizei kontrolliert das.",
+        "en": "Since the July 2026 amendment (Law 5322/2026), ordinary e-scooters have a minimum age of 17. Selling or renting to younger people is prohibited; police enforce this."
+      }
+    },
+    {
+      "id": "helmet",
+      "status": "restricted",
+      "value": {
+        "de": "Pflicht",
+        "en": "Mandatory"
+      },
+      "details": {
+        "de": "Ein zugelassener, korrekt geschlossener Helm ist für gewöhnliche EPHO Pflicht. Aktuelle Polizeimitteilungen bestätigen die Durchsetzung. Sonderregeln für Behinderten-Mobilitätshilfen sind nicht auf normale Privat- oder Mietroller übertragbar.",
+        "en": "An approved, properly fastened helmet is mandatory for ordinary EPHO. Current police notices confirm enforcement. Exemptions for disability mobility aids do not transfer to ordinary private or rental scooters."
+      }
+    },
+    {
+      "id": "insurance",
+      "status": "restricted",
+      "value": {
+        "de": "Pflicht; Nachweis mitführen",
+        "en": "Mandatory; carry proof"
+      },
+      "details": {
+        "de": "Halter müssen eine Haftpflichtversicherung haben (mind. 50.000 € je Schadensfall); beim Fahren Ausweis und Versicherungsnachweis mitführen. Bei Leihrollern gilt die Flottenpolice des Anbieters, der Nachweis kann in der App erfolgen. Ob eine ausländische Police für einen mitgebrachten Privatroller anerkannt wird, vorab beim Versicherer klären.",
+        "en": "Owners must hold liability insurance (at least €50,000 per incident); carry ID and proof of insurance when riding. Rental scooters are covered by the provider's fleet policy, with proof shown in the app. Check with your insurer in advance whether a foreign policy covers a private scooter you bring."
+      }
+    },
+    {
+      "id": "license",
+      "status": "allowed",
+      "value": {
+        "de": "EPHO: Ausweis statt Führerschein",
+        "en": "EPHO: carry ID, no driving licence"
+      },
+      "details": {
+        "de": "Für gewöhnliche EPHO nennt die spezielle Dokumentenregel Ausweis und Versicherungsnachweis, nicht einen Pkw-/Motorradführerschein. Schnellere oder anders eingestufte Fahrzeuge sind nicht erfasst. Die Registrierung ist eine separate, vor Nutzung zu prüfende Frage.",
+        "en": "The specific document rule for ordinary EPHO calls for ID and insurance proof rather than a car/motorcycle licence. Faster or differently classified vehicles are outside this statement. Registration is a separate matter to check before riding."
+      }
+    },
+    {
+      "id": "alcohol",
+      "status": "restricted",
+      "value": { "de": "Unter 0,5 ‰", "en": "Below 0.5 ‰" },
+      "details": { "de": "Für Straßenfahrzeuge gilt ab 0,5 g/l Blut oder 0,25 mg/l Atemluft das Alkoholverbot (KOK Art. 46). Auch EPHO fallen darunter. Bei Beeinträchtigung nicht fahren; am sichersten alkoholfrei.", "en": "For road vehicles, the alcohol prohibition applies from 0.5 g/l blood or 0.25 mg/l breath (KOK Article 46). EPHO are included. Do not ride when impaired; riding sober is safest." }
+    },
+    {
+      "id": "where_to_ride",
+      "status": "restricted",
+      "value": {
+        "de": "Radwege; kein Gehweg",
+        "en": "Cycle lanes; no pavements"
+      },
+      "details": {
+        "de": "Vorhandene Rad- bzw. Mopedspuren müssen genutzt werden (Gesetz 5322/2026). Gehwege sind tabu. Verbotsschilder und örtliche Abstellflächen für Leihroller beachten.",
+        "en": "Available cycle or moped lanes must be used (Law 5322/2026). Pavements are off-limits. Observe prohibition signs and local parking areas for rental scooters."
+      }
+    }
+  ],
+  "fines": [
+    {
+      "offense": {
+        "de": "Gewöhnliches EPHO ohne vorgeschriebene Versicherung",
+        "en": "Ordinary EPHO without required insurance"
+      },
+      "amount": "250 €",
+      "notes": {
+        "de": "Gesetz 5322/2026; Versicherungspflicht trifft Halter bzw. Besitzer.",
+        "en": "Law 5322/2026; the insurance duty lies with the owner or keeper."
+      }
+    }
+  ],
+  "cities": [
+    {
+      "name": "Athens",
+      "nameLocalized": {
+        "de": "Athen",
+        "en": "Athens"
+      },
+      "notes": {
+        "de": "Seit August 2026 gibt es ausgewiesene Abstellplätze für Leihroller genehmigter Anbieter; 10 % sind für private Roller reserviert. Gehwege freihalten und Beschilderung beachten.",
+        "en": "Since August 2026 there are designated parking spaces for licensed rental scooters; 10% are reserved for private scooters. Keep pavements clear and follow the signs."
+      }
+    }
+  ],
+  "upcomingChanges": [],
+  "sources": [
+    {
+      "title": "Griechisches Parlament: EPHO-Klasse bis 25 km/h und Ausrüstung, 09.05.2026 (Altersangaben vor Juli-Reform, nicht mehr aktuell)",
+      "url": "https://www.hellenicparliament.gr/UserFiles/c0d5184d-7550-4265-8e0b-078e1bc7375a/13290795.pdf",
+      "accessed": "2026-10-20"
+    },
+    {
+      "title": "Griechische Polizei: Kontrollen von Helm, Geschwindigkeit, Mindestalter 17 und Versicherung, 01.09.2026",
+      "url": "https://www.astynomia.gr/2026/09/01/01-09-2026-101-paravaseis-odigon-elafrion-prosopikon-ilektrikon-ochimaton-e-p-i-o-ilektrika-patinia-vevaiothikan-sto-plaisio-eidikis-exormisis-tis-diefthynsis-trochaias-attikis-g-a/",
+      "accessed": "2026-10-20"
+    },
+    {
+      "title": "Griechische Polizei: EPHO-Kontrollen auf Helm und Alkohol, 04.05.2026",
+      "url": "https://www.astynomia.gr/2026/05/04/04-05-2026-135-paravaseis-odigon-elafrion-prosopikon-ilektrikon-ochimaton-e-p-i-o-gia-mi-chrisi-prostateftikou-kranous-kai-odigisi-ypo-tin-epireia-alkool-vevaiothikan-sto-plaisio-eidikis-exormis/",
+      "accessed": "2026-10-20"
+    },
+    {
+      "title": "Gesetz 5322/2026 Art. 76: Mindestalter und Fahrspuren (Gesetzeswiedergabe bei Taxheaven)",
+      "url": "https://www.taxheaven.gr/law/5322/2026/arthro/76",
+      "accessed": "2026-10-20"
+    },
+    {
+      "title": "Gesetz 5322/2026 Art. 77: mitzuführende Dokumente (Gesetzeswiedergabe bei Taxheaven)",
+      "url": "https://www.taxheaven.gr/law/5322/2026/arthro/77",
+      "accessed": "2026-10-20"
+    },
+    {
+      "title": "Gesetz 5322/2026 Art. 78: Versicherung (Gesetzeswiedergabe bei Taxheaven)",
+      "url": "https://www.taxheaven.gr/law/5322/2026/arthro/78",
+      "accessed": "2026-10-20"
+    },
+    {
+      "title": "Stadt Athen: genehmigte EPHO-Abstellplätze und Privatanteil, 06.08.2026",
+      "url": "https://www.cityofathens.gr/anakoinosi/oloklirothike-o-elegchos-ton-aitiseon-gia-tis-etaireies-ekmisthosis-e-p-i-o-egkrithikan-1-574-theseis-stathmefsis/",
+      "accessed": "2026-10-20"
+    },
+    {
+      "title": "AADE: Amtsblatt Gesetz 5209/2025, KOK Art. 46 Abs. 1",
+      "url": "https://aade.gr/sites/default/files/2025-06/N_5209_2025.pdf",
+      "accessed": "2026-10-21"
+    }
+  ]
+}

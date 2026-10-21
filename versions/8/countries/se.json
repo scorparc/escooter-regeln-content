@@ -1,0 +1,96 @@
+{
+  "schemaVersion": 1,
+  "countryCode": "SE",
+  "countryName": { "de": "Schweden", "en": "Sweden" },
+  "flagEmoji": "🇸🇪",
+  "lastUpdated": "2026-10-21",
+  "verified": true,
+  "verifiedBy": "Marc Neumann",
+  "verifiedDate": "2026-10-21",
+  "overallStatus": "restricted",
+  "summary": { "de": "Fahrradregeln nur bis 20 km/h und 250 W Dauerleistung. Helm unter 15, keine Passagiere und keine Gehwegfahrt. Für schwere Roller kann eine Versicherung nötig sein.", "en": "Cycling rules apply only up to 20 km/h and 250 W continuous power. Helmets under 15, no passengers and no pavement riding. Heavy scooters may need insurance." },
+  "categories": [
+    {
+      "id": "max_speed",
+      "status": "restricted",
+      "value": { "de": "20 km/h; max. 250 W", "en": "20 km/h; max. 250 W" },
+      "details": { "de": "Nur bis 20 km/h und 250 W Dauerleistung gilt der Roller als Fahrrad. Schnellere oder stärkere Geräte sind nicht nach Fahrradregeln im öffentlichen Verkehr zulässig.", "en": "Only scooters up to 20 km/h and 250 W continuous power count as bicycles. Faster or more powerful devices cannot use public traffic under cycling rules." }
+    },
+    {
+      "id": "min_age",
+      "status": "unknown",
+      "value": { "de": "Keine feste Altersgrenze bekannt", "en": "No fixed minimum age confirmed" },
+      "details": { "de": "Eine allgemeine gesetzliche Altersgrenze konnten wir nicht sicher klären. Mietanbieter können ein Mindestalter verlangen; Bedingungen vor der Fahrt prüfen.", "en": "We could not reliably confirm a general statutory minimum age. Rental operators may set an age limit; check their terms before riding." }
+    },
+    {
+      "id": "helmet",
+      "status": "restricted",
+      "value": { "de": "Pflicht unter 15", "en": "Mandatory under 15" },
+      "details": { "de": "Unter 15 ist ein Helm vorgeschrieben. Für ältere Fahrer wird er empfohlen.", "en": "A helmet is required for riders under 15. It is recommended for older riders." }
+    },
+    {
+      "id": "insurance",
+      "status": "restricted",
+      "value": { "de": "Gewicht und Bauart prüfen", "en": "Check weight and design speed" },
+      "details": { "de": "Pflicht bei mehr als 20 km/h oder bei mehr als 25 kg und mehr als 14 km/h. Versicherungsnachweis mitführen; eine Police macht einen nicht straßenzulässigen Roller nicht legal.", "en": "Required above 20 km/h, or above 25 kg combined with more than 14 km/h. Carry proof; insurance does not make a non-compliant scooter road-legal." }
+    },
+    {
+      "id": "license",
+      "status": "allowed",
+      "value": { "de": "Nicht nötig", "en": "Not required" },
+      "details": { "de": "Für die beschriebene zulässige Rollerklasse ist kein Führerschein nötig.", "en": "No driving licence is needed for the compliant scooter class described." }
+    },
+    {
+      "id": "alcohol",
+      "status": "restricted",
+      "value": { "de": "Nicht beeinträchtigt fahren", "en": "Do not ride while impaired" },
+      "details": { "de": "Für E-Scooter der Fahrradklasse gibt es keine feste Promillegrenze; wer durch Alkohol beeinträchtigt ist, darf aber nicht fahren. Am sichersten nüchtern fahren.", "en": "There is no fixed alcohol limit for bicycle-class e-scooters, but you must not ride while impaired by alcohol. Riding sober is safest." }
+    },
+    {
+      "id": "where_to_ride",
+      "status": "restricted",
+      "value": { "de": "Radwege; keine Gehwege", "en": "Cycle paths; no pavements" },
+      "details": { "de": "Radwege bevorzugen, sonst zulässige Fahrbahn nach Fahrradregeln. Gehwege sind tabu. Auf Geh- und Radwegen nur an vorgesehenen Abstellplätzen parken; keine Passagiere.", "en": "Prefer cycle paths, otherwise use permitted carriageways under cycling rules. No pavements. On footpaths and cycle paths park only in designated facilities; no passengers." }
+    }
+  ],
+  "fines": [
+    {
+      "offense": { "de": "Passagier mitnehmen", "en": "Carrying a passenger" },
+      "amount": "500 SEK"
+    },
+    {
+      "offense": { "de": "Rote Ampel missachten", "en": "Ignoring a red light" },
+      "amount": "1.500 SEK"
+    }
+  ],
+  "cities": [
+    {
+      "name": "Stockholm",
+      "nameLocalized": { "de": "Stockholm", "en": "Stockholm" },
+      "notes": { "de": "Mietroller an Parkfeldern oder Fahrradständern abstellen. Rückgabe ist u. a. in Gamla stan weitgehend ausgeschlossen; Anbieterkarte beachten. An manchen Plätzen gilt automatisch Schrittgeschwindigkeit.", "en": "Park rentals in parking bays or cycle racks. Return is excluded in much of Gamla stan and other areas; check the provider map. Some locations automatically enforce walking speed." }
+    }
+  ],
+  "upcomingChanges": [],
+  "sources": [
+    {
+      "title": "Transportstyrelsen: Elsparkcykel",
+      "url": "https://www.transportstyrelsen.se/elsparkcykel",
+      "accessed": "2026-10-21"
+    },
+    {
+      "title": "TFF: Versicherungspflicht und Nachweis",
+      "url": "https://www.tff.se/sv/krav/forsakring-for-elsparkcyklar---vad-galler/",
+      "accessed": "2026-10-21"
+    },
+    {
+      "title": "Polismyndigheten: Fordon, Bußgelder",
+      "url": "https://polisen.se/Lagar-och-regler/Trafik-och-fordon/Fordon/",
+      "accessed": "2026-10-21"
+    },
+    {
+      "title": "Stockholms stad: Elsparkcyklar",
+      "url": "https://trafik.stockholm/trafikregler/elsparkcyklar/",
+      "accessed": "2026-10-21"
+    }
+  ]
+}

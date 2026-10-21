@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "countryCode": "GB",
+  "countryName": { "de": "Großbritannien", "en": "Great Britain" },
+  "flagEmoji": "🇬🇧",
+  "lastUpdated": "2026-10-21",
+  "verified": true,
+  "verifiedBy": "Marc Neumann",
+  "verifiedDate": "2026-10-21",
+  "overallStatus": "forbidden",
+  "summary": { "de": "Privatroller sind auf öffentlichen Straßen, Gehwegen und in Parks verboten. Nur genehmigte Mietroller-Trials in England erlauben eine begrenzte Nutzung mit gültigem Führerschein. Die Trials laufen derzeit bis Mai 2028.", "en": "Private scooters are prohibited on public roads, pavements and in parks. Only authorised rental trials in England allow limited use with a valid driving licence. The trials currently run until May 2028." },
+  "categories": [
+    {
+      "id": "max_speed",
+      "status": "restricted",
+      "value": { "de": "Trials: bis 15,5 mph (25 km/h)", "en": "Trials: up to 15.5 mph (25 km/h)" },
+      "details": { "de": "Nur zugelassene Trial-Mietroller: höchstens 15,5 mph, örtlich weniger. Das ist keine Freigabe für Privatroller.", "en": "Authorised trial rentals only: at most 15.5 mph, lower locally. This does not authorise private scooters." }
+    },
+    {
+      "id": "min_age",
+      "status": "restricted",
+      "value": { "de": "Trials: Alter und Lizenz prüfen", "en": "Trials: check age and licence" },
+      "details": { "de": "Trial-Mietroller setzen eine gültige Fahrerlaubnis voraus. Das Mindestalter zusätzlich beim Betreiber prüfen; in London mindestens 18.", "en": "Trial rentals require a valid driving licence. Also check the operator's minimum age; at least 18 in London." }
+    },
+    {
+      "id": "helmet",
+      "status": "allowed",
+      "value": { "de": "Trials: empfohlen", "en": "Trials: recommended" },
+      "details": { "de": "Für genehmigte Trial-Mietroller ist ein Fahrradhelm empfohlen, aber nicht gesetzlich vorgeschrieben. Betreiberbedingungen beachten.", "en": "Cycle helmets are recommended but not legally required for authorised trial rentals. Check operator terms." }
+    },
+    {
+      "id": "insurance",
+      "status": "restricted",
+      "value": { "de": "Trials: über den Vermieter", "en": "Trials: provided by operator" },
+      "details": { "de": "Der Betreiber eines genehmigten Trials stellt Kfz-Haftpflichtversicherung. Eine eigene Police erlaubt keine öffentliche Nutzung eines Privatrollers.", "en": "An authorised trial operator provides third-party motor insurance. A private policy does not permit public use of a private scooter." }
+    },
+    {
+      "id": "license",
+      "status": "restricted",
+      "value": { "de": "Trials: gültiger Führerschein", "en": "Trials: valid driving licence" },
+      "details": { "de": "UK-Lizenz mindestens provisional mit Q-Berechtigung; AM, A oder B umfasst Q. Geeignete volle EU-/EWR-Lizenzen werden anerkannt. Ausländische Lernführerscheine reichen nicht; andere Auslandslizenzen unterliegen weiteren Bedingungen.", "en": "A UK licence must be at least provisional with category Q; AM, A or B includes Q. Suitable full EU/EEA licences are accepted. Foreign learner permits are not sufficient; other foreign licences have further conditions." }
+    },
+    {
+      "id": "alcohol",
+      "status": "restricted",
+      "value": { "de": "Trials: nicht unter Einfluss", "en": "Trials: no intoxicated riding" },
+      "details": { "de": "Für Trial-Mietroller gelten Alkohol- und Drogendelikte. Alkoholfrei fahren; die Mietroller-Nutzung ist keine Ausnahme vom Verkehrsrecht.", "en": "Drink- and drug-driving offences apply to trial rentals. Ride sober; rental scooters are not exempt from traffic law." }
+    },
+    {
+      "id": "where_to_ride",
+      "status": "forbidden",
+      "value": { "de": "Privat verboten; Trials begrenzt", "en": "Private banned; limited trials" },
+      "details": { "de": "Privatroller nicht auf öffentlichen Straßen, Gehwegen oder in Parks fahren. Nur genehmigte Trial-Mietroller dürfen im Trialgebiet auf freigegebenen Straßen und Radwegen fahren. Keine Gehwege oder Autobahnen.", "en": "Do not ride private scooters on public roads, pavements or in parks. Only authorised trial rentals may use permitted roads and cycle routes within trial areas. No pavements or motorways." }
+    }
+  ],
+  "fines": [],
+  "cities": [
+    {
+      "name": "London",
+      "nameLocalized": { "de": "London", "en": "London" },
+      "notes": { "de": "Nur genehmigte Trial-Mietroller in teilnehmenden Gebieten: ab 18 mit gültiger Fahrerlaubnis, höchstens 12,5 mph (20 km/h). Privatroller bleiben im öffentlichen Raum verboten; Rückgabezonen beachten.", "en": "Only authorised trial rentals in participating areas: age 18+ with a valid licence, at most 12.5 mph (20 km/h). Private scooters remain prohibited in public; observe return zones." }
+    }
+  ],
+  "upcomingChanges": [],
+  "sources": [
+    {
+      "title": "GOV.UK: Privatroller im öffentlichen Raum",
+      "url": "https://www.gov.uk/electric-scooter-rules",
+      "accessed": "2026-10-21"
+    },
+    {
+      "title": "DfT: Regeln für Trial-Nutzer",
+      "url": "https://www.gov.uk/guidance/e-scooter-trials-guidance-for-users",
+      "accessed": "2026-10-21"
+    },
+    {
+      "title": "DfT: Verlängerung der Trials bis Mai 2028",
+      "url": "https://www.gov.uk/government/publications/rental-e-scooter-trials/rental-e-scooter-trials",
+      "accessed": "2026-10-21"
+    },
+    {
+      "title": "TfL: London Trial, Sicherheitsanforderungen",
+      "url": "https://tfl.gov.uk/cdn/static/cms/documents/london-e-scooter-trial-safety-mitigations.pdf",
+      "accessed": "2026-10-21"
+    }
+  ]
+}

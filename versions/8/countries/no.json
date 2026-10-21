@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "countryCode": "NO",
+  "countryName": { "de": "Norwegen", "en": "Norway" },
+  "flagEmoji": "🇳🇴",
+  "lastUpdated": "2026-10-21",
+  "verified": true,
+  "verifiedBy": "Marc Neumann",
+  "verifiedDate": "2026-10-21",
+  "overallStatus": "restricted",
+  "summary": { "de": "Ab 12, höchstens 20 km/h und Haftpflichtversicherung auch für Privatroller. Helm unter 15 und Alkoholgrenze 0,2 ‰. Auf Gehwegen nur ohne Gefahr oder Behinderung für Fußgänger.", "en": "Age 12+, at most 20 km/h and liability insurance even for private scooters. Helmets under 15 and a 0.2 ‰ alcohol limit. Pavements only without endangering or obstructing pedestrians." },
+  "categories": [
+    {
+      "id": "max_speed",
+      "status": "restricted",
+      "value": { "de": "20 km/h", "en": "20 km/h" },
+      "details": { "de": "Der Roller muss bauartbedingt auf 20 km/h begrenzt sein. Technische Anforderungen der Klasse kleine elektrische Kraftfahrzeuge beachten.", "en": "The scooter must be limited by design to 20 km/h. Observe the technical requirements for small electric motor vehicles." }
+    },
+    {
+      "id": "min_age",
+      "status": "restricted",
+      "value": { "de": "Ab 12 Jahren", "en": "12 years and older" },
+      "details": { "de": "Gesetzliches Mindestalter 12 Jahre. Vermieter können höhere Altersgrenzen verlangen.", "en": "The statutory minimum age is 12. Rental operators may require a higher age." }
+    },
+    {
+      "id": "helmet",
+      "status": "restricted",
+      "value": { "de": "Pflicht unter 15", "en": "Mandatory under 15" },
+      "details": { "de": "Kinder unter 15 müssen einen Helm tragen. Für alle anderen wird er empfohlen.", "en": "Children under 15 must wear a helmet. It is recommended for everyone else." }
+    },
+    {
+      "id": "insurance",
+      "status": "restricted",
+      "value": { "de": "Haftpflicht ist Pflicht", "en": "Liability insurance required" },
+      "details": { "de": "Privat- und Mietroller brauchen Haftpflichtversicherung. Bei ausländischen Policen die Gültigkeit für Norwegen bestätigen lassen.", "en": "Both private and rental scooters need liability insurance. Confirm that foreign policies cover use in Norway." }
+    },
+    {
+      "id": "license",
+      "status": "allowed",
+      "value": { "de": "Nicht nötig", "en": "Not required" },
+      "details": { "de": "Für die beschriebene zulässige Rollerklasse ist kein Führerschein nötig.", "en": "No driving licence is needed for the compliant scooter class described." }
+    },
+    {
+      "id": "alcohol",
+      "status": "restricted",
+      "value": { "de": "Höchstens 0,2 ‰", "en": "At most 0.2 ‰" },
+      "details": { "de": "Es gilt die allgemeine Alkoholgrenze von 0,2 ‰. Auch andere berauschende Mittel oder Fahruntüchtigkeit schließen eine Fahrt aus.", "en": "The general alcohol limit of 0.2 ‰ applies. Other intoxicants or inability to ride safely also rule out riding." }
+    },
+    {
+      "id": "where_to_ride",
+      "status": "restricted",
+      "value": { "de": "Radweg, Straße; Gehweg bedingt", "en": "Cycle path, road; pavement limits" },
+      "details": { "de": "Radwege und zulässige Straßen nutzen. Auf Gehwegen nur ohne Gefahr oder Behinderung; bei dichtem Fußverkehr absteigen. Nicht auf Autobahnen oder bei Radverkehrsverbot; keine Passagiere.", "en": "Use cycle paths and permitted roads. On pavements do not endanger or obstruct pedestrians; dismount in crowds. No motorways or roads banning cycles; no passengers." }
+    }
+  ],
+  "fines": [
+    {
+      "offense": { "de": "Behinderndes oder verbotenes Parken", "en": "Obstructive or prohibited parking" },
+      "amount": "900 NOK"
+    }
+  ],
+  "cities": [
+    {
+      "name": "Oslo",
+      "nameLocalized": { "de": "Oslo", "en": "Oslo" },
+      "notes": { "de": "Sharing ist zwischen 23 und 5 Uhr geschlossen. Für Mietroller gelten digitale Fahr-, Park- und Langsamfahrzonen; Karte prüfen. Das ist kein nächtliches Fahrverbot für Privatroller.", "en": "Sharing closes between 23:00 and 05:00. Rentals have digital no-riding, no-parking and slow zones; check the map. This is not a night-time riding ban for private scooters." }
+    }
+  ],
+  "upcomingChanges": [],
+  "sources": [
+    {
+      "title": "Statens vegvesen: Verkehrsregeln",
+      "url": "https://www.vegvesen.no/trafikkinformasjon/trafikksikkerhet/sikker-pa-elsparkesykkel/trafikkregler/",
+      "accessed": "2026-10-21"
+    },
+    {
+      "title": "Politiet: Jugend und E-Tretroller",
+      "url": "https://www.politiet.no/globalassets/nyheter/nordland/elsparkesykkel_brosjyre_v2.pdf",
+      "accessed": "2026-10-21"
+    },
+    {
+      "title": "Oslo kommune: Leie av elsparkesykler",
+      "url": "https://www.oslo.kommune.no/gate-transport-og-parkering/sykkel/leie-av-elsparkesykler-og-elsykler/",
+      "accessed": "2026-10-21"
+    }
+  ]
+}
