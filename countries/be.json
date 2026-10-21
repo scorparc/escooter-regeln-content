@@ -1,0 +1,182 @@
+{
+  "schemaVersion": 1,
+  "countryCode": "BE",
+  "countryName": {
+    "de": "Belgien",
+    "en": "Belgium"
+  },
+  "flagEmoji": "🇧🇪",
+  "lastUpdated": "2026-10-21",
+  "verified": true,
+  "verifiedBy": "Marc Neumann",
+  "verifiedDate": "2026-10-21",
+  "overallStatus": "restricted",
+  "summary": {
+    "de": "Zulässige E-Tretroller fahren höchstens 25 km/h, grundsätzlich ab 16 Jahren nach Fahrradregeln und nicht auf Gehwegen. Seit 01.09.2026 ist bei bauartbedingt mehr als 20 km/h ein Helm Pflicht – auch wenn langsamer gefahren wird.",
+    "en": "Compliant e-scooters are limited to 25 km/h, generally for riders aged 16 or over, following bicycle rules and keeping off pavements. Since 1 September 2026, a helmet is mandatory for design speeds above 20 km/h, even when riding more slowly."
+  },
+  "categories": [
+    {
+      "id": "max_speed",
+      "status": "restricted",
+      "value": {
+        "de": "Max. 25 km/h",
+        "en": "Max. 25 km/h"
+      },
+      "details": {
+        "de": "Die Bauart darf höchstens 25 km/h ermöglichen. Ein gedrosselter Fahrmodus macht ein schnelleres Fahrzeug nicht zulässig. Bei Sharing-Fahrzeugen und örtlichen Zonen können niedrigere Limits gelten.",
+        "en": "The design speed must not exceed 25 km/h. A restricted riding mode does not make a faster vehicle compliant. Shared scooters and local zones can have lower limits."
+      }
+    },
+    {
+      "id": "min_age",
+      "status": "restricted",
+      "value": {
+        "de": "Ab 16; örtliche Ausnahmen",
+        "en": "16+; limited area exceptions"
+      },
+      "details": {
+        "de": "Grundsätzlich ab 16 Jahren. Ausnahmen bestehen u. a. in entsprechend freigegebenen Wohn-/Begegnungs-, Spiel-, Fußgänger- und reservierten Bereichen. Die Ausnahme ist keine Freigabe für normale Straßen oder verbotene Gehwege. Mietanbieter können ein höheres Alter verlangen.",
+        "en": "Generally 16 or over. Exceptions exist in appropriately permitted residential/meeting, play, pedestrian and reserved areas. These exceptions do not authorise ordinary road riding or prohibited pavement riding. Rental providers may set a higher age."
+      }
+    },
+    {
+      "id": "helmet",
+      "status": "restricted",
+      "value": {
+        "de": "Pflicht bei Bauart über 20 km/h",
+        "en": "Mandatory for design speed >20 km/h"
+      },
+      "details": {
+        "de": "Seit 01.09.2026 müssen Fahrer von motorisierten Fortbewegungsgeräten mit bauartbedingter Höchstgeschwindigkeit über 20 km/h einen geeigneten Helm tragen. Die tatsächlich gewählte Geschwindigkeit ist unerheblich. Bei echter Bauartgrenze bis 20 km/h bleibt er empfohlen; das kann Sharing-Roller betreffen. Ausnahme für ausschließlich mobilitätseingeschränkten Personen dienende Geräte.",
+        "en": "Since 1 September 2026, riders of motorised mobility devices with a design speed above 20 km/h must wear an appropriate helmet. Actual riding speed is irrelevant. For devices genuinely limited by design to 20 km/h, a helmet remains recommended; this can include shared scooters. Devices exclusively intended for people with reduced mobility are exempt."
+      }
+    },
+    {
+      "id": "insurance",
+      "status": "restricted",
+      "value": { "de": "Bis 25 kg/25 km/h keine Pflicht", "en": "Up to 25 kg/25 km/h exempt" },
+      "details": { "de": "Bis 25 km/h und 25 kg einschließlich Batterie keine Kfz-Haftpflichtpflicht. Bei schwereren üblichen Rollern über 6 km/h kann sie nötig sein. Für gewöhnliche zugelassene Tretroller ist kein Kennzeichen nötig; private Haftpflichtdeckung prüfen.", "en": "Up to 25 km/h and 25 kg including battery, motor insurance is not compulsory. Heavier ordinary scooters above 6 km/h may require it. Ordinary compliant kick scooters need no registration plate; check private liability cover." }
+    },
+    {
+      "id": "license",
+      "status": "allowed",
+      "value": {
+        "de": "Für übliche Roller kein Führerschein",
+        "en": "No licence for ordinary scooters"
+      },
+      "details": {
+        "de": "Für die übliche, zulässige Fahrzeugklasse bis 25 km/h wird kein Führerschein verlangt. Schnellere oder anders eingestufte Fahrzeuge sind davon nicht erfasst und dürfen nicht einfach als E-Tretroller genutzt werden. Anbieterbedingungen zusätzlich prüfen.",
+        "en": "No driving licence is required for the ordinary compliant class up to 25 km/h. Faster or differently classified vehicles are outside this statement and cannot simply be used as e-scooters. Check provider terms as well."
+      }
+    },
+    {
+      "id": "alcohol",
+      "status": "restricted",
+      "value": {
+        "de": "Unter 0,5 ‰",
+        "en": "Below 0.5 ‰"
+      },
+      "details": {
+        "de": "Die Polizei nennt für E-Tretroller 0,5 g/l als Alkoholgrenze. Auch sonstige Fahruntüchtigkeit ist zu vermeiden; die Scooter-Nutzung ist kein Ausweg aus den Regeln zum Fahren unter Einfluss.",
+        "en": "Police guidance gives 0.5 g/l as the alcohol threshold for e-scooters. Other impairment must also be avoided; using a scooter is not an exemption from drink-driving rules."
+      }
+    },
+    {
+      "id": "where_to_ride",
+      "status": "restricted",
+      "value": {
+        "de": "Radweg/Fahrbahn; Gehweg verboten",
+        "en": "Cycle path/road; no pavements"
+      },
+      "details": {
+        "de": "Es gelten Fahrradregeln: Radverkehrsflächen bzw. zulässige Fahrbahn nutzen. Gehwege sind für gewöhnliche E-Tretroller auch im Schritttempo verboten. Fußgängerbereiche nur bei Freigabe, mit Vorrang und Schrittgeschwindigkeit; bei dichtem Fußverkehr absteigen. Kein Passagier. Bei Sharing zusätzlich Dropzones und örtliche Betriebsgrenzen beachten.",
+        "en": "Bicycle rules apply: use cycling infrastructure or the permitted carriageway. Ordinary e-scooters may not use pavements even at walking speed. Pedestrian areas require permission, pedestrian priority and walking pace; dismount in dense crowds. No passenger. Shared scooters also have drop zones and local operating conditions."
+      }
+    }
+  ],
+  "fines": [
+    {
+      "offense": { "de": "Ohne Helm bei Bauart über 20 km/h", "en": "No helmet with design speed above 20 km/h" },
+      "amount": "64 €",
+      "notes": { "de": "Zuzüglich Verwaltungsgebühr.", "en": "Plus administrative charge." }
+    },
+    {
+      "offense": { "de": "Rote Ampel missachten", "en": "Ignoring a red light" },
+      "amount": "191 €",
+      "notes": { "de": "Sofortzahlung zuzüglich Verwaltungsgebühr; gerichtliche Strafen können abweichen.", "en": "Immediate payment plus administrative charge; court penalties may differ." }
+    }
+  ],
+  "cities": [
+    {
+      "name": "Brussels",
+      "nameLocalized": {
+        "de": "Brüssel",
+        "en": "Brussels"
+      },
+      "notes": {
+        "de": "Leihroller nur in Dropzones abstellen; Geofencing drosselt sie in Fußgängerbereichen auf 8 km/h. Dort trotzdem Schrittgeschwindigkeit und Vorrang für Fußgänger, bei Andrang absteigen.",
+        "en": "Park rental scooters only in drop zones; geofencing limits them to 8 km/h in pedestrian areas. Still ride at walking pace there, give pedestrians priority and dismount in crowds."
+      }
+    },
+    {
+      "name": "Antwerp",
+      "nameLocalized": {
+        "de": "Antwerpen",
+        "en": "Antwerp"
+      },
+      "notes": {
+        "de": "Seit 01.07.2025 dürfen Sharing-Roller innerhalb der Leien nur in ausgewiesenen Dropzones zurückgegeben werden. Die No-Park-Zone betrifft das Abstellen außerhalb dieser Flächen, nicht automatisch ein Fahrverbot. Aktuelle Karte/Anbieter-App beachten.",
+        "en": "Since 1 July 2025, shared scooters inside the Leien may only be returned in designated drop zones. The no-parking zone prohibits parking outside those locations; it is not automatically a riding ban. Check the current city map/provider app."
+      }
+    }
+  ],
+  "upcomingChanges": [],
+  "sources": [
+    {
+      "title": "Police fédérale: Helmpflicht seit 01.09.2026 (aktualisiert 29.09.2026)",
+      "url": "https://www.police.be/5998/fr/actualites/securite-routiere-trottinettes-et-engins-electriques-le-casque-devient-obligatoire-mais",
+      "accessed": "2026-10-20"
+    },
+    {
+      "title": "Police locale Jemeppe: aktuelle Regeln für elektrische Tretroller",
+      "url": "https://www.police.be/5308/questions/accidents-de-la-route-et-securite-routiere/trottinettes-electriques-connaissez-vous-les",
+      "accessed": "2026-10-20"
+    },
+    {
+      "title": "Police du Tournaisis: Regeln einschließlich Alkoholgrenze",
+      "url": "https://www.police.be/5316/actualites/trottinettes-electriques-petit-rappel-pour-rouler-en-toute-securite",
+      "accessed": "2026-10-20"
+    },
+    {
+      "title": "Police La Louvière: Fahrzeugklassen, Führerschein und Versicherung (älterer Hinweis, aktuelle Versicherungsfrage offen)",
+      "url": "https://www.police.be/5325/actualites/les-nouveaux-engins-electriques",
+      "accessed": "2026-10-20"
+    },
+    {
+      "title": "Ville de Bruxelles: Dropzones und Geschwindigkeit im Fußgängerbereich (kommunale Antwort 2024)",
+      "url": "https://www.brussels.be/sites/default/files/bxl/Q_03R-2024.pdf",
+      "accessed": "2026-10-20"
+    },
+    {
+      "title": "Stad Antwerpen: Sharing-Abstellen innerhalb der Leien seit 01.07.2025",
+      "url": "https://pers.antwerpen.be/uitbreiding-no-park-zone-voor-deelsteps-binnen-leien",
+      "accessed": "2026-10-20"
+    },
+    {
+      "title": "SPF Economie: Fahrzeugbezogene Versicherungsausnahmen",
+      "url": "https://economie.fgov.be/en/themes/financial-services/insurance/car/civil-liability/vehicles-subject-insurance",
+      "accessed": "2026-10-21"
+    },
+    {
+      "title": "Police Comines-Warneton: Helm und 64 €",
+      "url": "https://www.police.be/5318/fr/actualites/trottinettes-electriques-le-casque-est-desormais-obligatoire-pour-les-modeles-depassant",
+      "accessed": "2026-10-21"
+    },
+    {
+      "title": "Police S.H.A.P.E.: Bußgelder ab 01.07.2026",
+      "url": "https://www.police.be/shape/fr/actualites/amendes-routieres-ce-qui-change-des-le-1er-juillet-2026",
+      "accessed": "2026-10-21"
+    }
+  ]
+}

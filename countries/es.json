@@ -121,6 +121,10 @@
       "notes": {
         "de": "Neue Verkehrsordnung seit 01.02.2025: Mindestalter 16 (Bußgeld 200 €), Helmpflicht (100 €), Licht vorn/hinten Pflicht, Gehweg verboten, nur Radwege und Tempo-30-Straßen. Mitnahme in Metro/Bus (TMB) weiterhin verboten. Leih-Scooter-Angebot stark reguliert.",
         "en": "New traffic ordinance since 1 Feb 2025: minimum age 16 (fine €200), helmet mandatory (€100), front/rear lights required, sidewalks banned, only bike lanes and 30 km/h streets. Carrying scooters on metro/bus (TMB) remains banned. Rental market heavily regulated."
+      },
+      "nameLocalized": {
+        "de": "Barcelona",
+        "en": "Barcelona"
       }
     },
     {
@@ -128,6 +132,10 @@
       "notes": {
         "de": "Für Madrid gelten das nationale Mindestalter von 15 Jahren und die nationale Helmpflicht. Die Betreiber-Genehmigungen für Leih-Scooter wurden am 05.09.2024 widerrufen; die Anbieter mussten ihre Fahrzeuge ab Oktober 2024 entfernen (2023 war das Jahr der Genehmigung, nicht des Verbots). Private Scooter nach DGT- und Stadtregeln (Ordenanza de Movilidad Sostenible) erlaubt.",
         "en": "Madrid is subject to the national minimum age of 15 and the national helmet requirement. The rental operators' permits were revoked on 5 Sep 2024 and providers had to remove their vehicles from October 2024 (2023 was the year of authorisation, not of the ban). Private scooters allowed under DGT and city rules (Ordenanza de Movilidad Sostenible)."
+      },
+      "nameLocalized": {
+        "de": "Madrid",
+        "en": "Madrid"
       }
     }
   ],

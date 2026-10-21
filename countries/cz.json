@@ -1,0 +1,157 @@
+{
+  "schemaVersion": 1,
+  "countryCode": "CZ",
+  "countryName": {
+    "de": "Tschechien",
+    "en": "Czechia"
+  },
+  "flagEmoji": "🇨🇿",
+  "lastUpdated": "2026-10-21",
+  "verified": true,
+  "verifiedBy": "Marc Neumann",
+  "verifiedDate": "2026-10-21",
+  "overallStatus": "restricted",
+  "summary": {
+    "de": "Nur passend eingestufte E-Tretroller folgen Fahrradregeln: maximal 25 km/h, Helm unter 18 und kein Alkohol. Leistung und Bauart sind entscheidend. Schwere oder schnelle Fahrzeuge können versicherungspflichtig sein; Prag schließt Sharing-Tretroller seit 2026 aus seinem System aus.",
+    "en": "Only appropriately classified e-scooters follow bicycle rules: at most 25 km/h, helmets under 18 and no alcohol. Power and construction matter. Heavy or fast devices may need insurance; Prague excludes shared scooters from its system since 2026."
+  },
+  "categories": [
+    {
+      "id": "max_speed",
+      "status": "restricted",
+      "value": {
+        "de": "Fahrradklasse bis 25 km/h",
+        "en": "Bicycle class up to 25 km/h"
+      },
+      "details": {
+        "de": "Als Fahrrad gelten Roller mit höchstens 250 W und 25 km/h. Bis 1 kW nur bei nachgerüstetem Hilfsmotor, wenn der Roller weiter durch Abstoßen fahrbar bleibt – nicht jeder serienmäßige 1-kW-Roller. Stärkere Fahrzeuge brauchen Zulassung, Kennzeichen und Führerschein oder sind nicht straßenzulässig.",
+        "en": "Scooters count as bicycles up to 250 W and 25 km/h. Up to 1 kW only with a retrofitted auxiliary motor if the scooter can still be kicked along – not every factory-built 1 kW scooter. More powerful vehicles need approval, plates and a licence, or are not road-legal."
+      }
+    },
+    {
+      "id": "min_age",
+      "status": "restricted",
+      "value": {
+        "de": "Allein auf der Straße ab 10",
+        "en": "Unaccompanied on roads from 10"
+      },
+      "details": {
+        "de": "Unter zehn Jahren ist auf normalen Straßen Aufsicht durch eine Person über 15 nötig. Für Radwege und Wohnbereiche bestehen Ausnahmen. Dies ist keine allgemeine Mindestaltergrenze von zehn für jede Fläche. Leihbedingungen können strenger sein.",
+        "en": "Children under ten need supervision by a person over 15 on ordinary roads. Exceptions apply on cycle paths and in residential zones. This is not a universal minimum age of ten for every location. Rental terms may be stricter."
+      }
+    },
+    {
+      "id": "helmet",
+      "status": "restricted",
+      "value": {
+        "de": "Pflicht unter 18",
+        "en": "Mandatory under 18"
+      },
+      "details": {
+        "de": "Wer noch nicht 18 ist, muss in der Fahrradklasse einen zugelassenen, richtig befestigten Helm tragen. Für Erwachsene empfohlen. Bei als Kraftfahrzeug eingestuften Geräten gelten andere Ausrüstungspflichten; die Erwachsenen-Ausnahme ist darauf nicht übertragbar.",
+        "en": "Riders under 18 in the bicycle class must wear an approved, properly fastened helmet. Recommended for adults. Motor-vehicle-class devices have different equipment rules; the adult exemption must not be transferred to them."
+      }
+    },
+    {
+      "id": "insurance",
+      "status": "restricted",
+      "value": {
+        "de": ">25 km/h oder >25 kg und >14 km/h",
+        "en": ">25 km/h or >25 kg and >14 km/h"
+      },
+      "details": {
+        "de": "Pflichtversicherung für ausschließlich motorgetriebene Fahrzeuge, deren Bauartgeschwindigkeit über 25 km/h liegt, oder über 14 km/h bei Betriebsmasse über 25 kg. Auch ohne Zulassungspflicht kann Versicherung nötig sein. Eine Police legalisiert keine unzulässige Bauart. Gewicht und Geschwindigkeit des konkreten Miet-/Privatrollers prüfen.",
+        "en": "Compulsory cover applies to exclusively motor-driven vehicles with a design speed above 25 km/h, or above 14 km/h with an operating mass above 25 kg. Cover may be required even without registration. Insurance does not legalise a non-compliant design. Check the weight and speed of the actual private/rental scooter."
+      }
+    },
+    {
+      "id": "license",
+      "status": "allowed",
+      "value": {
+        "de": "Fahrradklasse: nicht nötig",
+        "en": "Bicycle class: not required"
+      },
+      "details": {
+        "de": "Für als Fahrrad eingestufte Roller kein Führerschein, keine Kfz-Zulassung. Bei Kategorie L gelten Zulassung und passende Fahrerlaubnis (bei Mopeds typischerweise AM). Die Versicherungsgrenze allein bestimmt nicht die Fahrzeugklasse.",
+        "en": "Scooters classified as bicycles need no driving licence or motor registration. Category L vehicles need approval/registration and an appropriate licence (typically AM for mopeds). The insurance threshold alone does not determine vehicle class."
+      }
+    },
+    {
+      "id": "alcohol",
+      "status": "restricted",
+      "value": {
+        "de": "0,0 ‰",
+        "en": "0.0 ‰"
+      },
+      "details": {
+        "de": "Nulltoleranz: kein Alkohol oder andere berauschende Mittel vor oder während der Fahrt. Das gilt auch für die Fahrradklasse. Bei Kraftfahrzeugen können zusätzliche strafrechtliche Folgen eintreten.",
+        "en": "Zero tolerance: no alcohol or other intoxicants before or while riding. This also applies to the bicycle class. Motor vehicles can attract additional criminal consequences."
+      }
+    },
+    {
+      "id": "where_to_ride",
+      "status": "restricted",
+      "value": {
+        "de": "Radverkehr; Gehweg nur Kinder-Ausnahme",
+        "en": "Cycle lanes; no pavements (adults)"
+      },
+      "details": {
+        "de": "Zulässige Radwege/-streifen nutzen, sonst nach Fahrradregeln auf der Fahrbahn. Gehwege sind für gewöhnliche erwachsene Fahrer verboten; Kinder unter zehn haben eine Ausnahme. Fußgängerbereiche nur bei Freigabe. Ein Fahrer pro einsitzigem Gerät; Licht/Reflektoren und wirksame Bremsen erforderlich. Lokale Sharing-Regeln sind davon zu trennen.",
+        "en": "Use permitted cycle paths/lanes, otherwise follow bicycle rules on the carriageway. Ordinary adult riders may not use pavements; children under ten have an exception. Pedestrian areas require permission. One rider per single-person device; lights/reflectors and effective brakes are required. Local rental rules are a separate issue."
+      }
+    }
+  ],
+  "fines": [
+    {
+      "offense": { "de": "Alkoholfahrt mit Roller der Fahrradklasse", "en": "Alcohol-impaired riding in the bicycle class" },
+      "amount": "7.000–25.000 Kč",
+      "notes": { "de": "Verwaltungsverfahren; bei Fahruntüchtigkeit können andere Sanktionen gelten.", "en": "Administrative proceedings; inability to ride safely can attract different penalties." }
+    },
+    {
+      "offense": { "de": "Vorgeschriebene Beleuchtung/Ausrüstung fehlt", "en": "Missing mandatory lights/equipment" },
+      "amount": "max. 1.500 Kč",
+      "notes": { "de": "Verwarnungsgeld vor Ort für die Fahrradklasse.", "en": "On-the-spot fine for the bicycle class." }
+    }
+  ],
+  "cities": [
+    {
+      "name": "Prague",
+      "nameLocalized": {
+        "de": "Prag",
+        "en": "Prague"
+      },
+      "notes": {
+        "de": "Seit 01.01.2026 sind Sharing-Tretroller aus dem städtischen System ausgeschlossen; zugelassen werden dort Fahrräder und E-Bikes mit geregeltem Abstellen. Das ist kein allgemeines Verbot privater Tretroller. Für eigene Fahrzeuge gelten die nationale Einstufung und örtliche Verkehrszeichen weiter.",
+        "en": "Since 1 January 2026, shared scooters are excluded from the city's scheme, which admits bicycles and e-bikes with regulated parking. This is not a general ban on private scooters. National classification and local signs still apply to privately owned devices."
+      }
+    }
+  ],
+  "upcomingChanges": [],
+  "sources": [
+    {
+      "title": "Policie ČR: Ne každá elektrokoloběžka je jízdní kolo (2026)",
+      "url": "https://policie.gov.cz/stredocesky-kraj/ne-kazda-elektrokolobezka-je-jizdni-kolo",
+      "accessed": "2026-10-20"
+    },
+    {
+      "title": "Praha: Fahrradrecht, § 58 zu Kindern und Aufsicht (gesetzliche Einordnung)",
+      "url": "https://www.praha.eu/web/cyklo/w/zakony_predpisy_a_pravidla_pro_jizdu_na_1114316",
+      "accessed": "2026-10-20"
+    },
+    {
+      "title": "PID/ROPID: Stadtmitteilung zum Ende der Sharing-Tretroller ab 01.01.2026",
+      "url": "https://pid.cz/praha-zavadi-novy-system-sdilene-cyklomobility-sdilene-elektricke-kolobezky-ve-meste-od-roku-2026-skonci/",
+      "accessed": "2026-10-20"
+    },
+    {
+      "title": "Policie ČR: Alkohol, Sanktionen seit 2024",
+      "url": "https://policie.gov.cz/clanek/opily-cyklista-740752.aspx",
+      "accessed": "2026-10-21"
+    },
+    {
+      "title": "Policie ČR: Ausrüstung und Bußgeld (2026)",
+      "url": "https://policie.gov.cz/vysocina-kraj/cyklisticke-odpoledne-se-zameri-na-prevenci-2",
+      "accessed": "2026-10-21"
+    }
+  ]
+}

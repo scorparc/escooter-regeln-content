@@ -3,10 +3,10 @@
   "countryCode": "FR",
   "countryName": { "de": "Frankreich", "en": "France" },
   "flagEmoji": "🇫🇷",
-  "lastUpdated": "2026-08-22",
+  "lastUpdated": "2026-10-20",
   "verified": true,
   "verifiedBy": "Marc Neumann",
-  "verifiedDate": "2026-08-22",
+  "verifiedDate": "2026-10-20",
   "overallStatus": "restricted",
   "summary": {
     "de": "E-Scooter (EDPM) sind in Frankreich erlaubt: max. 25 km/h, ab 14 Jahren, Haftpflichtversicherung ist Pflicht. In Paris sind Leih-Scooter seit 2023 abgeschafft – private Scooter bleiben erlaubt.",
@@ -108,9 +108,27 @@
     {
       "name": "Paris",
       "notes": {
-        "de": "Leih-E-Scooter sind seit September 2023 abgeschafft (Bürgerentscheid). Private E-Scooter dürfen weiter nach den nationalen Regeln gefahren werden; Parken nur auf ausgewiesenen Flächen.",
-        "en": "Rental e-scooters were abolished in September 2023 (public vote). Private e-scooters remain legal under national rules; parking only in designated areas."
-      }
+        "de": "Sharing-Tretroller wurden zum 01.09.2023 abgeschafft; private Roller sind davon nicht pauschal betroffen. Seit August 2026 gelten in Paris und der Petite Couronne zusätzliche Helm- und Sichtbarkeitspflichten. Abstellen darf Fußgänger nicht behindern; aktuelle Beschilderung und lokale Vorgaben beachten.",
+        "en": "Shared kick scooters were removed from service on 1 September 2023; private scooters are not generally banned by that decision. Since August 2026, Paris and the Petite Couronne have additional helmet and visibility requirements. Parking must not obstruct pedestrians; follow current signs and local rules."
+      },
+      "nameLocalized": {
+        "de": "Paris",
+        "en": "Paris"
+      },
+      "categories": [
+        {
+          "id": "helmet",
+          "status": "restricted",
+          "value": {
+            "de": "Pflicht in Paris/Petite Couronne",
+            "en": "Mandatory in Paris/Petite Couronne"
+          },
+          "details": {
+            "de": "Zusätzliche lokale Pflicht aus dem Arrêté 2026-00969 vom 07.08.2026: Helm und retroreflektierende Ausrüstung auf öffentlichen Verkehrsflächen. Die Stadt Paris und Service-Public bestätigen die Regel; sie ist nicht mit der allgemeinen französischen Innerortsregel gleichzusetzen.",
+            "en": "Additional local requirement under Order 2026-00969 of 7 August 2026: helmet and retroreflective equipment on public roads. Paris city and Service-Public confirm it; do not confuse this with the general French urban rule."
+          }
+        }
+      ]
     }
   ],
   "sources": [
@@ -138,6 +156,21 @@
       "title": "Légifrance: Art. L211-1 Code des assurances (Haftpflichtversicherungspflicht)",
       "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048523650",
       "accessed": "2026-08-22"
+    },
+    {
+      "title": "Ville de Paris: Ende des Sharing-Angebots zum September 2023",
+      "url": "https://www.paris.fr/pages/pour-ou-contre-les-trottinettes-en-libre-service-23231",
+      "accessed": "2026-10-20"
+    },
+    {
+      "title": "Ville de Paris: aktuelle E-Tretroller-Regeln, lokale Helm-/Sichtbarkeitspflicht August 2026",
+      "url": "https://www.paris.fr/pages/trottinettes-electriques-de-nouvelles-regles-de-circulation-7249",
+      "accessed": "2026-10-20"
+    },
+    {
+      "title": "Service-Public: Arrêté 2026-00969 vom 07.08.2026, Paris und Petite Couronne",
+      "url": "https://www.service-public.gouv.fr/particuliers/actualites/A19037",
+      "accessed": "2026-10-20"
     }
   ]
 }

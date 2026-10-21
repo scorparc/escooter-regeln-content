@@ -1,7 +1,7 @@
 {
     "schemaVersion":  1,
-    "contentVersion":  6,
-    "updatedAt":  "2026-10-01",
+    "contentVersion":  8,
+    "updatedAt":  "2026-10-21",
     "countries":  [
                       {
                           "code":  "DE",
@@ -34,20 +34,70 @@
                       {
                           "code":  "PL",
                           "file":  "countries/pl.json"
+                      },
+                      {
+                          "code":  "PT",
+                          "file":  "countries/pt.json"
+                      },
+                      {
+                          "code":  "BE",
+                          "file":  "countries/be.json"
+                      },
+                      {
+                          "code":  "CZ",
+                          "file":  "countries/cz.json"
+                      },
+                      {
+                          "code":  "GR",
+                          "file":  "countries/gr.json"
+                      },
+                      {
+                          "code":  "HR",
+                          "file":  "countries/hr.json"
+                      },
+                      {
+                          "code":  "DK",
+                          "file":  "countries/dk.json"
+                      },
+                      {
+                          "code":  "SE",
+                          "file":  "countries/se.json"
+                      },
+                      {
+                          "code":  "NO",
+                          "file":  "countries/no.json"
+                      },
+                      {
+                          "code":  "IE",
+                          "file":  "countries/ie.json"
+                      },
+                      {
+                          "code":  "GB",
+                          "file":  "countries/gb.json"
                       }
                   ],
     "snapshot":  {
-                     "revision":  "59876aa9f876ec5e14428176bb180cfc1a0c240a",
-                     "baseUrl":  "https://raw.githubusercontent.com/scorparc/escooter-regeln-content/59876aa9f876ec5e14428176bb180cfc1a0c240a/versions/6",
+                     "revision":  "424d749ea293a8cdded7aade859a50162c86cc6e",
+                     "baseUrl":  "https://raw.githubusercontent.com/scorparc/escooter-regeln-content/424d749ea293a8cdded7aade859a50162c86cc6e/versions/8",
                      "hashes":  {
-                                    "countries/de.json":  "977fb19443f76be9bea26651da7c0824d94d1fdcfe5698f1ebc3134072798cff",
-                                    "countries/at.json":  "9c40dea790bdab41b211fa0f5fba3038c121ca4d2035ea9086c9f081fd365395",
-                                    "countries/ch.json":  "81bce9bb640d028d6bef9a7424ab94c7a2a8cd29ae5662e197ce99bc7a285b1e",
-                                    "countries/fr.json":  "d8b77d2ff101967af52933398bde7290a12240e667c05e4d576a6d3c21becfb5",
-                                    "countries/it.json":  "73281cff7dc84fd686569e16d695bae16ec613a7c21b6f1cec479c6afa3048f7",
-                                    "countries/es.json":  "6b0c9cca549ecca38a29627c4f0244e8262101442a7234e317d919d651fb58a2",
-                                    "countries/nl.json":  "2032439042a6272ed7f5f08d33bdd160e9cd75eae59afaf771e981bdd773d3b4",
-                                    "countries/pl.json":  "8fb10b4d8dd5163fe3c434c9faf73bac4e204f6356aa9f294b58ed099c08b6d7"
+                                    "countries/de.json":  "67d593ca159e47a8b00aa274b41f9f5ebb0674415770f5fccac70c6f058ad7be",
+                                    "countries/at.json":  "1579742a0915361b6b1a48f7000aec4391d1a3a096b796ab7ecde3721512c040",
+                                    "countries/ch.json":  "8b2455f8d40a977e854b576f91dced7e1e6bb034e392a531cb885b8a9815a868",
+                                    "countries/fr.json":  "e9c026ebf6ce42c08aa177d7900311378c098b9071fca0a3f9bdba6e869c2c01",
+                                    "countries/it.json":  "9fba6e70340db1db4363a070431b7ce77cd486c47a60d596d711aaf0fc4fb771",
+                                    "countries/es.json":  "5b6a48193bb74f2e406b894d0fcce689d804824be19315218292cf941bfff584",
+                                    "countries/nl.json":  "745a7ef535013827e8e08be3cab8386a4c3806c1a43af06a393351579e57614e",
+                                    "countries/pl.json":  "f9ad6bc5f72dad1bdd3547ee69a3dcb40645fd45a4de7235f39e6dabce3870f9",
+                                    "countries/pt.json":  "3fb27f5d1824445033a41378fdb42a573598dfa714348e37acd871d2832123d6",
+                                    "countries/be.json":  "c9385465c4e825d384250103f02154af32db7a1a359726b297b877c96afc04e8",
+                                    "countries/cz.json":  "ea68b4d9689c4067895ea89c36971084d6902740d975151ce0127e7df5028b39",
+                                    "countries/gr.json":  "a41391f2e6ac3d2a59c8ef0ca0a4aca620860a62c03694dc4d8e7885687dd2de",
+                                    "countries/hr.json":  "73266d5cdce777a29983fcfc5ff29a19547c505e84864a5112f0433484c09beb",
+                                    "countries/dk.json":  "314de2500e95098a2470b6e17fb3f1afb78d9693b1f7f539272a07ecaeb769a8",
+                                    "countries/se.json":  "c7a525b090df77f3a32fb4bc53f23dc9f6bcd3ebd7463c8c9ec89ca2f644cd20",
+                                    "countries/no.json":  "8415650b0ea20a5f48cad6eac04770ce18500a793c26e0c21d59335f5c83b957",
+                                    "countries/ie.json":  "62d11af6c80a0019798dedcaa6616058593b4e2e555295c0eef9250de511d746",
+                                    "countries/gb.json":  "90227be0fa74237f30d9284c27bc5e18c3be93786e796a89101b9eddec1c80bc"
                                 }
                  }
 }

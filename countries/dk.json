@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "countryCode": "DK",
+  "countryName": { "de": "Dänemark", "en": "Denmark" },
+  "flagEmoji": "🇩🇰",
+  "lastUpdated": "2026-10-21",
+  "verified": true,
+  "verifiedBy": "Marc Neumann",
+  "verifiedDate": "2026-10-21",
+  "overallStatus": "restricted",
+  "summary": { "de": "Bis 20 km/h, Helm und Licht auch am Tag. Allein grundsätzlich ab 15; jüngere Kinder brauchen erwachsene Begleitung. Mietroller müssen haftpflichtversichert sein.", "en": "Up to 20 km/h, with a helmet and lights even by day. Normally 15+ when riding alone; younger children need adult supervision. Rentals need liability insurance." },
+  "categories": [
+    {
+      "id": "max_speed",
+      "status": "restricted",
+      "value": { "de": "20 km/h", "en": "20 km/h" },
+      "details": { "de": "Bauartbedingt höchstens 20 km/h, höchstens 25 kg. Ein per App wählbarer schnellerer Modus ist nicht zulässig.", "en": "Design speed at most 20 km/h; maximum weight 25 kg. A faster mode selectable through an app is not compliant." }
+    },
+    {
+      "id": "min_age",
+      "status": "restricted",
+      "value": { "de": "Allein ab 15 Jahren", "en": "15+ riding alone" },
+      "details": { "de": "Unter 15 nur mit unmittelbarer Aufsicht einer mindestens 18-jährigen Person oder in ausgeschilderten Spiel- und Aufenthaltsbereichen.", "en": "Under 15 only under close supervision by an adult aged at least 18, or in signed play and recreation areas." }
+    },
+    {
+      "id": "helmet",
+      "status": "restricted",
+      "value": { "de": "Pflicht für alle", "en": "Mandatory for everyone" },
+      "details": { "de": "Während der Fahrt einen Fahrradhelm tragen. Das gilt auch für Mietroller.", "en": "Wear a cycle helmet while riding. This also applies to rentals." }
+    },
+    {
+      "id": "insurance",
+      "status": "restricted",
+      "value": { "de": "Miete: Pflicht; privat: freiwillig", "en": "Rentals: duty; private: optional" },
+      "details": { "de": "Der Vermieter muss eine Haftpflichtversicherung stellen; Nachweis mitführen. Für zulässige Privatroller besteht keine Pflicht; die eigene Deckung prüfen.", "en": "The rental operator must provide liability insurance; carry proof. Compliant private scooters have no compulsory cover; check your own policy." }
+    },
+    {
+      "id": "license",
+      "status": "allowed",
+      "value": { "de": "Nicht nötig", "en": "Not required" },
+      "details": { "de": "Für die beschriebene zulässige Rollerklasse ist kein Führerschein nötig.", "en": "No driving licence is needed for the compliant scooter class described." }
+    },
+    {
+      "id": "alcohol",
+      "status": "restricted",
+      "value": { "de": "Höchstens 0,5 ‰", "en": "At most 0.5 ‰" },
+      "details": { "de": "Nicht bei Beeinträchtigung fahren. Über 0,5 ‰ ist Fahren verboten; für illegale Drogen gilt Nulltoleranz.", "en": "Do not ride when impaired. Riding above 0.5 ‰ is prohibited; illegal drugs are subject to zero tolerance." }
+    },
+    {
+      "id": "where_to_ride",
+      "status": "restricted",
+      "value": { "de": "Radweg; kein Gehweg", "en": "Cycle paths; no pavements" },
+      "details": { "de": "Fahrradregeln beachten, vorhandene Radwege nutzen. Nicht auf Gehwegen oder Fußgängerüberwegen fahren; nur eine Person. Licht vorne und hinten auch tagsüber einschalten.", "en": "Follow cycling rules and use cycle paths where provided. No riding on pavements or pedestrian crossings; one person only. Front and rear lights must also be on in daylight." }
+    }
+  ],
+  "fines": [
+    {
+      "offense": { "de": "Ohne vorgeschriebenen Helm", "en": "Riding without the required helmet" },
+      "amount": "1.500 DKK"
+    },
+    {
+      "offense": { "de": "Alkohol über 0,5 ‰, erster Verstoß", "en": "Alcohol above 0.5 ‰, first offence" },
+      "amount": "2.000 DKK"
+    }
+  ],
+  "cities": [
+    {
+      "name": "Copenhagen",
+      "nameLocalized": { "de": "Kopenhagen", "en": "Copenhagen" },
+      "notes": { "de": "Mietroller am Fahrtende nur in den vorgesehenen Parkhubs zurückgeben; Abstell- und Sperrzonen zeigt die Anbieter-App.", "en": "Return rentals to the designated parking hubs at the end of a trip; the provider app shows parking and no-go zones." }
+    }
+  ],
+  "upcomingChanges": [],
+  "sources": [
+    {
+      "title": "Færdselsstyrelsen: Motoriserede løbehjul",
+      "url": "https://www.fstyr.dk/privat/krav-til-koeretoejer/forsoegsordninger/motoriserede-elloebehjul",
+      "accessed": "2026-10-21"
+    },
+    {
+      "title": "Rådet for Sikker Trafik: Regeln und Bußgelder",
+      "url": "https://www.sikkertrafik.dk/rad-og-viden/sma-el-koretojer/regler-for-el-lobehjul/",
+      "accessed": "2026-10-21"
+    },
+    {
+      "title": "Københavns Kommune: Modell und virtuelle Parkhubs (2023)",
+      "url": "https://www.kk.dk/dagsordener-og-referater/Teknik-%20og%20Milj%C3%B8udvalget/m%C3%B8de-19062023/referat/punkt-5",
+      "accessed": "2026-10-21"
+    }
+  ]
+}

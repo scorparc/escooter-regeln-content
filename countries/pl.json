@@ -3,10 +3,10 @@
   "countryCode": "PL",
   "countryName": { "de": "Polen", "en": "Poland" },
   "flagEmoji": "🇵🇱",
-  "lastUpdated": "2026-08-22",
+  "lastUpdated": "2026-10-20",
   "verified": true,
   "verifiedBy": "Marc Neumann",
-  "verifiedDate": "2026-08-22",
+  "verifiedDate": "2026-10-20",
   "overallStatus": "restricted",
   "summary": {
     "de": "E-Scooter (hulajnoga elektryczna) sind in Polen erlaubt: max. 20 km/h, Mindestalter 13 Jahre, unter 18 nur mit Fahrradkarte/Führerschein, Helmpflicht unter 16, sehr niedrige Promillegrenze (0,2 ‰). Radweg hat Vorrang, Gehweg nur ausnahmsweise im Schritttempo.",
@@ -111,6 +111,30 @@
       }
     }
   ],
+  "cities": [
+    {
+      "name": "Warsaw",
+      "nameLocalized": {
+        "de": "Warschau",
+        "en": "Warsaw"
+      },
+      "notes": {
+        "de": "Die Stadtvereinbarung mit Sharing-Betreibern regelt Abstellen und Betriebszonen. Rückgabe nur an den in der Anbieter-App freigegebenen Punkten, insbesondere Radständern und zulässigen Veturilo-Standorten. Diese Betreibervereinbarung ist von allgemeinen gesetzlichen Parkregeln für Privatroller zu trennen.",
+        "en": "The city agreement with sharing providers regulates parking and operating areas. Return rentals only to locations allowed by the provider app, particularly bicycle racks and permitted Veturilo sites. Distinguish this operator agreement from general statutory parking rules for private scooters."
+      }
+    },
+    {
+      "name": "Krakow",
+      "nameLocalized": {
+        "de": "Krakau",
+        "en": "Krakow"
+      },
+      "notes": {
+        "de": "Innerhalb des zweiten Stadtrings sind für Sharing-Roller verpflichtende Mobilitätspunkte vorgesehen. Außerhalb gelten weiter die allgemeinen Parkregeln. Niedrigere Geofencing-Limits in einzelnen Parks/Promenaden und aktuelle Rückgabezonen in der Anbieter-App beachten; keine pauschale Ausnahme vom Fußgängerschutz.",
+        "en": "Shared scooters have mandatory mobility points inside the second ring road. General parking rules continue to apply outside that area. Observe lower geofenced limits in selected parks/promenades and current return zones in the provider app; there is no blanket exemption from pedestrian protection."
+      }
+    }
+  ],
   "sources": [
     {
       "title": "Dziennik Ustaw: Ustawa z dnia 17 października 2025 r. o zmianie ustawy – Prawo o ruchu drogowym (Dz.U. 2025 poz. 1676; Mindestalter 13, Helmpflicht unter 16)",
@@ -151,6 +175,16 @@
       "title": "Rzecznik Finansowy: keine gesonderte OC-Pflichtversicherung für E-Scooter (hulajnoga)",
       "url": "https://rf.gov.pl/nowe-przepisy-podwyzszaja-minimalny-wiek-uzytkownikow-e-hulajnog-do-13-roku-zycia/",
       "accessed": "2026-08-22"
+    },
+    {
+      "title": "ZDM Warszawa: aktuelle Vereinbarung für E-Tretroller zum Mieten (2026)",
+      "url": "https://zdm.waw.pl/aktualnosci/warszawa-wprowadza-nowe-zasady-dla-e-hulajnog-na-wynajem/",
+      "accessed": "2026-10-20"
+    },
+    {
+      "title": "Stadt Krakau: Użytkowniku hulajnóg! Parkuj odpowiedzialnie, jedź bezpiecznie!",
+      "url": "https://krakow.pl/getHtml?dok_id=271234",
+      "accessed": "2026-10-20"
     }
   ]
 }

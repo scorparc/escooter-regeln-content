@@ -3,10 +3,10 @@
   "countryCode": "NL",
   "countryName": { "de": "Niederlande", "en": "Netherlands" },
   "flagEmoji": "🇳🇱",
-  "lastUpdated": "2026-08-22",
+  "lastUpdated": "2026-10-20",
   "verified": true,
   "verifiedBy": "Marc Neumann",
-  "verifiedDate": "2026-08-22",
+  "verifiedDate": "2026-10-20",
   "overallStatus": "restricted",
   "summary": {
     "de": "Achtung: In den Niederlanden dürfen nur wenige RDW-zugelassene Modelle ('bijzondere bromfiets') öffentlich fahren – mit Versicherung und, seit 1. Juli 2026 ausnahmslos, blauem Kennzeichen. Die meisten gängigen E-Scooter haben keine Zulassung und sind damit nur auf Privatgelände erlaubt. Die geplante allgemeine LEV-Regelung ist erneut verschoben.",
@@ -103,6 +103,19 @@
       }
     }
   ],
+  "cities": [
+    {
+      "name": "Amsterdam",
+      "nameLocalized": {
+        "de": "Amsterdam",
+        "en": "Amsterdam"
+      },
+      "notes": {
+        "de": "Amsterdam lässt keine Leih-E-Tretroller im öffentlichen Raum zu (Plan Deelvervoer 2023). Für private Roller gilt die nationale Regel: nur RDW-zugelassene Modelle. E-Mopeds mit Sitz sind eine andere Fahrzeugklasse.",
+        "en": "Amsterdam does not allow rental e-scooters in public space (Deelvervoer 2023 policy). Private scooters follow the national rule: only RDW-approved models. Seated e-mopeds are a different vehicle class."
+      }
+    }
+  ],
   "sources": [
     {
       "title": "Rijksoverheid: Regels voor elektrische steps (e-steps)",
@@ -138,6 +151,11 @@
       "title": "ANWB: E-step zonder kenteken – dit riskeer je (24.06.2026)",
       "url": "https://www.anwb.nl/juridisch-advies/nieuws/2026/juni/e-steps-kentekenplicht",
       "accessed": "2026-07-03"
+    },
+    {
+      "title": "Gemeente Amsterdam: Nota Deelvervoer 2023 (Ausschluss elektrischer Sharing-Tretroller)",
+      "url": "https://openresearch.amsterdam/image/2023/6/28/nota_deelvervoer_2023.pdf",
+      "accessed": "2026-10-20"
     }
   ]
 }

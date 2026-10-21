@@ -3,10 +3,10 @@
   "countryCode": "DE",
   "countryName": { "de": "Deutschland", "en": "Germany" },
   "flagEmoji": "🇩🇪",
-  "lastUpdated": "2026-08-22",
+  "lastUpdated": "2026-10-20",
   "verified": true,
   "verifiedBy": "Marc Neumann",
-  "verifiedDate": "2026-08-22",
+  "verifiedDate": "2026-10-20",
   "overallStatus": "restricted",
   "summary": {
     "de": "E-Scooter sind in Deutschland erlaubt, aber nur mit Versicherungsplakette und Allgemeiner Betriebserlaubnis (eKFV). Gefahren wird auf Radwegen, sonst auf der Fahrbahn – nie auf dem Gehweg.",
@@ -127,6 +127,32 @@
       "notes": {
         "de": "Leih-Scooter dürfen in weiten Teilen der Innenstadt nur auf markierten Flächen abgestellt werden; Sperrzonen u. a. an Sehenswürdigkeiten. Für Privat-Scooter gelten die normalen Bundesregeln.",
         "en": "Rental scooters may only be parked in marked areas in much of the inner city; no-go zones around major sights. Private scooters follow the normal federal rules."
+      },
+      "nameLocalized": {
+        "de": "Berlin",
+        "en": "Berlin"
+      }
+    },
+    {
+      "name": "Munich",
+      "nameLocalized": {
+        "de": "München",
+        "en": "Munich"
+      },
+      "notes": {
+        "de": "In der Altstadt können Sharing-Roller nur auf den dafür vorgesehenen Abstellflächen zurückgegeben werden; außerhalb bleibt die Mietbeendigung gesperrt. Diese betriebliche Abstellregel ist kein pauschales Fahrverbot für Privatroller. Aktuelle Anbieterflächen und Beschilderung beachten.",
+        "en": "In the old town, shared scooters can only be returned at designated parking areas; ending rentals elsewhere is blocked. This operating condition is not a blanket riding ban for private scooters. Check current provider parking areas and signs."
+      }
+    },
+    {
+      "name": "Hamburg",
+      "nameLocalized": {
+        "de": "Hamburg",
+        "en": "Hamburg"
+      },
+      "notes": {
+        "de": "Elektrische Tretroller dürfen seit 24.08.2023 nicht in der Hamburger U-Bahn mitgenommen werden (HOCHBAHN-Brandschutzregel). Das ist eine Beförderungsregel und kein Straßenfahrverbot; für Bus, S-Bahn und andere Betreiber deren aktuelle Bedingungen gesondert prüfen. Mobilitätshilfen nicht mit Tretrollern gleichsetzen.",
+        "en": "Electric kick scooters have been prohibited on Hamburg's U-Bahn since 24 August 2023 under HOCHBAHN fire-safety rules. This is a carriage rule, not a road ban; separately check current terms for buses, S-Bahn and other operators. Do not confuse mobility aids with kick scooters."
       }
     }
   ],
@@ -164,6 +190,21 @@
       "title": "Deutscher Bundestag: Beschluss zur Halterhaftung bei Elektrokleinstfahrzeugen (09.07.2026, Bundesrat ausstehend)",
       "url": "https://www.bundestag.de/dokumente/textarchiv/2026/kw28-de-elektrokleinstfahrzeuge-1192562",
       "accessed": "2026-08-22"
+    },
+    {
+      "title": "Senat Berlin: Elektro-Tretroller, Regeln und Abstellen",
+      "url": "https://www.berlin.de/sen/uvk/mobilitaet-und-verkehr/verkehrsplanung/elektromobilitaet/elektro-tretroller/",
+      "accessed": "2026-10-20"
+    },
+    {
+      "title": "Stadt München: Rathaus Umschau 06.11.2023, Abstellkonzept Altstadt",
+      "url": "https://ru.muenchen.de/pdf/2023/ru-2023-11-06.pdf",
+      "accessed": "2026-10-20"
+    },
+    {
+      "title": "HOCHBAHN: keine E-Tretroller in U-Bahnen ab 24.08.2023",
+      "url": "https://www.hochbahn.de/resource/blob/58268/4157b4ce1cfb5c4ecb4478ee806e237c/ab-24-august-keine-e-scooter-mehr-in-den-u-bahnen-d2-data.pdf",
+      "accessed": "2026-10-20"
     }
   ]
 }

@@ -3,10 +3,10 @@
   "countryCode": "CH",
   "countryName": { "de": "Schweiz", "en": "Switzerland" },
   "flagEmoji": "🇨🇭",
-  "lastUpdated": "2026-08-22",
+  "lastUpdated": "2026-10-20",
   "verified": true,
   "verifiedBy": "Marc Neumann",
-  "verifiedDate": "2026-08-22",
+  "verifiedDate": "2026-10-20",
   "overallStatus": "restricted",
   "summary": {
     "de": "E-Scooter (E-Trottinette) gelten in der Schweiz als Leicht-Motorfahrräder: max. 20 km/h und 500 W, ab 14 mit Ausweis Kat. M, ab 16 ausweisfrei. Es gelten die Verkehrsregeln für Velos; das Licht muss auch tagsüber eingeschaltet sein.",
@@ -103,6 +103,30 @@
       }
     }
   ],
+  "cities": [
+    {
+      "name": "Zurich",
+      "nameLocalized": {
+        "de": "Zürich",
+        "en": "Zurich"
+      },
+      "notes": {
+        "de": "Die Stadtpolizei verlangt auf Gehwegen beim Parkieren mindestens 1,5 m freien Durchgang bzw. die Nutzung vorgesehener Flächen. Das ist keine Erlaubnis, auf dem Gehweg zu fahren. Für Sharing zusätzlich Anbieterzonen beachten; private Roller müssen dieselben technischen Landesanforderungen erfüllen.",
+        "en": "City police require at least 1.5 m of clear pedestrian space when parking on pavements, or use of designated areas. This is not permission to ride on pavements. Rental zones apply additionally; private scooters must meet the same national technical requirements."
+      }
+    },
+    {
+      "name": "Geneva",
+      "nameLocalized": {
+        "de": "Genf",
+        "en": "Geneva"
+      },
+      "notes": {
+        "de": "Die Stadtpolizei kontrolliert verbotenes Fahren auf Fußwegen und in Fußgängerzonen, besonders am Jardin Anglais und Quai des Bergues. Dort Schilder beachten und schieben, wo Fahren nicht erlaubt ist.",
+        "en": "Municipal police enforce the ban on riding on footpaths and in pedestrian zones, especially at Jardin Anglais and Quai des Bergues. Follow the signs there and walk the scooter where riding is not allowed."
+      }
+    }
+  ],
   "sources": [
     {
       "title": "ASTRA: Vorschriften über langsame E-Bikes, E-Trottinette, E-Roller usw. (Merkblatt, Stand 1. Juli 2025)",
@@ -138,6 +162,16 @@
       "title": "Fedlex: Verordnung über Alkoholgrenzwerte im Strassenverkehr (SR 741.13) – 0,5 ‰",
       "url": "https://www.fedlex.admin.ch/eli/cc/2015/297/de",
       "accessed": "2026-08-22"
+    },
+    {
+      "title": "Stadt Zürich: E-Trottinett ja – aber richtig (Parkieren/Fahrflächen)",
+      "url": "https://www.stadt-zuerich.ch/misc/de/mitteilungsarchiv/medienmitteilungen/2019/08/e-trottinett_ja_aberrichtig.html",
+      "accessed": "2026-10-20"
+    },
+    {
+      "title": "Ville de Genève: Polizeibericht 2024, Tretroller und Fußgängerbereiche",
+      "url": "https://www.geneve.ch/document/police-municipale-rapport-activites-2024-2",
+      "accessed": "2026-10-20"
     }
   ]
 }

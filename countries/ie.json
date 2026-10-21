@@ -1,0 +1,139 @@
+{
+  "schemaVersion": 1,
+  "countryCode": "IE",
+  "countryName": {
+    "de": "Irland",
+    "en": "Ireland"
+  },
+  "flagEmoji": "🇮🇪",
+  "lastUpdated": "2026-10-21",
+  "verified": true,
+  "verifiedBy": "Marc Neumann",
+  "verifiedDate": "2026-10-21",
+  "overallStatus": "restricted",
+  "summary": {
+    "de": "Ab 18 Jahren, bis 20 km/h, 400 W und 25 kg. Helm und Warnkleidung sind Pflicht. Keine Gehwege, Fußgängerzonen oder Passagiere; für zulässige Roller weder Führerschein noch Pflichtversicherung.",
+    "en": "Age 18+, up to 20 km/h, 400 W and 25 kg. Helmets and high-visibility clothing are required. No pavements, pedestrian areas or passengers; compliant scooters need neither a licence nor compulsory insurance."
+  },
+  "categories": [
+    {
+      "id": "max_speed",
+      "status": "restricted",
+      "value": {
+        "de": "20 km/h; 400 W; max. 25 kg",
+        "en": "20 km/h; 400 W; max. 25 kg"
+      },
+      "details": {
+        "de": "Höchstens 20 km/h Bauart- und Fahrgeschwindigkeit, 400 W Dauerleistung und 25 kg einschließlich Batterie. Sitzlose Bauart, Räder mindestens 200 mm und weitere Ausrüstungsvorgaben beachten.",
+        "en": "Design and riding speed at most 20 km/h, 400 W continuous power and 25 kg including battery. No seat; wheels at least 200 mm and other equipment requirements apply."
+      }
+    },
+    {
+      "id": "min_age",
+      "status": "restricted",
+      "value": {
+        "de": "Ab 18 Jahren",
+        "en": "18 years and older"
+      },
+      "details": {
+        "de": "Im öffentlichen Verkehr müssen Fahrer mindestens 18 sein. Eine Begleitung ersetzt das Mindestalter nicht.",
+        "en": "Riders in public traffic must be at least 18. Supervision does not replace the minimum age."
+      }
+    },
+    {
+      "id": "helmet",
+      "status": "restricted",
+      "value": {
+        "de": "Helm und Warnkleidung Pflicht",
+        "en": "Helmet and high-vis required"
+      },
+      "details": {
+        "de": "Einen fest geschlossenen Helm und gesicherte Warnkleidung tragen. Die Warnkleidung muss mindestens Vorder- und Rückseite des Oberkörpers bedecken.",
+        "en": "Wear a securely fastened helmet and secured high-visibility clothing. It must cover at least the front and back of the torso."
+      }
+    },
+    {
+      "id": "insurance",
+      "status": "allowed",
+      "value": {
+        "de": "Keine Pflicht für zulässige Roller",
+        "en": "No duty for compliant scooters"
+      },
+      "details": {
+        "de": "Für die beschriebene zulässige Klasse sind weder Pflichtversicherung noch Zulassung oder Steuer nötig. Private Haftpflichtdeckung trotzdem prüfen.",
+        "en": "The compliant class described needs no compulsory insurance, registration or tax. Still check private liability cover."
+      }
+    },
+    {
+      "id": "license",
+      "status": "allowed",
+      "value": {
+        "de": "Nicht nötig",
+        "en": "Not required"
+      },
+      "details": {
+        "de": "Für die beschriebene zulässige Rollerklasse ist kein Führerschein nötig.",
+        "en": "No driving licence is needed for the compliant scooter class described."
+      }
+    },
+    {
+      "id": "alcohol",
+      "status": "restricted",
+      "value": {
+        "de": "Keine Fahrt unter Einfluss",
+        "en": "No riding under the influence"
+      },
+      "details": {
+        "de": "Nicht unter Alkohol- oder Drogeneinfluss fahren. Es drohen Gerichtsverfahren und bis zu 2.000 € Strafe.",
+        "en": "Do not ride under the influence of alcohol or drugs. Court proceedings and fines of up to €2,000 are possible."
+      }
+    },
+    {
+      "id": "where_to_ride",
+      "status": "restricted",
+      "value": {
+        "de": "Links; Rad-/Busspuren und Straßen",
+        "en": "Keep left; cycle/bus lanes, roads"
+      },
+      "details": {
+        "de": "Links fahren; Rad- und Busspuren sowie zulässige Straßen nutzen. Gehwege, Fußgängerbereiche und Autobahnen sind verboten. Keine Passagiere oder Güter; Verkehrszeichen und Ampeln beachten.",
+        "en": "Keep left; use cycle and bus lanes and permitted roads. No footpaths, pedestrian areas or motorways. No passengers or goods; obey signs and signals."
+      }
+    }
+  ],
+  "fines": [
+    {
+      "offense": {
+        "de": "Ohne Helm oder Warnkleidung fahren",
+        "en": "Riding without a helmet or high-visibility clothing"
+      },
+      "amount": "100 €"
+    },
+    {
+      "offense": {
+        "de": "Unter Einfluss von Alkohol oder Drogen fahren",
+        "en": "Riding under the influence of alcohol or drugs"
+      },
+      "amount": "max. 2.000 €"
+    }
+  ],
+  "cities": [],
+  "upcomingChanges": [],
+  "sources": [
+    {
+      "title": "RSA: aktuelle Rollerregeln und Bußgelder",
+      "url": "https://www.rsa.ie/road-safety/road-users/special-purpose-vehicles/e-scooters",
+      "accessed": "2026-10-21"
+    },
+    {
+      "title": "Dublin City Council: Altersgrenze 18 (05.10.2026)",
+      "url": "https://www.dublincity.ie/news/lord-mayor-dublin-welcomes-introduction-e-scooter-age-restrictions",
+      "accessed": "2026-10-21"
+    },
+    {
+      "title": "Department of Transport: Regelungsrahmen von 2024",
+      "url": "https://www.gov.ie/en/department-of-transport/publications/e-scooters/",
+      "accessed": "2026-10-21"
+    }
+  ]
+}

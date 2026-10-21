@@ -113,10 +113,14 @@
   ],
   "cities": [
     {
-      "name": "Wien",
+      "name": "Vienna",
       "notes": {
         "de": "Leih-Scooter dürfen nicht auf Gehsteigen abgestellt werden: vorrangig rot markierte Abstellflächen nutzen (im 100-m-Umkreis solcher Flächen ist anderes Abstellen verboten), sonst am Fahrbahnrand/in Parkspuren. Es gelten Sperrzonen (z. B. um Krankenhäuser und Märkte) und automatische Langsamfahrzonen in Fußgängerzonen und Wohnstraßen.",
         "en": "Rental scooters must not be parked on sidewalks: use the red-marked parking bays first (other parking is banned within 100 m of such bays), otherwise park at the roadside/in parking lanes. No-go zones apply (e.g. around hospitals and markets) plus automatic slow zones in pedestrian zones and residential streets."
+      },
+      "nameLocalized": {
+        "de": "Wien",
+        "en": "Vienna"
       }
     }
   ],

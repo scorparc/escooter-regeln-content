@@ -3,10 +3,10 @@
   "countryCode": "IT",
   "countryName": { "de": "Italien", "en": "Italy" },
   "flagEmoji": "🇮🇹",
-  "lastUpdated": "2026-08-22",
+  "lastUpdated": "2026-10-20",
   "verified": true,
   "verifiedBy": "Marc Neumann",
-  "verifiedDate": "2026-08-22",
+  "verifiedDate": "2026-10-20",
   "overallStatus": "restricted",
   "summary": {
     "de": "Italien hat mit der Reform des Codice della Strada (Legge 177/2024) stark verschärft: Helmpflicht für alle seit 14.12.2024, Kennzeichenpflicht (targhino) seit 17.05.2026, Versicherungspflicht seit 16.07.2026. Max. 20 km/h, ab 14 Jahren, nur innerorts.",
@@ -121,17 +121,25 @@
   ],
   "cities": [
     {
-      "name": "Mailand",
+      "name": "Milan",
       "notes": {
-        "de": "Strenge Kontrollen; drei Sharing-Anbieter (Lime, Dott, Bird) mit auf ca. 6.000 Fahrzeuge reduzierter Flotte, Parkzonen und Sperrbereichen. Kennzeichen- und Versicherungspflicht gilt auch für Leih-Scooter (Betreiber verantwortlich); im Mai 2026 mussten Sharing-Scooter ohne Kennzeichen zeitweise stillgelegt werden.",
-        "en": "Strict enforcement; three sharing operators (Lime, Dott, Bird) with a fleet cut to about 6,000 vehicles, parking zones and restricted areas. The plate and insurance requirements also apply to rental scooters (operator responsible); in May 2026 sharing scooters without plates were temporarily grounded."
+        "de": "Leihroller nur auf den vom Anbieter ausgewiesenen Fahrrad- und Motorrad-Abstellflächen zurückgeben. Zusätzlich gelten die nationalen Regeln (Helm, Kennzeichen, Versicherung).",
+        "en": "Return rental scooters only in the bicycle and motorcycle parking areas designated by the provider. National rules (helmet, plate, insurance) also apply."
+      },
+      "nameLocalized": {
+        "de": "Mailand",
+        "en": "Milan"
       }
     },
     {
-      "name": "Rom",
+      "name": "Rome",
       "notes": {
         "de": "Sharing über Lime, Dott und Bird mit stadtweiten Kontingenten (Obergrenzen im Zentrum, Mindestflotten in Außenbezirken) und Pflicht-Parkzonen; Abstellen auf Gehwegen nur in markierten Flächen. Für Jahresabo-Inhaber des ÖPNV gibt es Vergünstigungen.",
         "en": "Sharing via Lime, Dott and Bird with citywide quotas (caps in the centre, minimum fleets in outer districts) and mandatory parking zones; parking on sidewalks only in marked areas. Discounts exist for annual public transport pass holders."
+      },
+      "nameLocalized": {
+        "de": "Rom",
+        "en": "Rome"
       }
     }
   ],
@@ -161,6 +169,11 @@
       "title": "Roma Servizi per la Mobilità: Nuovo Codice della Strada – cosa cambia per i monopattini",
       "url": "https://romamobilita.it/primo-piano/nuovo-codice-della-strada-cosa-cambia-per-luso-dei-monopattini-elettrici/",
       "accessed": "2026-07-03"
+    },
+    {
+      "title": "Comune di Milano: Sharing-Roller in ausgewiesenen Fahrrad-/Motorradflächen abstellen",
+      "url": "https://servizicrm.comune.milano.it/centro-supporto/KA-01676/Parcheggio-monopattino-in-sharing-a-Milano",
+      "accessed": "2026-10-20"
     }
   ]
 }
