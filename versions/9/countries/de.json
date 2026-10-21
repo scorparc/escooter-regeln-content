@@ -1,0 +1,267 @@
+{
+  "schemaVersion": 1,
+  "countryCode": "DE",
+  "countryName": { "de": "Deutschland", "en": "Germany", "fr": "Allemagne", "it": "Germania", "es": "Alemania" },
+  "flagEmoji": "🇩🇪",
+  "lastUpdated": "2026-10-20",
+  "verified": true,
+  "verifiedBy": "Marc Neumann",
+  "verifiedDate": "2026-10-20",
+  "overallStatus": "restricted",
+  "summary": {
+    "de": "E-Scooter sind in Deutschland erlaubt, aber nur mit Versicherungsplakette und Allgemeiner Betriebserlaubnis (eKFV). Gefahren wird auf Radwegen, sonst auf der Fahrbahn – nie auf dem Gehweg.",
+    "en": "E-scooters are legal in Germany, but only with an insurance sticker and general type approval (eKFV). Ride on bike paths, otherwise on the road – never on the sidewalk.",
+    "fr": "Les trottinettes électriques sont autorisées en Allemagne, mais uniquement avec vignette d’assurance et Allgemeine Betriebserlaubnis (eKFV). Circule sur les pistes cyclables, sinon sur la chaussée – jamais sur le trottoir.",
+    "it": "In Germania i monopattini elettrici sono consentiti solo con contrassegno assicurativo e Allgemeine Betriebserlaubnis (eKFV). Circola sulle piste ciclabili, altrimenti sulla carreggiata, mai sul marciapiede.",
+    "es": "En Alemania se permiten patinetes eléctricos solo con distintivo de seguro y Allgemeine Betriebserlaubnis (eKFV). Circula por carriles bici y, si no hay, por la calzada; nunca por la acera."
+  },
+  "categories": [
+    {
+      "id": "max_speed",
+      "status": "restricted",
+      "value": { "de": "20 km/h", "en": "20 km/h", "fr": "20 km/h", "it": "20 km/h", "es": "20 km/h" },
+      "details": {
+        "de": "Die bauartbedingte Höchstgeschwindigkeit beträgt 20 km/h. Schnellere Fahrzeuge erhalten keine Betriebserlaubnis und dürfen im öffentlichen Raum nicht gefahren werden. Technisches Frisieren führt zum Erlöschen von Betriebserlaubnis und Versicherungsschutz.",
+        "en": "The maximum design speed is 20 km/h. Faster vehicles are not type-approved and must not be ridden in public. Tuning voids the type approval and insurance cover.",
+        "fr": "La vitesse maximale par construction est de 20 km/h. Les véhicules plus rapides n’obtiennent pas d’autorisation de circulation et sont interdits dans l’espace public. Le débridage annule l’autorisation et la couverture d’assurance.",
+        "it": "La velocità massima di costruzione è 20 km/h. I mezzi più veloci non ottengono l’autorizzazione e non possono circolare in spazi pubblici. Le modifiche per aumentarne la velocità fanno decadere autorizzazione e copertura assicurativa.",
+        "es": "La velocidad máxima de diseño es 20 km/h. Los vehículos más rápidos no obtienen autorización y no pueden circular en espacios públicos. La manipulación para aumentar la velocidad anula la autorización y la cobertura del seguro."
+      }
+    },
+    {
+      "id": "min_age",
+      "status": "restricted",
+      "value": { "de": "ab 14 Jahren", "en": "14 years and older", "fr": "Dès 14 ans", "it": "Dai 14 anni", "es": "Desde los 14 años" },
+      "details": {
+        "de": "Das Mindestalter beträgt 14 Jahre (§ 3 eKFV). Es gibt keine Ausnahme mit Begleitung.",
+        "en": "The minimum age is 14 (Section 3 eKFV). There is no exception for supervised riding.",
+        "fr": "L’âge minimal est de 14 ans (§ 3 eKFV). Aucune exception, même accompagné.",
+        "it": "L’età minima è 14 anni (§ 3 eKFV). Nessuna eccezione se accompagnati.",
+        "es": "La edad mínima es de 14 años (§ 3 eKFV). No hay excepción por acompañamiento."
+      }
+    },
+    {
+      "id": "helmet",
+      "status": "allowed",
+      "value": { "de": "keine Pflicht", "en": "not required", "fr": "Non obligatoire", "it": "Non obbligatorio", "es": "No obligatorio" },
+      "details": {
+        "de": "Es besteht keine Helmpflicht. Ein Helm wird dringend empfohlen.",
+        "en": "There is no helmet requirement. Wearing a helmet is strongly recommended.",
+        "fr": "Le casque n’est pas obligatoire. Il est vivement recommandé.",
+        "it": "Il casco non è obbligatorio. È fortemente consigliato.",
+        "es": "El casco no es obligatorio. Se recomienda encarecidamente."
+      }
+    },
+    {
+      "id": "insurance",
+      "status": "restricted",
+      "value": { "de": "Pflicht (Plakette)", "en": "required (sticker)", "fr": "Obligatoire (vignette)", "it": "Obbligatoria (contrassegno)", "es": "Obligatorio (distintivo)" },
+      "details": {
+        "de": "Haftpflichtversicherung ist Pflicht. Der Nachweis ist die aufgeklebte Versicherungsplakette, die jährlich (Versicherungsjahr ab 1. März) erneuert werden muss. Ohne gültige Plakette drohen Bußgeld und Haftungsrisiken.",
+        "en": "Liability insurance is mandatory, proven by the adhesive insurance sticker, renewed annually (insurance year starts 1 March). Riding without a valid sticker risks a fine and personal liability.",
+        "fr": "L’assurance responsabilité civile est obligatoire. La preuve est la vignette adhésive à renouveler chaque année (année d’assurance dès le 1 mars). Sans vignette valide, tu risques une amende et d’engager ta responsabilité.",
+        "it": "L’assicurazione di responsabilità civile è obbligatoria. La prova è il contrassegno adesivo da rinnovare ogni anno (anno assicurativo dal 1 marzo). Senza contrassegno valido rischi una multa e responsabilità personali.",
+        "es": "El seguro de responsabilidad civil es obligatorio. Lo acredita el distintivo adhesivo que se renueva anualmente (año de seguro desde el 1 de marzo). Sin distintivo válido te expones a multas y responsabilidad personal."
+      }
+    },
+    {
+      "id": "license",
+      "status": "allowed",
+      "value": { "de": "nicht nötig", "en": "not required", "fr": "Non nécessaire", "it": "Non necessaria", "es": "No necesario" },
+      "details": {
+        "de": "Es ist kein Führerschein und keine Prüfbescheinigung erforderlich.",
+        "en": "No driving licence or test certificate is required.",
+        "fr": "Ni permis de conduire ni attestation d’examen ne sont nécessaires.",
+        "it": "Non servono patente né certificato d’esame.",
+        "es": "No se necesitan permiso de conducir ni certificado de examen."
+      }
+    },
+    {
+      "id": "alcohol",
+      "status": "restricted",
+      "value": { "de": "0,5 ‰ (0,0 ‰ unter 21)", "en": "0.5 ‰ (0.0 ‰ under 21)", "fr": "0,5 ‰ (0,0 ‰ avant 21 ans)", "it": "0,5 ‰ (0,0 ‰ sotto i 21 anni)", "es": "0,5 ‰ (0,0 ‰ menores de 21)" },
+      "details": {
+        "de": "Es gelten die gleichen Promillegrenzen wie beim Autofahren: ab 0,5 ‰ Ordnungswidrigkeit (Bußgeld, Fahrverbot, Punkte), ab 1,1 ‰ Straftat. Ab 0,3 ‰ kann bei Ausfallerscheinungen bereits eine Straftat vorliegen. Für Fahranfänger in der Probezeit und unter 21 gilt 0,0 ‰.",
+        "en": "The same alcohol limits as for driving a car apply: from 0.5 ‰ it is an administrative offence (fine, driving ban, points), from 1.1 ‰ a criminal offence. From 0.3 ‰ with impaired driving it can already be criminal. Novice drivers and riders under 21 must stay at 0.0 ‰.",
+        "fr": "Mêmes seuils qu’en voiture : dès 0,5 ‰, infraction administrative (amende, interdiction de conduire, points) ; dès 1,1 ‰, délit. Dès 0,3 ‰ avec signes d’incapacité, un délit est déjà possible. Pour les conducteurs en période probatoire et les moins de 21 ans : 0,0 ‰.",
+        "it": "Valgono i limiti delle auto: da 0,5 ‰ illecito amministrativo (multa, sospensione della guida, punti), da 1,1 ‰ reato. Da 0,3 ‰ con segni di alterazione può già essere reato. Per neopatentati in prova e minori di 21 anni vale 0,0 ‰.",
+        "es": "Se aplican los límites del coche: desde 0,5 ‰, infracción administrativa (multa, prohibición de conducir, puntos); desde 1,1 ‰, delito. Desde 0,3 ‰ con signos de incapacidad ya puede ser delito. Para conductores en periodo de prueba y menores de 21 años: 0,0 ‰."
+      }
+    },
+    {
+      "id": "where_to_ride",
+      "status": "restricted",
+      "value": { "de": "Radweg, sonst Fahrbahn", "en": "bike path, else road", "fr": "Piste cyclable, sinon chaussée", "it": "Pista ciclabile, altrimenti carreggiata", "es": "Carril bici; si no hay, calzada" },
+      "details": {
+        "de": "Gefahren werden muss auf baulich angelegten Radwegen, Radfahrstreifen und in Fahrradstraßen (§ 10 eKFV). Gibt es keine, ist die Fahrbahn zu nutzen; innerorts sind auch verkehrsberuhigte Bereiche erlaubt, außerorts zusätzlich der Seitenstreifen. Gehwege, Fußgängerzonen und Einbahnstraßen entgegen der Fahrtrichtung sind tabu, außer Zusatzschilder erlauben es. Nur eine Person pro Roller, kein Anhänger, einzeln hintereinander fahren. Ab 1. März 2027 werden die Verhaltensregeln an den Radverkehr angeglichen (u. a. Grünpfeil, Nebeneinanderfahren, Freigabe durch Zusatzzeichen \"Radverkehr frei\").",
+        "en": "You must use structurally separated bike paths, bike lanes and bicycle streets (Section 10 eKFV). Where none exist, use the road; traffic-calmed zones are also allowed in town, and the hard shoulder outside built-up areas. Sidewalks, pedestrian zones and one-way streets against traffic are off-limits unless signs explicitly allow it. One person per scooter, no trailers, ride in single file. From 1 March 2027 the conduct rules will be aligned with bicycle traffic (including green-arrow turns, riding side by side, and access where \"bicycles permitted\" signs apply).",
+        "fr": "Utilise les pistes cyclables aménagées, bandes cyclables et rues cyclables (§ 10 eKFV). Sinon, prends la chaussée ; en ville, les zones à circulation apaisée sont admises, hors agglomération aussi l’accotement. Trottoirs, zones piétonnes et sens interdit sont exclus sauf panneau d’autorisation. Une personne, pas de remorque, en file. Dès le 1 mars 2027, règles alignées sur les cycles : flèche verte, côte à côte et panneau « Radverkehr frei ».",
+        "it": "Usa piste ciclabili strutturali, corsie ciclabili e strade ciclabili (§ 10 eKFV). Se mancano, usa la carreggiata; in città anche le zone a traffico moderato, fuori città anche la banchina. Vietati marciapiedi, aree pedonali e contromano nei sensi unici, salvo segnali di deroga. Una persona, niente rimorchio, in fila. Dal 1 marzo 2027 regole allineate alle bici: freccia verde, affiancamento e segnale «Radverkehr frei».",
+        "es": "Debes usar pistas y carriles bici y calles ciclistas (§ 10 eKFV). Si no hay, usa la calzada; en poblado también zonas de tráfico calmado y fuera de él, además, el arcén. Se prohíben aceras, zonas peatonales y sentidos únicos a contramano, salvo señal autorizante. Una persona, sin remolque, en fila. Desde el 1 de marzo de 2027 se equiparan normas ciclistas: flecha verde, circular en paralelo y señal «Radverkehr frei»."
+      }
+    }
+  ],
+  "fines": [
+    {
+      "offense": { "de": "Fahren auf dem Gehweg", "en": "Riding on the sidewalk", "fr": "Circuler sur le trottoir", "it": "Circolare sul marciapiede", "es": "Circular por la acera" },
+      "amount": "15–30 €",
+      "notes": {
+        "de": "Höhere Bußgelder sind beschlossen und gelten ab 1. März 2027.",
+        "en": "Higher fines have been adopted and take effect on 1 March 2027.",
+        "fr": "Des amendes plus élevées ont été adoptées et s’appliquent dès le 1 mars 2027.",
+        "it": "Sono state approvate multe più elevate, in vigore dal 1 marzo 2027.",
+        "es": "Se han aprobado multas superiores que rigen desde el 1 de marzo de 2027."
+      }
+    },
+    {
+      "offense": { "de": "Fahren ohne gültige Versicherungsplakette", "en": "Riding without a valid insurance sticker", "fr": "Circuler sans vignette d’assurance valide", "it": "Circolare senza contrassegno assicurativo valido", "es": "Circular sin distintivo de seguro válido" },
+      "amount": "40 €",
+      "notes": {
+        "de": "Fahren ganz ohne Versicherungsschutz ist eine Straftat (§ 6 PflVG).",
+        "en": "Riding without any insurance cover at all is a criminal offence (Section 6 PflVG).",
+        "fr": "Circuler sans aucune couverture d’assurance est un délit (§ 6 PflVG).",
+        "it": "Circolare senza alcuna copertura assicurativa è un reato (§ 6 PflVG).",
+        "es": "Circular sin ninguna cobertura de seguro es delito (§ 6 PflVG)."
+      }
+    },
+    {
+      "offense": { "de": "Rote Ampel missachtet", "en": "Running a red light", "fr": "Ne pas respecter un feu rouge", "it": "Passare con il rosso", "es": "Saltarse un semáforo en rojo" },
+      "amount": "60–180 €",
+      "notes": { "de": "Plus 1 Punkt in Flensburg.", "en": "Plus 1 point on the driving record.", "fr": "Plus 1 point à Flensburg.", "it": "Inoltre 1 punto a Flensburg.", "es": "Además, 1 punto en Flensburgo." }
+    },
+    {
+      "offense": { "de": "Zu zweit auf einem E-Scooter", "en": "Two people on one e-scooter", "fr": "Deux personnes sur une trottinette électrique", "it": "Due persone su un monopattino elettrico", "es": "Dos personas en un patinete eléctrico" },
+      "amount": "10 €",
+      "notes": {
+        "de": "Höhere Bußgelder sind beschlossen und gelten ab 1. März 2027.",
+        "en": "Higher fines have been adopted and take effect on 1 March 2027.",
+        "fr": "Des amendes plus élevées ont été adoptées et s’appliquent dès le 1 mars 2027.",
+        "it": "Sono state approvate multe più elevate, in vigore dal 1 marzo 2027.",
+        "es": "Se han aprobado multas superiores que rigen desde el 1 de marzo de 2027."
+      }
+    },
+    {
+      "offense": { "de": "Handy am Lenker benutzt", "en": "Using a phone while riding", "fr": "Utiliser un téléphone au guidon", "it": "Usare il telefono al manubrio", "es": "Usar el móvil al manillar" },
+      "amount": "100 €",
+      "notes": { "de": "Plus 1 Punkt in Flensburg.", "en": "Plus 1 point on the driving record.", "fr": "Plus 1 point à Flensburg.", "it": "Inoltre 1 punto a Flensburg.", "es": "Además, 1 punto en Flensburgo." }
+    },
+    {
+      "offense": { "de": "Fahrt mit 0,5–1,09 ‰", "en": "Riding with 0.5–1.09 ‰ BAC", "fr": "Rouler avec 0,5–1,09 ‰", "it": "Guidare con 0,5–1,09 ‰", "es": "Circular con 0,5–1,09 ‰" },
+      "amount": "ab 500 €",
+      "notes": {
+        "de": "Zusätzlich 1 Monat Fahrverbot und 2 Punkte; ab 1,1 ‰ Straftat.",
+        "en": "Plus a 1-month driving ban and 2 points; from 1.1 ‰ it is a criminal offence.",
+        "fr": "En plus, 1 mois d’interdiction de conduire et 2 points ; dès 1,1 ‰, délit.",
+        "it": "Inoltre 1 mese di sospensione della guida e 2 punti; da 1,1 ‰ è reato.",
+        "es": "Además, 1 mes de prohibición de conducir y 2 puntos; desde 1,1 ‰ es delito."
+      }
+    }
+  ],
+  "cities": [
+    {
+      "name": "Berlin",
+      "notes": {
+        "de": "Leih-Scooter dürfen in weiten Teilen der Innenstadt nur auf markierten Flächen abgestellt werden; Sperrzonen u. a. an Sehenswürdigkeiten. Für Privat-Scooter gelten die normalen Bundesregeln.",
+        "en": "Rental scooters may only be parked in marked areas in much of the inner city; no-go zones around major sights. Private scooters follow the normal federal rules.",
+        "fr": "Dans une grande partie du centre, stationne les locations uniquement dans les emplacements marqués ; zones interdites notamment près des sites touristiques. Les trottinettes privées suivent les règles fédérales habituelles.",
+        "it": "In gran parte del centro i monopattini a noleggio vanno parcheggiati solo negli spazi segnati; zone vietate, tra l’altro, presso i monumenti. Ai privati si applicano le normali regole federali.",
+        "es": "En gran parte del centro, el alquiler solo puede aparcar en zonas marcadas; hay zonas prohibidas, entre otros sitios, junto a monumentos. Los patinetes privados siguen las normas federales habituales."
+      },
+      "nameLocalized": {
+        "de": "Berlin",
+        "en": "Berlin",
+        "fr": "Berlin",
+        "it": "Berlino",
+        "es": "Berlín"
+      }
+    },
+    {
+      "name": "Munich",
+      "nameLocalized": {
+        "de": "München",
+        "en": "Munich",
+        "fr": "Munich",
+        "it": "Monaco di Baviera",
+        "es": "Múnich"
+      },
+      "notes": {
+        "de": "In der Altstadt können Sharing-Roller nur auf den dafür vorgesehenen Abstellflächen zurückgegeben werden; außerhalb bleibt die Mietbeendigung gesperrt. Diese betriebliche Abstellregel ist kein pauschales Fahrverbot für Privatroller. Aktuelle Anbieterflächen und Beschilderung beachten.",
+        "en": "In the old town, shared scooters can only be returned at designated parking areas; ending rentals elsewhere is blocked. This operating condition is not a blanket riding ban for private scooters. Check current provider parking areas and signs.",
+        "fr": "Dans la vieille ville, rends les locations uniquement aux emplacements dédiés ; terminer ailleurs est bloqué. Cette règle de restitution n’interdit pas globalement les trottinettes privées. Vérifie emplacements et panneaux actuels.",
+        "it": "Nel centro storico puoi riconsegnare i noleggi solo negli spazi previsti; altrove terminare la corsa è bloccato. Non è un divieto generale di guida per i privati. Verifica spazi del gestore e segnaletica aggiornati.",
+        "es": "En el casco antiguo solo se devuelve el alquiler en zonas previstas; finalizar fuera está bloqueado. Esta regla de devolución no prohíbe circular a los privados en general. Consulta las zonas actuales y las señales."
+      }
+    },
+    {
+      "name": "Hamburg",
+      "nameLocalized": {
+        "de": "Hamburg",
+        "en": "Hamburg",
+        "fr": "Hambourg",
+        "it": "Amburgo",
+        "es": "Hamburgo"
+      },
+      "notes": {
+        "de": "Elektrische Tretroller dürfen seit 24.08.2023 nicht in der Hamburger U-Bahn mitgenommen werden (HOCHBAHN-Brandschutzregel). Das ist eine Beförderungsregel und kein Straßenfahrverbot; für Bus, S-Bahn und andere Betreiber deren aktuelle Bedingungen gesondert prüfen. Mobilitätshilfen nicht mit Tretrollern gleichsetzen.",
+        "en": "Electric kick scooters have been prohibited on Hamburg's U-Bahn since 24 August 2023 under HOCHBAHN fire-safety rules. This is a carriage rule, not a road ban; separately check current terms for buses, S-Bahn and other operators. Do not confuse mobility aids with kick scooters.",
+        "fr": "Depuis le 24.08.2023, les trottinettes électriques sont interdites dans le métro de Hambourg (sécurité incendie HOCHBAHN). Pas une interdiction routière ; vérifie séparément les conditions des bus, du S-Bahn et des autres opérateurs. Ne confonds pas aides à la mobilité et trottinettes.",
+        "it": "Dal 24.08.2023 è vietato trasportare monopattini elettrici nella metropolitana di Amburgo (norma antincendio HOCHBAHN). Non è un divieto stradale; verifica separatamente bus, S-Bahn e altri gestori. Non equiparare ausili di mobilità e monopattini.",
+        "es": "Desde el 24.08.2023 no se pueden llevar patinetes eléctricos en el metro de Hamburgo (norma contra incendios HOCHBAHN). No es una prohibición vial; comprueba aparte bus, S-Bahn y otros operadores. No equipares ayudas de movilidad y patinetes."
+      }
+    }
+  ],
+  "upcomingChanges": [
+    {
+      "effectiveDate": "2027-03-01",
+      "summary": {
+        "de": "Die restlichen Teile der eKFV-Novelle treten in Kraft: an den Radverkehr angeglichene Verhaltensregeln und höhere Bußgelder. (Die technischen Vorgaben aus Artikel 1 gelten bereits seit 01.04.2026.)",
+        "en": "The remaining parts of the eKFV amendment take effect: conduct rules aligned with bicycle traffic and higher fines. (The technical requirements from Article 1 have applied since 1 April 2026.)",
+        "fr": "Les dispositions restantes de la réforme eKFV entrent en vigueur : règles de conduite alignées sur les cycles et amendes plus élevées. (Les exigences techniques de l’article 1 s’appliquent déjà depuis le 01.04.2026.)",
+        "it": "Entrano in vigore le parti restanti della riforma eKFV: regole di comportamento allineate alle biciclette e multe maggiori. (I requisiti tecnici dell’articolo 1 valgono già dal 01.04.2026.)",
+        "es": "Entran en vigor las partes restantes de la reforma eKFV: normas de comportamiento equiparadas a las bicicletas y multas superiores. (Los requisitos técnicos del artículo 1 ya rigen desde el 01.04.2026.)"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "title": "Elektrokleinstfahrzeuge-Verordnung (eKFV), Volltext – gesetze-im-internet.de (zuletzt geändert 30.01.2026)",
+      "url": "https://www.gesetze-im-internet.de/ekfv/BJNR075610019.html",
+      "accessed": "2026-07-03"
+    },
+    {
+      "title": "BMV: FAQ Elektrokleinstfahrzeuge-Verordnung",
+      "url": "https://www.bmv.de/SharedDocs/DE/Artikel/StV/Strassenverkehr/elektrokleinstfahrzeuge-verordnung-faq.html",
+      "accessed": "2026-07-03"
+    },
+    {
+      "title": "BMV: FAQ zur Novelle der Elektrokleinstfahrzeuge-Verordnung (verkündet 06.02.2026)",
+      "url": "https://www.bmv.de/SharedDocs/DE/Artikel/StV/Strassenverkehr/elektrokleinstfahrzeuge-verordnung-faq-novelle.html",
+      "accessed": "2026-07-03"
+    },
+    {
+      "title": "ADAC: E-Scooter – Regeln, Bußgelder plus geplante Neuregelungen",
+      "url": "https://www.adac.de/rund-ums-fahrzeug/elektromobilitaet/e-kleinstfahrzeuge/e-scooter/",
+      "accessed": "2026-07-03"
+    },
+    {
+      "title": "Deutscher Bundestag: Beschluss zur Halterhaftung bei Elektrokleinstfahrzeugen (09.07.2026, Bundesrat ausstehend)",
+      "url": "https://www.bundestag.de/dokumente/textarchiv/2026/kw28-de-elektrokleinstfahrzeuge-1192562",
+      "accessed": "2026-08-22"
+    },
+    {
+      "title": "Senat Berlin: Elektro-Tretroller, Regeln und Abstellen",
+      "url": "https://www.berlin.de/sen/uvk/mobilitaet-und-verkehr/verkehrsplanung/elektromobilitaet/elektro-tretroller/",
+      "accessed": "2026-10-20"
+    },
+    {
+      "title": "Stadt München: Rathaus Umschau 06.11.2023, Abstellkonzept Altstadt",
+      "url": "https://ru.muenchen.de/pdf/2023/ru-2023-11-06.pdf",
+      "accessed": "2026-10-20"
+    },
+    {
+      "title": "HOCHBAHN: keine E-Tretroller in U-Bahnen ab 24.08.2023",
+      "url": "https://www.hochbahn.de/resource/blob/58268/4157b4ce1cfb5c4ecb4478ee806e237c/ab-24-august-keine-e-scooter-mehr-in-den-u-bahnen-d2-data.pdf",
+      "accessed": "2026-10-20"
+    }
+  ]
+}

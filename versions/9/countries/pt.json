@@ -1,0 +1,250 @@
+{
+  "schemaVersion": 1,
+  "countryCode": "PT",
+  "countryName": {
+    "de": "Portugal",
+    "en": "Portugal",
+    "fr": "Portugal",
+    "it": "Portogallo",
+    "es": "Portugal"
+  },
+  "flagEmoji": "🇵🇹",
+  "lastUpdated": "2026-10-20",
+  "verified": true,
+  "verifiedBy": "Marc Neumann",
+  "verifiedDate": "2026-10-20",
+  "overallStatus": "restricted",
+  "summary": {
+    "de": "Zulässige E-Tretroller sind Fahrrädern gleichgestellt: höchstens 25 km/h und 250 W Dauerleistung, keine Versicherungs- oder Führerscheinpflicht. Radwege nutzen, nicht auf Gehwegen fahren. Für Leihroller gelten zusätzlich örtliche Park- und Tempozonen.",
+    "en": "Compliant e-scooters are treated like bicycles: at most 25 km/h and 250 W continuous power, no insurance or licence required. Use cycle lanes and keep off pavements. Rental scooters also have local parking and speed zones.",
+    "fr": "Les trottinettes conformes sont assimilées aux vélos : max. 25 km/h et 250 W continus, ni assurance ni permis obligatoires. Utilise les pistes, pas les trottoirs. Les locations ont aussi des zones locales de stationnement et de vitesse.",
+    "it": "I monopattini conformi sono equiparati alle bici: max. 25 km/h e 250 W continui, senza obbligo di assicurazione o patente. Usa le ciclabili, non i marciapiedi. Per i noleggi valgono anche zone locali di sosta e velocità.",
+    "es": "Los patinetes conformes se equiparan a bicicletas: máx. 25 km/h y 250 W continuos, sin seguro ni permiso obligatorios. Usa carriles bici, no aceras. El alquiler tiene además zonas locales de aparcamiento y velocidad."
+  },
+  "categories": [
+    {
+      "id": "max_speed",
+      "status": "restricted",
+      "value": {
+        "de": "25 km/h; max. 250 W",
+        "en": "25 km/h; max. 250 W",
+        "fr": "25 km/h ; max. 250 W",
+        "it": "25 km/h; max. 250 W",
+        "es": "25 km/h; máx. 250 W"
+      },
+      "details": {
+        "de": "Die Gleichstellung mit Fahrrädern gilt nur bis 0,25 kW maximaler Dauerleistung und 25 km/h bauartbedingter Geschwindigkeit (Art. 112). Stärkere oder schnellere Roller sind nach ANSR nicht zum öffentlichen Verkehr zugelassen; ein langsamer Fahrmodus genügt nicht. Örtliche und Sharing-Limits können niedriger sein.",
+        "en": "Bicycle equivalence requires no more than 0.25 kW maximum continuous power and a 25 km/h design speed (Article 112). ANSR states that more powerful or faster scooters are not admitted to public roads; selecting a slower mode is insufficient. Local and rental limits may be lower.",
+        "fr": "Assimilation aux vélos seulement jusqu’à 0,25 kW continus et 25 km/h par construction (art. 112). Selon l’ANSR, les modèles plus puissants ou rapides ne sont pas admis sur voie publique ; un mode lent ne suffit pas. Limites locales et de location parfois inférieures.",
+        "it": "Equiparazione alle bici solo fino a 0,25 kW continui e 25 km/h di costruzione (art. 112). Secondo ANSR i più potenti/veloci non sono ammessi nel traffico pubblico; non basta una modalità lenta. Limiti locali e dello sharing anche inferiori.",
+        "es": "Equiparación a bicicletas solo hasta 0,25 kW continuos y 25 km/h de diseño (art. 112). Según ANSR los más potentes/rápidos no están autorizados en vías públicas; no basta un modo lento. Los límites locales y de alquiler pueden ser menores."
+      }
+    },
+    {
+      "id": "min_age",
+      "status": "unknown",
+      "value": {
+        "de": "Kein festes Mindestalter bekannt",
+        "en": "No fixed minimum age known",
+        "fr": "Pas d’âge minimal fixe connu",
+        "it": "Nessuna età minima fissa nota",
+        "es": "Sin edad mínima fija conocida"
+      },
+      "details": {
+        "de": "Für diese Fahrzeugklasse ist uns kein allgemeines gesetzliches Mindestalter bekannt. Leihanbieter verlangen meist ein Mindestalter (oft 18) – Mietbedingungen prüfen.",
+        "en": "We are not aware of a general statutory minimum age for this vehicle class. Rental providers usually set a minimum age (often 18) – check the rental terms.",
+        "fr": "Aucun âge minimal légal général connu pour cette catégorie. Les loueurs fixent généralement un âge minimal, souvent 18 ans ; vérifie les conditions.",
+        "it": "Non ci è nota un’età minima legale generale per questa categoria. I gestori di solito fissano un minimo, spesso 18 anni; verifica le condizioni.",
+        "es": "No conocemos edad mínima legal general para esta categoría. Los arrendadores suelen exigir un mínimo, a menudo 18 años; comprueba las condiciones."
+      }
+    },
+    {
+      "id": "helmet",
+      "status": "allowed",
+      "value": {
+        "de": "Empfohlen, nicht allgemein Pflicht",
+        "en": "Recommended, not generally mandatory",
+        "fr": "Conseillé, pas d’obligation générale",
+        "it": "Consigliato, non obbligo generale",
+        "es": "Recomendado, sin obligación general"
+      },
+      "details": {
+        "de": "Für den hier beschriebenen, Fahrrädern gleichgestellten Tretroller besteht keine allgemeine Helmpflicht aus Art. 82 Abs. 5: diese frühere Vorschrift wurde aufgehoben. Helm dringend empfohlen; Anbieter können ihn vertraglich verlangen. Andere Fahrzeugklassen sind nicht von dieser Aussage erfasst.",
+        "en": "For the bicycle-equivalent scooter described here, Article 82(5) no longer imposes a general helmet duty: the former provision was repealed. A helmet is strongly recommended; rental terms may require one. This statement does not cover other vehicle classes.",
+        "fr": "Pas d’obligation générale de casque pour la catégorie assimilée au vélo selon l’art. 82 al. 5 : cette ancienne disposition a été abrogée. Casque vivement conseillé ; le contrat de location peut l’exiger. Les autres catégories ne sont pas couvertes.",
+        "it": "Per la categoria equiparata alla bici non vale un obbligo generale di casco dall’art. 82 co. 5: la vecchia norma è stata abrogata. Casco fortemente consigliato; il contratto può imporlo. Altre categorie escluse da questa indicazione.",
+        "es": "Para la categoría equiparada a bicicleta no hay obligación general de casco del art. 82 ap. 5: la antigua disposición fue derogada. Muy recomendado; el contrato puede exigirlo. No abarca otras categorías."
+      }
+    },
+    {
+      "id": "insurance",
+      "status": "allowed",
+      "value": {
+        "de": "Zulässige Klasse: keine Kfz-Pflicht",
+        "en": "Compliant class: no motor cover",
+        "fr": "Catégorie conforme : pas de RC auto",
+        "it": "Categoria conforme: niente RC auto",
+        "es": "Categoría conforme: sin RC de vehículos"
+      },
+      "details": {
+        "de": "Laut Verkehrssicherheitsbehörde ANSR (2025) brauchen Roller bis 250 W und 25 km/h keine Kfz-Haftpflicht und kein Kennzeichen. Stärkere oder schnellere Roller sind dadurch nicht erlaubt. Eine private Haftpflicht, die Roller-Schäden abdeckt, ist empfehlenswert.",
+        "en": "According to the road safety authority ANSR (2025), scooters up to 250 W and 25 km/h need no motor liability insurance and no plate. This does not make more powerful or faster scooters legal. Private liability cover that includes scooter damage is recommended.",
+        "fr": "Selon l’ANSR (2025), jusqu’à 250 W et 25 km/h, ni RC automobile ni plaque. Cela n’autorise pas les modèles plus puissants/rapides. Une RC privée couvrant les dommages de trottinette est conseillée.",
+        "it": "Secondo ANSR (2025), fino a 250 W e 25 km/h non servono RC auto né targa. Non autorizza mezzi più potenti/veloci. Consigliata RC privata che copra i danni da monopattino.",
+        "es": "Según ANSR (2025), hasta 250 W y 25 km/h no necesitan RC de vehículos ni placa. No autoriza los más potentes/rápidos. Se recomienda RC privada que cubra daños con patinete."
+      }
+    },
+    {
+      "id": "license",
+      "status": "allowed",
+      "value": {
+        "de": "Für Fahrradklasse nicht nötig",
+        "en": "Not required for bicycle class",
+        "fr": "Catégorie vélo : non nécessaire",
+        "it": "Categoria bici: non necessaria",
+        "es": "Categoría bicicleta: no necesario"
+      },
+      "details": {
+        "de": "Für zulässige Roller bis 250 W und 25 km/h ist kein Führerschein nötig (Art. 112 Código da Estrada). Leihanbieter können eigene Nachweise verlangen.",
+        "en": "No driving licence is needed for compliant scooters up to 250 W and 25 km/h (Art. 112 Highway Code). Rental providers may ask for their own proof.",
+        "fr": "Pas de permis pour les modèles conformes jusqu’à 250 W et 25 km/h (art. 112 Código da Estrada). Les loueurs peuvent demander d’autres justificatifs.",
+        "it": "Nessuna patente per modelli conformi fino a 250 W e 25 km/h (art. 112 Código da Estrada). I gestori possono chiedere propri documenti.",
+        "es": "Sin permiso para modelos conformes hasta 250 W y 25 km/h (art. 112 Código da Estrada). Los arrendadores pueden pedir justificantes propios."
+      }
+    },
+    {
+      "id": "alcohol",
+      "status": "restricted",
+      "value": {
+        "de": "Unter 0,5 ‰",
+        "en": "Below 0.5 ‰",
+        "fr": "Moins de 0,5 ‰",
+        "it": "Meno di 0,5 ‰",
+        "es": "Menos de 0,5 ‰"
+      },
+      "details": {
+        "de": "Art. 81 verbietet Fahren unter Alkoholeinfluss; der allgemeine Tatbestand beginnt bei 0,5 g/l Blutalkohol. Niedrigere Grenzen gelten für dort genannte Sondergruppen. Keine Erlaubnis, trotz Beeinträchtigung zu fahren; am sichersten alkoholfrei.",
+        "en": "Article 81 prohibits riding under the influence; the general threshold starts at 0.5 g/l blood alcohol. Lower limits apply to the special groups listed there. This is not permission to ride while impaired; the safest choice is no alcohol.",
+        "fr": "L’art. 81 interdit de rouler sous alcool ; seuil général dès 0,5 g/l de sang. Seuils inférieurs pour les groupes particuliers cités. Cela n’autorise pas la conduite avec facultés altérées ; le plus sûr est sans alcool.",
+        "it": "L’art. 81 vieta la guida sotto l’effetto di alcol; soglia generale da 0,5 g/l nel sangue. Limiti inferiori per i gruppi speciali indicati. Non consente di guidare con capacità alterate; più sicuro senza alcol.",
+        "es": "El art. 81 prohíbe circular bajo los efectos del alcohol; umbral general desde 0,5 g/l en sangre. Límites inferiores para grupos especiales citados. No permite conducir con facultades alteradas; mejor sin alcohol."
+      }
+    },
+    {
+      "id": "where_to_ride",
+      "status": "restricted",
+      "value": {
+        "de": "Radverkehr; kein Gehweg",
+        "en": "Cycle lanes; no pavements",
+        "fr": "Circulation cycliste ; pas de trottoir",
+        "it": "Regole bici; niente marciapiedi",
+        "es": "Circulación ciclista; no aceras"
+      },
+      "details": {
+        "de": "Fahrradregeln und örtliche Beschilderung beachten, vorhandene Radwege nutzen. Gehwege sind tabu (Art. 17 Código da Estrada). Nur eine Person; für Leihroller gelten zusätzlich Sperrzonen.",
+        "en": "Follow bicycle rules and local signs and use cycle lanes where available. Pavements are off-limits (Art. 17 Highway Code). One rider only; rental scooters also have no-go zones.",
+        "fr": "Respecte règles cyclistes et panneaux locaux ; utilise les pistes existantes. Trottoirs interdits (art. 17 Código da Estrada). Une personne ; zones interdites supplémentaires pour les locations.",
+        "it": "Rispetta regole ciclistiche e segnali locali; usa le ciclabili esistenti. Vietati marciapiedi (art. 17 Código da Estrada). Una persona; ulteriori zone vietate per i noleggi.",
+        "es": "Respeta normas ciclistas y señales locales; usa carriles bici existentes. Aceras prohibidas (art. 17 Código da Estrada). Una persona; más zonas restringidas para alquileres."
+      }
+    }
+  ],
+  "fines": [
+    {
+      "offense": {
+        "de": "Nicht zulässiger Roller über 250 W oder 25 km/h im öffentlichen Verkehr",
+        "en": "Using a non-compliant scooter above 250 W or 25 km/h on public roads",
+        "fr": "Trottinette non conforme dépassant 250 W ou 25 km/h sur voie publique",
+        "it": "Monopattino non conforme oltre 250 W o 25 km/h nel traffico pubblico",
+        "es": "Patinete no conforme superior a 250 W o 25 km/h en vías públicas"
+      },
+      "amount": "60–300 €",
+      "notes": {
+        "de": "Art. 112 Abs. 6; zusätzlich kann das Fahrzeug eingezogen werden. Keine Legalisierung durch Zahlung.",
+        "en": "Article 112(6); the vehicle may also be seized. Paying a fine does not make it road-legal.",
+        "fr": "Art. 112 al. 6 ; saisie possible en plus. Payer ne rend pas le véhicule légal.",
+        "it": "Art. 112 co. 6; inoltre possibile sequestro. Pagare non legalizza il veicolo.",
+        "es": "Art. 112 ap. 6; además, posible incautación. Pagar no legaliza el vehículo."
+      }
+    }
+  ],
+  "cities": [
+    {
+      "name": "Lisbon",
+      "nameLocalized": {
+        "de": "Lissabon",
+        "en": "Lisbon",
+        "fr": "Lisbonne",
+        "it": "Lisbona",
+        "es": "Lisboa"
+      },
+      "notes": {
+        "de": "Die städtische Betreibervereinbarung begrenzt Sharing-Roller auf 20 km/h und sieht ausgewiesene Abstellpunkte sowie Sperrbereiche vor. Diese Betreiberauflage ist keine landesweite 20-km/h-Grenze für Privatroller. Vor jeder Fahrt aktuelle Park- und Sperrzonen in der Anbieter-App prüfen.",
+        "en": "The city's operator agreement caps shared scooters at 20 km/h and provides designated parking and no-go areas. This operator condition is not a nationwide 20 km/h limit for private scooters. Check current parking and no-go areas in the provider app before every trip.",
+        "fr": "L’accord municipal limite les locations à 20 km/h, avec stationnement désigné et zones interdites. Pas un plafond national de 20 km/h pour les privées. Avant chaque trajet, vérifie stationnement et zones interdites dans l’application.",
+        "it": "L’accordo comunale limita lo sharing a 20 km/h, con spazi di sosta e zone vietate. Non è un limite nazionale di 20 km/h per i privati. Prima di ogni corsa verifica sosta e zone vietate nell’app.",
+        "es": "El acuerdo municipal limita alquileres a 20 km/h y fija aparcamiento y zonas prohibidas. No es un límite nacional de 20 km/h para privados. Antes de cada viaje consulta zonas actuales de aparcamiento y restricción en la app."
+      },
+      "categories": [
+        {
+          "id": "max_speed",
+          "status": "restricted",
+          "value": {
+            "de": "Sharing 20 km/h",
+            "en": "Shared scooters 20 km/h",
+            "fr": "Locations : 20 km/h",
+            "it": "Sharing 20 km/h",
+            "es": "Alquiler 20 km/h"
+          },
+          "details": {
+            "de": "20 km/h gemäß Betreibervereinbarung vom 09.01.2023; für private Roller bleibt die zulässige Landesklasse maßgeblich. Beschilderte niedrigere Limits gelten zusätzlich.",
+            "en": "20 km/h under the operator agreement of 9 January 2023; private scooters remain subject to the compliant national vehicle class. Lower signed limits still apply.",
+            "fr": "20 km/h selon l’accord opérateurs du 09.01.2023 ; pour les privées, la catégorie nationale conforme reste décisive. Les limites signalées inférieures s’appliquent aussi.",
+            "it": "20 km/h secondo l’accordo gestori del 09.01.2023; per i privati resta la categoria nazionale conforme. Valgono inoltre i limiti inferiori segnalati.",
+            "es": "20 km/h según acuerdo de operadores del 09.01.2023; los privados siguen sujetos a la categoría nacional conforme. También rigen límites señalizados menores."
+          }
+        }
+      ]
+    },
+    {
+      "name": "Porto",
+      "nameLocalized": {
+        "de": "Porto",
+        "en": "Porto",
+        "fr": "Porto",
+        "it": "Porto",
+        "es": "Oporto"
+      },
+      "notes": {
+        "de": "Leihfahrten nur an den Sharing-Punkten beenden; sie sind mit blauen Bodenmarkierungen und Schildern gekennzeichnet. Die Stadt veröffentlicht die Standorte, die aktuellen Zonen zeigt die Anbieter-App.",
+        "en": "End rentals only at the sharing points, marked with blue ground markings and signs. The city publishes their locations; the provider app shows current zones.",
+        "fr": "Termine les locations aux points de partage, marqués en bleu au sol et par panneaux. La ville publie leur emplacement ; l’application montre les zones actuelles.",
+        "it": "Termina i noleggi solo nei punti sharing, segnati in blu a terra e da cartelli. Il comune pubblica le posizioni; l’app mostra le zone attuali.",
+        "es": "Finaliza alquileres solo en puntos compartidos, con marcas azules y señales. El ayuntamiento publica ubicaciones; la app muestra zonas actuales."
+      }
+    }
+  ],
+  "upcomingChanges": [],
+  "sources": [
+    {
+      "title": "ANSR: aktuelle Klarstellung zur Versicherung und zulässigen Fahrzeugklasse",
+      "url": "https://ansr.pt/comunicacao/noticias/esclarecimento-seguro-responsabilidade-civil-utilizadores-trotinetas-velocipedes",
+      "accessed": "2026-10-20"
+    },
+    {
+      "title": "PGR Lisboa: Código da Estrada, aktuelle Fassung (u. a. Art. 17, 81, 82, 112, 121)",
+      "url": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=349&tabela=leis",
+      "accessed": "2026-10-20"
+    },
+    {
+      "title": "Câmara Municipal de Lisboa: Vereinbarung mit Sharing-Betreibern, 09.01.2023",
+      "url": "https://www.lisboa.pt/fileadmin/portal/temas/mobilidade/documentos/acordo_colaboracao_operdores_09_01_2023.pdf",
+      "accessed": "2026-10-20"
+    },
+    {
+      "title": "Município do Porto: Trotinetas und markierte Sharing-Punkte",
+      "url": "https://mobilidade.cm-porto.pt/modos-suaves/trotinetas",
+      "accessed": "2026-10-20"
+    }
+  ]
+}

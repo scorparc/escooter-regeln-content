@@ -1,0 +1,246 @@
+{
+  "schemaVersion": 1,
+  "countryCode": "ES",
+  "countryName": { "de": "Spanien", "en": "Spain", "fr": "Espagne", "it": "Spagna", "es": "España" },
+  "flagEmoji": "🇪🇸",
+  "lastUpdated": "2026-10-01",
+  "verified": true,
+  "verifiedBy": "Marc Neumann",
+  "verifiedDate": "2026-10-01",
+  "overallStatus": "restricted",
+  "summary": {
+    "de": "In Spanien gelten nationale DGT-Grundregeln (max. 25 km/h, Gehweg verboten). Seit 02.01.2026 sind Haftpflichtversicherung und DGT-Registrierung Pflicht. Seit 01.10.2026 gelten landesweit Helmpflicht und Mindestalter 15; Städte wie Barcelona sind teils strenger.",
+    "en": "Spain has national DGT base rules (max. 25 km/h, sidewalks banned). Since 2 Jan 2026 liability insurance and DGT registration are mandatory. Since 1 Oct 2026 a nationwide helmet duty and minimum age 15 apply; cities like Barcelona are partly stricter.",
+    "fr": "Règles nationales DGT : max. 25 km/h, trottoirs interdits. Depuis le 02.01.2026, assurance responsabilité civile et inscription DGT obligatoires. Depuis le 01.10.2026, casque et âge minimal de 15 ans au niveau national ; certaines villes comme Barcelone sont plus strictes.",
+    "it": "Regole nazionali DGT: max. 25 km/h, marciapiedi vietati. Dal 02.01.2026 assicurazione RC e registrazione DGT obbligatorie. Dal 01.10.2026 casco ed età minima di 15 anni in tutto il paese; città come Barcellona sono in parte più severe.",
+    "es": "Rigen las normas nacionales DGT: máx. 25 km/h, aceras prohibidas. Desde el 02.01.2026, seguro RC y registro DGT obligatorios. Desde el 01.10.2026, casco y edad mínima de 15 años en todo el país; ciudades como Barcelona son en parte más estrictas."
+  },
+  "categories": [
+    {
+      "id": "max_speed",
+      "status": "restricted",
+      "value": { "de": "25 km/h", "en": "25 km/h", "fr": "25 km/h", "it": "25 km/h", "es": "25 km/h" },
+      "details": {
+        "de": "Persönliche Mobilitätsfahrzeuge (VMP) dürfen bauartbedingt maximal 25 km/h fahren. Seit dem 22.01.2024 dürfen nur noch Geräte mit DGT-Zulassungszertifikat (certificado de circulación, Manual VMP 3.0) verkauft werden. Ältere Geräte ohne Zertifikat dürfen übergangsweise bis zum 22.01.2027 weiterfahren – müssen aber ebenfalls registriert und versichert sein. Danach sind nicht zertifizierte VMP vom Verkehr ausgeschlossen.",
+        "en": "Personal mobility vehicles (VMP) are limited to 25 km/h by design. Since 22 Jan 2024 only devices with a DGT circulation certificate (certificado de circulación, VMP Manual 3.0) may be sold. Older uncertified devices may keep circulating until 22 Jan 2027 as a transition – but must also be registered and insured. After that, uncertified VMPs are banned from circulating.",
+        "fr": "VMP limités par construction à 25 km/h. Depuis le 22.01.2024, seuls les appareils certifiés DGT (certificado de circulación, Manual VMP 3.0) peuvent être vendus. Les anciens non certifiés peuvent rouler jusqu’au 22.01.2027, mais doivent aussi être enregistrés et assurés. Ensuite, circulation interdite aux VMP non certifiés.",
+        "it": "VMP limitati per costruzione a 25 km/h. Dal 22.01.2024 si vendono solo mezzi con certificado de circulación DGT (Manual VMP 3.0). I precedenti non certificati possono circolare fino al 22.01.2027, ma devono essere registrati e assicurati. Poi i VMP non certificati sono esclusi dalla circolazione.",
+        "es": "Los VMP tienen una velocidad de diseño máxima de 25 km/h. Desde el 22.01.2024 solo se venden equipos con certificado de circulación DGT (Manual VMP 3.0). Los antiguos sin certificado pueden circular hasta el 22.01.2027, pero también deben registrarse y asegurarse. Después se prohíbe circular a los VMP no certificados."
+      }
+    },
+    {
+      "id": "min_age",
+      "status": "restricted",
+      "value": { "de": "15 national, Städte teils 16", "en": "15 nationally, some cities 16", "fr": "15 nationalement ; parfois 16 en ville", "it": "15 nazionali; alcune città 16", "es": "15 nacional; algunas ciudades 16" },
+      "details": {
+        "de": "Landesweit gilt ein Mindestalter von 15 Jahren (Real Decreto 518/2026, Art. 155 Reglamento General de Circulación). Strengere städtische Regeln wie in Barcelona (16 Jahre, Bußgeld 200 €) bleiben zu beachten.",
+        "en": "A nationwide minimum age of 15 applies (Royal Decree 518/2026, Art. 155 of the General Traffic Regulation). Stricter city rules such as Barcelona's (age 16, fine €200) still need to be observed.",
+        "fr": "Âge minimal national de 15 ans (Real Decreto 518/2026, art. 155 Reglamento General de Circulación). Respecte les règles municipales plus strictes, comme Barcelone : 16 ans, amende de 200 €.",
+        "it": "Età minima nazionale di 15 anni (Real Decreto 518/2026, art. 155 Reglamento General de Circulación). Rispetta i limiti comunali più severi, come Barcellona: 16 anni, multa di 200 €.",
+        "es": "Edad mínima nacional de 15 años (Real Decreto 518/2026, art. 155 Reglamento General de Circulación). Respeta reglas municipales más estrictas, como Barcelona: 16 años, multa de 200 €."
+      }
+    },
+    {
+      "id": "helmet",
+      "status": "restricted",
+      "value": { "de": "Pflicht", "en": "mandatory", "fr": "Obligatoire", "it": "Obbligatorio", "es": "Obligatorio" },
+      "details": {
+        "de": "Ein homologierter/zertifizierter Helm ist landesweit Pflicht (Real Decreto 518/2026); Verstoß: 200 €. In Barcelona galt bereits seit Februar 2025 eine kommunale Helmpflicht (Bußgeld 100 €). Empfehlung: immer Helm tragen.",
+        "en": "A homologated/certified helmet is mandatory nationwide (Royal Decree 518/2026); violation: €200. Barcelona already had a municipal helmet requirement from February 2025 (fine €100). Recommendation: always wear one.",
+        "fr": "Casque homologué/certifié obligatoire partout (Real Decreto 518/2026) ; infraction : 200 €. Barcelone l’imposait déjà depuis février 2025 (100 €). Conseil : porte toujours un casque.",
+        "it": "Casco omologato/certificato obbligatorio ovunque (Real Decreto 518/2026); violazione: 200 €. A Barcellona era già obbligatorio da febbraio 2025 (100 €). Consiglio: indossalo sempre.",
+        "es": "Casco homologado/certificado obligatorio en todo el país (Real Decreto 518/2026); infracción: 200 €. Barcelona ya lo exigía desde febrero de 2025 (100 €). Consejo: lleva casco siempre."
+      }
+    },
+    {
+      "id": "insurance",
+      "status": "restricted",
+      "value": { "de": "Pflicht seit 02.01.2026 + Registrierung", "en": "required since 2 Jan 2026 + registration", "fr": "Obligatoire dès 02.01.2026 + registre", "it": "Obbligo dal 02.01.2026 + registro", "es": "Obligatorio desde 02.01.2026 + registro" },
+      "details": {
+        "de": "Seit dem 02.01.2026 ist eine Haftpflichtversicherung für 'vehículos personales ligeros' (E-Scooter bis 25 km/h und unter 25 kg bzw. bis 14 km/h über 25 kg) landesweit Pflicht – Rechtsgrundlage: Ley 5/2025 vom 24.07.2025 (Disposición adicional primera). Zusätzlich muss das Gerät im DGT-Register für leichte Personenfahrzeuge eingetragen werden (Real Decreto 52/2026, Register seit Ende Januar 2026) und eine Kennzeichnungsplakette tragen. Fahren ohne Versicherung: ca. 250–800 € Bußgeld. Die Pflicht knüpft an das Fahren auf spanischen Straßen an und betrifft damit auch Touristen mit eigenem Scooter – die Police muss Spanien abdecken; das genaue Verfahren für ausländische Geräte ist offiziell noch nicht klar geregelt.",
+        "en": "Since 2 Jan 2026 liability insurance is mandatory nationwide for 'light personal vehicles' (e-scooters up to 25 km/h and under 25 kg, or up to 14 km/h above 25 kg) – legal basis: Law 5/2025 of 24 July 2025 (first additional provision). The device must also be entered in the DGT registry of light personal vehicles (Royal Decree 52/2026, registry live since late January 2026) and carry an ID sticker. Riding uninsured: fines of roughly €250–800. The duty is tied to riding on Spanish roads and therefore also affects tourists with their own scooter – the policy must cover Spain; the exact procedure for foreign devices is not yet clearly regulated officially.",
+        "fr": "Depuis le 02.01.2026, RC obligatoire pour les vehículos personales ligeros (jusqu’à 25 km/h et moins de 25 kg, ou jusqu’à 14 km/h au-delà de 25 kg) : Ley 5/2025 du 24.07.2025, Disposición adicional primera. Inscription au registre DGT (Real Decreto 52/2026, ouvert fin janvier 2026) et vignette d’identification exigées. Rouler sans assurance : environ 250–800 €. Obligation liée à la circulation en Espagne, donc aussi aux touristes avec leur propre trottinette ; la police doit couvrir l’Espagne. Procédure des appareils étrangers encore mal définie officiellement.",
+        "it": "Dal 02.01.2026 RC obbligatoria per vehículos personales ligeros (fino a 25 km/h e sotto 25 kg oppure fino a 14 km/h oltre 25 kg): Ley 5/2025 del 24.07.2025, Disposición adicional primera. Servono registro DGT (Real Decreto 52/2026, aperto a fine gennaio 2026) e contrassegno identificativo. Guidare senza polizza: circa 250–800 €. Obbligo legato alla guida in Spagna, anche per turisti col proprio monopattino; la polizza deve coprire la Spagna. Procedura per mezzi esteri non ancora chiaramente regolata.",
+        "es": "Desde el 02.01.2026, RC obligatoria para vehículos personales ligeros (hasta 25 km/h y menos de 25 kg o hasta 14 km/h si superan 25 kg): Ley 5/2025 de 24.07.2025, Disposición adicional primera. Se exige registro DGT (Real Decreto 52/2026, abierto a finales de enero de 2026) y etiqueta identificativa. Circular sin seguro: unos 250–800 €. La obligación se liga a circular en España, también para turistas con patinete propio; la póliza debe cubrir España. El trámite para equipos extranjeros sigue sin regularse claramente."
+      }
+    },
+    {
+      "id": "license",
+      "status": "allowed",
+      "value": { "de": "nicht nötig", "en": "not required", "fr": "Non nécessaire", "it": "Non necessaria", "es": "No necesario" },
+      "details": {
+        "de": "Kein Führerschein erforderlich. Seit 2026 sind aber Registrierung und Versicherung des Geräts Pflicht (siehe Versicherung).",
+        "en": "No driving licence required. Since 2026, however, device registration and insurance are mandatory (see insurance).",
+        "fr": "Aucun permis nécessaire. Depuis 2026, l’enregistrement et l’assurance de l’appareil sont toutefois obligatoires (voir assurance).",
+        "it": "Non serve la patente. Dal 2026 sono però obbligatori registrazione e assicurazione del mezzo (vedi assicurazione).",
+        "es": "No se necesita permiso. Desde 2026 sí son obligatorios registro y seguro del vehículo (véase seguro)."
+      }
+    },
+    {
+      "id": "alcohol",
+      "status": "restricted",
+      "value": { "de": "0,5 g/l (0,3 Fahranfänger)", "en": "0.5 g/l (0.3 novices)", "fr": "0,5 g/l (0,3 pour débutants)", "it": "0,5 g/l (0,3 neopatentati)", "es": "0,5 g/l (0,3 noveles)" },
+      "details": {
+        "de": "Es gelten die gleichen Grenzen wie für Autofahrer: 0,5 g/l Blut (0,25 mg/l Atem), Fahranfänger 0,3 g/l. Bußgelder 500–1.000 €. Auch Drogentests werden durchgeführt.",
+        "en": "Same limits as for car drivers: 0.5 g/l blood (0.25 mg/l breath), novices 0.3 g/l. Fines €500–1,000. Drug tests are also carried out.",
+        "fr": "Mêmes seuils qu’en voiture : 0,5 g/l de sang (0,25 mg/l d’air expiré), débutants 0,3 g/l. Amendes de 500–1.000 €. Des contrôles de drogues sont aussi effectués.",
+        "it": "Stessi limiti delle auto: 0,5 g/l nel sangue (0,25 mg/l nell’aria espirata), neopatentati 0,3 g/l. Multe di 500–1.000 €. Sono effettuati anche test antidroga.",
+        "es": "Mismos límites que para coches: 0,5 g/l en sangre (0,25 mg/l en aire), noveles 0,3 g/l. Multas de 500–1.000 €. También se realizan controles de drogas."
+      }
+    },
+    {
+      "id": "where_to_ride",
+      "status": "restricted",
+      "value": { "de": "Stadtstraßen/Radweg, Gehweg verboten", "en": "urban roads/bike path, sidewalk banned", "fr": "Rues/pistes ; trottoirs interdits", "it": "Strade urbane/ciclabili; no marciapiedi", "es": "Vías urbanas/bici; no aceras" },
+      "details": {
+        "de": "Fahren auf Gehwegen, Autobahnen, Schnellstraßen, Überlandstraßen und in Tunneln ist national verboten; das Real Decreto 518/2026 bestätigt das Gehwegverbot ausnahmslos. Erlaubt sind Radwege und innerörtliche Straßen gemäß der jeweiligen Stadtverordnung (Barcelona z. B.: Radwege und Straßen mit Tempo 30). Beim Abbiegen sind Handzeichen zu geben. Zwischen Sonnenuntergang und Sonnenaufgang sowie bei meteorologisch oder umweltbedingt deutlich schlechter Sicht ist mindestens ein Licht- oder Reflexelement zu verwenden, das aus mindestens 150 m sichtbar ist. VMP dürfen VAO-Spuren (Fahrspuren für mehrfach besetzte Fahrzeuge) nicht benutzen.",
+        "en": "Riding on sidewalks, motorways, expressways, interurban roads and in tunnels is banned nationally; Royal Decree 518/2026 confirms the sidewalk ban without exceptions. Bike paths and urban roads are allowed as regulated by each city (Barcelona e.g.: bike lanes and 30 km/h streets). Drivers must give hand signals when turning. Between sunset and sunrise, and in weather or environmental conditions that significantly reduce visibility, at least one light or reflective element visible from at least 150 m must be used. VMPs may not use VAO lanes (high-occupancy vehicle lanes).",
+        "fr": "Trottoirs, autoroutes, voies rapides, routes interurbaines et tunnels interdits nationalement ; Real Decreto 518/2026 confirme l’interdiction des trottoirs sans exception. Pistes et rues urbaines selon la commune (Barcelone : pistes et rues à 30). Signale les virages à la main. Entre coucher et lever du soleil ou visibilité nettement réduite par météo/environnement : au moins un élément lumineux/réfléchissant visible à 150 m. VMP interdits sur voies VAO (covoiturage).",
+        "it": "Vietati marciapiedi, autostrade, superstrade, strade extraurbane e gallerie; Real Decreto 518/2026 conferma il divieto sui marciapiedi senza eccezioni. Ciclabili e strade urbane secondo il comune (Barcellona: ciclabili e strade a 30). Segnala le svolte a mano. Dal tramonto all’alba o con visibilità molto ridotta per meteo/ambiente: almeno un elemento luminoso/riflettente visibile da 150 m. Vietate corsie VAO (veicoli con più occupanti).",
+        "es": "Se prohíben aceras, autopistas, autovías, vías interurbanas y túneles; Real Decreto 518/2026 confirma la prohibición de aceras sin excepciones. Vías ciclistas y calles urbanas según ordenanza (Barcelona: carriles bici y calles a 30). Señala giros con la mano. Entre puesta y salida del sol o visibilidad muy reducida por causas meteorológicas/ambientales: al menos un elemento luminoso/reflectante visible a 150 m. Prohibidos carriles VAO (alta ocupación)."
+      }
+    }
+  ],
+  "fines": [
+    {
+      "offense": { "de": "Fahren auf dem Gehweg", "en": "Riding on the sidewalk", "fr": "Circuler sur le trottoir", "it": "Circolare sul marciapiede", "es": "Circular por la acera" },
+      "amount": "je nach Stadt, z. B. Barcelona 500 €",
+      "notes": {
+        "de": "Kommunal geregelt und stark unterschiedlich; Barcelona sanktioniert das Fahren auf dem Gehweg seit der Verkehrsordnung von 2025 mit 500 €.",
+        "en": "Set locally and highly variable; Barcelona has fined riding on the sidewalk €500 since its 2025 traffic ordinance.",
+        "fr": "Montants municipaux très variables ; depuis l’ordonnance de 2025, Barcelone sanctionne la circulation sur trottoir de 500 €.",
+        "it": "Importi comunali molto diversi; dall’ordinanza del 2025 Barcellona sanziona la guida sul marciapiede con 500 €.",
+        "es": "Importes municipales muy variables; desde la ordenanza de 2025 Barcelona sanciona circular por acera con 500 €."
+      }
+    },
+    {
+      "offense": { "de": "Handy oder Kopfhörer beim Fahren", "en": "Phone or headphones while riding", "fr": "Téléphone ou écouteurs en roulant", "it": "Telefono o cuffie alla guida", "es": "Móvil o auriculares al circular" },
+      "amount": "200 €"
+    },
+    {
+      "offense": { "de": "Alkoholfahrt", "en": "Riding drunk", "fr": "Conduite alcoolisée", "it": "Guida sotto l’effetto di alcol", "es": "Conducir con alcohol" },
+      "amount": "500–1.000 €"
+    },
+    {
+      "offense": { "de": "Zu zweit fahren", "en": "Riding in pairs", "fr": "Rouler à deux", "it": "Viaggiare in due", "es": "Circular dos personas" },
+      "amount": "100 €"
+    },
+    {
+      "offense": { "de": "Fahren ohne Haftpflichtversicherung", "en": "Riding without liability insurance", "fr": "Rouler sans responsabilité civile", "it": "Guidare senza assicurazione RC", "es": "Circular sin seguro RC" },
+      "amount": "ca. 250–800 €",
+      "notes": {
+        "de": "Praktisch durchsetzbar seit Registerstart 30.01.2026. Das Fehlen der Pflichtversicherung selbst wird laut DGT mit 202–610 € sanktioniert; das tatsächliche Fahren ohne Versicherung mit ca. 250–800 €.",
+        "en": "Practically enforceable since the registry went live on 30 Jan 2026. Lacking the mandatory insurance itself carries €202–610 per the DGT; actually riding uninsured carries roughly €250–800.",
+        "fr": "Applicable en pratique depuis l’ouverture du registre le 30.01.2026. Selon la DGT, l’absence d’assurance obligatoire vaut 202–610 € ; circuler effectivement sans assurance, environ 250–800 €.",
+        "it": "Applicabile in pratica dall’apertura del registro il 30.01.2026. Secondo DGT l’assenza della polizza obbligatoria comporta 202–610 €; guidare effettivamente senza assicurazione circa 250–800 €.",
+        "es": "Exigible en la práctica desde la apertura del registro el 30.01.2026. Según DGT, carecer de seguro obligatorio se sanciona con 202–610 €; circular sin él, con unos 250–800 €."
+      }
+    },
+    {
+      "offense": { "de": "Ohne Helm fahren", "en": "Riding without a helmet", "fr": "Rouler sans casque", "it": "Guidare senza casco", "es": "Circular sin casco" },
+      "amount": "200 € (national)",
+      "notes": {
+        "de": "Barcelona hatte bereits vor der nationalen Regel eine kommunale Helmpflicht (100 €).",
+        "en": "Barcelona already had a municipal helmet requirement before the national rule (€100).",
+        "fr": "Barcelone imposait déjà le casque municipalement avant la règle nationale (100 €).",
+        "it": "Barcellona aveva già l’obbligo comunale del casco prima della regola nazionale (100 €).",
+        "es": "Barcelona ya exigía casco por ordenanza antes de la regla nacional (100 €)."
+      }
+    }
+  ],
+  "cities": [
+    {
+      "name": "Barcelona",
+      "notes": {
+        "de": "Neue Verkehrsordnung seit 01.02.2025: Mindestalter 16 (Bußgeld 200 €), Helmpflicht (100 €), Licht vorn/hinten Pflicht, Gehweg verboten, nur Radwege und Tempo-30-Straßen. Mitnahme in Metro/Bus (TMB) weiterhin verboten. Leih-Scooter-Angebot stark reguliert.",
+        "en": "New traffic ordinance since 1 Feb 2025: minimum age 16 (fine €200), helmet mandatory (€100), front/rear lights required, sidewalks banned, only bike lanes and 30 km/h streets. Carrying scooters on metro/bus (TMB) remains banned. Rental market heavily regulated.",
+        "fr": "Ordonnance depuis le 01.02.2025 : âge minimal 16 ans (200 €), casque (100 €), feux avant/arrière, trottoirs interdits, pistes et rues à 30 seulement. Transport métro/bus TMB toujours interdit. Location fortement réglementée.",
+        "it": "Ordinanza dal 01.02.2025: età minima 16 anni (200 €), casco (100 €), luci davanti/dietro, marciapiedi vietati, solo ciclabili e strade a 30. Trasporto su metro/bus TMB ancora vietato. Noleggio molto regolamentato.",
+        "es": "Ordenanza desde el 01.02.2025: edad mínima 16 años (200 €), casco (100 €), luces delanteras/traseras, no aceras, solo carriles bici y calles a 30. Sigue prohibido llevarlos en metro/bus TMB. Alquiler muy regulado."
+      },
+      "nameLocalized": {
+        "de": "Barcelona",
+        "en": "Barcelona",
+        "fr": "Barcelone",
+        "it": "Barcellona",
+        "es": "Barcelona"
+      }
+    },
+    {
+      "name": "Madrid",
+      "notes": {
+        "de": "Für Madrid gelten das nationale Mindestalter von 15 Jahren und die nationale Helmpflicht. Die Betreiber-Genehmigungen für Leih-Scooter wurden am 05.09.2024 widerrufen; die Anbieter mussten ihre Fahrzeuge ab Oktober 2024 entfernen (2023 war das Jahr der Genehmigung, nicht des Verbots). Private Scooter nach DGT- und Stadtregeln (Ordenanza de Movilidad Sostenible) erlaubt.",
+        "en": "Madrid is subject to the national minimum age of 15 and the national helmet requirement. The rental operators' permits were revoked on 5 Sep 2024 and providers had to remove their vehicles from October 2024 (2023 was the year of authorisation, not of the ban). Private scooters allowed under DGT and city rules (Ordenanza de Movilidad Sostenible).",
+        "fr": "Madrid applique l’âge minimal national de 15 ans et le casque obligatoire national. Autorisations des loueurs révoquées le 05.09.2024 ; retrait des véhicules dès octobre 2024 (2023 était l’année d’autorisation, pas d’interdiction). Trottinettes privées admises selon règles DGT et Ordenanza de Movilidad Sostenible.",
+        "it": "Madrid applica l’età minima nazionale di 15 anni e il casco nazionale obbligatorio. Permessi dei noleggiatori revocati il 05.09.2024; mezzi da rimuovere da ottobre 2024 (2023 era l’anno dell’autorizzazione, non del divieto). Privati consentiti secondo DGT e Ordenanza de Movilidad Sostenible.",
+        "es": "Madrid aplica la edad mínima nacional de 15 años y el casco obligatorio nacional. Permisos de alquiler revocados el 05.09.2024; retirada de vehículos desde octubre de 2024 (2023 fue el año de autorización, no del veto). Privados permitidos conforme a DGT y Ordenanza de Movilidad Sostenible."
+      },
+      "nameLocalized": {
+        "de": "Madrid",
+        "en": "Madrid",
+        "fr": "Madrid",
+        "it": "Madrid",
+        "es": "Madrid"
+      }
+    }
+  ],
+  "upcomingChanges": [
+    {
+      "effectiveDate": "2027-10-01",
+      "summary": {
+        "de": "Dauerhaftes Tagfahrlicht wird für VMP vorgeschrieben (Real Decreto 518/2026).",
+        "en": "Permanent daytime running lights become mandatory for VMPs (Royal Decree 518/2026).",
+        "fr": "L’éclairage diurne permanent devient obligatoire pour les VMP (Real Decreto 518/2026).",
+        "it": "Luci diurne permanenti obbligatorie per i VMP (Real Decreto 518/2026).",
+        "es": "Se exige alumbrado diurno permanente a los VMP (Real Decreto 518/2026)."
+      }
+    }
+  ],
+  "sources": [
+    {
+      "title": "BOE: Ley 5/2025, de 24 de julio (Versicherungspflicht für vehículos personales ligeros)",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2025-15424",
+      "accessed": "2026-07-03"
+    },
+    {
+      "title": "BOE: Real Decreto 52/2026, de 28 de enero (Registro de Vehículos Personales Ligeros)",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-2140",
+      "accessed": "2026-07-03"
+    },
+    {
+      "title": "BOE: Real Decreto 518/2026 (Reform Reglamento General de Circulación: Helm, Mindestalter 15, Licht ab 2027)",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-13889",
+      "accessed": "2026-08-22"
+    },
+    {
+      "title": "Ajuntament de Barcelona: Sancions Ordenança de Circulació 2025 (Gehweg 500 €)",
+      "url": "https://www.barcelona.cat/mobilitat/sites/default/files/2025-02/SancionsOrdenancaCirculacio2025_CAT.pdf",
+      "accessed": "2026-08-22"
+    },
+    {
+      "title": "Ayuntamiento de Madrid: Revocación de autorizaciones de patinetes de alquiler (05.09.2024)",
+      "url": "https://diario.madrid.es/blog/notas-de-prensa/madrid-revoca-las-autorizaciones-de-patinetes-de-alquiler-y-ya-no-podran-circular-por-sus-calles/",
+      "accessed": "2026-08-22"
+    },
+    {
+      "title": "DGT: Vehículos de Movilidad Personal (VMP) – Zertifikat, Registrierung, Versicherung",
+      "url": "https://www.dgt.es/nuestros-servicios/tu-vehiculo/vehiculos-de-movilidad-personal-vmp/",
+      "accessed": "2026-07-03"
+    },
+    {
+      "title": "DGT: Nota de prensa – Registro de Vehículos Personales Ligeros (27.01.2026)",
+      "url": "https://www.dgt.es/comunicacion/notas-de-prensa/20260127-trafico-pone-en-marcha-registro-vehiculos-personales-ligeros/",
+      "accessed": "2026-07-03"
+    },
+    {
+      "title": "Ayuntamiento de Madrid: Patinetes eléctricos y otros vehículos de movilidad personal",
+      "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/Movilidad-y-transportes/Patinetes-electricos-y-otros-vehiculos-de-movilidad-personal/?vgnextfmt=default&vgnextoid=b8ba6639e9956610VgnVCM2000001f4a900aRCRD&vgnextchannel=220e31d3b28fe410VgnVCM1000000b205a0aRCRD&idCapitulo=10800343",
+      "accessed": "2026-07-03"
+    },
+    {
+      "title": "Ajuntament de Barcelona: La nova ordenança de circulació ja està en vigor",
+      "url": "https://www.barcelona.cat/mobilitat/ca/actualitat-i-recursos/noticies/la-nova-ordenanca-de-circulacio-ja-esta-en-vigor-1477788",
+      "accessed": "2026-07-03"
+    }
+  ]
+}

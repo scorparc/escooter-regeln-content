@@ -1,0 +1,232 @@
+{
+  "schemaVersion": 1,
+  "countryCode": "PL",
+  "countryName": { "de": "Polen", "en": "Poland", "fr": "Pologne", "it": "Polonia", "es": "Polonia" },
+  "flagEmoji": "🇵🇱",
+  "lastUpdated": "2026-10-20",
+  "verified": true,
+  "verifiedBy": "Marc Neumann",
+  "verifiedDate": "2026-10-20",
+  "overallStatus": "restricted",
+  "summary": {
+    "de": "E-Scooter (hulajnoga elektryczna) sind in Polen erlaubt: max. 20 km/h, Mindestalter 13 Jahre, unter 18 nur mit Fahrradkarte/Führerschein, Helmpflicht unter 16, sehr niedrige Promillegrenze (0,2 ‰). Radweg hat Vorrang, Gehweg nur ausnahmsweise im Schritttempo.",
+    "en": "E-scooters are legal in Poland: max. 20 km/h, minimum age 13, riders under 18 need a cycling card or licence, helmet required under 16, very low alcohol limit (0.2 ‰). Bike paths first, sidewalks only as an exception at walking pace.",
+    "fr": "Trottinettes (hulajnoga elektryczna) autorisées : max. 20 km/h, dès 13 ans, avant 18 ans carte cycliste/permis, casque avant 16 ans, seuil d’alcool très bas (0,2 ‰). Piste prioritaire ; trottoir exceptionnellement, au pas.",
+    "it": "Monopattini (hulajnoga elektryczna) consentiti: max. 20 km/h, età minima 13 anni, sotto i 18 carta ciclistica/patente, casco sotto i 16, limite alcolico molto basso (0,2 ‰). Prima la ciclabile; marciapiede solo eccezionalmente a passo d’uomo.",
+    "es": "Patinetes (hulajnoga elektryczna) permitidos: máx. 20 km/h, edad mínima 13 años, menores de 18 con tarjeta ciclista/permiso, casco antes de los 16 y límite de alcohol muy bajo (0,2 ‰). Prioridad al carril bici; acera solo excepcionalmente al paso."
+  },
+  "categories": [
+    {
+      "id": "max_speed",
+      "status": "restricted",
+      "value": { "de": "20 km/h", "en": "20 km/h", "fr": "20 km/h", "it": "20 km/h", "es": "20 km/h" },
+      "details": {
+        "de": "Maximal 20 km/h. Auf dem Gehweg (nur ausnahmsweise erlaubt) gilt Schrittgeschwindigkeit.",
+        "en": "Maximum 20 km/h. On sidewalks (only allowed as an exception) walking pace applies.",
+        "fr": "Maximum 20 km/h. Sur le trottoir, admis seulement exceptionnellement, roule au pas.",
+        "it": "Massimo 20 km/h. Sul marciapiede, consentito solo eccezionalmente, vale il passo d’uomo.",
+        "es": "Máximo 20 km/h. En acera, permitida solo excepcionalmente, rige el paso de peatón."
+      }
+    },
+    {
+      "id": "min_age",
+      "status": "restricted",
+      "value": { "de": "ab 13 (mit Berechtigung), ab 18 frei", "en": "13+ (with permit), 18+ free", "fr": "Dès 13 avec titre ; libre dès 18", "it": "Dai 13 con titolo; dai 18 libero", "es": "Desde 13 con título; desde 18 libre" },
+      "details": {
+        "de": "Seit 3. März 2026 gilt ein Mindestalter von 13 Jahren (vorher 10). 13–17-Jährige brauchen eine 'karta rowerowa' (Fahrradkarte) oder einen Führerschein der Kategorie AM/A1/B1/T. Ab 18 ist keine Berechtigung nötig. Kinder unter 13 dürfen auf öffentlichen Straßen, Radwegen und Gehwegen gar nicht fahren – auch nicht unter Aufsicht Erwachsener; erlaubt bleibt nur der Wohnbereich (strefa zamieszkania) unter Aufsicht Erwachsener.",
+        "en": "Since 3 March 2026 the minimum age is 13 (previously 10). Ages 13–17 need a 'karta rowerowa' (cycling card) or an AM/A1/B1/T licence. From 18 no permit is required. Children under 13 may not ride on public roads, bike paths or sidewalks at all – not even under adult supervision; only residential zones (strefa zamieszkania) under adult supervision remain allowed.",
+        "fr": "Depuis le 3 mars 2026, âge minimal 13 ans (avant : 10). Les 13–17 ans doivent avoir une karta rowerowa ou un permis AM/A1/B1/T. Dès 18 ans, aucun titre. Avant 13 ans : aucune route publique, piste ou trottoir, même surveillé ; seules les zones résidentielles strefa zamieszkania restent admises sous surveillance adulte.",
+        "it": "Dal 3 marzo 2026 età minima 13 anni (prima 10). I 13–17enni devono avere karta rowerowa o patente AM/A1/B1/T. Dai 18 nessun titolo. Sotto i 13 vietati strade pubbliche, ciclabili e marciapiedi, anche sorvegliati; resta consentita solo la zona residenziale strefa zamieszkania sotto sorveglianza adulta.",
+        "es": "Desde el 3 de marzo de 2026, edad mínima 13 años (antes 10). De 13–17 se exige karta rowerowa o permiso AM/A1/B1/T. Desde 18 no se exige título. Menores de 13 no pueden usar vías públicas, carriles bici ni aceras, ni vigilados; solo zonas residenciales strefa zamieszkania bajo vigilancia adulta."
+      }
+    },
+    {
+      "id": "helmet",
+      "status": "restricted",
+      "value": { "de": "Pflicht unter 16", "en": "required under 16", "fr": "Obligatoire avant 16 ans", "it": "Obbligatorio sotto i 16 anni", "es": "Obligatorio antes de los 16 años" },
+      "details": {
+        "de": "Seit 3. Juni 2026 gilt eine Helmpflicht für Kinder und Jugendliche unter 16 Jahren – auf E-Scootern, Fahrrädern und UTO, auch auf Radwegen und Gehwegen. Das Ministerium verweist auf Schutzhelme nach Norm PN-EN 1078. Bei Verstößen droht ein Bußgeld bis 100 zł; verantwortlich sind Eltern bzw. Aufsichtspersonen. Ab 16 keine Pflicht, das Tragen wird empfohlen.",
+        "en": "Since 3 June 2026 helmets are mandatory for children and teens under 16 – on e-scooters, bicycles and personal transport devices, including on bike paths and sidewalks. The ministry refers to helmets meeting standard PN-EN 1078. Violations carry a fine of up to 100 zł; parents or guardians are liable. From 16 no requirement; wearing one is recommended.",
+        "fr": "Depuis le 3 juin 2026, casque obligatoire avant 16 ans sur trottinettes, vélos et UTO, aussi sur pistes et trottoirs. Le ministère renvoie à la norme PN-EN 1078. Amende jusqu’à 100 zł, à la charge des parents/surveillants. Dès 16 ans, conseillé, non obligatoire.",
+        "it": "Dal 3 giugno 2026 casco obbligatorio sotto i 16 anni su monopattini, bici e UTO, anche su ciclabili e marciapiedi. Il ministero richiama la norma PN-EN 1078. Multa fino a 100 zł a carico di genitori/sorveglianti. Dai 16 non obbligatorio, ma consigliato.",
+        "es": "Desde el 3 de junio de 2026, casco obligatorio para menores de 16 en patinetes, bicicletas y UTO, también en carriles bici y aceras. El ministerio remite a PN-EN 1078. Multa hasta 100 zł; responden padres o vigilantes. Desde 16 no es obligatorio, pero se recomienda."
+      }
+    },
+    {
+      "id": "insurance",
+      "status": "allowed",
+      "value": { "de": "keine Pflicht", "en": "not required", "fr": "Non obligatoire", "it": "Non obbligatoria", "es": "No obligatorio" },
+      "details": {
+        "de": "Keine Versicherungspflicht für private E-Scooter. Private Haftpflichtdeckung empfohlen.",
+        "en": "No insurance requirement for private e-scooters. Private liability coverage recommended.",
+        "fr": "Pas d’assurance obligatoire pour les trottinettes privées. Responsabilité civile privée conseillée.",
+        "it": "Nessun obbligo assicurativo per monopattini privati. Consigliata RC privata.",
+        "es": "Sin seguro obligatorio para patinetes privados. Se recomienda RC privada."
+      }
+    },
+    {
+      "id": "license",
+      "status": "restricted",
+      "value": { "de": "unter 18: karta rowerowa/AM", "en": "under 18: cycling card/AM", "fr": "Avant 18 : karta rowerowa/AM", "it": "Sotto i 18: karta rowerowa/AM", "es": "Menores de 18: karta rowerowa/AM" },
+      "details": {
+        "de": "Nur Minderjährige (13–17) brauchen die Fahrradkarte (karta rowerowa) oder einen Führerschein der Kategorie AM/A1/B1/T. Erwachsene nicht.",
+        "en": "Only minors (13–17) need the cycling card (karta rowerowa) or an AM/A1/B1/T licence. Adults do not.",
+        "fr": "Seuls les mineurs (13–17) ont besoin d’une carte cycliste (karta rowerowa) ou d’un permis AM/A1/B1/T. Pas les adultes.",
+        "it": "Solo i minorenni (13–17) necessitano di karta rowerowa o patente AM/A1/B1/T. Gli adulti no.",
+        "es": "Solo menores (13–17) necesitan tarjeta ciclista (karta rowerowa) o permiso AM/A1/B1/T. Los adultos no."
+      }
+    },
+    {
+      "id": "alcohol",
+      "status": "restricted",
+      "value": { "de": "0,2 ‰", "en": "0.2 ‰", "fr": "0,2 ‰", "it": "0,2 ‰", "es": "0,2 ‰" },
+      "details": {
+        "de": "Sehr streng: 0,2–0,5 ‰ ('stan po użyciu alkoholu') ist eine Ordnungswidrigkeit nach Art. 87 § 2 Kodeks wykroczeń – Bußgeld mind. 1.000 zł. Über 0,5 ‰ ('stan nietrzeźwości', Art. 87 § 1a) drohen mind. 2.500 zł oder Arrest, meist vor Gericht, plus mögliches Fahrverbot für nicht-motorisierte Fahrzeuge (6 Monate bis 3 Jahre). Anders als beim Auto ist es keine Straftat; der Pkw-Führerschein wird dadurch i. d. R. nicht entzogen. Praktisch gilt: gar nicht trinken.",
+        "en": "Very strict: 0.2–0.5 ‰ ('stan po użyciu alkoholu') is an offence under Art. 87 § 2 of the Code of Petty Offences – fine of at least 1,000 zł. Above 0.5 ‰ ('stan nietrzeźwości', Art. 87 § 1a) the minimum is 2,500 zł or detention, usually decided in court, plus a possible ban on riding non-motor vehicles (6 months to 3 years). Unlike driving a car it is not a criminal offence; your car licence is generally not revoked for it. Practically: do not drink at all.",
+        "fr": "Très strict : 0,2–0,5 ‰ (stan po użyciu alkoholu), contravention selon art. 87 § 2 Kodeks wykroczeń : min. 1.000 zł. Au-delà de 0,5 ‰ (stan nietrzeźwości, art. 87 § 1a) : min. 2.500 zł ou détention, généralement au tribunal, et possible interdiction des véhicules non motorisés (6 mois à 3 ans). Contrairement à l’auto, pas un délit ; le permis auto n’est généralement pas retiré. Ne bois pas.",
+        "it": "Molto severo: 0,2–0,5 ‰ (stan po użyciu alkoholu), illecito ex art. 87 § 2 Kodeks wykroczeń: min. 1.000 zł. Oltre 0,5 ‰ (stan nietrzeźwości, art. 87 § 1a): min. 2.500 zł o arresto, di solito in tribunale, e possibile divieto di mezzi non motorizzati (6 mesi–3 anni). Diversamente dall’auto non è reato; normalmente non viene ritirata la patente auto. In pratica: non bere.",
+        "es": "Muy estricto: 0,2–0,5 ‰ (stan po użyciu alkoholu), infracción del art. 87 § 2 Kodeks wykroczeń: mín. 1.000 zł. Más de 0,5 ‰ (stan nietrzeźwości, art. 87 § 1a): mín. 2.500 zł o arresto, normalmente judicial, más posible prohibición de vehículos no motorizados (6 meses a 3 años). A diferencia del coche no es delito; por regla general no se retira el permiso de coche. No bebas."
+      }
+    },
+    {
+      "id": "where_to_ride",
+      "status": "restricted",
+      "value": { "de": "Radweg; Fahrbahn bis 30 km/h", "en": "bike path; roads up to 30 km/h", "fr": "Piste ; chaussée jusqu’à 30 km/h", "it": "Ciclabile; carreggiata fino a 30 km/h", "es": "Carril bici; calzada hasta 30 km/h" },
+      "details": {
+        "de": "Radwege und Radfahrstreifen sind Pflicht, wenn vorhanden. Fehlen sie, darf auf Fahrbahnen mit Tempolimit bis 30 km/h gefahren werden. Der Gehweg ist nur erlaubt, wenn es keinen Radweg gibt UND die Straße mehr als 30 km/h erlaubt – dann Schrittgeschwindigkeit und Vorrang für Fußgänger. Fußgängerüberwege dürfen nicht fahrend überquert werden. Abstellen auf dem Gehweg nur an ausgewiesenen Stellen bzw. parallel am Gehwegrand mit mind. 1,5 m Restbreite für Fußgänger; falsch abgestellte Scooter können kostenpflichtig entfernt werden.",
+        "en": "Bike paths and lanes are mandatory where available. Without them, roads with a limit up to 30 km/h may be used. Sidewalks are only allowed if there is no bike path AND the road allows more than 30 km/h – then walking pace and pedestrian priority. You must not ride across pedestrian crossings. Parking on sidewalks only in designated spots or parallel at the outer edge leaving at least 1.5 m for pedestrians; badly parked scooters can be removed at the owner's cost.",
+        "fr": "Pistes et bandes cyclables obligatoires si présentes. Sinon, chaussées limitées à 30 km/h admises. Trottoir seulement SANS piste ET si la route dépasse 30 km/h : au pas, priorité piétonne. Ne traverse pas les passages piétons en roulant. Stationne aux places prévues ou parallèlement au bord du trottoir en laissant au moins 1,5 m ; enlèvement payant possible.",
+        "it": "Ciclabili obbligatorie se presenti. Se mancano, carreggiate con limite fino a 30 km/h. Marciapiede solo SENZA ciclabile E con strada oltre 30 km/h: a passo d’uomo, precedenza pedoni. Non attraversare in sella i passaggi pedonali. Parcheggia negli spazi previsti o parallelo al bordo lasciando almeno 1,5 m; possibile rimozione a pagamento.",
+        "es": "Carriles y pistas bici obligatorios si existen. Si no, calzadas limitadas hasta 30 km/h. Acera solo SIN carril bici Y si la vía permite más de 30 km/h: al paso y con prioridad peatonal. No cruces pasos peatonales montado. Aparca en espacios previstos o paralelo al borde dejando al menos 1,5 m; posible retirada a tu cargo."
+      }
+    }
+  ],
+  "fines": [
+    {
+      "offense": { "de": "Verbotswidrig auf dem Gehweg fahren", "en": "Riding on the sidewalk against the rules", "fr": "Circuler illégalement sur le trottoir", "it": "Circolare sul marciapiede vietato", "es": "Circular por la acera incumpliendo normas" },
+      "amount": "200 zł"
+    },
+    {
+      "offense": { "de": "Auf dem Gehweg schneller als Schritttempo / kein Vorrang für Fußgänger", "en": "Exceeding walking pace on the sidewalk / not yielding to pedestrians", "fr": "Dépasser l’allure du pas sur trottoir / refuser la priorité aux piétons", "it": "Superare il passo d’uomo sul marciapiede / non dare precedenza ai pedoni", "es": "Superar el paso de peatón en acera / no dar prioridad a peatones" },
+      "amount": "300 zł"
+    },
+    {
+      "offense": { "de": "Zu zweit fahren / Person, Tier oder Ladung befördern", "en": "Riding in pairs / carrying a passenger, animal or load", "fr": "Rouler à deux / transporter personne, animal ou chargement", "it": "Viaggiare in due / trasportare persone, animali o carichi", "es": "Circular dos personas / transportar persona, animal o carga" },
+      "amount": "300 zł"
+    },
+    {
+      "offense": { "de": "Fahrt nach Alkohol (0,2–0,5 ‰)", "en": "Riding after drinking (0.2–0.5 ‰)", "fr": "Rouler après avoir bu (0,2–0,5 ‰)", "it": "Guidare dopo aver bevuto (0,2–0,5 ‰)", "es": "Circular tras beber (0,2–0,5 ‰)" },
+      "amount": "ab 1.000 zł"
+    },
+    {
+      "offense": { "de": "Fahrt im Rauschzustand (über 0,5 ‰)", "en": "Riding drunk (over 0.5 ‰)", "fr": "Rouler en état d’ivresse (plus de 0,5 ‰)", "it": "Guidare in stato di ebbrezza (oltre 0,5 ‰)", "es": "Circular ebrio (más de 0,5 ‰)" },
+      "amount": "ab 2.500 zł",
+      "notes": {
+        "de": "Ordnungswidrigkeit nach Art. 87 § 1a Kodeks wykroczeń: auch Arrest und Fahrverbot für nicht-motorisierte Fahrzeuge möglich, Entscheidung meist durch das Gericht.",
+        "en": "Petty offence under Art. 87 § 1a of the Code of Petty Offences: detention and a ban on riding non-motor vehicles are also possible, usually decided by a court.",
+        "fr": "Contravention selon art. 87 § 1a Kodeks wykroczeń : détention et interdiction des véhicules non motorisés possibles, décision généralement judiciaire.",
+        "it": "Illecito ex art. 87 § 1a Kodeks wykroczeń: possibili arresto e divieto di guidare mezzi non motorizzati, di solito decide il tribunale.",
+        "es": "Infracción del art. 87 § 1a Kodeks wykroczeń: también posibles arresto y prohibición de vehículos no motorizados; normalmente decide un tribunal."
+      }
+    },
+    {
+      "offense": { "de": "Kind/Jugendliche(r) unter 16 ohne Helm (seit 3.6.2026)", "en": "Rider under 16 without a helmet (since 3 June 2026)", "fr": "Conducteur de moins de 16 ans sans casque (depuis le 3.6.2026)", "it": "Minore di 16 anni senza casco (dal 3.6.2026)", "es": "Menor de 16 sin casco (desde el 3.6.2026)" },
+      "amount": "bis 100 zł",
+      "notes": {
+        "de": "Verantwortlich sind Eltern bzw. Aufsichtspersonen.",
+        "en": "Parents or guardians are liable.",
+        "fr": "Les parents ou surveillants sont responsables.",
+        "it": "Responsabili i genitori o i sorveglianti.",
+        "es": "Responden los padres o vigilantes."
+      }
+    }
+  ],
+  "cities": [
+    {
+      "name": "Warsaw",
+      "nameLocalized": {
+        "de": "Warschau",
+        "en": "Warsaw",
+        "fr": "Varsovie",
+        "it": "Varsavia",
+        "es": "Varsovia"
+      },
+      "notes": {
+        "de": "Die Stadtvereinbarung mit Sharing-Betreibern regelt Abstellen und Betriebszonen. Rückgabe nur an den in der Anbieter-App freigegebenen Punkten, insbesondere Radständern und zulässigen Veturilo-Standorten. Diese Betreibervereinbarung ist von allgemeinen gesetzlichen Parkregeln für Privatroller zu trennen.",
+        "en": "The city agreement with sharing providers regulates parking and operating areas. Return rentals only to locations allowed by the provider app, particularly bicycle racks and permitted Veturilo sites. Distinguish this operator agreement from general statutory parking rules for private scooters.",
+        "fr": "L’accord avec les loueurs régit stationnement et zones de service. Rends les locations aux points autorisés dans l’application, notamment arceaux et sites Veturilo admis. Cet accord est distinct des règles légales de stationnement des trottinettes privées.",
+        "it": "L’accordo con i gestori regola sosta e zone operative. Riconsegna solo nei punti autorizzati nell’app, in particolare rastrelliere e siti Veturilo ammessi. È distinto dalle regole legali generali di sosta dei privati.",
+        "es": "El acuerdo con operadores regula aparcamiento y zonas de servicio. Devuelve solo en puntos autorizados en la app, especialmente aparcabicis y lugares Veturilo permitidos. Es distinto de las reglas legales generales de aparcamiento de privados."
+      }
+    },
+    {
+      "name": "Krakow",
+      "nameLocalized": {
+        "de": "Krakau",
+        "en": "Krakow",
+        "fr": "Cracovie",
+        "it": "Cracovia",
+        "es": "Cracovia"
+      },
+      "notes": {
+        "de": "Innerhalb des zweiten Stadtrings sind für Sharing-Roller verpflichtende Mobilitätspunkte vorgesehen. Außerhalb gelten weiter die allgemeinen Parkregeln. Niedrigere Geofencing-Limits in einzelnen Parks/Promenaden und aktuelle Rückgabezonen in der Anbieter-App beachten; keine pauschale Ausnahme vom Fußgängerschutz.",
+        "en": "Shared scooters have mandatory mobility points inside the second ring road. General parking rules continue to apply outside that area. Observe lower geofenced limits in selected parks/promenades and current return zones in the provider app; there is no blanket exemption from pedestrian protection.",
+        "fr": "Dans le deuxième périphérique, points de mobilité obligatoires pour les locations ; hors de là, règles générales de stationnement. Respecte les limites géolocalisées plus basses dans certains parcs/promenades et les zones de retour dans l’application ; aucune exemption générale de protection des piétons.",
+        "it": "Entro la seconda circonvallazione punti di mobilità obbligatori per lo sharing; fuori valgono le regole generali di sosta. Rispetta limiti geofencing inferiori in alcuni parchi/lungofiumi e zone di riconsegna nell’app; nessuna deroga generale alla tutela dei pedoni.",
+        "es": "Dentro del segundo anillo, puntos de movilidad obligatorios para alquiler; fuera rigen normas generales de aparcamiento. Respeta límites geolocalizados menores en ciertos parques/paseos y zonas de devolución de la app; sin excepción general a la protección peatonal."
+      }
+    }
+  ],
+  "sources": [
+    {
+      "title": "Dziennik Ustaw: Ustawa z dnia 17 października 2025 r. o zmianie ustawy – Prawo o ruchu drogowym (Dz.U. 2025 poz. 1676; Mindestalter 13, Helmpflicht unter 16)",
+      "url": "https://dziennikustaw.gov.pl/DU/2025/1676",
+      "accessed": "2026-07-03"
+    },
+    {
+      "title": "gov.pl / Ministerstwo Infrastruktury: Nowe przepisy dotyczące hulajnóg elektrycznych i urządzeń transportu osobistego (Grundregeln 2021)",
+      "url": "https://www.gov.pl/web/infrastruktura/nowe-przepisy-dotyczace-hulajnog-elektrycznych-i-urzadzen-transportu-osobistego",
+      "accessed": "2026-07-03"
+    },
+    {
+      "title": "gov.pl / Ministerstwo Infrastruktury: Obowiązkowe kaski ochronne dla dzieci do 16 roku życia (Helmpflicht ab 3.6.2026)",
+      "url": "https://www.gov.pl/web/infrastruktura/obowiazkowe-kaski-ochronne-dla-dzieci-do-16-roku-zycia",
+      "accessed": "2026-07-03"
+    },
+    {
+      "title": "Policja.pl: Wybrane aspekty zmian przepisów dotyczących bezpieczeństwa ruchu drogowego (Änderungen 2026: Alter, Helm)",
+      "url": "https://policja.pl/pol/aktualnosci/272520,Wybrane-aspekty-zmian-przepisow-dotyczacych-bezpieczenstwa-ruchu-drogowego.html",
+      "accessed": "2026-07-03"
+    },
+    {
+      "title": "Prawo o ruchu drogowym – hulajnoga elektryczna (ISAP, konsolidierte Fassung)",
+      "url": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19970980602",
+      "accessed": "2026-07-03"
+    },
+    {
+      "title": "Dziennik Ustaw: Kodeks wykroczeń (Art. 87 – Alkohol; Grundlage der Bußgelder)",
+      "url": "https://www.dziennikustaw.gov.pl/D2025000073401.pdf",
+      "accessed": "2026-08-22"
+    },
+    {
+      "title": "Dziennik Ustaw: Taryfikator mandatów (amtlicher Bußgeldtarif)",
+      "url": "https://dziennikustaw.gov.pl/D2021000248401.pdf",
+      "accessed": "2026-08-22"
+    },
+    {
+      "title": "Rzecznik Finansowy: keine gesonderte OC-Pflichtversicherung für E-Scooter (hulajnoga)",
+      "url": "https://rf.gov.pl/nowe-przepisy-podwyzszaja-minimalny-wiek-uzytkownikow-e-hulajnog-do-13-roku-zycia/",
+      "accessed": "2026-08-22"
+    },
+    {
+      "title": "ZDM Warszawa: aktuelle Vereinbarung für E-Tretroller zum Mieten (2026)",
+      "url": "https://zdm.waw.pl/aktualnosci/warszawa-wprowadza-nowe-zasady-dla-e-hulajnog-na-wynajem/",
+      "accessed": "2026-10-20"
+    },
+    {
+      "title": "Stadt Krakau: Użytkowniku hulajnóg! Parkuj odpowiedzialnie, jedź bezpiecznie!",
+      "url": "https://krakow.pl/getHtml?dok_id=271234",
+      "accessed": "2026-10-20"
+    }
+  ]
+}

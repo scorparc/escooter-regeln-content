@@ -1,0 +1,222 @@
+{
+  "schemaVersion": 1,
+  "countryCode": "CH",
+  "countryName": { "de": "Schweiz", "en": "Switzerland", "fr": "Suisse", "it": "Svizzera", "es": "Suiza" },
+  "flagEmoji": "🇨🇭",
+  "lastUpdated": "2026-10-20",
+  "verified": true,
+  "verifiedBy": "Marc Neumann",
+  "verifiedDate": "2026-10-20",
+  "overallStatus": "restricted",
+  "summary": {
+    "de": "E-Scooter (E-Trottinette) gelten in der Schweiz als Leicht-Motorfahrräder: max. 20 km/h und 500 W, ab 14 mit Ausweis Kat. M, ab 16 ausweisfrei. Es gelten die Verkehrsregeln für Velos; das Licht muss auch tagsüber eingeschaltet sein.",
+    "en": "In Switzerland e-scooters count as light motorised bicycles: max. 20 km/h and 500 W, from age 14 with a category M licence, from 16 without. Bicycle traffic rules apply; lights must be on even during the day.",
+    "fr": "Les trottinettes sont des cyclomoteurs légers en Suisse : max. 20 km/h et 500 W, dès 14 ans avec permis M, sans permis dès 16 ans. Règles cyclistes applicables ; feux allumés même de jour.",
+    "it": "In Svizzera i monopattini sono ciclomotori leggeri: max. 20 km/h e 500 W, dai 14 anni con patente M, dai 16 senza. Valgono le regole ciclistiche; luci accese anche di giorno.",
+    "es": "En Suiza los patinetes son ciclomotores ligeros: máx. 20 km/h y 500 W, desde los 14 con permiso M y desde los 16 sin él. Rigen normas ciclistas; luces encendidas también de día."
+  },
+  "categories": [
+    {
+      "id": "max_speed",
+      "status": "restricted",
+      "value": { "de": "20 km/h", "en": "20 km/h", "fr": "20 km/h", "it": "20 km/h", "es": "20 km/h" },
+      "details": {
+        "de": "Zulässig sind E-Trottinette mit max. 500 Watt (0,5 kW) Motorleistung und bauartbedingt max. 20 km/h (Art. 18 Bst. b Ziff. 2 VTS). Leistung und Höchstgeschwindigkeit müssen gegen Manipulation geschützt sein. Schnellere oder stärkere Geräte haben keine Strassenzulassung. Zusätzlich sind die allgemeinen und signalisierten Höchstgeschwindigkeiten einzuhalten.",
+        "en": "E-scooters with up to 500 watts (0.5 kW) motor power and a design speed of max. 20 km/h are permitted (Art. 18 let. b no. 2 VTS). Power and top speed must be protected against tampering. Faster or more powerful devices are not approved for public roads. General and signposted speed limits must also be observed.",
+        "fr": "Trottinettes admises jusqu’à 500 watts (0,5 kW) et 20 km/h par construction (art. 18 let. b ch. 2 VTS). Puissance et vitesse doivent être protégées contre les manipulations. Modèles plus rapides/puissants non autorisés sur route. Respecte aussi les limites générales et signalées.",
+        "it": "Consentiti fino a 500 watt (0,5 kW) e 20 km/h di costruzione (art. 18 lett. b n. 2 VTS). Potenza e velocità devono essere protette da manipolazioni. I più rapidi/potenti non sono autorizzati su strada. Rispetta anche limiti generali e segnalati.",
+        "es": "Permitidos hasta 500 vatios (0,5 kW) y 20 km/h de diseño (art. 18 letra b n.º 2 VTS). Potencia y velocidad deben protegerse contra manipulaciones. Los más rápidos/potentes no están autorizados. Respeta además límites generales y señalizados."
+      }
+    },
+    {
+      "id": "min_age",
+      "status": "restricted",
+      "value": { "de": "ab 14 (mit Ausweis), ab 16 frei", "en": "14+ (with licence), 16+ free", "fr": "Dès 14 avec permis ; libre dès 16", "it": "Dai 14 con patente; dai 16 libero", "es": "Desde 14 con permiso; desde 16 libre" },
+      "details": {
+        "de": "Ab 14 Jahren nur mit Führerausweis Kategorie M (Mofa-Ausweis), ab 16 Jahren ohne Ausweis (Art. 5 Abs. 2 Bst. d und Art. 6 Abs. 1 Bst. f VZV). Mit kantonaler Bewilligung kann der Kat.-M-Ausweis in Ausnahmefällen schon vor 14 erworben werden. Wer unter 16 ist, darf niemanden mitführen; E-Trottinette sind ohnehin einplätzig.",
+        "en": "From 14 only with a category M (moped) licence, from 16 no licence is required (Art. 5 para. 2 let. d and Art. 6 para. 1 let. f VZV). With cantonal approval the category M licence can exceptionally be obtained before 14. Riders under 16 may not carry anyone; e-scooters are single-seaters anyway.",
+        "fr": "Dès 14 ans avec permis M, sans permis dès 16 ans (art. 5 al. 2 let. d et art. 6 al. 1 let. f VZV). Autorisation cantonale possible pour obtenir exceptionnellement M avant 14 ans. Avant 16 ans, aucun passager ; les trottinettes sont de toute façon monoplaces.",
+        "it": "Dai 14 con patente M, dai 16 senza (art. 5 co. 2 lett. d e art. 6 co. 1 lett. f VZV). Con autorizzazione cantonale, M eccezionalmente anche prima dei 14. Sotto i 16 nessun passeggero; i monopattini sono comunque monoposto.",
+        "es": "Desde 14 solo con permiso M, desde 16 sin él (art. 5 ap. 2 letra d y art. 6 ap. 1 letra f VZV). Autorización cantonal permite M excepcionalmente antes de 14. Menores de 16 no pueden llevar pasajeros; los patinetes son monoplaza en todo caso."
+      }
+    },
+    {
+      "id": "helmet",
+      "status": "allowed",
+      "value": { "de": "keine Pflicht", "en": "not required", "fr": "Non obligatoire", "it": "Non obbligatorio", "es": "No obligatorio" },
+      "details": {
+        "de": "Keine Helmpflicht für E-Trottinette: Fahrzeuge bis 20 km/h sind von der Helmtragpflicht ausgenommen (Art. 3b Abs. 2 VRV). Das ASTRA empfiehlt das Tragen eines Helms.",
+        "en": "No helmet requirement for e-scooters: vehicles up to 20 km/h are exempt from the helmet obligation (Art. 3b para. 2 VRV). The Federal Roads Office (ASTRA) recommends wearing one.",
+        "fr": "Pas de casque obligatoire : véhicules jusqu’à 20 km/h exemptés (art. 3b al. 2 VRV). L’ASTRA conseille d’en porter un.",
+        "it": "Nessun obbligo di casco: esenti i veicoli fino a 20 km/h (art. 3b co. 2 VRV). ASTRA ne consiglia l’uso.",
+        "es": "Sin casco obligatorio: exentos vehículos hasta 20 km/h (art. 3b ap. 2 VRV). ASTRA recomienda llevarlo."
+      }
+    },
+    {
+      "id": "insurance",
+      "status": "allowed",
+      "value": { "de": "kein Schild, keine Vignette", "en": "no plate, no vignette", "fr": "Ni plaque ni vignette", "it": "Né targa né contrassegno", "es": "Sin placa ni viñeta" },
+      "details": {
+        "de": "E-Trottinette (Leicht-Motorfahrräder) brauchen weder Fahrzeugausweis noch Kontrollschild oder Versicherungsvignette (ASTRA-Merkblatt, Stand 1.7.2025). Eine obligatorische Fahrzeugversicherung gibt es nicht; Schäden deckt üblicherweise die Privathaftpflicht – Deckung vorab prüfen.",
+        "en": "E-scooters (light motorised bicycles) need no registration document, number plate or insurance vignette (ASTRA fact sheet, as of 1 July 2025). There is no compulsory vehicle insurance; damage is usually covered by private liability insurance – check your policy.",
+        "fr": "Les cyclomoteurs légers ne nécessitent ni permis de circulation, ni plaque, ni vignette d’assurance (fiche ASTRA, état au 1.7.2025). Pas d’assurance véhicule obligatoire ; la RC privée couvre généralement les dommages. Vérifie ta couverture.",
+        "it": "I ciclomotori leggeri non richiedono licenza di circolazione, targa o contrassegno assicurativo (scheda ASTRA, stato 1.7.2025). Nessuna assicurazione obbligatoria; di solito copre la RC privata. Verifica la copertura.",
+        "es": "Los ciclomotores ligeros no necesitan documento de circulación, placa ni viñeta de seguro (ficha ASTRA, a 1.7.2025). Sin seguro obligatorio; normalmente cubre la RC privada. Comprueba tu cobertura."
+      }
+    },
+    {
+      "id": "license",
+      "status": "restricted",
+      "value": { "de": "Kat. M nur für 14–15-Jährige", "en": "cat. M only for ages 14–15", "fr": "Cat. M seulement de 14–15 ans", "it": "Cat. M solo a 14–15 anni", "es": "Cat. M solo de 14–15 años" },
+      "details": {
+        "de": "Nur 14- und 15-Jährige brauchen den Mofa-Ausweis (Kategorie M). Ab 16 Jahren ist kein Führerausweis nötig (Art. 5 Abs. 2 Bst. d und Art. 6 Abs. 1 Bst. f VZV).",
+        "en": "Only 14 and 15 year olds need the moped licence (category M). From 16 no licence is needed (Art. 5 para. 2 let. d and Art. 6 para. 1 let. f VZV).",
+        "fr": "Seuls les 14 et 15 ans doivent avoir le permis cyclomoteur M. Dès 16 ans, pas de permis (art. 5 al. 2 let. d et art. 6 al. 1 let. f VZV).",
+        "it": "Solo a 14 e 15 anni serve la patente M. Dai 16 non serve (art. 5 co. 2 lett. d e art. 6 co. 1 lett. f VZV).",
+        "es": "Solo a los 14 y 15 años se necesita permiso M. Desde 16 no se exige (art. 5 ap. 2 letra d y art. 6 ap. 1 letra f VZV)."
+      }
+    },
+    {
+      "id": "alcohol",
+      "status": "restricted",
+      "value": { "de": "0,5 ‰", "en": "0.5 ‰", "fr": "0,5 ‰", "it": "0,5 ‰", "es": "0,5 ‰" },
+      "details": {
+        "de": "Es gilt die allgemeine Grenze von 0,5 ‰ Blutalkohol (bzw. 0,25 mg/l Atemluft) für Fahrzeugführende. Das strengere Alkoholverbot für Neulenkende auf Probe (praktisch 0,1 ‰) gilt auf Fahrten mit Kategorie-M-Fahrzeugen wie E-Trottinetten ausdrücklich nicht (Art. 2a Abs. 1 Bst. h VRV). Wer fahrunfähig ist, macht sich unabhängig davon strafbar.",
+        "en": "The general limit of 0.5 ‰ blood alcohol (0.25 mg/l breath) for vehicle drivers applies. The stricter alcohol ban for new drivers on probation (effectively 0.1 ‰) explicitly does not apply to rides on category M vehicles such as e-scooters (Art. 2a para. 1 let. h VRV). Riding while unfit to drive is punishable regardless.",
+        "fr": "Limite générale de 0,5 ‰ de sang ou 0,25 mg/l d’air expiré. L’interdiction plus stricte des conducteurs en période probatoire (en pratique 0,1 ‰) ne s’applique expressément pas aux véhicules M comme les trottinettes (art. 2a al. 1 let. h VRV). Conduire en étant incapable reste punissable.",
+        "it": "Limite generale di 0,5 ‰ nel sangue o 0,25 mg/l nell’aria espirata. Il divieto più severo per neopatentati in prova (in pratica 0,1 ‰) non vale espressamente sui veicoli M come i monopattini (art. 2a co. 1 lett. h VRV). Guidare incapaci resta punibile.",
+        "es": "Límite general de 0,5 ‰ en sangre o 0,25 mg/l en aire. El veto más estricto para noveles en prueba (en la práctica 0,1 ‰) no se aplica expresamente a vehículos M como patinetes (art. 2a ap. 1 letra h VRV). Conducir incapacitado sigue siendo sancionable."
+      }
+    },
+    {
+      "id": "where_to_ride",
+      "status": "restricted",
+      "value": { "de": "wie Velo", "en": "like a bicycle", "fr": "Comme un vélo", "it": "Come una bicicletta", "es": "Como una bicicleta" },
+      "details": {
+        "de": "Es gelten die Verkehrsregeln für Velofahrende: Radwege und Radstreifen müssen benutzt werden, sonst Fahrbahn. Trottoirs und Fussgängerflächen sind verboten. Licht ist Pflicht (vorne weiss, hinten rot, fest angebracht) und muss auch am Tag eingeschaltet sein (Art. 30 Abs. 2 VRV). Eine Glocke ist vorgeschrieben; nur eine Person pro Fahrzeug.",
+        "en": "Bicycle traffic rules apply: bike paths and bike lanes must be used, otherwise the road. Sidewalks and pedestrian areas are forbidden. Lights are mandatory (fixed white front, red rear) and must be switched on even during the day (Art. 30 para. 2 VRV). A bell is required; only one person per vehicle.",
+        "fr": "Règles cyclistes : pistes/bandes obligatoires, sinon chaussée. Trottoirs et espaces piétons interdits. Feux fixes blancs devant et rouges derrière obligatoires, allumés même de jour (art. 30 al. 2 VRV). Sonnette obligatoire ; une seule personne.",
+        "it": "Regole ciclistiche: piste/corsie obbligatorie, altrimenti carreggiata. Vietati marciapiedi e aree pedonali. Luci fisse bianche davanti e rosse dietro obbligatorie e accese anche di giorno (art. 30 co. 2 VRV). Campanello obbligatorio; una sola persona.",
+        "es": "Normas ciclistas: carriles/pistas obligatorios; si no, calzada. Prohibidas aceras y zonas peatonales. Luces fijas blancas delante y rojas detrás, encendidas también de día (art. 30 ap. 2 VRV). Timbre obligatorio; una persona."
+      }
+    }
+  ],
+  "fines": [
+    {
+      "offense": { "de": "Fahren auf dem Trottoir", "en": "Riding on the sidewalk", "fr": "Circuler sur le trottoir", "it": "Circolare sul marciapiede", "es": "Circular por la acera" },
+      "amount": "40 CHF",
+      "notes": {
+        "de": "Ordnungsbusse nach Anhang 1 Ziff. 605.1 OBV (Stand 1.1.2025).",
+        "en": "Fixed-penalty fine under Annex 1 no. 605.1 OBV (as of 1 Jan 2025).",
+        "fr": "Amende d’ordre selon annexe 1 ch. 605.1 OBV (état au 1.1.2025).",
+        "it": "Multa disciplinare secondo allegato 1 n. 605.1 OBV (stato 1.1.2025).",
+        "es": "Multa fija según anexo 1 n.º 605.1 OBV (a 1.1.2025)."
+      }
+    },
+    {
+      "offense": { "de": "Fahren ohne Licht", "en": "Riding without lights", "fr": "Rouler sans feux", "it": "Guidare senza luci", "es": "Circular sin luces" },
+      "amount": "20–60 CHF",
+      "notes": {
+        "de": "Ordnungsbusse nach Anhang 1 Ziff. 604 OBV: tagsüber 20 CHF, nachts auf beleuchteter Strasse 40 CHF, auf unbeleuchteter Strasse 60 CHF.",
+        "en": "Fixed-penalty fine under Annex 1 no. 604 OBV: 20 CHF during the day, 40 CHF at night on lit roads, 60 CHF on unlit roads.",
+        "fr": "Amende d’ordre selon annexe 1 ch. 604 OBV : 20 CHF de jour, 40 CHF de nuit sur route éclairée, 60 CHF sur route non éclairée.",
+        "it": "Multa secondo allegato 1 n. 604 OBV: 20 CHF di giorno, 40 CHF di notte su strada illuminata, 60 CHF su strada non illuminata.",
+        "es": "Multa según anexo 1 n.º 604 OBV: 20 CHF de día, 40 CHF de noche en vía iluminada, 60 CHF en vía sin iluminar."
+      }
+    },
+    {
+      "offense": { "de": "Nicht zugelassenes (zu schnelles/zu starkes) Gerät", "en": "Non-approved (too fast/too powerful) device", "fr": "Appareil non homologué (trop rapide/puissant)", "it": "Mezzo non autorizzato (troppo veloce/potente)", "es": "Equipo no autorizado (demasiado rápido/potente)" },
+      "amount": "Anzeige, Busse nach Ermessen",
+      "notes": {
+        "de": "Keine Ordnungsbusse: Fahren eines nicht zugelassenen Geräts auf öffentlichem Grund wird verzeigt, die Busse legt das Gericht bzw. die Staatsanwaltschaft fest.",
+        "en": "No fixed penalty: riding a non-approved device on public roads leads to formal charges; the fine is set by the court or prosecution.",
+        "fr": "Pas d’amende d’ordre : une dénonciation est faite pour l’usage public d’un appareil non autorisé ; le tribunal ou le ministère public fixe l’amende.",
+        "it": "Nessuna multa fissa: l’uso pubblico di un mezzo non autorizzato viene denunciato; importo deciso dal tribunale o dal pubblico ministero.",
+        "es": "Sin multa fija: usar equipo no autorizado en espacio público genera denuncia; fija la multa el tribunal o la fiscalía."
+      }
+    }
+  ],
+  "cities": [
+    {
+      "name": "Zurich",
+      "nameLocalized": {
+        "de": "Zürich",
+        "en": "Zurich",
+        "fr": "Zurich",
+        "it": "Zurigo",
+        "es": "Zúrich"
+      },
+      "notes": {
+        "de": "Die Stadtpolizei verlangt auf Gehwegen beim Parkieren mindestens 1,5 m freien Durchgang bzw. die Nutzung vorgesehener Flächen. Das ist keine Erlaubnis, auf dem Gehweg zu fahren. Für Sharing zusätzlich Anbieterzonen beachten; private Roller müssen dieselben technischen Landesanforderungen erfüllen.",
+        "en": "City police require at least 1.5 m of clear pedestrian space when parking on pavements, or use of designated areas. This is not permission to ride on pavements. Rental zones apply additionally; private scooters must meet the same national technical requirements.",
+        "fr": "En stationnant sur trottoir, la police exige au moins 1,5 m de passage libre ou les places prévues. Cela n’autorise pas à y rouler. Respecte aussi les zones du loueur ; les privées ont les mêmes exigences techniques nationales.",
+        "it": "Sui marciapiedi la polizia richiede almeno 1,5 m di passaggio libero o spazi previsti. Non autorizza a guidarvi. Rispetta anche zone del noleggiatore; i privati hanno gli stessi requisiti tecnici nazionali.",
+        "es": "Al aparcar en aceras, la policía exige al menos 1,5 m libres o usar plazas previstas. No autoriza circular en ellas. Respeta zonas del alquiler; los privados tienen iguales requisitos técnicos nacionales."
+      }
+    },
+    {
+      "name": "Geneva",
+      "nameLocalized": {
+        "de": "Genf",
+        "en": "Geneva",
+        "fr": "Genève",
+        "it": "Ginevra",
+        "es": "Ginebra"
+      },
+      "notes": {
+        "de": "Die Stadtpolizei kontrolliert verbotenes Fahren auf Fußwegen und in Fußgängerzonen, besonders am Jardin Anglais und Quai des Bergues. Dort Schilder beachten und schieben, wo Fahren nicht erlaubt ist.",
+        "en": "Municipal police enforce the ban on riding on footpaths and in pedestrian zones, especially at Jardin Anglais and Quai des Bergues. Follow the signs there and walk the scooter where riding is not allowed.",
+        "fr": "La police contrôle les interdictions sur chemins/zones piétonnes, surtout Jardin Anglais et Quai des Bergues. Respecte les panneaux et pousse où rouler est interdit.",
+        "it": "La polizia controlla divieti su percorsi/zone pedonali, soprattutto Jardin Anglais e Quai des Bergues. Rispetta i segnali e spingi dove guidare è vietato.",
+        "es": "La policía controla las prohibiciones en caminos/zonas peatonales, sobre todo Jardin Anglais y Quai des Bergues. Respeta señales y empuja donde no se permita circular."
+      }
+    }
+  ],
+  "sources": [
+    {
+      "title": "ASTRA: Vorschriften über langsame E-Bikes, E-Trottinette, E-Roller usw. (Merkblatt, Stand 1. Juli 2025)",
+      "url": "https://www.astra.admin.ch/dam/de/sd-web/0j-sb10OY--z/vorschriften-zulassung-betrieb-motorfahrraeder.pdf",
+      "accessed": "2026-07-03"
+    },
+    {
+      "title": "ASTRA: Vorschriften für Fahrzeuge des Langsamverkehrs",
+      "url": "https://www.astra.admin.ch/de/vorschriften-fuer-fahrzeuge-des-langsamverkehrs",
+      "accessed": "2026-07-03"
+    },
+    {
+      "title": "Fedlex: Verordnung über die technischen Anforderungen an Strassenfahrzeuge (VTS, SR 741.41), Art. 18",
+      "url": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/de",
+      "accessed": "2026-07-03"
+    },
+    {
+      "title": "Fedlex: Ordnungsbussenverordnung (OBV, SR 314.11), Anhang 1 Ziff. 604–605",
+      "url": "https://www.fedlex.admin.ch/eli/cc/2019/93/de",
+      "accessed": "2026-07-03"
+    },
+    {
+      "title": "Fedlex: Verkehrszulassungsverordnung (VZV, SR 741.51) – Mindestalter, Kat. M",
+      "url": "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/de",
+      "accessed": "2026-08-22"
+    },
+    {
+      "title": "Fedlex: Verkehrsregelnverordnung (VRV, SR 741.11) – Helm, Licht, Verhalten",
+      "url": "https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/de",
+      "accessed": "2026-08-22"
+    },
+    {
+      "title": "Fedlex: Verordnung über Alkoholgrenzwerte im Strassenverkehr (SR 741.13) – 0,5 ‰",
+      "url": "https://www.fedlex.admin.ch/eli/cc/2015/297/de",
+      "accessed": "2026-08-22"
+    },
+    {
+      "title": "Stadt Zürich: E-Trottinett ja – aber richtig (Parkieren/Fahrflächen)",
+      "url": "https://www.stadt-zuerich.ch/misc/de/mitteilungsarchiv/medienmitteilungen/2019/08/e-trottinett_ja_aberrichtig.html",
+      "accessed": "2026-10-20"
+    },
+    {
+      "title": "Ville de Genève: Polizeibericht 2024, Tretroller und Fußgängerbereiche",
+      "url": "https://www.geneve.ch/document/police-municipale-rapport-activites-2024-2",
+      "accessed": "2026-10-20"
+    }
+  ]
+}

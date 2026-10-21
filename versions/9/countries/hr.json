@@ -1,0 +1,215 @@
+{
+  "schemaVersion": 1,
+  "countryCode": "HR",
+  "countryName": {
+    "de": "Kroatien",
+    "en": "Croatia",
+    "fr": "Croatie",
+    "it": "Croazia",
+    "es": "Croacia"
+  },
+  "flagEmoji": "🇭🇷",
+  "lastUpdated": "2026-10-21",
+  "verified": true,
+  "verifiedBy": "Marc Neumann",
+  "verifiedDate": "2026-10-21",
+  "overallStatus": "restricted",
+  "summary": {
+    "de": "E-Tretroller ohne Sitz bis 600 W und 25 km/h: ab 14 Jahren, Helm für alle. Radwege nutzen, sonst rücksichtsvoll auf Gehwegen und in Fußgängerbereichen; auf der Fahrbahn nur, wo es ausdrücklich erlaubt ist.",
+    "en": "Seatless e-scooters up to 600 W and 25 km/h: age 14+, helmets for everyone. Use cycle lanes, otherwise ride considerately on pavements and in pedestrian areas; on the road only where explicitly permitted.",
+    "fr": "Trottinettes sans siège jusqu’à 600 W et 25 km/h : dès 14 ans, casque pour tous. Utilise les pistes, sinon les trottoirs et zones piétonnes avec prudence ; chaussée seulement si expressément autorisée.",
+    "it": "Monopattini senza sedile fino a 600 W e 25 km/h: dai 14 anni, casco per tutti. Usa le ciclabili, altrimenti marciapiedi e aree pedonali con riguardo; carreggiata solo dove espressamente consentita.",
+    "es": "Patinetes sin asiento hasta 600 W y 25 km/h: desde los 14 años, casco para todos. Usa carriles bici; si no hay, aceras y zonas peatonales con cuidado; calzada solo donde se permita expresamente."
+  },
+  "categories": [
+    {
+      "id": "max_speed",
+      "status": "restricted",
+      "value": {
+        "de": "25 km/h; max. 600 W",
+        "en": "25 km/h; max. 600 W",
+        "fr": "25 km/h ; max. 600 W",
+        "it": "25 km/h; max. 600 W",
+        "es": "25 km/h; máx. 600 W"
+      },
+      "details": {
+        "de": "Die nationale Klasse osobno prijevozno sredstvo umfasst Roller ohne Sitz bis 0,6 kW Dauerleistung und höchstens 25 km/h. Stärkere/schnellere Geräte dürfen nicht einfach in dieser Klasse im Verkehr genutzt werden; Beschlagnahme möglich. In Gehbereichen Geschwindigkeit an Fußgänger anpassen.",
+        "en": "The national personal-transport-device class covers seatless scooters up to 0.6 kW continuous power and at most 25 km/h. More powerful/faster devices cannot simply be used in this class; seizure is possible. Adapt speed to pedestrians in pedestrian areas.",
+        "fr": "La catégorie osobno prijevozno sredstvo couvre les trottinettes sans siège jusqu’à 0,6 kW continus et 25 km/h. Les modèles plus puissants/rapides ne peuvent pas simplement circuler dans cette catégorie ; saisie possible. En espace piéton, adapte la vitesse aux piétons.",
+        "it": "La categoria osobno prijevozno sredstvo comprende monopattini senza sedile fino a 0,6 kW continui e 25 km/h. I più potenti/veloci non possono circolare semplicemente in questa categoria; possibile sequestro. Nelle aree pedonali adatta la velocità ai pedoni.",
+        "es": "La categoría osobno prijevozno sredstvo cubre patinetes sin asiento hasta 0,6 kW continuos y 25 km/h. Los más potentes/rápidos no pueden circular sin más en esta categoría; posible incautación. En zonas peatonales adapta la velocidad a los peatones."
+      }
+    },
+    {
+      "id": "min_age",
+      "status": "restricted",
+      "value": {
+        "de": "Ab 14 Jahren",
+        "en": "14 years and older",
+        "fr": "Dès 14 ans",
+        "it": "Dai 14 anni",
+        "es": "Desde los 14 años"
+      },
+      "details": {
+        "de": "Fahrer müssen 14 Jahre alt sein. Keine allgemeine Ausnahme durch Begleitung eines Erwachsenen für jüngere Kinder. Anbieter können ein höheres Mietalter verlangen; Minderjährige und die Überlassung durch Halter werden gesondert kontrolliert.",
+        "en": "Riders must be 14. Adult supervision is not a general exemption for younger children. Providers may require a higher rental age; police separately enforce rules concerning minors and owners supplying scooters.",
+        "fr": "Les conducteurs doivent avoir 14 ans. Pas d’exception générale pour les plus jeunes accompagnés d’un adulte. Les loueurs peuvent exiger davantage ; mineurs et mise à disposition par les détenteurs font l’objet de contrôles spécifiques.",
+        "it": "Devi avere 14 anni. Nessuna eccezione generale per bambini più piccoli accompagnati da adulti. I gestori possono imporre un’età maggiore; minori e consegna del mezzo da parte dei proprietari sono controllati separatamente.",
+        "es": "Debes tener 14 años. No hay excepción general para menores acompañados de adulto. Los operadores pueden exigir más edad; se controla aparte a menores y la cesión por los titulares."
+      }
+    },
+    {
+      "id": "helmet",
+      "status": "restricted",
+      "value": {
+        "de": "Pflicht für alle",
+        "en": "Mandatory for everyone",
+        "fr": "Obligatoire pour tous",
+        "it": "Obbligatorio per tutti",
+        "es": "Obligatorio para todos"
+      },
+      "details": {
+        "de": "Helm während der Fahrt unabhängig vom Alter vorgeschrieben. Gilt für Privat- und Mietroller der beschriebenen Fahrzeugklasse.",
+        "en": "A helmet is mandatory while riding regardless of age. Applies to private and rental scooters in the class described.",
+        "fr": "Casque obligatoire pendant la conduite, quel que soit l’âge. Vaut pour trottinettes privées et louées de la catégorie décrite.",
+        "it": "Casco obbligatorio durante la guida a ogni età. Vale per privati e noleggi nella categoria descritta.",
+        "es": "Casco obligatorio durante la marcha, a cualquier edad. Se aplica a privados y alquileres de la categoría descrita."
+      }
+    },
+    {
+      "id": "insurance",
+      "status": "allowed",
+      "value": { "de": "Übliche Klasse: keine Kfz-Pflicht", "en": "Ordinary class: no motor duty", "fr": "Catégorie ordinaire : pas de RC auto", "it": "Categoria ordinaria: niente RC auto", "es": "Categoría normal: sin RC de vehículos" },
+      "details": { "de": "Sitzlose E-Tretroller der zulässigen Klasse bis 600 W/25 km/h brauchen keine Kfz-Haftpflicht oder Zulassung. Für anders eingestufte Fahrzeuge gilt das nicht. Private Haftpflicht und bei Mietrollern die Anbieterdeckung prüfen.", "en": "Compliant seatless kick scooters up to 600 W/25 km/h need no motor liability insurance or registration. This does not apply to differently classified vehicles. Check private liability cover and rental operator cover.", "fr": "La catégorie conforme sans siège jusqu’à 600 W/25 km/h ne nécessite ni RC automobile ni immatriculation. Cela ne vaut pas pour les autres catégories. Vérifie la RC privée et la couverture des loueurs.", "it": "La categoria conforme senza sedile fino a 600 W/25 km/h non richiede RC auto né immatricolazione. Non vale per categorie diverse. Verifica RC privata e copertura del noleggiatore.", "es": "La categoría conforme sin asiento hasta 600 W/25 km/h no necesita RC de vehículos ni matriculación. No se aplica a otras categorías. Comprueba RC privada y cobertura del alquiler." }
+    },
+    {
+      "id": "license",
+      "status": "allowed",
+      "value": { "de": "Bis 600 W/25 km/h nicht nötig", "en": "Not needed up to 600 W/25 km/h", "fr": "Non requis jusqu’à 600 W/25 km/h", "it": "Non serve fino a 600 W/25 km/h", "es": "No necesario hasta 600 W/25 km/h" },
+      "details": { "de": "Für sitzlose Roller der zulässigen Klasse bis 600 W und 25 km/h ist kein Führerschein nötig. Mindestalter 14 und Helmpflicht gelten trotzdem; stärkere oder sitzende Fahrzeuge gesondert prüfen.", "en": "No licence is required for compliant seatless scooters up to 600 W and 25 km/h. Minimum age 14 and helmets still apply; check more powerful or seated vehicles separately.", "fr": "Pas de permis pour la catégorie conforme sans siège jusqu’à 600 W et 25 km/h. Âge minimal 14 ans et casque restent obligatoires ; vérifie séparément les modèles plus puissants ou avec siège.", "it": "Nessuna patente per la categoria conforme senza sedile fino a 600 W e 25 km/h. Restano età minima 14 e casco; verifica separatamente mezzi più potenti o con sedile.", "es": "Sin permiso para la categoría conforme sin asiento hasta 600 W y 25 km/h. Siguen vigentes edad mínima 14 y casco; comprueba aparte modelos más potentes o con asiento." }
+    },
+    {
+      "id": "alcohol",
+      "status": "restricted",
+      "value": {
+        "de": "Höchstens 0,5 ‰",
+        "en": "At most 0.5 ‰",
+        "fr": "Au maximum 0,5 ‰",
+        "it": "Al massimo 0,5 ‰",
+        "es": "Como máximo 0,5 ‰"
+      },
+      "details": {
+        "de": "Ab mehr als 0,5 ‰ Blutalkohol ist das Fahren verboten (Bußgeld 60 €). Am sichersten ganz ohne Alkohol fahren.",
+        "en": "Riding with more than 0.5 ‰ blood alcohol is prohibited (fine €60). Riding without any alcohol is safest.",
+        "fr": "Au-delà de 0,5 ‰ de sang, conduite interdite (60 €). Le plus sûr est sans alcool.",
+        "it": "Oltre 0,5 ‰ nel sangue è vietato guidare (60 €). Più sicuro senza alcol.",
+        "es": "Con más de 0,5 ‰ en sangre está prohibido circular (60 €). Lo más seguro es sin alcohol."
+      }
+    },
+    {
+      "id": "where_to_ride",
+      "status": "restricted",
+      "value": {
+        "de": "Radweg, sonst Gehbereich mit Rücksicht",
+        "en": "Cycle path, else walkways with care",
+        "fr": "Piste, sinon espace piéton prudemment",
+        "it": "Ciclabile, altrimenti pedoni con cura",
+        "es": "Carril bici; si no, peatones con cuidado"
+      },
+      "details": {
+        "de": "Radweg oder Radstreifen zuerst. Fehlt er, vorsichtig auf Gehwegen und in Fußgängerbereichen fahren und vor Menschen abbremsen. Auf der Fahrbahn nur, wo Schilder es erlauben. An Zebrastreifen ohne Radfurt absteigen. Nur eine Person; bei Dunkelheit Licht und Reflektoren.",
+        "en": "Cycle path or lane first. If there is none, ride carefully on pavements and in pedestrian areas and slow down near people. On the road only where signs allow it. Dismount at zebra crossings without a cycle crossing. One rider only; lights and reflectors in the dark.",
+        "fr": "Piste ou bande cyclable d’abord. Sinon, trottoirs et zones piétonnes avec prudence, ralentis près des gens. Chaussée seulement si les panneaux l’autorisent. Descends aux passages piétons sans traversée cyclable. Une personne ; feux et réflecteurs dans l’obscurité.",
+        "it": "Prima pista o corsia ciclabile. Se manca, marciapiedi e aree pedonali con prudenza, rallentando vicino alle persone. Carreggiata solo se autorizzata dai segnali. Scendi alle strisce senza attraversamento ciclabile. Una persona; luci e riflettenti al buio.",
+        "es": "Primero carril o pista bici. Si no hay, aceras y áreas peatonales con cuidado y frenando ante personas. Calzada solo si las señales lo permiten. Bájate en pasos de cebra sin cruce ciclista. Una persona; luces y reflectantes de noche."
+      }
+    }
+  ],
+  "fines": [
+    {
+      "offense": {
+        "de": "Fahren ohne Helm",
+        "en": "Riding without a helmet",
+        "fr": "Rouler sans casque",
+        "it": "Guidare senza casco",
+        "es": "Circular sin casco"
+      },
+      "amount": "30 €"
+    },
+    {
+      "offense": {
+        "de": "Alkohol über 0,5 ‰",
+        "en": "Alcohol above 0.5 ‰",
+        "fr": "Alcool supérieur à 0,5 ‰",
+        "it": "Alcol oltre 0,5 ‰",
+        "es": "Alcohol superior a 0,5 ‰"
+      },
+      "amount": "60 €"
+    },
+    {
+      "offense": {
+        "de": "Zu zweit auf einem Roller",
+        "en": "Carrying a passenger",
+        "fr": "Deux personnes sur une trottinette",
+        "it": "Due persone su un monopattino",
+        "es": "Dos personas en un patinete"
+      },
+      "amount": "60 €"
+    },
+    {
+      "offense": {
+        "de": "Unzulässig starkes/nicht kategorisiertes Fahrzeug im Verkehr",
+        "en": "Using an overpowered/unclassified vehicle in traffic",
+        "fr": "Véhicule trop puissant/non classé en circulation",
+        "it": "Mezzo troppo potente/non classificato nel traffico",
+        "es": "Vehículo excesivamente potente/sin categoría en circulación"
+      },
+      "amount": "130 €"
+    }
+  ],
+  "cities": [
+    {
+      "name": "Dubrovnik",
+      "nameLocalized": { "de": "Dubrovnik", "en": "Dubrovnik", "fr": "Dubrovnik", "it": "Ragusa", "es": "Dubrovnik" },
+      "notes": { "de": "In den kommunal ausgewiesenen Fußgängerzonen ist E-Tretrollerfahren verboten, darunter die historische Altstadt und Šetalište kralja Zvonimira. Absteigen und schieben; örtliche Beschilderung beachten.", "en": "E-scooter riding is prohibited in designated municipal pedestrian zones, including the historic old town and Šetalište kralja Zvonimira. Dismount and walk; observe local signs.", "fr": "Trottinettes interdites dans les zones piétonnes municipales, dont la vieille ville et Šetalište kralja Zvonimira. Descends et pousse ; respecte la signalisation locale.", "it": "Monopattini vietati nelle zone pedonali comunali, tra cui centro storico e Šetalište kralja Zvonimira. Scendi e spingi; rispetta i segnali locali.", "es": "Se prohíben patinetes en zonas peatonales municipales, como casco histórico y Šetalište kralja Zvonimira. Bájate y empuja; respeta las señales locales." }
+    }
+  ],
+  "upcomingChanges": [],
+  "sources": [
+    {
+      "title": "Policijska uprava istarska: Sigurno na romobilu (Klasse, Flächen, Alkohol, Bußgelder)",
+      "url": "https://istarska-policija.gov.hr/istaknute-teme/savjeti/sigurno-na-romobilu/38363",
+      "accessed": "2026-10-20"
+    },
+    {
+      "title": "Polizei Virovitica-Podravina: Kontrollen, Helmbußgeld und Alkoholgrenze, 01.08.2025",
+      "url": "https://viroviticko-podravska-policija.gov.hr/print.aspx?id=11554&url=print",
+      "accessed": "2026-10-20"
+    },
+    {
+      "title": "MUP: Sicherheit und grundsätzliche Rollerregeln",
+      "url": "https://mup.gov.hr/dva-kotaca-nisu-igracka-sigurnost-je-prva-zadaca-pravila-kacige-i-odgovornost-spasavaju-zivote/295020",
+      "accessed": "2026-10-20"
+    },
+    {
+      "title": "MUP: Vorschlag höherer Strafen, 14.10.2026 (kein Nachweis des Inkrafttretens)",
+      "url": "https://mup.gov.hr/potpredsjednik-vlade-i-ministar-bozinovic-o-izmjenama-zakona-o-sigurnosti-prometa-na-cestama-vise-sigurnosti-manje-stradavanja/298670",
+      "accessed": "2026-10-20"
+    },
+    {
+      "title": "Narodne novine: NN 155/2023, Art. 13 / Versicherungsausnahme Art. 22",
+      "url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2023_12_155_2364.html",
+      "accessed": "2026-10-21"
+    },
+    {
+      "title": "Općina Jalžabet: keine Fahrerlaubnis für übliche Roller (2025)",
+      "url": "https://www.jalzabet.hr/2025/07/08/obavijest-roditeljima-i-djeci-voznja-romobilima-na-javnim-povrsinama/",
+      "accessed": "2026-10-21"
+    },
+    {
+      "title": "Grad Dubrovnik: kommunale Ordnung, Art. 95 und 160",
+      "url": "https://www.dubrovnik.hr/sluzbeni-glasnik?odluka=1152",
+      "accessed": "2026-10-21"
+    }
+  ]
+}
