@@ -126,7 +126,7 @@
     },
     {
       "offense": { "de": "Nicht zugelassenes (zu schnelles/zu starkes) Gerät", "en": "Non-approved (too fast/too powerful) device", "fr": "Appareil non homologué (trop rapide/puissant)", "it": "Mezzo non autorizzato (troppo veloce/potente)", "es": "Equipo no autorizado (demasiado rápido/potente)" },
-      "amount": "Anzeige, Busse nach Ermessen",
+      "amount": "variable",
       "notes": {
         "de": "Keine Ordnungsbusse: Fahren eines nicht zugelassenen Geräts auf öffentlichem Grund wird verzeigt, die Busse legt das Gericht bzw. die Staatsanwaltschaft fest.",
         "en": "No fixed penalty: riding a non-approved device on public roads leads to formal charges; the fine is set by the court or prosecution.",

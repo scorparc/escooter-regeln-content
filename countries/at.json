@@ -104,7 +104,7 @@
   "fines": [
     {
       "offense": { "de": "Fahren am Gehsteig", "en": "Riding on the sidewalk", "fr": "Circuler sur le trottoir", "it": "Circolare sul marciapiede", "es": "Circular por la acera" },
-      "amount": "bis zu 726 €",
+      "amount": "max. 726 €",
       "notes": {
         "de": "Gesetzlicher Strafrahmen (§ 99 Abs. 3 StVO, bundesweit einheitlich 7–726 €); in der Praxis meist deutlich niedrigeres Organmandat vor Ort.",
         "en": "Statutory fine range (Section 99(3) Road Traffic Act, uniform nationwide €7–726); in practice usually a much lower on-the-spot fine.",
@@ -126,7 +126,7 @@
     },
     {
       "offense": { "de": "Fahren zu zweit", "en": "Riding in pairs", "fr": "Rouler à deux", "it": "Viaggiare in due", "es": "Circular dos personas" },
-      "amount": "bis zu 726 €",
+      "amount": "max. 726 €",
       "notes": {
         "de": "Ausnahmslos nur eine Person pro E-Scooter erlaubt (§ 68a Abs. 2 StVO, seit 1. Mai 2026); allgemeiner Strafrahmen der StVO (§ 99 Abs. 3).",
         "en": "Strictly one person per e-scooter (Section 68a(2) Road Traffic Act, since 1 May 2026); general fine range of the Road Traffic Act (Section 99(3)).",

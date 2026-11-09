@@ -116,11 +116,11 @@
     },
     {
       "offense": { "de": "Fahrt nach Alkohol (0,2–0,5 ‰)", "en": "Riding after drinking (0.2–0.5 ‰)", "fr": "Rouler après avoir bu (0,2–0,5 ‰)", "it": "Guidare dopo aver bevuto (0,2–0,5 ‰)", "es": "Circular tras beber (0,2–0,5 ‰)" },
-      "amount": "ab 1.000 zł"
+      "amount": "min. 1.000 zł"
     },
     {
       "offense": { "de": "Fahrt im Rauschzustand (über 0,5 ‰)", "en": "Riding drunk (over 0.5 ‰)", "fr": "Rouler en état d’ivresse (plus de 0,5 ‰)", "it": "Guidare in stato di ebbrezza (oltre 0,5 ‰)", "es": "Circular ebrio (más de 0,5 ‰)" },
-      "amount": "ab 2.500 zł",
+      "amount": "min. 2.500 zł",
       "notes": {
         "de": "Ordnungswidrigkeit nach Art. 87 § 1a Kodeks wykroczeń: auch Arrest und Fahrverbot für nicht-motorisierte Fahrzeuge möglich, Entscheidung meist durch das Gericht.",
         "en": "Petty offence under Art. 87 § 1a of the Code of Petty Offences: detention and a ban on riding non-motor vehicles are also possible, usually decided by a court.",
@@ -131,7 +131,7 @@
     },
     {
       "offense": { "de": "Kind/Jugendliche(r) unter 16 ohne Helm (seit 3.6.2026)", "en": "Rider under 16 without a helmet (since 3 June 2026)", "fr": "Conducteur de moins de 16 ans sans casque (depuis le 3.6.2026)", "it": "Minore di 16 anni senza casco (dal 3.6.2026)", "es": "Menor de 16 sin casco (desde el 3.6.2026)" },
-      "amount": "bis 100 zł",
+      "amount": "max. 100 zł",
       "notes": {
         "de": "Verantwortlich sind Eltern bzw. Aufsichtspersonen.",
         "en": "Parents or guardians are liable.",

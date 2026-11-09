@@ -147,7 +147,7 @@
     },
     {
       "offense": { "de": "Fahrt mit 0,5–1,09 ‰", "en": "Riding with 0.5–1.09 ‰ BAC", "fr": "Rouler avec 0,5–1,09 ‰", "it": "Guidare con 0,5–1,09 ‰", "es": "Circular con 0,5–1,09 ‰" },
-      "amount": "ab 500 €",
+      "amount": "min. 500 €",
       "notes": {
         "de": "Zusätzlich 1 Monat Fahrverbot und 2 Punkte; ab 1,1 ‰ Straftat.",
         "en": "Plus a 1-month driving ban and 2 points; from 1.1 ‰ it is a criminal offence.",

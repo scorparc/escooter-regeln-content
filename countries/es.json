@@ -104,7 +104,7 @@
   "fines": [
     {
       "offense": { "de": "Fahren auf dem Gehweg", "en": "Riding on the sidewalk", "fr": "Circuler sur le trottoir", "it": "Circolare sul marciapiede", "es": "Circular por la acera" },
-      "amount": "je nach Stadt, z. B. Barcelona 500 €",
+      "amount": "Barcelona: 500 €",
       "notes": {
         "de": "Kommunal geregelt und stark unterschiedlich; Barcelona sanktioniert das Fahren auf dem Gehweg seit der Verkehrsordnung von 2025 mit 500 €.",
         "en": "Set locally and highly variable; Barcelona has fined riding on the sidewalk €500 since its 2025 traffic ordinance.",
@@ -127,7 +127,7 @@
     },
     {
       "offense": { "de": "Fahren ohne Haftpflichtversicherung", "en": "Riding without liability insurance", "fr": "Rouler sans responsabilité civile", "it": "Guidare senza assicurazione RC", "es": "Circular sin seguro RC" },
-      "amount": "ca. 250–800 €",
+      "amount": "≈ 250–800 €",
       "notes": {
         "de": "Praktisch durchsetzbar seit Registerstart 30.01.2026. Das Fehlen der Pflichtversicherung selbst wird laut DGT mit 202–610 € sanktioniert; das tatsächliche Fahren ohne Versicherung mit ca. 250–800 €.",
         "en": "Practically enforceable since the registry went live on 30 Jan 2026. Lacking the mandatory insurance itself carries €202–610 per the DGT; actually riding uninsured carries roughly €250–800.",

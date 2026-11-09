@@ -124,7 +124,7 @@
     },
     {
       "offense": { "de": "Fahren ohne Versicherung", "en": "Riding without insurance", "fr": "Rouler sans assurance", "it": "Guidare senza assicurazione", "es": "Circular sin seguro" },
-      "amount": "bis 3.750 €",
+      "amount": "max. 3.750 €",
       "notes": { "de": "Straftatbestand (Art. L324-2 Code de la route)", "en": "Criminal offence (Art. L324-2 of the French traffic code)", "fr": "Délit (art. L324-2 Code de la route)", "it": "Reato (art. L324-2 Code de la route)", "es": "Delito (art. L324-2 Code de la route)" }
     }
   ],
