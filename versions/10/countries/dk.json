@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "countryCode": "DK",
+  "countryName": { "de": "Dänemark", "en": "Denmark", "fr": "Danemark", "it": "Danimarca", "es": "Dinamarca" },
+  "flagEmoji": "🇩🇰",
+  "lastUpdated": "2026-10-21",
+  "verified": true,
+  "verifiedBy": "Marc Neumann",
+  "verifiedDate": "2026-10-21",
+  "overallStatus": "restricted",
+  "summary": { "de": "Bis 20 km/h, Helm und Licht auch am Tag. Allein grundsätzlich ab 15; jüngere Kinder brauchen erwachsene Begleitung. Mietroller müssen haftpflichtversichert sein.", "en": "Up to 20 km/h, with a helmet and lights even by day. Normally 15+ when riding alone; younger children need adult supervision. Rentals need liability insurance.", "fr": "Jusqu’à 20 km/h, casque et éclairage même de jour. Seul, en principe dès 15 ans ; les plus jeunes doivent être accompagnés d’un adulte. Assurance responsabilité civile obligatoire pour les locations.", "it": "Fino a 20 km/h, casco e luci anche di giorno. Da soli di norma dai 15 anni; i più piccoli devono essere accompagnati da un adulto. I monopattini a noleggio devono essere assicurati per la responsabilità civile.", "es": "Hasta 20 km/h, casco y luces también de día. Por norma, a solas desde los 15 años; los menores necesitan acompañamiento adulto. Los patinetes de alquiler deben tener seguro de responsabilidad civil." },
+  "categories": [
+    {
+      "id": "max_speed",
+      "status": "restricted",
+      "value": { "de": "20 km/h", "en": "20 km/h", "fr": "20 km/h", "it": "20 km/h", "es": "20 km/h" },
+      "details": { "de": "Bauartbedingt höchstens 20 km/h, höchstens 25 kg. Ein per App wählbarer schnellerer Modus ist nicht zulässig.", "en": "Design speed at most 20 km/h; maximum weight 25 kg. A faster mode selectable through an app is not compliant.", "fr": "Vitesse par construction limitée à 20 km/h, poids maximal de 25 kg. Un mode plus rapide sélectionnable dans une application n’est pas autorisé.", "it": "Velocità massima di costruzione di 20 km/h, peso massimo di 25 kg. Non è consentita una modalità più veloce selezionabile tramite app.", "es": "Velocidad máxima de diseño de 20 km/h y peso máximo de 25 kg. No se permite un modo más rápido seleccionable desde una aplicación." }
+    },
+    {
+      "id": "min_age",
+      "status": "restricted",
+      "value": { "de": "Allein ab 15 Jahren", "en": "15+ riding alone", "fr": "Seul dès 15 ans", "it": "Da soli dai 15 anni", "es": "A solas desde los 15 años" },
+      "details": { "de": "Unter 15 nur mit unmittelbarer Aufsicht einer mindestens 18-jährigen Person oder in ausgeschilderten Spiel- und Aufenthaltsbereichen.", "en": "Under 15 only under close supervision by an adult aged at least 18, or in signed play and recreation areas.", "fr": "Avant 15 ans, uniquement sous la surveillance directe d’une personne d’au moins 18 ans ou dans les zones de jeu et de séjour signalées.", "it": "Sotto i 15 anni solo sotto la sorveglianza diretta di una persona di almeno 18 anni o nelle aree di gioco e sosta segnalate.", "es": "Menores de 15 años solo bajo supervisión directa de una persona de al menos 18 años o en zonas de juego y estancia señalizadas." }
+    },
+    {
+      "id": "helmet",
+      "status": "restricted",
+      "value": { "de": "Pflicht für alle", "en": "Mandatory for everyone", "fr": "Obligatoire pour tous", "it": "Obbligatorio per tutti", "es": "Obligatorio para todos" },
+      "details": { "de": "Während der Fahrt einen Fahrradhelm tragen. Das gilt auch für Mietroller.", "en": "Wear a cycle helmet while riding. This also applies to rentals.", "fr": "Porte un casque de vélo pendant le trajet. Cela vaut aussi pour les trottinettes de location.", "it": "Indossa un casco da bicicletta durante la guida. Vale anche per i monopattini a noleggio.", "es": "Lleva casco de bicicleta durante la marcha. También se aplica al alquiler." }
+    },
+    {
+      "id": "insurance",
+      "status": "restricted",
+      "value": { "de": "Miete: Pflicht; privat: freiwillig", "en": "Rentals: duty; private: optional", "fr": "Location : obligatoire ; privé : libre", "it": "Noleggio: obbligo; privato: facoltativa", "es": "Alquiler: obligatorio; privado: opcional" },
+      "details": { "de": "Der Vermieter muss eine Haftpflichtversicherung stellen; Nachweis mitführen. Für zulässige Privatroller besteht keine Pflicht; die eigene Deckung prüfen.", "en": "The rental operator must provide liability insurance; carry proof. Compliant private scooters have no compulsory cover; check your own policy.", "fr": "Le loueur doit fournir une assurance responsabilité civile ; emporte le justificatif. Aucune obligation pour les trottinettes privées conformes ; vérifie ta couverture.", "it": "Il noleggiatore deve fornire un’assicurazione di responsabilità civile; porta la prova della copertura. Per i monopattini privati conformi non è obbligatoria; verifica la tua copertura.", "es": "El arrendador debe proporcionar seguro de responsabilidad civil; lleva el justificante. No es obligatorio para patinetes privados conformes; comprueba tu cobertura." }
+    },
+    {
+      "id": "license",
+      "status": "allowed",
+      "value": { "de": "Nicht nötig", "en": "Not required", "fr": "Non nécessaire", "it": "Non necessaria", "es": "No necesario" },
+      "details": { "de": "Für die beschriebene zulässige Rollerklasse ist kein Führerschein nötig.", "en": "No driving licence is needed for the compliant scooter class described.", "fr": "Aucun permis n’est nécessaire pour la catégorie de trottinettes conformes décrite.", "it": "Non serve la patente per la categoria di monopattini conformi descritta.", "es": "No se necesita permiso para la categoría de patinetes conformes descrita." }
+    },
+    {
+      "id": "alcohol",
+      "status": "restricted",
+      "value": { "de": "Höchstens 0,5 ‰", "en": "At most 0.5 ‰", "fr": "Au maximum 0,5 ‰", "it": "Al massimo 0,5 ‰", "es": "Como máximo 0,5 ‰" },
+      "details": { "de": "Nicht bei Beeinträchtigung fahren. Über 0,5 ‰ ist Fahren verboten; für illegale Drogen gilt Nulltoleranz.", "en": "Do not ride when impaired. Riding above 0.5 ‰ is prohibited; illegal drugs are subject to zero tolerance.", "fr": "Ne roule pas si tes capacités sont altérées. Au-delà de 0,5 ‰, la conduite est interdite ; tolérance zéro pour les drogues illégales.", "it": "Non guidare se le tue capacità sono alterate. Oltre 0,5 ‰ è vietato guidare; per le droghe illegali vale la tolleranza zero.", "es": "No conduzcas con tus facultades alteradas. Está prohibido superar 0,5 ‰; hay tolerancia cero para las drogas ilegales." }
+    },
+    {
+      "id": "where_to_ride",
+      "status": "restricted",
+      "value": { "de": "Radweg; kein Gehweg", "en": "Cycle paths; no pavements", "fr": "Piste cyclable ; pas de trottoir", "it": "Pista ciclabile; niente marciapiedi", "es": "Carril bici; no aceras" },
+      "details": { "de": "Fahrradregeln beachten, vorhandene Radwege nutzen. Nicht auf Gehwegen oder Fußgängerüberwegen fahren; nur eine Person. Licht vorne und hinten auch tagsüber einschalten.", "en": "Follow cycling rules and use cycle paths where provided. No riding on pavements or pedestrian crossings; one person only. Front and rear lights must also be on in daylight.", "fr": "Respecte les règles des cyclistes et utilise les pistes cyclables disponibles. Pas de trottoirs ni de passages piétons ; une seule personne. Allume les feux avant et arrière même de jour.", "it": "Rispetta le regole per i ciclisti e usa le piste ciclabili presenti. Non circolare su marciapiedi o attraversamenti pedonali; una sola persona. Accendi le luci anteriori e posteriori anche di giorno.", "es": "Respeta las normas ciclistas y usa los carriles bici existentes. No circules por aceras ni pasos peatonales; una sola persona. Enciende las luces delanteras y traseras también de día." }
+    }
+  ],
+  "fines": [
+    {
+      "offense": { "de": "Ohne vorgeschriebenen Helm", "en": "Riding without the required helmet", "fr": "Sans le casque obligatoire", "it": "Senza il casco obbligatorio", "es": "Sin el casco obligatorio" },
+      "amount": "1.500 DKK"
+    },
+    {
+      "offense": { "de": "Alkohol über 0,5 ‰, erster Verstoß", "en": "Alcohol above 0.5 ‰, first offence", "fr": "Alcool au-delà de 0,5 ‰, première infraction", "it": "Alcol oltre 0,5 ‰, prima infrazione", "es": "Alcohol superior a 0,5 ‰, primera infracción" },
+      "amount": "2.000 DKK"
+    }
+  ],
+  "cities": [
+    {
+      "name": "Copenhagen",
+      "nameLocalized": { "de": "Kopenhagen", "en": "Copenhagen", "fr": "Copenhague", "it": "Copenaghen", "es": "Copenhague" },
+      "notes": { "de": "Mietroller am Fahrtende nur in den vorgesehenen Parkhubs zurückgeben; Abstell- und Sperrzonen zeigt die Anbieter-App.", "en": "Return rentals to the designated parking hubs at the end of a trip; the provider app shows parking and no-go zones.", "fr": "À la fin du trajet, rends la trottinette de location uniquement dans les emplacements prévus ; l’application du loueur indique les zones de stationnement et d’interdiction.", "it": "Al termine della corsa riconsegna il monopattino a noleggio solo negli spazi previsti; l’app del gestore mostra le zone di sosta e quelle vietate.", "es": "Al terminar, devuelve el patinete de alquiler solo en las zonas previstas; la aplicación del operador muestra las zonas de estacionamiento y las prohibidas." }
+    }
+  ],
+  "upcomingChanges": [],
+  "sources": [
+    {
+      "title": "Færdselsstyrelsen: Motoriserede løbehjul",
+      "url": "https://www.fstyr.dk/privat/krav-til-koeretoejer/forsoegsordninger/motoriserede-elloebehjul",
+      "accessed": "2026-10-21"
+    },
+    {
+      "title": "Rådet for Sikker Trafik: Regeln und Bußgelder",
+      "url": "https://www.sikkertrafik.dk/rad-og-viden/sma-el-koretojer/regler-for-el-lobehjul/",
+      "accessed": "2026-10-21"
+    },
+    {
+      "title": "Københavns Kommune: Modell und virtuelle Parkhubs (2023)",
+      "url": "https://www.kk.dk/dagsordener-og-referater/Teknik-%20og%20Milj%C3%B8udvalget/m%C3%B8de-19062023/referat/punkt-5",
+      "accessed": "2026-10-21"
+    }
+  ]
+}
