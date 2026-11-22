@@ -15,6 +15,15 @@
     "it": "In Germania i monopattini elettrici sono consentiti solo con contrassegno assicurativo e Allgemeine Betriebserlaubnis (eKFV). Circola sulle piste ciclabili, altrimenti sulla carreggiata, mai sul marciapiede.",
     "es": "En Alemania se permiten patinetes eléctricos solo con distintivo de seguro y Allgemeine Betriebserlaubnis (eKFV). Circula por carriles bici y, si no hay, por la calzada; nunca por la acera."
   },
+  "facts": {
+    "helmet": { "rule": "none" },
+    "minAge": 14,
+    "alcoholPermille": 0.5,
+    "alcoholPermilleNovice": 0.0,
+    "insurance": "plate",
+    "privateUse": "allowed",
+    "maxSpeedKmh": 20
+  },
   "categories": [
     {
       "id": "max_speed",

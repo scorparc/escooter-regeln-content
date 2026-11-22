@@ -9,6 +9,14 @@
   "verifiedDate": "2026-10-21",
   "overallStatus": "restricted",
   "summary": { "de": "Fahrradregeln nur bis 20 km/h und 250 W Dauerleistung. Helm unter 15, keine Passagiere und keine Gehwegfahrt. Für schwere Roller kann eine Versicherung nötig sein.", "en": "Cycling rules apply only up to 20 km/h and 250 W continuous power. Helmets under 15, no passengers and no pavement riding. Heavy scooters may need insurance.", "fr": "Règles cyclistes uniquement jusqu’à 20 km/h et 250 W continus. Casque avant 15 ans, aucun passager et pas de trottoir. Une assurance peut être nécessaire pour les trottinettes lourdes.", "it": "Regole ciclistiche solo fino a 20 km/h e 250 W continui. Casco sotto i 15 anni, niente passeggeri né marciapiedi. I monopattini pesanti possono richiedere un’assicurazione.", "es": "Normas ciclistas solo hasta 20 km/h y 250 W continuos. Casco antes de los 15 años, sin pasajeros ni aceras. Los patinetes pesados pueden necesitar seguro." },
+  "facts": {
+    "helmet": { "rule": "minors", "underAge": 15 },
+    "minAge": null,
+    "alcoholPermille": null,
+    "insurance": "conditional",
+    "privateUse": "allowed",
+    "maxSpeedKmh": 20
+  },
   "categories": [
     {
       "id": "max_speed",

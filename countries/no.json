@@ -9,6 +9,14 @@
   "verifiedDate": "2026-10-21",
   "overallStatus": "restricted",
   "summary": { "de": "Ab 12, höchstens 20 km/h und Haftpflichtversicherung auch für Privatroller. Helm unter 15 und Alkoholgrenze 0,2 ‰. Auf Gehwegen nur ohne Gefahr oder Behinderung für Fußgänger.", "en": "Age 12+, at most 20 km/h and liability insurance even for private scooters. Helmets under 15 and a 0.2 ‰ alcohol limit. Pavements only without endangering or obstructing pedestrians.", "fr": "Dès 12 ans, au maximum 20 km/h et assurance responsabilité civile, même pour les trottinettes privées. Casque avant 15 ans et limite d’alcool de 0,2 ‰. Sur les trottoirs, sans danger ni gêne pour les piétons.", "it": "Dai 12 anni, massimo 20 km/h e assicurazione di responsabilità civile anche per i monopattini privati. Casco sotto i 15 anni e limite alcolico di 0,2 ‰. Sui marciapiedi solo senza pericolo o intralcio per i pedoni.", "es": "Desde los 12 años, máximo 20 km/h y seguro de responsabilidad civil también para patinetes privados. Casco antes de los 15 años y límite de alcohol de 0,2 ‰. En aceras, solo sin peligro ni molestias para los peatones." },
+  "facts": {
+    "helmet": { "rule": "minors", "underAge": 15 },
+    "minAge": 12,
+    "alcoholPermille": 0.2,
+    "insurance": "liability",
+    "privateUse": "allowed",
+    "maxSpeedKmh": 20
+  },
   "categories": [
     {
       "id": "max_speed",

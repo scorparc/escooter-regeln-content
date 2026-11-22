@@ -15,6 +15,14 @@
     "it": "In Austria valgono in gran parte le regole ciclistiche (dal 1 maggio 2026 § 68a StVO, prima § 88b): fino a 25 km/h e 600 watt, ciclabile anziché marciapiede, senza obbligo di assicurazione o patente. Dal 1 maggio 2026: casco sotto i 16 anni, limite di 0,5 ‰, frecce e campanello obbligatori.",
     "es": "En Austria rigen en gran parte las normas ciclistas (desde el 1 de mayo de 2026 § 68a StVO, antes § 88b): hasta 25 km/h y 600 vatios, carril bici y no acera, sin seguro ni permiso obligatorios. Desde el 1 de mayo de 2026: casco antes de los 16 años, límite de 0,5 ‰, intermitentes y timbre obligatorios."
   },
+  "facts": {
+    "helmet": { "rule": "minors", "underAge": 16 },
+    "minAge": 12,
+    "alcoholPermille": 0.5,
+    "insurance": "none",
+    "privateUse": "allowed",
+    "maxSpeedKmh": 25
+  },
   "categories": [
     {
       "id": "max_speed",

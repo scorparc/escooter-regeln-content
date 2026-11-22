@@ -9,6 +9,14 @@
   "verifiedDate": "2026-10-21",
   "overallStatus": "forbidden",
   "summary": { "de": "Privatroller sind auf öffentlichen Straßen, Gehwegen und in Parks verboten. Nur genehmigte Mietroller-Trials in England erlauben eine begrenzte Nutzung mit gültigem Führerschein. Die Trials laufen derzeit bis Mai 2028.", "en": "Private scooters are prohibited on public roads, pavements and in parks. Only authorised rental trials in England allow limited use with a valid driving licence. The trials currently run until May 2028.", "fr": "Les trottinettes privées sont interdites sur routes publiques, trottoirs et dans les parcs. Seuls les essais de location autorisés en Angleterre permettent un usage limité avec permis valide. Ils se poursuivent actuellement jusqu’en mai 2028.", "it": "I monopattini privati sono vietati su strade pubbliche, marciapiedi e nei parchi. Solo le sperimentazioni di noleggio autorizzate in Inghilterra consentono un uso limitato con patente valida. Attualmente proseguono fino a maggio 2028.", "es": "Los patinetes privados están prohibidos en vías públicas, aceras y parques. Solo las pruebas de alquiler autorizadas en Inglaterra permiten un uso limitado con permiso válido. Actualmente siguen hasta mayo de 2028." },
+  "facts": {
+    "helmet": { "rule": "none" },
+    "minAge": null,
+    "alcoholPermille": null,
+    "insurance": "liability",
+    "privateUse": "banned",
+    "maxSpeedKmh": 25
+  },
   "categories": [
     {
       "id": "max_speed",

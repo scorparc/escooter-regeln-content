@@ -21,6 +21,14 @@
     "it": "Monopattini senza sedile fino a 600 W e 25 km/h: dai 14 anni, casco per tutti. Usa le ciclabili, altrimenti marciapiedi e aree pedonali con riguardo; carreggiata solo dove espressamente consentita.",
     "es": "Patinetes sin asiento hasta 600 W y 25 km/h: desde los 14 años, casco para todos. Usa carriles bici; si no hay, aceras y zonas peatonales con cuidado; calzada solo donde se permita expresamente."
   },
+  "facts": {
+    "helmet": { "rule": "all" },
+    "minAge": 14,
+    "alcoholPermille": 0.5,
+    "insurance": "none",
+    "privateUse": "allowed",
+    "maxSpeedKmh": 25
+  },
   "categories": [
     {
       "id": "max_speed",

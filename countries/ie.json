@@ -21,6 +21,14 @@
     "it": "Dai 18 anni, fino a 20 km/h, 400 W e 25 kg. Casco e abbigliamento ad alta visibilità obbligatori. Vietati marciapiedi, zone pedonali e passeggeri; per i monopattini conformi non servono patente né assicurazione obbligatoria.",
     "es": "Desde los 18 años, hasta 20 km/h, 400 W y 25 kg. Casco y ropa de alta visibilidad obligatorios. Sin aceras, zonas peatonales ni pasajeros; los patinetes conformes no necesitan permiso ni seguro obligatorio."
   },
+  "facts": {
+    "helmet": { "rule": "all" },
+    "minAge": 18,
+    "alcoholPermille": null,
+    "insurance": "none",
+    "privateUse": "allowed",
+    "maxSpeedKmh": 20
+  },
   "categories": [
     {
       "id": "max_speed",

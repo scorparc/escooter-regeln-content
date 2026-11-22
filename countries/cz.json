@@ -21,6 +21,14 @@
     "it": "Solo i monopattini classificati correttamente seguono le regole ciclistiche: max. 25 km/h, casco sotto i 18 anni e niente alcol. Contano potenza e costruzione. I mezzi pesanti/veloci possono richiedere assicurazione; Praga esclude lo sharing di monopattini dal suo sistema dal 2026.",
     "es": "Solo los patinetes bien clasificados siguen normas ciclistas: máx. 25 km/h, casco antes de los 18 y sin alcohol. Importan potencia y diseño. Los pesados/rápidos pueden necesitar seguro; Praga excluye el alquiler compartido de su sistema desde 2026."
   },
+  "facts": {
+    "helmet": { "rule": "minors", "underAge": 18 },
+    "minAge": 10,
+    "alcoholPermille": 0.0,
+    "insurance": "conditional",
+    "privateUse": "allowed",
+    "maxSpeedKmh": 25
+  },
   "categories": [
     {
       "id": "max_speed",

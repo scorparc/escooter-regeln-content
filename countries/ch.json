@@ -15,6 +15,15 @@
     "it": "In Svizzera i monopattini sono ciclomotori leggeri: max. 20 km/h e 500 W, dai 14 anni con patente M, dai 16 senza. Valgono le regole ciclistiche; luci accese anche di giorno.",
     "es": "En Suiza los patinetes son ciclomotores ligeros: máx. 20 km/h y 500 W, desde los 14 con permiso M y desde los 16 sin él. Rigen normas ciclistas; luces encendidas también de día."
   },
+  "facts": {
+    "helmet": { "rule": "none" },
+    "minAge": 14,
+    "minAgeWithoutPermit": 16,
+    "alcoholPermille": 0.5,
+    "insurance": "none",
+    "privateUse": "allowed",
+    "maxSpeedKmh": 20
+  },
   "categories": [
     {
       "id": "max_speed",

@@ -21,6 +21,14 @@
     "it": "Monopattini conformi: massimo 25 km/h, di norma dai 16 anni secondo le regole ciclistiche, non sui marciapiedi. Dal 01.09.2026 casco obbligatorio se la velocità di costruzione supera 20 km/h, anche guidando più piano.",
     "es": "Patinetes conformes: máximo 25 km/h, por norma desde los 16 años según normas ciclistas y sin aceras. Desde el 01.09.2026, casco obligatorio si la velocidad de diseño supera 20 km/h, aunque circules más despacio."
   },
+  "facts": {
+    "helmet": { "rule": "conditional" },
+    "minAge": 16,
+    "alcoholPermille": 0.5,
+    "insurance": "conditional",
+    "privateUse": "allowed",
+    "maxSpeedKmh": 25
+  },
   "categories": [
     {
       "id": "max_speed",

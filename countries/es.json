@@ -15,6 +15,14 @@
     "it": "Regole nazionali DGT: max. 25 km/h, marciapiedi vietati. Dal 02.01.2026 assicurazione RC e registrazione DGT obbligatorie. Dal 01.10.2026 casco ed età minima di 15 anni in tutto il paese; città come Barcellona sono in parte più severe.",
     "es": "Rigen las normas nacionales DGT: máx. 25 km/h, aceras prohibidas. Desde el 02.01.2026, seguro RC y registro DGT obligatorios. Desde el 01.10.2026, casco y edad mínima de 15 años en todo el país; ciudades como Barcelona son en parte más estrictas."
   },
+  "facts": {
+    "helmet": { "rule": "all" },
+    "minAge": 15,
+    "alcoholPermille": 0.5,
+    "insurance": "plate",
+    "privateUse": "allowed",
+    "maxSpeedKmh": 25
+  },
   "categories": [
     {
       "id": "max_speed",

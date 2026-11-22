@@ -21,6 +21,14 @@
     "it": "I monopattini conformi sono equiparati alle bici: max. 25 km/h e 250 W continui, senza obbligo di assicurazione o patente. Usa le ciclabili, non i marciapiedi. Per i noleggi valgono anche zone locali di sosta e velocità.",
     "es": "Los patinetes conformes se equiparan a bicicletas: máx. 25 km/h y 250 W continuos, sin seguro ni permiso obligatorios. Usa carriles bici, no aceras. El alquiler tiene además zonas locales de aparcamiento y velocidad."
   },
+  "facts": {
+    "helmet": { "rule": "none" },
+    "minAge": null,
+    "alcoholPermille": 0.5,
+    "insurance": "none",
+    "privateUse": "allowed",
+    "maxSpeedKmh": 25
+  },
   "categories": [
     {
       "id": "max_speed",

@@ -15,6 +15,15 @@
     "it": "Monopattini (hulajnoga elektryczna) consentiti: max. 20 km/h, età minima 13 anni, sotto i 18 carta ciclistica/patente, casco sotto i 16, limite alcolico molto basso (0,2 ‰). Prima la ciclabile; marciapiede solo eccezionalmente a passo d’uomo.",
     "es": "Patinetes (hulajnoga elektryczna) permitidos: máx. 20 km/h, edad mínima 13 años, menores de 18 con tarjeta ciclista/permiso, casco antes de los 16 y límite de alcohol muy bajo (0,2 ‰). Prioridad al carril bici; acera solo excepcionalmente al paso."
   },
+  "facts": {
+    "helmet": { "rule": "minors", "underAge": 16 },
+    "minAge": 13,
+    "minAgeWithoutPermit": 18,
+    "alcoholPermille": 0.2,
+    "insurance": "none",
+    "privateUse": "allowed",
+    "maxSpeedKmh": 20
+  },
   "categories": [
     {
       "id": "max_speed",

@@ -15,6 +15,14 @@
     "it": "L’Italia ha inasprito il Codice della Strada (Legge 177/2024): casco per tutti dal 14.12.2024, contrassegno (targhino) dal 17.05.2026, assicurazione dal 16.07.2026. Max. 20 km/h, dai 14 anni, solo nei centri abitati.",
     "es": "Italia endureció el Codice della Strada (Legge 177/2024): casco para todos desde el 14.12.2024, placa (targhino) desde el 17.05.2026 y seguro desde el 16.07.2026. Máx. 20 km/h, desde los 14 años, solo en poblado."
   },
+  "facts": {
+    "helmet": { "rule": "all" },
+    "minAge": 14,
+    "alcoholPermille": 0.5,
+    "insurance": "plate",
+    "privateUse": "allowed",
+    "maxSpeedKmh": 20
+  },
   "categories": [
     {
       "id": "max_speed",

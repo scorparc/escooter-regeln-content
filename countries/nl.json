@@ -15,6 +15,15 @@
     "it": "Attenzione: solo pochi modelli RDW (bijzondere bromfiets) circolano in pubblico, assicurati e, senza eccezioni dal 1 luglio 2026, con targa blu. La maggior parte dei modelli comuni non è autorizzata: solo terreno privato. Il quadro generale LEV è di nuovo rinviato.",
     "es": "Atención: solo unos modelos RDW (bijzondere bromfiets) circulan en público, asegurados y, sin excepción desde el 1 de julio de 2026, con placa azul. La mayoría de patinetes habituales no están autorizados: solo terreno privado. El marco general LEV se ha aplazado otra vez."
   },
+  "facts": {
+    "helmet": { "rule": "none" },
+    "minAge": 16,
+    "alcoholPermille": 0.5,
+    "alcoholPermilleNovice": 0.2,
+    "insurance": "plate",
+    "privateUse": "restricted",
+    "maxSpeedKmh": 25
+  },
   "categories": [
     {
       "id": "max_speed",

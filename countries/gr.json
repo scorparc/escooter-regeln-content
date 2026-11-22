@@ -21,6 +21,14 @@
     "it": "Da luglio 2026, per i monopattini ordinari (EPHO): età minima 17 anni, casco e assicurazione obbligatori; porta documento e prova assicurativa. Usa le ciclabili, non i marciapiedi.",
     "es": "Desde julio de 2026, para patinetes normales (EPHO): edad mínima 17 años, casco y seguro obligatorios; lleva identificación y justificante de seguro. Usa carriles bici, no aceras."
   },
+  "facts": {
+    "helmet": { "rule": "all" },
+    "minAge": 17,
+    "alcoholPermille": 0.5,
+    "insurance": "liability",
+    "privateUse": "allowed",
+    "maxSpeedKmh": 25
+  },
   "categories": [
     {
       "id": "max_speed",

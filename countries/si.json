@@ -9,6 +9,14 @@
   "verifiedDate": "2026-10-21",
   "overallStatus": "restricted",
   "summary": { "de": "Ab dem Kalenderjahr des 15. Geburtstags, bis 25 km/h, Helm unter 18. Radflächen nutzen; ohne Radweg nur innerorts auf Straßen bis 50 km/h. Fußgängerbereiche nur im Schritttempo.", "en": "From the calendar year of the 15th birthday, up to 25 km/h, helmets under 18. Use cycling facilities; without them, only urban roads limited to 50 km/h. Walking speed in pedestrian areas.", "fr": "Dès l’année civile du 15e anniversaire, jusqu’à 25 km/h, casque avant 18 ans. Utilise les voies cyclables ; sinon uniquement en agglomération sur routes jusqu’à 50 km/h. Zones piétonnes au pas seulement.", "it": "Dall’anno solare del 15° compleanno, fino a 25 km/h, casco sotto i 18 anni. Usa le ciclabili; se mancano, solo strade urbane fino a 50 km/h. Aree pedonali solo a passo d’uomo.", "es": "Desde el año natural del 15.º cumpleaños, hasta 25 km/h, casco antes de los 18 años. Usa vías ciclistas; si no hay, solo calles urbanas hasta 50 km/h. Zonas peatonales solo al paso." },
+  "facts": {
+    "helmet": { "rule": "minors", "underAge": 18 },
+    "minAge": 15,
+    "alcoholPermille": null,
+    "insurance": "conditional",
+    "privateUse": "allowed",
+    "maxSpeedKmh": 25
+  },
   "categories": [
     {
       "id": "max_speed",
